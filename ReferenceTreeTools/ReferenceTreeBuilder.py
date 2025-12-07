@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from typing import List, Optional
-from numpy.f2py.auxfuncs import throw_error
 
 
 class ReferenceTreeBuilder:
@@ -23,7 +22,15 @@ class ReferenceTreeBuilder:
         self.addEdgeTuple((source_id, target_id, weight))
 
     def addEdgeTuple(self, edge: tuple):
-        if self.checkIfCercular(edge[0], edge[1]):
+        if  (len(edge) not in (2,3) or
+            not isinstance(edge[0], str) or
+            not isinstance(edge[1], str)):
+            raise ValueError("Invalid tuple format!")
+        elif (not self._tree.has_node(edge[0])):
+            self.warning(f"Adding edge from {edge[0]} to {edge[1]} not possible. {edge[0]} is not a node.")
+        elif (not self._tree.has_node(edge[1])):
+            self.warning(f"Adding edge from {edge[0]} to {edge[1]} not possible. {edge[1]} is not a node.")
+        elif self.checkIfCercular(edge[0], edge[1]):
             self.warning(f"Adding edge from {edge[0]} to {edge[1]} would create a cycle. Edge not added.")
         elif (len(edge) == 3 and
             isinstance(edge[0], str) and
@@ -35,19 +42,19 @@ class ReferenceTreeBuilder:
             isinstance(edge[1], str)):
             self._tree.add_edge(edge[0], edge[1], weight= -1.0)
         else:
-            throw_error("Edge must be a tuple of (source_id: str, target_id: str, weight: float)")
+            raise ValueError("Edge must be a tuple of (source_id: str, target_id: str, weight: float)")
 
     def getWeight(self, source_id: str, target_id: str):
         if self._tree.has_edge(source_id, target_id):
             return self._tree[source_id][target_id].get('weight', None)
         else:
-            throw_error("Edge from {source_id} to {target_id} does not exist.")
+            raise ValueError("Edge from {source_id} to {target_id} does not exist.")
 
     def changeWeightOfEdge(self, source_id: str, target_id: str, weight: float):
         if self._tree.has_edge(source_id, target_id):
             self._tree[source_id][target_id]['weight'] = weight
         else:
-            throw_error(f"Edge from {source_id} to {target_id} does not exist.")
+            raise ValueError(f"Edge from {source_id} to {target_id} does not exist.")
 
     def create(self, nodes: Optional[List[str]] = None, edges: Optional[List[tuple]] = None):
         self._tree.add_nodes_from(nodes)
