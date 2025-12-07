@@ -69,7 +69,7 @@ class ReferenceTreeBuilder:
             print(f"  {n}: {data}")
 
         print("\nLegend (color = weight):")
-        samples = [(-1.0, " -1 (blue)"), (0.0, " 0 (green)"), (1.0, " 1 (red)")]
+        samples = [(-1.0, " -1 (blue) undefined"), (0.0, " 0 (green) non critical"), (1.0, " 1 (red) critical")]
         legend_parts = []
         for val, label in samples:
             r, g, b = self.rgbForWeight(val)
