@@ -19,7 +19,7 @@ def iterate_papers(jsonl_path: Path, max_items: Optional[int] = 10):
             ctr += 1
             yield json.loads(line)
 
-def load_annotations_as_lists(annotations: List[Dict[str, Any]], attribute: str) -> List[Dict[str, Any]]:
+def load_annotations_as_lists(annotations: Optional[Dict[str, Any]], attribute: str) -> List[Dict[str, Any]]:
     if not annotations:
         return []
     
@@ -37,7 +37,7 @@ def load_annotations_as_lists(annotations: List[Dict[str, Any]], attribute: str)
                 return parsed
         except Exception:
             return []
-        return []
+    
     return []
 
 def get_bibliography_index(paper: Dict[str, Any]) -> Dict[str, Dict[str, Any]]: #do we want a dict?
@@ -45,10 +45,13 @@ def get_bibliography_index(paper: Dict[str, Any]) -> Dict[str, Dict[str, Any]]: 
     bib_content = bibliography.get("text")
     annotations = bibliography.get("annotations")
 
-    annotations = load_annotations_as_lists(annotations, "bib_entry")
+    bibliography_entries = load_annotations_as_lists(annotations, "bib_entry")
+    titles = load_annotations_as_lists(annotations, "bib_title")
+    #print("titels: ->", titles)
+
     contents: Dict[str, Dict[str, Any]] = {}
 
-    for ann in annotations:
+    for ann in bibliography_entries:
         attributes = ann.get("attributes", {})
         id = attributes.get("id")
         if id is None:
@@ -61,9 +64,21 @@ def get_bibliography_index(paper: Dict[str, Any]) -> Dict[str, Dict[str, Any]]: 
             "id": id,
             "reference": reference,
             "start": start,
-            "end": end
-            #add title, authors??? 
+            "end": end,
+            "title": None,
+            #add authors??? 
         }
+
+        for t in titles:
+            s = int(t.get("start", 0))
+            e = int(t.get("end", 0))
+            title_text = bib_content[s:e]
+
+            for content in contents.values():
+                if content["start"] <= s and content["end"] >= e:
+                    content["title"] = title_text
+                    break
+
     return contents
 
 def get_citations(paper: Dict[str, Any]) -> Dict[str, Any]:
@@ -100,8 +115,8 @@ def get_citations(paper: Dict[str, Any]) -> Dict[str, Any]:
                 "citation_text": citation_text,
                 "start": start,
                 "end": end,
-                "matched_paper_id": matched_paper_id, #doe we need it? do we even have taht in the shard???? it is in json file, might be useful
-                "bibliography_entry": bibliography_entry
+                "matched_paper_id": matched_paper_id, #doe we need it? it is in json file, might be useful
+                "bibliography_entry": bibliography_entry,
             })
 
         except Exception:
@@ -109,6 +124,19 @@ def get_citations(paper: Dict[str, Any]) -> Dict[str, Any]:
             continue
 
     return {
-                "paper_id": paper.get("corpusid"), #or the doi? 
+                "paper_id": paper.get("corpusid"),#or the doi?
+                "title": paper.get("title"),  
+
                 "citations": citations
             }
+
+
+N = 20 
+path = Path(r"Datasets\Training Data\s2orc\shard1\shard1.jsonl")
+output_path = Path(r"Datasets\Training Data\s2orc\shard1\citations_shard1.json")
+
+with output_path.open("w", encoding="utf-8") as out:
+    for paper in iterate_papers(path, N): 
+        citations = get_citations(paper)
+        out.write(json.dumps(citations, ensure_ascii=False, indent=2))
+        out.write("\n\n") 
