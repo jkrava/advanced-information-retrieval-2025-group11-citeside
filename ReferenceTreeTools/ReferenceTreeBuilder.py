@@ -1,10 +1,9 @@
-# python
 import json
 import networkx as nx
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-from typing import Any, Dict, List, Optional
+from typing import List, Optional
 from numpy.f2py.auxfuncs import throw_error
 
 
@@ -60,10 +59,10 @@ class ReferenceTreeBuilder:
     def printTree(self):
         reset = "\x1b[0m"
 
-        def fg_escape(r: int, g: int, b: int) -> str:
+        def fg_escape(r: int, g: int, b: int):
             return f"\x1b[38;2;{r};{g};{b}m"
 
-        def bg_block(r: int, g: int, b: int) -> str:
+        def bg_block(r: int, g: int, b: int):
             return f"\x1b[48;2;{r};{g};{b}m  {reset}"
 
         print("Nodes:")
@@ -152,7 +151,7 @@ class ReferenceTreeBuilder:
 
 ### IO ###
 
-    def build(self) -> Dict[str, Any]:
+    def build(self):
         nodes = {n: dict(d) for n, d in self._tree.nodes(data=True)}
         edges = [
             {"source": u, "target": v, "attrs": dict(data)}
