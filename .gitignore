@@ -1,1 +1,16 @@
 .env
+*.jsonl
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+ipynb_checkpoints/
+.jupyter/
+.vscode/
+.idea/
+
+*.zip
+*.gz
+
