@@ -1,6 +1,8 @@
 # python
 import json
 import networkx as nx
+import numpy as np
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 from typing import Any, Dict, List, Optional
 from numpy.f2py.auxfuncs import throw_error
@@ -90,8 +92,7 @@ class ReferenceTreeBuilder:
 
     def plotTree(
             self,
-            filename: Optional[str] = None,
-            node_size: int = 300,
+            node_size: int = 300, #TODO: make this dynamic
             seed: Optional[int] = 42):
 
         pos = nx.spring_layout(self._tree, seed=seed)
@@ -122,12 +123,24 @@ class ReferenceTreeBuilder:
             arrowsize=12,
         )
 
+        cmap = mpl.colors.LinearSegmentedColormap.from_list(
+            "green_red", [(0.0, 1.0, 0.0), (1.0, 0.0, 0.0)]
+        )
+        norm = mpl.colors.Normalize(vmin=0.0, vmax=1.0)
+        sm = mpl.cm.ScalarMappable(norm=norm, cmap=cmap)
+        sm.set_array(np.linspace(0.0, 1.0, 256))  # non-empty array for the colorbar
+        cb = plt.colorbar(sm, ax=plt.gca(), orientation="horizontal", fraction=0.05, pad=0.04)
+        cb.set_ticks([0.0, 0.5, 1.0])
+        cb.set_ticklabels(["0 (green) non critical", "0.5", "1 (red) critical"])
+        cb.set_label("weight")
+
+        blue_color = self.rgbForWeightNorm(-1.0)
+        blue_patch = mpl.patches.Patch(color=blue_color, label="-1 (blue) undefined")
+        ax = plt.gca()
+        ax.legend(handles=[blue_patch], loc="upper left", frameon=False, fontsize=9)
+
         plt.axis("off")
-        if filename:
-            plt.savefig(filename, bbox_inches="tight", dpi=150)
-            plt.close()
-        else:
-            plt.show()
+        plt.show()
 
     def printCrawl(self, start_node: str, max_depth: int):
         #TODO: implement a print method for the crawlTree
