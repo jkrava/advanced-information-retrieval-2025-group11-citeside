@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Mythologies of Genesis and Neo-Nazi Palingenesis: Commemorating the Battle of Thermopylae in the Political Rites of the Golden Dawn</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>MDPI AG</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2022-07-12">12 July 2022</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Eleftheria</forename><surname>Ioannidou</surname></persName>
+							<email>e.ioannidou@rug.nl</email>
+							<idno type="ORCID">0000-0002-7423-5895</idno>
+							<affiliation key="aff0">
+								<orgName type="department">Faculty of Arts</orgName>
+								<orgName type="laboratory">Arts, Culture and Media</orgName>
+								<orgName type="institution">University of Groningen</orgName>
+								<address>
+									<postCode>9712 GK</postCode>
+									<settlement>Groningen</settlement>
+									<country>The Netherlands;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Mythologies of Genesis and Neo-Nazi Palingenesis: Commemorating the Battle of Thermopylae in the Political Rites of the Golden Dawn</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Humanities</title>
+						<title level="j" type="abbrev">Humanities</title>
+						<idno type="eISSN">2076-0787</idno>
+						<imprint>
+							<publisher>MDPI AG</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page">88</biblScope>
+							<date type="published" when="2022-07-12">12 July 2022</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">D13938E59B7C6068800A63E838E02ABA</idno>
+					<idno type="DOI">10.3390/h11040088</idno>
+					<note type="submission">Received: 28 February 2022 Accepted: 8 June 2022</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>neo-Nazism</term>
+					<term>Golden Dawn</term>
+					<term>Greece</term>
+					<term>classical antiquity</term>
+					<term>classical reception</term>
+					<term>mythology</term>
+					<term>narrative</term>
+					<term>ritual</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This article examines the public commemorations of the battle of Thermopylae held by the Greek neo-Nazi party Golden Dawn in the wider context of fascist appropriations of classical antiquity. The discussion focuses on the rhetorical and cultural mechanisms involved in transforming the historical event into a fascist mythology. Drawing on methodologies of narrative analysis and performance studies, I examine the narrative patterns and ritual practices deployed in these commemorations to engross the participants in stories of genesis and rebirth. During the commemorations of Thermopylae, Golden Dawn strove to revive both the spirit of the Spartan soldiers and the ideals of Nazism. The example of GD demonstrates that the persistence of the narrative of rebirth within neo-Nazi cultures is instrumental in the resurgence of fascism. By looking at this example closely, we can conclude that commitment of neo-Nazi groups to classical antiquity invites reflection upon the role of classical traditions in Western culture.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>In June 1941, alpinist units of the Nazi occupation forces in Greece staged a historical re-enactment of the battle of Thermopylae at the site where the Spartans and their allies, led by Spartan King Leonidas, stood against the Persian army back in 480 BCE. In the audience were Field Marshal Wilhelm List (the commander responsible for operations in Southeast Europe) and other high-ranking military officers, and the re-enactment was followed by athletic contests between the units. As the photographic evidence suggests, the representation of the combatant armies reinforced a stark dichotomy between the Greek and the Asian worlds. The soldiers playing the Persians were dressed in tribal African costumes and wielded curved swords resembling Ottoman weapons, while they seem to have coated their bodies and faces in black paint. In sharp contrast, those soldiers playing the Greek army appeared in panoplies, but they also bore the Nazi flag, presenting the Third Reich as the modern equivalent of classical Greece 1 (Figure <ref type="figure" target="#fig_0">1</ref>). The powerful association between Sparta and Nazi Germany and the myth-making around the honour and might of the Spartan-led Greek army must have made the German occupation troops oblivious to the irony in identifying with the defeated army at Thermopylae.</p><p>In 1930, the Nazi theorist Alfred Rosenberg praised the Spartiate soldiers who fell at Thermopylae as the paragon of the Hellenic ethos that modern Germans were striving to embody: However, the 300 Spartans of Thermopylae are regarded by us as a parable for honour and fulfilment of duty. Nothing gives better proof of the influence of the latter than our attempts at a restoration of Greek life. <ref type="bibr">(Rosenberg [1937]</ref> 2021, p. 108) 2 In 1930, the Nazi theorist Alfred Rosenberg praised the Spartiate soldiers who fell at Thermopylae as the paragon of the Hellenic ethos that modern Germans were striving to embody:</p><p>However, the 300 Spartans of Thermopylae are regarded by us as a parable for honour and fulfilment of duty. Nothing gives better proof of the influence of the latter than our attempts at a restoration of Greek life. <ref type="bibr">(Rosenberg [1937]</ref> 2021, p. 108) 2   For Rosenberg, the Spartans' heroic deed demonstrated a real Greek sense of freedom, uncorroded by the customs of the Middle East. The glorification of Thermopylae predates the admiration of Sparta in Nazi thinking. Stefan <ref type="bibr" target="#b59">Rebenich (2002)</ref> traces the rediscovery of Leonidas back to the emergence of nationalism and historicism in the late nineteenth century 3 . As Rebenich demonstrates, the work of ancient historian Helmut Berve, a professor at the University of Leipzig and proponent of Nazi historical revisionism, relied on a pre-existing popular image of Sparta, but his manipulation of the historical facts about Thermopylae resulted in an extreme heroisation of Leonidas. It is in this spirit that Berve asserted that the significance of the battle lay not in its strategic gain but in its futility.</p><p>Several decades after Hermann Göring compared the defeat of the German troops at Stalingrad to the fate of the 300 Spartans (quoted in <ref type="bibr">Rebenich 2002, p. 331)</ref>, the Greek neo-Nazi party Golden Dawn (GD) initiated annual gatherings at the monument of Leonidas in Thermopylae in commemoration of the ancient battle. The commemorations took place in September, around the time of year the battle is believed to have occurred <ref type="bibr" target="#b64">(Sacks 1976)</ref>. Although these events did not feature re-enactments of the armed conflict in the manner of those organised by the Nazi units, their racialised reading of the historical event and their aspiration of reviving the martial spirit of the Spartans were akin to those of GD's ideological counterparts. The gatherings honoured the dead soldiers at the ancient battle, but on a second level, became a commemoration of defeated Nazism. For GD, Thermopylae represented not merely an act of ultimate altruism and sacrifice for one's country, but also the defeat before the triumph. In a similar fashion to Nazi historiography, the commemorations of Thermopylae turned to the classical past to construct a narrative of national, cultural, and racial supremacy. The dual status of a commemoration event-a memorialising practice and a collective experience that generates affective states-offers an ideal example for studying the ways in which ideology works by assimilating historical understanding into narrative form. In the events organised by GD, the interpretation of Thermopylae produced under National Socialism continued to feed into the mythology of national rebirth.</p><p>This article investigates the appropriation of the historical example of Thermopylae in the rhetorical and performative expression of GD. The use of the ancient battle was typical of the party's recourse to classical antiquity to propagate Greek supremacy and to For Rosenberg, the Spartans' heroic deed demonstrated a real Greek sense of freedom, uncorroded by the customs of the Middle East. The glorification of Thermopylae predates the admiration of Sparta in Nazi thinking. Stefan <ref type="bibr" target="#b59">Rebenich (2002)</ref> traces the rediscovery of Leonidas back to the emergence of nationalism and historicism in the late nineteenth century 3 . As Rebenich demonstrates, the work of ancient historian Helmut Berve, a professor at the University of Leipzig and proponent of Nazi historical revisionism, relied on a pre-existing popular image of Sparta, but his manipulation of the historical facts about Thermopylae resulted in an extreme heroisation of Leonidas. It is in this spirit that Berve asserted that the significance of the battle lay not in its strategic gain but in its futility.</p><p>Several decades after Hermann Göring compared the defeat of the German troops at Stalingrad to the fate of the 300 Spartans (quoted in <ref type="bibr">Rebenich 2002, p. 331)</ref>, the Greek neo-Nazi party Golden Dawn (GD) initiated annual gatherings at the monument of Leonidas in Thermopylae in commemoration of the ancient battle. The commemorations took place in September, around the time of year the battle is believed to have occurred <ref type="bibr" target="#b64">(Sacks 1976)</ref>. Although these events did not feature re-enactments of the armed conflict in the manner of those organised by the Nazi units, their racialised reading of the historical event and their aspiration of reviving the martial spirit of the Spartans were akin to those of GD's ideological counterparts. The gatherings honoured the dead soldiers at the ancient battle, but on a second level, became a commemoration of defeated Nazism. For GD, Thermopylae represented not merely an act of ultimate altruism and sacrifice for one's country, but also the defeat before the triumph. In a similar fashion to Nazi historiography, the commemorations of Thermopylae turned to the classical past to construct a narrative of national, cultural, and racial supremacy. The dual status of a commemoration event-a memorialising practice and a collective experience that generates affective states-offers an ideal example for studying the ways in which ideology works by assimilating historical understanding into narrative form. In the events organised by GD, the interpretation of Thermopylae produced under National Socialism continued to feed into the mythology of national rebirth.</p><p>This article investigates the appropriation of the historical example of Thermopylae in the rhetorical and performative expression of GD. The use of the ancient battle was typical of the party's recourse to classical antiquity to propagate Greek supremacy and to uphold a racial and xenophobic agenda. In keeping with neo-Nazi ideology, GD gave a specific place to the battle of Thermopylae and Leonidas. In the following pages, I analyse the annual commemoration events at Thermopylae. 4 I commence by looking at GD's relationship with classical antiquity more broadly, providing some context that helps to understand the impact of this relationship within the Greek context. After that, I examine the narrative patterns imposed on the account of the historical incident during these commemorations, and then turn to the use of familiar ritual patterns. The combination of analytical frames from narrative and performance theories allows me to analyse the political exploitation of the historical example. I conclude with some methodological thoughts on the value of cultural analyses for understanding the rise of neo-fascism and the challenges that the appropriation of classical antiquity within neo-fascist cultures poses for the study of classical reception.</p><p>The analysis of GD's commemorations of Thermopylae implements the methodological empathy proposed by Roger Griffin as an interpretative strategy that seeks to understand the value system and motivations of fascist protagonists <ref type="bibr" target="#b34">(Griffin 2018)</ref>. Drawing on the pioneering work of George Mosse on the revolutionary aspects of fascism, Griffin advanced the argument that historical fascism expressed a profound longing for renewal that was widespread in modern liberal societies. That longing underlay the mythologies of national or racial rebirth that fuelled the fascist movements that emerged across Europe in the interwar period. The cultural paradigm introduced by historians who sought to comprehend the inner logic of fascism (see <ref type="bibr" target="#b33">Griffin 1991</ref><ref type="bibr" target="#b34">Griffin , 2018;;</ref><ref type="bibr" target="#b36">Herf 1984;</ref><ref type="bibr" target="#b48">Mosse 1996</ref><ref type="bibr" target="#b49">Mosse , 1999;;</ref><ref type="bibr" target="#b31">Gentile 2003)</ref>, spawned novel approaches to fascist art and culture that recognised fascism's turn to the past as a genuine call for a radical transformation of modernity <ref type="bibr">(Lazzaro and Crum 2005;</ref><ref type="bibr" target="#b50">Nelis 2011</ref><ref type="bibr" target="#b51">Nelis , 2014;;</ref><ref type="bibr">Arthurs 2012;</ref><ref type="bibr" target="#b61">Roche and Demetriou 2018)</ref>. The cultural paradigm can be fruitful when studying the contemporary phenomena of neofascism. Although neo-fascist organisations and parties do not display the revolutionary visions of interwar fascist movements, they share ultranationalist or racial ideologies that stress the need to regenerate the national community, which is perceived to be in a state of deep crisis. The permutations of the core myth of national rebirth within the cultures of the far right not only allow us to trace their genealogies back to historical fascism but also serve an understanding of neo-fascism 'from within', which can explain its pervasiveness in the absence of a revolutionary, futural horizon.</p><p>Along these lines, the analysis of GD's use of Thermopylae proposed here investigates the ways the party reproduced and transformed the fascist mythology of national rebirth in its commemoration rites. As a political group with acknowledged affiliations with National Socialism, GD is pertinent to the study of the persistence of Nazi ideology even in countries such as Greece, where the historical memory of the Axis occupation and the resistance to the Nazis continues to shape national identity. The methodological empathy applied to the example of the GD seeks to understand the workings of neo-fascism, taking account of the worldviews, beliefs, and experiences shared within neo-fascist cultures.</p><p>Whilst GD represents an extreme example of a neo-Nazi party, similar uses of the ancient past to normalise claims of cultural or racial supremacy can be found in far-right politics in both Europe and the USA. Recent scholarship acknowledges the key role that the valorisation of the Graeco-Roman worlds plays in sustaining white supremacism and far-right discourses in the USA <ref type="bibr" target="#b68">(Zuckerberg 2018)</ref>; however, the engagements of the European far right with classical antiquity remain significantly underexplored, despite the presence of parties and movements-including CasaPound in Italy, or the Identitarian groups in several European countries-that invoke the legacy of Greece and Rome in safeguarding European identity and values. The fascination with ancient Sparta can be observed in the use of the capital Lambda [Λ], standing for Lacedaemon, as the emblem of the nativist group Generation Identity, part of the pan-European Identitarian movement. So far, scholarship has been concerned with the internet activity of extremist groups <ref type="bibr" target="#b19">(Askanius and Mylonas 2015)</ref> or the combination of digital and offline strategies to spread their ideological message (Fielitz and Thurston 2018). However, the performative contexts that give far-right narratives their concrete shape warrant further critical attention. The use of narrative and ritual models applied to GD's commemorations of Thermopylae can shed light on the effect of live events in turning heroic myths into calls for political action.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">From Metaphor to Action: Golden Dawn and Classical Antiquity</head><p>The guilty verdicts rendered against the leadership and members of GD in 2020 for having headed and participated in a criminal organisation concluded a legal process that went down as the largest trial of Nazi crimes since Nuremberg. 5 During the marathon court hearings, the defendants were questioned about attending the gatherings at Thermopylae as well as their use of ancient-looking insignia. Although recourse to the classical past is hardly a criminal offense, what the prosecutors were trying to foreground in this case was the connection between the party's archaeolatry and Nazism. According to Thanasis Kampagiannis, a lawyer for the prosecution in the trial, the invocations of antiquity were part of a double language simultaneously addressing two different audiences: to the general public, they were perceived as affirming the historical continuity between ancient and modern Greece in accordance with the party's avowedly nationalist agenda. To close party members, the exact same references constituted a clear gesture towards National Socialism <ref type="bibr">(Kambagiannis 2020, pp. 41-44)</ref>. Conversely, the defendants turned to classical antiquity to justify their use of Nazi emblems and gestures 6 . Both during the hearings and in public statements, GD leader Nikolaos Michaloliakos and party members claimed that the Hitler salute and the swastika originated in ancient Greece. 7 Nonetheless, the statutory text of GD made no secret of the impact of Nazi thinking on the party's perception of ancient Greece: 'In hierarchical systems, as in GD, there is a basic doctrine that ensures their operation. That is the "Principle of the One", the supreme imprint of ancient Greek political thinking, as recorded by the great Alfred Rosenberg' (cited in Psarras 2018, p. 55). 8  At this point, it would be useful to provide some background information about GD and its trajectory from an extremist political organisation to a parliamentary party <ref type="bibr" target="#b57">(Psarras 2012;</ref><ref type="bibr" target="#b65">Vasilopoulou and Halikiopoulou 2015;</ref><ref type="bibr" target="#b32">Georgiadou 2019)</ref>. 'Golden Dawn' was the title of a periodical that emerged in the 1980s and was adjacent to the Popular Association [Λαϊκóς Σύνδεσµoς]. The leader, Michaloliakos, had been active in far-right organisations during the period of regime change following the fall of the Colonels <ref type="bibr">' dictatorship in 1974 [µεταπoλίτευση]</ref>. He was involved with the 4th of August Party, which was explicitly inspired by the para-fascist dictatorship of Ioannis Metaxas in the late 1930s. 9 Later on, he and other members of the Association joined the National Political Union [Εθνική Πoλιτική ΄Ενωσις-ΕΠΕN] party founded by the imprisoned dictator Georgios Papadopoulos. GD grew into an organisation with an explicitly Nazi ideology and propagated antisemitism, racism, and the ideal of the nation defined as a racial community. In the early 1990s, it started self-defining as a political party and developed an ultranationalist programme of Greek expansionism in the Balkans alongside an ideology of anti-Muslim chauvinism, as borne out by the participation of its supporters in the volunteer units that fought on the side of the Serbian forces during the Bosnian War. There is evidence suggesting that these volunteers were present at the siege of Srebrenica in 1995 <ref type="bibr">(Psarras 2012, pp. 79-84;</ref><ref type="bibr">Psarras 2018, pp. 143-44)</ref>. Although GD participated in a national election for the first time in 1996, it held a marginalised position within Greek politics until the following decade. During the Greek government-debt crisis that erupted in 2009, GD moved onto centre stage by adopting an anti-austerity agenda and deploying a rhetoric of grievance against the political establishment. Like other European ultra-right populist parties, GD apportioned blame to the EU policies on immigration as well as to migrants themselves. At the same time, it reaffirmed its belief in the racial community through establishing social support networks, such as food banks and blood donations exclusively for Greeks. In the successive elections of May and June 2012, the party secured 21 and 18 seats in the parliament respectively, and it became the third most prominent party in the elections of 2015. Under the careful leadership of Michaloliakos in the period of the crisis, GD drew closer to mainstream politics, without, however, relinquishing its old ties with Nazi ideology.</p><p>The elements contributing to GD's electoral success are complex, but the role of cultural factors should not be underestimated. Classical antiquity contributed to GD's transformation into a mainstream political party and its rising popularity among the Greek populace. As Dimitris Plantzos observes, several of the Nazi symbols used by GD were familiar to the Greek people from ancient iconography: 'In this way, it was easy to disguise the Nazi symbols into ancient Greek ones, so that this most abominable version of National Socialism promoted by GD could become acclimatised into the public ethos as a natural extension of classical antiquity' (Plantzos 2016, p. 179). 10 However, this does not mean that these symbols were restored to some original signification, free of their Nazi associations. The process through which they acquired their meaning can be compared to the interpretations of the classical texts, which, according to Charles Martindale, are 'constructed by the chain of receptions' <ref type="bibr">(Martindale 1991, p. 46)</ref>. Similarly to the Nazis before them, neo-Nazi parties often link their racist views to the ideal of a supreme civilisation. In that regard, it can be argued that the significance and function of ancient Greek symbols used by GD reiterated the racial claims on antiquity produced under Nazism, whilst also relying on the idealising views of classical antiquity that remain embedded in Western culture.</p><p>Deciphering the symbolism of the antiquity-inspired imagery of GD was key to unveiling ideological affinities that had undeniably been shunned in both mainstream media and GD's official statements, especially as the party gained momentum amidst the financial crisis. Although the mediated nature of GD's relationship with classical antiquity has received some critical attention, the party's references to the classics are largely viewed as typical of the double language it used to address the public (Paraskeva-Veloudogianni  2015, pp. 172-73). 11 The shortcoming of such explanations is that they fail to notice the significant place of classical antiquity in the fascist imagination and the decisive role Graeco-Roman civilisations played as models for Hitler's and Mussolini's states. When viewed from this perspective, the invocations of ancient Greece in the discourse of GD appear less as creating a double language and more as serving a double function: reviving both a glorified distant past and the more recent history of National Socialism. This shift in emphasis from meaning to function allows us to recognise that ancient Greece was not tactically used to obfuscate GD's Nazism-derived ideology, but rather that it was integral to this ideology.</p><p>Invocations of ancient Greece-from references to Greek mythology and history to the use of classical-looking symbols-abound within the political speeches, media appearances, public events, and writings of GD party members. The appropriation of antiquity can be broadly broken down into two distinct but interrelated categories. The reference to Herodotus in a speech delivered by Michaloliakos is an example of the first category, defined by the use of classical authors or historical figures in political events to pander to audiences or to promote political ideas. The speech compared Herodotus' idea of blood kinship [ὅµαιµoν] (Michaloliakos, quoted in Paraskeva-Veloudogianni 2015, p. 276) to familial bonds, omitting Herodotus' subsequent references to a common language and way of life <ref type="bibr">(Herodotus 1925, p. 152)</ref>. On a different occasion, Michaloliakos referenced the arrival of the Athenian fleet under Cimon in Cyprus to liberate the 'Greeks' from the Phoenicians, whom the speaker categorised as 'Semites' (Michaloliakos, quoted in Paraskeva-Veloudogianni 2015, p. 287). The passage subsumed different ancient ethnicities under a common 'Greek' identity while dividing the ancient world with the introduction of insinuated antisemitism. Cimon's expedition is compared with the failed attempt by the Greek military junta of the Colonels to land troops on Cyprus in July 1974, a bold leap in time that allowed the speaker to connect ancient and modern Greek history and thereby promote the political ideas of GD.</p><p>The second category of appropriation is engagement with Greek mythology and religion, which mainly occurs in literary works and other forms of artistic expression. The reimagining of the ancient world in these cultural texts is characterised by an idiosyncratic blend of paganism, occultism, and a blood-and-soil definition of Hellenism. One example of this category is the collection of poems by Michaloliakos in which the god Pan is portrayed as a satanic figure whose comeback will mark a new epoch. In the culture of GD, the pagan cult represents a counter-paradigm to Judaeo-Christian religion, which is conceptualised as a long historical period of weakness and decline. Apart from the resemblance to völkisch mysticism, GD's paganism can be traced back to Greek folk traditions, or more saliently, to the thinking of Pericles Giannopoulos, an ardent admirer of ancient Greece and proponent of a spiritual and aesthetic version of Hellenism that surpasses national boundaries. The scope of the present article does not permit an examination of the debts of Michaloliakos to Greek intellectuals and authors who promoted irredentist ideologies, a topic that requires the establishment of the specific framework of the connections between GD and Greek nationalism (see <ref type="bibr" target="#b65">Vasilopoulou and Halikiopoulou 2015)</ref>.</p><p>These two aspects-the use of ancient history in political rhetoric and of mythology in cultural texts-are not as distinct as they might appear at first glance. Certainly, the references to ancient authors or historical events are sporadic and mainly used as an appeal to authority to lend credence to racial or nationalistic statements. However, both history and mythology are transformed through the ideological imaginary of Nazism to generate meanings that align with GD's political vision. In this sense, the use of the battle of Thermopylae is of particular significance as it allows us to study the workings of imagination in turning an historical event into modern political mythology.</p><p>It is, at this point, worth touching upon the intersections between GD and the death metal scene, with regard to reconfiguring classical antiquity on the basis of Nazi ideology. 12 Giorgos Germenis, a leading member of the party and an elected member of the Greek parliament, was a professional bassist who played in metal bands under the alias Kaiadas (a clear reference to Sparta). One of the bands Kaiadas played with was Der Stürmer, named after Julius Streicher's German newspaper; although not an official Nazi propaganda organ, Der Stürmer spread antisemitic ideas during the Weimar period and until the end of WW2. The cover image of the band's 2006 album A Banner Greater than Death is a photograph of the Parthenon taken during the Nazi Occupation of Athens, as evidenced by the Nazi flag in front of the ancient monument. One of the songs included in the album is titled 'Those who Lived and Died like Heroes' and exalts the Spartans who fell fighting against the Persian army. The song lyrics deserve to be quoted in full as an example of how the ancient historical event is reimagined to resonate with extremist ideology:</p><p>The armour shines bright under the sun, helmets look grim with unearthly glance. Shields with Lamda [sic] hold by strong hands, crimson cloaks fly proud in the air. Guarding the path of no return. Smiling to death they're waiting the end. Thousands of Persians will die by their swords. Heroism beyond logic, beyond any hope. Tell them in Sparta, that we lay here. Faithful to them we fought without fear. Never forget us, live with our example! May Lakedaemona's laws be your only guide, be your only guide! Under their feet a sea of blood, maiming and killing everyone in sight. Death to those who bow before a foreign king! Like dogs they shall die, like servants they lived! A monument of honour forever will stand A spirit of loyalty that few understand Lucky those who in this style guard Thermophyles immortality and glory belongs [sic] to them. . . <ref type="bibr" target="#b25">(Der Stürmer 2006)</ref>  13   The song straddles two temporal moments, situating the listener both in the time of the battle and in the future when the event is already memorialised, as made explicit by the free rendering of the epitaph by lyric poet Simonides. These transitions intensify the dramatic tension and, at the same time, immortalise the martial valour of the Spartans. The dehumanising portrayal of the Persian soldiers is evocative of the comic book series 300 by Frank Miller and of Zack Snyder's eponymous film adaptation, which received its US premiere a few months before the release of the album. However, in this case, the contrast between the armies results in a declaration of supremacy and extreme glorification of violence.</p><p>The appeal of Sparta to neo-fascist cultures should be understood through its associations with Nazi Germany, despite recent scholarship that has shown that the ancient city was a far cry from the eugenic social order and militarist totalitarian state envisioned by the Nazis <ref type="bibr" target="#b38">(Hodkinson 2006</ref><ref type="bibr" target="#b39">(Hodkinson , 2010</ref><ref type="bibr" target="#b40">(Hodkinson , 2018. .</ref> On the uses of Sparta in Nazi Germany, see <ref type="bibr" target="#b45">Losemann 2007;</ref><ref type="bibr" target="#b24">Chapoutot [2008</ref><ref type="bibr">Chapoutot [ ] 2016, pp. 193-228;, pp. 193-228;</ref><ref type="bibr" target="#b60">Roche 2013</ref>). In the case of GD, the identification with Sparta sets in motion rhetorical mechanisms that incite violent practices. This is evident in the reference to the infamous institution of the krypteia, a rite of passage that select Spartan males underwent after completing their formal education. As part of this ritual, the young men experienced a phase of separation in which they lived in the countryside and took part in murderous attacks against helots (see Hodkinson 2006). The passage delivered by GD spokesperson Ilias Kasidiaris during the commemoration at Thermopylae in 2008 leaves little doubt as to the party's interpretation of the krypteia. Kasiadiaris described the party's so-called hit-squads in the following words:</p><p>The violence of the hit-squads follows high and noble standards, revealing the classical education of its instigators. <ref type="bibr">[. . . ]</ref> We are the shield of Sparta that patiently guards the body of Greece. We continue our solitary path, enduring the persecutions, the slanders, the continuous strikes of the enemy that hurt [the bulk of] our shield with deep cuts, and we are awaiting the moment of the great counter-attack, following the tracks of ancient krypteia, which struck quietly, in total darkness and silence, the internal enemy of the city. (Kasidiaris, quoted in Papaioannou 2013, p. 70) 14   Although the speaker's recourse to the ancient ritual operates on a metaphorical level, the metaphor creates a performative utterance that constitutes, in and of itself, a form of violence. The passage provides an instance of excitable speech as discussed by Judith Butler. According to Butler, threatening statements, such as those occurring within racist or hate speech, perform the threat by seeking 'to establish, through language, the certitude of that future in which it will be performed' <ref type="bibr">(Butler 1997, p. 9)</ref>. The reference to the krypteia did not constitute an immediate threat, as it was articulated among a group of close members. However, its effect on the audience can be seen as analogous to that of a threat. The recourse to the ancient violent practice functioned as a form of ideological interpellation that called the members to recognise themselves in the assault they are destined to perpetrate in a future time. Furthermore, the statement intensified the certitude by linking the future assault to a past that will be revived through the very act of violence.</p><p>During the GD trial, the prosecution related these references to the violent practices adopted by the hit squads in attacking immigrants. 15 It is difficult to tell whether the murder of the Pakistani worker Shahzad Luqman in January 2013 happened in the context of reviving the ancient krypteia. Nonetheless, the turn to the ancient past in this case involved a call to action that pushed the metaphor to its breaking point. The same collapse between metaphorical language and performative act can be observed in the narrative deployment of the battle of Thermopylae. In the following section, I will examine the emergence of this narrative in the context of the commemoration ceremonies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">From History to Myth: A Narrative Analysis of the Commemorations of Thermopylae</head><p>The commemorations of the battle of Thermopylae were a major annual event for GD, whether shared by a few committed members or attended by larger audiences when the party broke through into mainstream politics. Notwithstanding their size, these gatherings have been key to propagating ideological positions cast in narrative form. The fictionalised version of Thermopylae offered in these commemorations interpreted the battle as both a pinnacle moment in Greek and European history and an allegory for the return of National Socialism. This is not to suggest that the narrativisation of historical events is exclusive to Nazi or neo-Nazi discourses. The accounts of the past offered in public processes of memorialisation are bound to narrative structuring inasmuch as these accounts are meant to imbue the commemorated events with moral and aesthetic value. Aristotle's assertions that historiography speaks of the particulars whereas poetry speaks of the universals seem particularly applicable here <ref type="bibr">(Aristotle 1995, p. 58</ref>). Yet the commemorations by GD did not simply make an exemplar of the Spartiate soldiers (and, to a lesser extent, their Thespian comrades who are also often mentioned); it used the battle to consolidate a modern mythology. The appropriation of the ancient past during the commemorations was enabled through the emplotment of the historical details into a dramatic narrative that sought to tap into the imagination of the participants and inculcate a fascist worldview.</p><p>In analysing the mythopoetic mechanisms at work, a combination of structural and functional approaches to narrative can be useful. The following analysis examines the narrative patterns imposed on the historical event as well as the kinds of identification the narrative invited in the participants. The members delivering the speeches during the commemoration events utilised a dense network of historical and literary references to various effect, from educating the audience to eliciting emotional responses and creating a sense of deep-seated crisis requiring immediate remedy. A standard programme, representative of the commemorations over several years, included a speech detailing the historical account of the commemorated event, which represented the most didactic part of the programme, while the rest of the speeches mainly underscored the meaning and contemporary relevance of the battle. The members tasked with providing the historical information mostly drew on ancient sources, but also made occasional references to classical scholars. A notable case is the speech given in 2016 by the representative of the Independent Institute of Geopolitical and Historical Studies [AIΓIΣ], an alleged research institute adjacent to GD. 16 The speaker displayed knowledge of ancient historiographers, making references to Herodotus and Plutarch, whilst basing the information about the dating of the battle on the chronologist and ecclesiastical author Edward Greswell, to whom he referred as a Philhellene and classicist <ref type="bibr">(Θερµoπύλες 2016)</ref>. Even more questionable is the speaker's reference to the popular historian Tom Holland, whose book Persian Fire presents the wars between the Persians and the Greeks through a twenty-first century perception of East versus West. Despite the efforts to provide a veneer of historical credibility, the speakers at these commemorations did not seem to be preoccupied with the accuracy of the information incorporated in their speeches. It could be argued that emphasising the realness of the battle was fundamental to turning history into myth by affirming a single and undisputed version of the historical truth.</p><p>As I will now discuss in more detail, the historical accounts and the political speeches delivered at the commemorations brought forth a consistent and coherent narrative. The four prototypical stories identified by Frederick Mayer can be useful in analysing the plot lines deployed by the speakers. The narrated historical events were framed along the lines of a resurrection story, presenting the battle of Thermopylae in terms of fall and rise. Central to this narrative was the link between the heroic sacrifice of the Spartans and the subsequent victory of the Greeks over the Persian army in Plataea in the following year. The causal relationship that was claimed to exist between the two battles is precisely where a clear plot line can be witnessed. The speakers did not preoccupy themselves with questions about the strategic implications of Leonidas' decision to die on a hill, or even about the impact that this decision had on morale among the Greeks; rather, they offered an irrational interpretation of sacrifice and triumph as intrinsically connected. In this vein, the historical evidence was tailored to fit the narrative of resurrection, viewing the defeat at Thermopylae as the instance of death that led to the ultimate victory of the Greeks. The course from the defeat in Thermopylae to the triumph in Plataea was not conceived in linear terms, nor was it limited to ancient history-it morphed into a comeback story, according to which the nation resurges after periods of death and prevails over its perennial enemies.</p><p>The narrative about Thermopylae offered at the commemorations diverged significantly from prototypical stories of resurrection, however, as it did not start with a positive state of affairs. In most speeches by GD members, life in Lacedaemonian society was described as a constant preparation for warfare. The conflation of the martial spirit that Spartans demonstrated at Thermopylae with their peace-time training has manifold impli-cations for narrative construction and effect. On the one hand, the emphasis on military prowess produced a sense of imminent threat, allowing the speakers to draw analogies with modern history and enhance the story's symbolic value for the present. Moreover, collapsing the prior positive state of affairs into the moment of the fall elevated the specific event of the battle into a moment of genesis. Notably, the battle of Thermopylae was invested with the profound significance of creation myths found within religious traditions. In the speeches delivered in 2017, Thermopylae was described as the 'battle that gave rise to European civilisation' and 'a cosmogony' <ref type="bibr">(Θερµoπύλες 2017)</ref>. The view of Thermopylae as symbolising the beginning of civilisation is congruent with the Nazi vision of the ordering of a new world from a state of chaos, which found its expression in official Nazi art <ref type="bibr">(Fischer-Lichte 2017, pp. 148-66)</ref>. 17 This reading of Thermopylae encapsulates the way fascist regimes treated classical antiquity. The narrative of death and rebirth fits in with the fascist aspirations to revivify a distant past that is imagined both as dormant and as the beginning of civilisation.</p><p>In understanding the workings of nationalist ideologies, theories of nationalism call attention to notions of the nation as eternal, emanating from an immutable essence (see Smith 2009). The ideology of GD is grounded in a similarly metaphysical conception of Hellenism, but the teleology of nationalism incorporates patterns of death and rebirth. Although narratives of national rebirth do occur within national histories too, the fusion of narratives of rebirth with those of genesis in fascist discourses is instrumental to proclaiming the supremacy of the national community above all Others. The power of the national community to re-emerge perpetually is linked to its mythic status as the primary origin. For the mythologies of Nazism more specifically, there is a racial identification with classical Greece, which marks the dawn of civilisation.</p><p>Looking more closely at the way speakers at the commemorations envisioned the rebirth allows us to observe that the historical events were not merely subjected to a mythologising process; they were also treated as malleable material from which to produce diverse symbolisms and meanings. On several occasions, speakers saw the glory of Thermopylae revivified in key instances from Greek history-a manifestation of Hellenism resurging throughout the centuries. The speakers did not take pains to prove the direct bloodline between ancient and modern Greeks, because this was taken for granted in this context. In 2017, the speaker referred to the research conducted at Harvard to validate the racial claim that modern Greeks are descendants of the ancients, although the actual research findings were far more complex than the proving of a straightforward biological relationship <ref type="bibr">(Θερµoπύλες 2017)</ref>. 18 Nonetheless, it seems that for GD, the racial identification of the modern audience with the ancient Lacedaemonians was not an end in itself, but rather served to reinforce the cultural and moral codes that underpin their political programme.</p><p>The commemoration of Thermopylae was not merely an opportunity to stir nationalistic sentiments, but also allowed GD to produce a new understanding of Greek national history that integrated elements of fascist ideology. GD's narrative relies upon the dominant idea of continuity with ancient Greece, upon which the modern Greek state is founded. However, unlike most official discourse in Greece, it does not view this continuity as uninterrupted; instead, it emphasises the aspect of national rebirth. The instances of rebirth interwoven with the story of Thermopylae are predominantly derived from the Greek War of Independence, but they stretch back to Byzantine history, encompassing the legends about Constantine Palaeologus defending Constantinople against the Ottomans. 19 As this last example demonstrates, the binary of Greekness and barbarism mutated into that of Christianity and Islam when the speakers wished to affirm the Greekness of Byzantium or to uphold their anti-immigration agenda about contemporary Europe. An instance of Greek history that received little mention in these speeches is Alexander the Great, who was mainly invoked to dispute the name North Macedonia. It would be safe to assume that, in contrast to Sparta, the multicultural world of the Hellenistic period did not sit comfortably with GD's vision of an indigenous and racially pure community.</p><p>Within the chronopolitics of GD, complex historical developments collapsed into neatly defined analogies between antiquity and the present. A recurring analogy that emerged in the speeches delivered at the commemoration events was that between the Persian enemy and the threat coming from the East. Again, the meanings that the narrative acquired were mutable. In some instances, the enemy coming from the East was argued to be the immigrants and refugees, framed as invaders. Other speakers interpreted the threat from the East to be the alleged territorial claims of the Turkish state. The example of Thermopylae was used to challenge Turkish expansionism and, simultaneously, to make irredentist claims on territories of Turkey and other Balkan countries. Thus, the symbolisms ascribed to Thermopylae were not limited to protecting and safeguarding the national borders, but stretched into extending calls for annexing new territories. What is telling about the narrative is that the main agents were rarely referred to in terms of institutions, formal bodies, or specific policies, but rather in a generic manner that intensified the storytelling dimension (e.g., 'the Turks', 'the foreigners', 'the illegal immigrants'). Other categories mentioned as enemies were the liberals and the Marxists. During the Greek debt crisis, the speeches incorporated references to the debtors and the EU, who were held responsible for the hard reality experienced by the Greek population. Such statements sought to exploit the financial crisis in building political capital without foregoing the party's supremacist and racist views. The EU and the immigrants were conflated into a common enemy threatening the Greek nation with extinction. The speech delivered in 2018 made a bold comparison between the Persian empire and the EU by pointing out that the mixed populations under the Persian rule made use of a common currency, a reference to the monetary reforms of Darius I <ref type="bibr">(Θερµoπύλες 2018)</ref>.</p><p>Special attention should be paid to the way the historical example of Sparta was adopted in the commemorations to promote an anti-feminist discourse. In 2017, the daughter of Michaloliakos, Ourania Michaloliakou, delivered a full-length speech on Spartan women, presenting them as an example for the female members of the party. The speaker praised the wives and mothers of Spartan soldiers for the pride they showed when sending them off to war, mentioning the example of Brasidas' mother who asked if her son had died in a dignified manner. 20 The speaker's portrayal of Spartan women diverged from conservative representations of femininity in celebrating their physical and spiritual strength, but it also stressed that their primary duty was to give birth to and rear children. The female ideal presented in the speech was embroiled in the narrative of death and rebirth. The speaker referred to the women who took part in the Greek War of Independence as modern embodiments of Spartan women, calling female members of the party to follow suit. Furthermore, the speaker held Spartan women in opposition to contemporary feminists who, in her view, debase femininity by yielding to capitalist norms. The recourse to Sparta enabled the speaker to affirm the important role of women within GD while reinforcing a hierarchical gender structure that privileges men and prescribes women the social and familial role of nurturers and supporters (on the role of women in GD, see Bustnes 2017). 21  So far, I have discussed the Thermopylae narrative in formal terms, focusing on the way the historical events were structured in a time sequence involving genesis, death, and rebirth. It is equally important to examine the function of the narrative, paying attention to the way the speeches sought to enhance imaginary identifications and reinforce moral messages. Mayer emphasises the power of narrative to mobilise collective action: 'When we are engrossed in a shared narrative about collective action in which we see ourselves as actors in a social drama, autobiography and history align' <ref type="bibr">(Mayer 2014, p. 128)</ref>. Crucial to the ability of stories to produce identifications are the characters and their specific actions that move the plot forward. In contrast to the heroes who fell at Thermopylae was Ephialtes, the typical villain whose treachery caused the fall. Beside Ephialtes, the Greek cities that had sided with the Persians were framed as typical anti-heroes who surrendered their freedom to enjoy protection and material rewards. The identifications invited by the narrative about Thermopylae at the commemorations presented the audiences with a clear moral choice: they could either follow the example of the Spartiate soldiers and commit themselves to the political cause of GD to defend the country, or betray their country in the manner of Ephialtes.</p><p>Similarly, the pejorative portrayal of the Persian army as inferior subjects of Xerxes intensifies the identification with the Spartans, whose fight is presented as an act of freedom and self-determination. The details that different speakers inserted into the story offer further variations on the racial reading of the ancient world. According to the image portrayed by the speeches, Sparta represented an aristocratic and oligarchic society, distinguished by its military efficiency, obedience to civic law, and equality. One of the speakers created a strong analogy between GD and Sparta by taking recourse to Sparta's common messes [syssitia], a form of communal dining for Spartan men <ref type="bibr">(Θερµoπύλες 2018)</ref>. The reference to the messes must have evoked the food banks organised by GD exclusively for the Greek population, which were also called syssitia. In opposition to the self-disciplined and frugal Spartans, the Persian empire was portrayed as an autocratic order, run by despots living in material excess, moral debauchery, and intellectual morbidity. One of the speakers deployed the hygienic language that characterises far right discourses to describe Xerxes as 'inflected by the miasma of the East' <ref type="bibr">(Θερµoπύλες 2016)</ref>.</p><p>A remarkable reference occurred in a speech delivered in 2017, where the speaker argued that 'the Persians were joined by Hebrews-Semites-who sought to eradicate Greece. Like today someone tried to eradicate Greece' <ref type="bibr">(Θερµoπύλες 2017)</ref>. The passage is laden with the antisemitic tropes that portray Jewish people as rapacious and threatening, whilst also keeping the semantic content of the term 'Persians' open so that it can ascribe new identities to the perceived enemy. The clear divide between heroes and villains adds to the portrayal of the historical event as a battle between good and evil. It is indicative of this lack of moral ambiguity that Aeschylus' The Persians is barely mentioned among the classical works the speakers cite to derive information about the enemy. Of course, Aeschylus' tragedy narrates the sea battle of Salamis as a clash between Athenian democracy and Persian despotism. Yet tragedy as a genre involves a level of complexity, and even some sympathy for the Other, that runs counter to GD's racist worldviews.</p><p>If stories have heroes, anti-heroes, and villains, the mythologies of fascism also need martyrs. In the case of GD, these were furnished by recent Greek history as well as by the history of the party itself. On several occasions, the speeches at Thermopylae referred to the three Greek soldiers who died during a military engagement between Greece and Turkey around the Imia islets in a disputed area of the Aegean Sea in 1996, an event that GD commemorates every year in Athens. Another event compared with the fall of the Spartans is the murder of two members during an attack on the party quarters in a neighbourhood of Athens in 2013. In subsequent years, the commemoration events at Thermopylae featured a speech by the member who survived the attack. The comparison of these events with the battle of Thermopylae became a form of consecration through which the three officers and the murdered party members came to acquire their place next to the fallen soldiers of Leonidas.</p><p>The commemoration ceremonies held by GD are an example of an appropriation of history to craft a fascist mythology. The retelling of the historical events promoted a fascist worldview, organising the political imaginary around the idea of conflict as constitutive of national identity and social relations. This is more than a story of good and evil meant to divide the world into 'us and them'. For GD, the battle of Thermopylae represents a mythicised moment that transcends historical time. The speakers at the commemoration events reconstructed the history of the Greek nation as a succession of heroic moments that revivify the ultimate act of sacrifice that took place at Thermopylae in antiquity. The literary statement of Michaloliakos that twenty-five centuries are 'one single moment' <ref type="bibr">(Θερµoπύλες 2017</ref>) is typical of the ahistorical conceptualisation of time within fascist discourses. The commemorations of Thermopylae immersed the participants in stories that not only framed Greek identity and history through fall and triumph, but also called political subjects to partake in the dramatic narrative and re-enact a heroic past. For all the extreme dramatisation of ancient history offered in these gatherings, the identities that the narrative strove to forge were invariably static.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">From Myth to Ritual: The Commemorations at Thermopylae as a Political Rite</head><p>Mayer concedes that '[i]t is one thing to imagine; it is another to act' <ref type="bibr">(Mayer 2014, p. 97)</ref>. Narrative theories provide helpful tools for uncovering the deep structures that shape historical understanding and the deployment of storytelling modes to script political behaviour. However, the literary focus of these theories cannot fully grasp the importance of embodiment and affect for collective mobilisation, especially for mass movements. To analyse the ways in which narratives compel political action, we need to take account of the performative contexts in which narratives are shared. To this end, the analysis draws on the theories on the intersection between ritual, politics, and performance offered by Erika Fischer-Lichte. As Fischer-Lichte shows, ritual studies have reversed the perception of rituals as secondary to the myth, arguing that rituals did not provide illustrations of myths, but rather myths were developed as explanations of rituals <ref type="bibr">(Fischer-Lichte 2005, pp. 30-45)</ref>. While it is not possible to determine with certainty whether ritual practices precede mythological iterations, rituals have a decisive role in myth-making. This understanding of ritual offers new insight into the interpenetration of ritual and politics that characterised fascist regimes. The political rallies and mass-scale cultural events not only disseminated the official ideology but engrossed people in the narratives of national rebirth. A similar proclivity for ritual expression occurs with neo-fascist politics. Proceeding from these observations, I will now consider the incorporation of ritualistic elements into the commemorations of Thermopylae and their effect in terms of re-activating the mythologies of fascism.</p><p>A question that has preoccupied fascist studies is whether there is a core, a fascist minimum that can be found across historical and geographical variants of fascism. Griffin defines this minimum in narrative terms, identifying the core myth of national palingenesis <ref type="bibr">(1991)</ref>. Contrary to this view, Robert Paxton opposes the idea of a minimum altogether in favour of a functional definition that analyses the different stages of fascist growth, from marginalised extremist groups to fully consolidated regimes. Although Paxton acknowledges the ability of these movements to stir collective passion, his analysis dismisses the use of symbols and rhetorical tropes by neo-fascist parties as a form of mimicry-a mere demonstration of power to overcompensate for the lack of actual functional equivalents. Along these lines, Paxton views neo-fascist groups in Europe as a 'law-and-order problem (serious though that may be) rather than a recurrence of authentic mass-based fascism' <ref type="bibr">(Paxton 1998, p. 3</ref>). Paxton's propositions should be reviewed in the light of growing work on the cultural production of neo-fascism movements. In this vein, the recourse to classical antiquity can be viewed as an actual functional equivalent across historical manifestations of fascism. More than a superficial imitation of Nazi rituals, the commemorations of Thermopylae observed by the GD aspired to bring forth a sense of collective identity defined through both the relation to Nazi ideology and the ancient past.</p><p>The deployment of narrative modes at the GD commemorations was inseparable from the ritual dimension of the events. The available recordings suggest that these gatherings had, by and large, a standard format that was repeated with variations every year. The ceremony started in daylight in the early evening and ended in the dark. The speeches were announced by a coordinator and unfolded in almost identical order, from the opening speech of a party member and the historical account of the battle to speeches of members higher in the party hierarchy, culminating in the speech of the leader. In the course of time, there were additions to the event, such as the inclusion of the female speakers or the member who survived the murderous attack in 2013. The event always ended with everyone singing the national anthem and the anthem of GD, followed by the slogans 'hail the victory', 'hail the leader', and 'hail eternal Greece', not necessarily in the same order.</p><p>Apart from the sequence of the speeches, the staging of the event followed a similar format. The speakers positioned themselves in front of a standing audience under the statue of Leonidas, either on the ground, or, in years when the event attracted larger audiences, on a stage. 22 The soundscape consisted of military marches, sometimes alternating with classical music scores bearing associations with Nazi culture, such as the 'O Fortuna' from Carl Orff's Carmina Burana. Apart from the use of recorded music, there were drummers onsite affording a rhythmical backdrop to the speeches and accentuating specific moments. The ritualistic atmosphere was further enhanced by burning fires in ancientlooking cauldrons and the use of red lighting. A more extravagant use of lighting occurred in 2018, when an illuminated sign of Leonidas' famous response to Xerxes' demand to surrender the weapons 'MOΛΩN ΛAΒΕ' [Come and take (them)] was placed on the monument (Figure <ref type="figure" target="#fig_2">2</ref>). The use of torches added to the atmosphere of a memorial service, while torch bearers often positioned themselves to form the Lambda of the Greek alphabet, presumably for Lacedaemonians (Figure <ref type="figure" target="#fig_4">3</ref>). Overall, staging elements were carefully deployed to coordinate the interactions between the speakers and the listeners and to maintain a sense of ritual coherence.</p><p>The ceremony started in daylight in the early evening and ended in the dark. The speeches were announced by a coordinator and unfolded in almost identical order, from the opening speech of a party member and the historical account of the battle to speeches of members higher in the party hierarchy, culminating in the speech of the leader. In the course of time, there were additions to the event, such as the inclusion of the female speakers or the member who survived the murderous attack in 2013. The event always ended with everyone singing the national anthem and the anthem of GD, followed by the slogans 'hail the victory', 'hail the leader', and 'hail eternal Greece', not necessarily in the same order.</p><p>Apart from the sequence of the speeches, the staging of the event followed a similar format. The speakers positioned themselves in front of a standing audience under the statue of Leonidas, either on the ground, or, in years when the event attracted larger audiences, on a stage. 22 The soundscape consisted of military marches, sometimes alternating with classical music scores bearing associations with Nazi culture, such as the 'O Fortuna' from Carl Orff's Carmina Burana. Apart from the use of recorded music, there were drummers onsite affording a rhythmical backdrop to the speeches and accentuating specific moments. The ritualistic atmosphere was further enhanced by burning fires in ancient-looking cauldrons and the use of red lighting. A more extravagant use of lighting occurred in 2018, when an illuminated sign of Leonidas' famous response to Xerxes' demand to surrender the weapons 'ΜΟΛΩΝ ΛΑΒΕ' [Come and take (them)] was placed on the monument (Figure <ref type="figure" target="#fig_2">2</ref>). The use of torches added to the atmosphere of a memorial service, while torch bearers often positioned themselves to form the Lambda of the Greek alphabet, presumably for Lacedaemonians (Figure <ref type="figure" target="#fig_4">3</ref>). Overall, staging elements were carefully deployed to coordinate the interactions between the speakers and the listeners and to maintain a sense of ritual coherence.  Figure 3. Commemoration event at Thermopylae organised by the Golden Dawn in 2017. [source: screenshot from YouTube video Θερμοπύλες 2017].</p><p>The positioning of the audience within the space had a specific form, with the front rows taken by the party hardliners. Several members of the audience appeared in T-shirts bearing the name of the party in ancient-looking font or the image of a Spartan helmet with the phrase Μολών λαβέ underneath. The colour of some outfits evoked Xenophon's description of the crimson red cloak of the Spartans <ref type="bibr">(Xenophon 1925, p. 171)</ref>. It should also be added that the videos of the events were shared via the social media platforms of The positioning of the audience within the space had a specific form, with the front rows taken by the party hardliners. Several members of the audience appeared in T-shirts bearing the name of the party in ancient-looking font or the image of a Spartan helmet with the phrase Moλών λαβέ underneath. The colour of some outfits evoked Xenophon's description of the crimson red cloak of the Spartans <ref type="bibr">(Xenophon 1925, p. 171)</ref>. It should also be added that the videos of the events were shared via the social media platforms of the party and its youth. The camera angles, such as close-ups of Leonidas' statue or a view from above captured by a camera drone in 2021, worked to emphasise specific moments in the speeches.</p><p>What distinguishes these commemorations is the strong sense of solemnity, which was emphasised by the speakers themselves. It is clear that the organisers aspired to invest the commemorations with a quasi-religious significance. In 2018, the leader stressed that it was not a political event but a communion 'of Greece and history' and 'a holy communion from the blood and flesh of Leonidas, the Lacedaemonians and the Thespians' <ref type="bibr">(Θερµoπύλες 2017)</ref>. Other speakers referred to it as 'communion of ancient spirit, immortal, Hellenic' <ref type="bibr">(Θερµoπύλες 2017)</ref>. These descriptions drew upon the Christian religious tradition in recreating a secular ritual, highly reminiscent of the ritualisation of politics characterising Nazi culture.</p><p>In the available recordings of the commemorations, a few instances stand out for their explicitly ritualistic character. In 2013, a short act was performed on the hill of Kolonos opposite Leonidas' memorial, where, according to Herodotus, those who perished at the battle were buried. In the video excerpt, we see a group of about twenty men, dressed identically in black outfits, climbing up the hill in almost military order and positioning themselves around a commemorative stone with Simonides' epitaph to Lacedaemonians engraved on it. The GD spokesperson read aloud the epitaph in the original and rendered it into modern Greek, followed by Simonides' fragments for the Peloponnesian soldiers and the seer Megistias, who fought the Persians despite knowing that he would die <ref type="bibr">(Campbell 1991, p. 540)</ref>. The readings ended with Philiadas' epitaph for the Thespians <ref type="bibr">(Gerber 1999, p. 386)</ref>. To conclude the ritual, the speaker called out the names of the most well-known Greeks who died at the battle and the participants responded by saying 'Present!' or 'Immortal!'. Overall, the act was well-coordinated and demonstrated that the organisers had put some effort into identifying the passages in classical scholarship. Later in the evening, a larger group of similarly black-dressed male members marked the official beginning of the event by positioning themselves on the sign of the meander-the party emblem-drawn on the ground between the lectern and the audience area (Figure <ref type="figure" target="#fig_5">4</ref>). After the talk of the leader, the torches held by these men were lit as the spokesperson started reciting the epitaphs, followed by the encomium of Simonides as handed down by Diodorus Siculus <ref type="bibr">(Diodorus of Sicily 1946, p. 152)</ref>. 23 Again, the passages were delivered in the original and rendered into modern Greek. The act led up to the laying of a wreath at the memorial and a roll call of the dead, in the same fashion as in the private ceremony that took place earlier. The mirroring of the private commemoration on the hill and the public ritual performed as part of the gathering indicates that GD's turn to antiquity was not meant to disguise the party's Nazi ideology; instead, it had an intrinsic value for the members even in the absence of a wider audience.</p><p>dorus Siculus <ref type="bibr">(Diodorus of Sicily 1946, p. 152)</ref>. 23 Again, the passages were delivered in the original and rendered into modern Greek. The act led up to the laying of a wreath at the memorial and a roll call of the dead, in the same fashion as in the private ceremony that took place earlier. The mirroring of the private commemoration on the hill and the public ritual performed as part of the gathering indicates that GD's turn to antiquity was not meant to disguise the party's Nazi ideology; instead, it had an intrinsic value for the members even in the absence of a wider audience. The structure of these ritual acts evokes similar national or military events in honour of dead soldiers. However, the commemorations also incorporated elements of Christian rituals that helped to emphasise the idea of resurrection. In the short excerpt from 2015, the voice of the party spokesperson is audible coordinating the closing act of the event, while we can see the torch bearers in the audience executing the act (Θερμοπύλες 2015). First, the speaker called for the 'holy flame' to be ignited and for the drumming to commence. For a few moments, the only sound heard was a single drumbeat followed by two faster ones, while those participants holding up their torches passed the fire to everyone. Once all torches were lit, the speaker started reciting the encomium of Simonides, first in ancient and then in modern Greek. The delivery of Simonides' lines was ceremonious, albeit not entirely error-free. At the end of the act, the call for lighting the fire was repeated, and everyone was asked to stand at attention for the national anthem. The torch bearers were ordained to connect the torches in a Lambda shape amidst the singing of the party anthem. The event closed with the standard hails to the leader and the party as well as to 'eternal Thermopylae'. Similar moments of lighting the torches occurred in 2018.</p><p>The use of ancient Greek elements within the GD commemoration operated on a highly symbolic and performative level, generating new meanings and identifications. The acts executed as part of this event alluded to recognisable religious rituals of the Greek Orthodox tradition, but they replaced the Christian content with ancient history. Most of the audience would have been familiar with the passing of the fire as a distinctive act during the midnight vigil of the Easter liturgy. Even the delivery of Simonides' encomium The structure of these ritual acts evokes similar national or military events in honour of dead soldiers. However, the commemorations also incorporated elements of Christian rituals that helped to emphasise the idea of resurrection. In the short excerpt from 2015, the voice of the party spokesperson is audible coordinating the closing act of the event, while we can see the torch bearers in the audience executing the act <ref type="bibr">(Θερµoπύλες 2015)</ref>. First, the speaker called for the 'holy flame' to be ignited and for the drumming to commence. For a few moments, the only sound heard was a single drumbeat followed by two faster ones, while those participants holding up their torches passed the fire to everyone. Once all torches were lit, the speaker started reciting the encomium of Simonides, first in ancient and then in modern Greek. The delivery of Simonides' lines was ceremonious, albeit not entirely error-free. At the end of the act, the call for lighting the fire was repeated, and everyone was asked to stand at attention for the national anthem. The torch bearers were ordained to connect the torches in a Lambda shape amidst the singing of the party anthem. The event closed with the standard hails to the leader and the party as well as to 'eternal Thermopylae'. Similar moments of lighting the torches occurred in 2018.</p><p>The use of ancient Greek elements within the GD commemoration operated on a highly symbolic and performative level, generating new meanings and identifications. The acts executed as part of this event alluded to recognisable religious rituals of the Greek Orthodox tradition, but they replaced the Christian content with ancient history. Most of the audience would have been familiar with the passing of the fire as a distinctive act during the midnight vigil of the Easter liturgy. Even the delivery of Simonides' encomium in the original was reminiscent of the evangelical language used by the Church of Greece. The parallels drawn with the Christian liturgy created a direct analogy between the sacrifice of Christ and the fall of the Greek warriors at Thermopylae. In this regard, the ritual gave form to the mythology of national rebirth grafting the narrative pattern of resurrection onto the story of Thermopylae. The shaping of the Lambda with the flaming torches can be seen as a symbolic resurrection of those who died at Thermopylae. Scholarship has elucidated the replication of Christian ritual structures in the party rallies and official ceremonies of fascist regimes, especially in Nazi Germany <ref type="bibr" target="#b66">(Vondung 1971;</ref><ref type="bibr" target="#b20">Berghaus 1996</ref>; also <ref type="bibr" target="#b48">Mosse [1964</ref><ref type="bibr" target="#b48">Mosse [ ] 1998))</ref>. A similar a recourse to Christian patterns can be found in the political traditions of communism. According to Fischer-Lichte, the use of familiar religious patterns in Mass Soviet Spectacles 'had a strong appeal to the emotions and habitual behaviour of the people and, thus, enabled them to bring forth new meanings themselves' (Fischer-Lichte 2005, p. 109). To a large extent, the symbolic and performative functions that the ancient elements served within the commemorations corresponded with the way GD appropriated antiquity. On one level, the ancient symbols affirmed a reverence for the Greek ancestors. For those initiated in the party rituals, the same symbols declared faith in National Socialism. However, this was not a clear-cut separation. The shared lived experience of the ancient past during the commemorations was decisive in fusing Nazi ideology with Greek nationalism and forging a new political identity.</p><p>In 2021, the commemoration at Thermopylae was observed by a handful of participants in the absence of the leader and the main party members who had been sentenced to imprisonment. Although the staging elements were reduced to a minimum, presumably due to the lack of funding, the Nazi character of the event was augmented (2021: Mεγαλειώδης συγκέντρωση. . . ). A burning sign of the Lambda appeared next to the lectern and the participants raised smoke flares and filled the atmosphere with red smoke. Four participants processed towards the stage holding the party banners and drumming; a male member recited a poem, this time not by Simonides but by the GD leader himself. It was a poem about resilience and death encapsulating the core message of the ideology. A member of the party youth read aloud the leader's message from prison, which greeted those who remained loyal to the party and did not betray it. For these few participants, the moral of Thermopylae has been, once again, resignified. It referred to their own defeat and the act of sacrifice that will eventually lead to their triumphant return. The standard slogan used in the political rallies and gatherings of GD acquired its full significance in the context of the fascist narrative of resurrection: 'We will return, and the earth will be shaking'. 24  The central place of Thermopylae in the political culture of GD should be understood as an expression of the cult of death that lies at the core of Nazi imagination. In analysing the uses of antiquity by GD as well as by the official Greek state, Plantzos argues that ancient Greece is used as a necropolitical mechanism that subjugates certain bodiesmigrant or aberrant-to exclusion and extermination <ref type="bibr">(Plantzos 2016, pp. 181-91)</ref>. Such a necropolitical use of antiquity can be seen in Kasidiaris's reference to the krypteia discussed earlier. However, there is an additional dimension to this necropolitical mechanism at work. The example of Thermopylae not only allowed GD to reinforce that the lives of enemies and traitors are disposable, and therefore, can be taken without consequences, but it also glamourised the deaths of those sharing the party ideology. In line with Berve's exaltation of Thermopylae as a futile battle, for GD, Thermopylae represented the choice of a heroic death that valorised life. This accounts for its appeal over other battles between the Greeks and the Persians, especially the victorious ones. In the narrative of GD, death was embraced as an act of self-sacrifice that anticipated the rebirth of the nation and also the palingenesis of Nazi ideology.</p><p>The idea of a comeback, which is inherent in the fascist myth of national rebirth, underpins the narrative and performative construction of neo-fascist identities. The commemoration events of GD strove to merge two historical moments: the moment of crisis at Thermopylae when the ancient soldiers fell for their country, and the present time of crisis when the nation needs to be defended from new enemies. For members, taking action in the present time not only works towards achieving a political objective but allows them to imagine and perform themselves as modern Lacedaemonians. The revivification of the past happened first through their identification with the heroes of the story, but it necessitated the embodiment of the narrative through political action. The ritual act of commemorating the dead can be seen as the bridge between narrative imagination and political action. This inextricable link between myth and ritual is key to fascism's capability for mass mobilisation. Fascist political identity can be understood as a sense of supremacy predicated upon a mythicised past constituted through performative collective action. On several occurrences, Michaloliakos invited the audience to transpose themselves to the setting of battle. Similarly, another speaker called the listeners to connect to the past: 'Perhaps now if we shut our eyes and listen carefully, the clacking of the weapons will reach our ears. If we listen ever so carefully, perhaps we will hear the victorious paean that our ancestors are chanting walking to the battle' <ref type="bibr">(Θερµoπύλες 2018)</ref>. Certainly, the power of stories over imagination was not lost on GD; neither was the power of rituals to turn stories into mythologies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>The appropriation of ancient history within the supremacist discourses and political cultures of the far right speaks to the enduring power of classical antiquity to beget modern mythologies. The Nazi admiration for Sparta as an ideal example of militarism and communal living persists within nativist and neo-fascist movements in both Europe and the USA. As a full-blown version of neo-Nazism, GD glorified Sparta to reinforce ideas of supremacy, aided by the nationalist discourses about Greek antiquity that are pervasive in modern Greece. However, the purpose of this appropriation stretched beyond validating racial claims. As the commemoration ceremonies at Thermopylae demonstrate, the turn to ancient history helped to form the moral basis for collective action, aligning the programme of the party to the altruism and patriotism of Leonidas. In this regard, the commemorations helped to frame the movement through notions of sacrifice, which were pivotal to its survival following the criminal conviction of its leadership and the decline in its membership base. Those who returned to Thermopylae to participate in the political rites in 2021 performed their own identity as the elect few, who, like the Spartans, have chosen the path of resistance to the last. According to the narrative and ritual patterns deployed, the resistance will be followed by the triumph, carrying the movement to a new beginning.</p><p>Neo-fascist events are hardly ever praised for their cultural or aesthetic impact, despite their use of narrative and theatrical devices to induce strong emotional states in the participants. The commemorations at Thermopylae by GD challenge the popular image of neo-Nazis as uneducated thugs driven solely by their violent impulses. The problem of this stereotype is that it is grounded in an elitist stance that fails to grasp the input of cultural and aesthetic dimensions in the (re)making of fascism. To address these dimensions is not of course to turn a blind eye to the violence of extremist groups, but rather to uncover the fantasies that fuel this violence. As the cultural turn in fascist studies has demonstrated, the phenomenon of fascism can be better understood if its mythologies and cultural production are approached as a search for alternative forms of living and political organisation. The efforts of fascist regimes in the interwar period to reinvent Graeco-Roman civilisations provided effective ways of mobilising classical traditions. The turn to classical antiquity by the contemporary far right cannot be dismissed as second hand or feigned. To fathom the engagements of neo-fascism with the classics, we need to view them as part of a genuine cultural expression-and take it seriously.</p><p>The commitment of fascism and neo-fascism to classical antiquity calls attention to the role of the classics in defining and shaping Western political thinking and practices. As Rebenich observes with regard to Nazi interpretations of Thermopylae:</p><p>[T]he new image of the battle of Thermopylae, which was popularized through a flood of racist and völkisch publications, was not the result of the 'national revolution' of 1933, but emerged from a complex amalgam of ideas and ideologies which were virulent long before the Nazis came into power. <ref type="bibr">(Rebenich 2002, p. 336)</ref> In this light, the critical appraisal of the classical visions that underpin neo-fascist ideologies necessitate an examination of their intersections with liberal and democratic discourses. This is an undertaking that interrogates the perceptions of cultural and national superiority that are endemic in classical traditions. In the case of GD, the exaltation of antiquity was key to building broader alliances within the Greek public by utilising perceptions of the ancient past that are inherent in the hegemonic definitions of Greekness and Europeanness (on uses of classical antiquity and Greek nationalism, see <ref type="bibr" target="#b35">Hamilakis 2009;</ref><ref type="bibr" target="#b42">Ioannidou 2011;</ref><ref type="bibr" target="#b54">Plantzos 2016)</ref>. Similarly, antiquity is invoked in the rhetoric of nativist ideologues in Europe and the US that seek to legitimise anti-immigration and anti-human rights agendas predicated upon a common European legacy or lineage conceptualised as superior.</p><p>The venerated classical past sets up a field of family resemblances between extremist ideologies and the dominant definitions of national and cultural identity in Western cultures. Blurring the boundaries between what constitutes use and what constitutes abuse of antiquity poses a methodological as well as epistemological challenge for the study of the classics. Can classical reception studies hold on to the humanist postulate to protect the classics from the far right? Certainly, this cannot be achieved by correcting neo-Nazi uses of antiquity on the basis of the facts. What seems more crucial is a self-reflective critical practice that resists the idealising implications arising from the perception of a true and authentic classical tradition that must be defended from ideological manipulation. Since fascist regimes base their fictionalised versions of the ancient past on classical traditions, it is likely that the meanings they assign to the classics will continue to crop up within extremist discourses. To debunk the classicising mythologies of the far right, it is necessary to view classical antiquity as the stage upon which nations, social groups, and individuals step up to enact their own stories. 10 «Kατ' αυτóν τoν τρóπo ήταν εύκoλo να µεταµϕιεστoύν τα ναζιστικά σύµβoλα σε αρχαιoελληνικά, έτσι ώστε αυτή η πλέoν απoτρóπαιη εκδoχή τoυ εθνικoσoσιαλισµoύ πoυ πρoωθεί η Xρυσή Aυγή να εγκλιµατιστεί στo δηµóσιo ύϕoς ως ϕυσική συνέχεια της κλασικής αρχαιóτητας.» 11 GD's mediated relationship with antiquity has been discussed by journalists who were monitoring the activity of the party closely, but scholarly work on this issue is lacking. See <ref type="bibr">Psarras (2012, pp. 254-62)</ref> and <ref type="bibr" target="#b56">Poulis (2017)</ref>.</p><p>12 On heavy metal and neo-Nazism in Greece, see <ref type="bibr" target="#b21">(Bormpoudakis and Dalakoglou 2021)</ref>. The authors refer to the neo-Nazi identification with Sparta.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>13</head><p>The lyrics-originally in English-are available on several websites. In all versions, the transliteration of ancient Greek words follows the modern Greek spelling. The format adopted here follows the musical structure of the song, with adjusted punctuation.  Although its existence as a legal entity was contested, AIΓIΣ was an active institute publishing and organising talks.  The speaker referred to the incident with Brasidas' mother Argileonis as narrated by <ref type="bibr">(Plutarch 1914, p. 282)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>21</head><p>The recourse to Sparta to deplore feminism and to reinforce the subordination of women to patriarchal authority can be traced back to <ref type="bibr" target="#b62">(Rosenberg [1930</ref><ref type="bibr">(Rosenberg [ ] 1934, p. 484), p. 484)</ref>: ‚Dabei bot gerade Sparta das Beispiel einer durchgebildetsten Staatsräson ohne jede weibliche Zutat.' ['In fact, Sparta offered the example of a well-disciplined state, and was devoid of any female influence.' Translation by Bird, with modifications by Dalton in <ref type="bibr">(Rosenberg [1937]</ref> 2021, p. 289).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>22</head><p>The monument was erected in 1955 and was funded by the Greek diaspora in the USA. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Nazi soldiers in Thermopylae, Greece, re-enacting the eponymous battle in 1941 [source: (I Vradyni 1941), The Library of the Hellenic Parliament].</figDesc><graphic coords="2,100.30,96.37,394.80,142.32" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Nazi soldiers in Thermopylae, Greece, re-enacting the eponymous battle in 1941 [source: (I Vradyni [H Βραδυνή] 1941), The Library of the Hellenic Parliament].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Commemoration event at Thermopylae, organised by the Golden Dawn in 2018. [source: screenshot from YouTube video Θερμοπύλες 2018].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 2 .Figure 3 .</head><label>23</label><figDesc>Figure 2. Commemoration event at Thermopylae, organised by the Golden Dawn in 2018. [source: screenshot from YouTube video Θερµoπύλες 2018]. Humanities 2022, 11, x FOR PEER REVIEW 14 of 22</figDesc><graphic coords="13,168.15,283.93,358.23,208.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Commemoration event at Thermopylae organised by the Golden Dawn in 2017. [source: screenshot from YouTube video Θερµoπύλες 2017].</figDesc><graphic coords="13,168.15,534.08,359.60,202.29" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Commemoration event at Thermopylae organised by the Golden Dawn in 2013. [source: screenshot from YouTube video Θερμοπύλες 2013].</figDesc><graphic coords="15,167.90,96.95,378.55,211.97" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Commemoration event at Thermopylae organised by the Golden Dawn in 2013. [source: screenshot from YouTube video Θερµoπύλες 2013].</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>14«H</head><figDesc>βία των ταγµάτων εϕóδoυ ακoλoυθεί υψηλά και ευγενή πρóτυπα, ϕανερώνει την κλασική παιδεία των εµπνευστών της. [. . . ] Είµαστε η ασπίδα της Σπάρτης πoυ καρτερικά ϕυλάττει τo σώµα της Ελλάδoς. Συνεχίζoυµε τoν µoναχικó µας δρóµo, υπoµένoντας τις διώξεις, τις συκoϕαντίες, τα συνεχή χτυπήµατα των εχθρών πoυ πληγώνoυν µε βαθιές χαρακιές τoν óγκo της ασπίδας µας. Kαι αναµένoυµε τη στιγµή της µεγάλης αντεπίθεσης, βαδίζoντας στα χνάρια της αρχαίας Kρυπτείας, πoυ έπληττε αθóρυβα µέσα στo απóλυτo σκóτoς και τη σιωπή τoυς εσωτερικoύς εχθρoύς της πóλεως.» 15 References to the krypteia during the trial can be found on the social media of Golden Dawn Watch.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><figDesc>16</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>17Fischer-</head><figDesc>Lichte reads Lothar Müthel's staging of Aeschylus' Oresteia, produced as part of the official celebrations for the 1936 Berlin Olympic Games, as an allegory for the prevalence of a classical order over a primitive world of vengeance.18Most likely, the speaker referred to a project on the genetic origins of the Minoans and Mycenaeans published in the journal Nature in the same year<ref type="bibr" target="#b44">(Lazaridis et al. 2017)</ref>. 19 See, for example, Michaloliakos's comparison between Thermopylae and the siege of Missolonghi during the Greek War of Independence, quoted in (Paraskeva-Veloudogianni 2015, p. 297).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><figDesc>20</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>23«</head><figDesc>τῶν ἐν Θερµoπύλαις θανóντων/εὐκλεὴς µὲν ἁ τύχα, καλὸς δ᾿ ὁ πóτµoς/βωµὸς δ᾿ ὁ τάϕoς, πρὸ γóων δὲ µνᾶστις, ὁ δ᾿ oἶτoς ἔπαινoς. /ἐντάϕιoν δὲ τoιoῦτoν oὔτ᾿ εὐρὼς/oὔθ᾿ ὁ πανδαµάτωρ ἀµαυρώσει χρóνoς./ἀνδρῶν ἀγαθῶν ὅδε σηκὸς oἰκέταν εὐδoξίαν/῾Ελλάδoς εἵλετo. µαρτυρεῖ δὲ καὶ Λεωνίδας/ὁ Σπάρτας βασιλεύς, ἀρετᾶς µέγαν λελoιπὼς /κóσµoν ἀέναóν τε κλέoς.»</figDesc></figure>
+		</body>
+		<back>
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Funding: This research received no external funding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Institutional Review Board Statement: Not applicable.</head><p>Informed Consent Statement: Not applicable.</p></div>
+			</div>
+
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Data Availability Statement: Not applicable.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of Interest:</head><p>The author declares no conflict of interest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes 1</head><p>The images were published on the front page of the newspaper (I Vradyni <ref type="bibr">[H Βραδυνή] 1941)</ref>. The caption to one of the images mentions that the soldiers were clad as ancient Athenians, who, of course, did not take part in the battle of Thermopylae. Based on the image, it is possible to infer that the historical distortion can be attributed to the actual re-enactment rather than the newspaper. 2 <ref type="bibr" target="#b62">(Rosenberg [1930]</ref>   The recourse to ancient battles to instil a military spirit into the young or to boost the morale of soldiers in wartime occurs in different historical contexts, but Thermopylae holds a special appeal within the far right. The example of Leonidas was invoked by the ultra-nationalist paramilitary organisations in Cyprus that fought against the British colonial rule and for the union with Greece from the 1950s to the 1970s [ΕOKA A and ΕOKA Β], and it features in the rhetoric of the National Popular Front [ΕΛAM], a contemporary ultra-right Cypriot party.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>4</head><p>The research is predominantly based on the audiovisual material available through the official channels of GD, whilst also making use of the published political speeches of its leader Nikolaos Michaloliakos. The earliest documentation is from the commemoration ceremony in 2008, after GD resumed its activity as an organised political party. However, these gatherings date back to the late 1990s.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>5</head><p>The court case started in April 2015 and ended in October 2020 after 454 sessions. A total of 68 officials and members of GD, among which 18 former lawmakers, were found guilty of crimes, including the murder of the anti-fascist rapper Pavlos Fyssas in 2013 and the attempted murders of migrants, unionists, and members of the Communist Party of Greece. 6 Michaloliakos maintained that the swastika-resembling meander the party used as its emblem was an ancient Greek symbol. Quoted in <ref type="bibr">(Paraskeva-Veloudogianni 2015, p. 316). 7</ref> Excerpts from the courtroom transcripts are available on the website and social media of Golden Dawn Watch, an initiative aimed at making the hearings available to the Greek public in real time.  The name of the party refers to Ioannis Metaxas's regime that was established after a self-coup on the 4th of August 1936.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">Xρυσή</forename><surname>Aίµα</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Aυγή</surname></persName>
+		</author>
+		<ptr target="https://goldendawnwatch.org/" />
+	</analytic>
+	<monogr>
+		<title level="m">Golden Dawn Girls. Documentary. Faction Film. 95 min. Golden Dawn Watch, website. Available online</title>
+		<imprint>
+			<date type="published" when="2017-02-26">2017. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Xρυσή Aυγή-Θερµoπύλες</title>
+		<imprint>
+			<date type="published" when="2008">2008. 2008</date>
+		</imprint>
+	</monogr>
+	<note>Golden Dawn-Thermopylae</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Youtube</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=hL2loK4HMxo" />
+		<imprint>
+			<date type="published" when="2008-08-26">August 2008. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Xρυσή Aυγή-Kλείσιµo τελετής µνήµης Θερµoπύλες 2012 [Golden Dawn-Ending of Memory Ceremony Thermopylae</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">uploaded by Chrysi Avgi-Laïkos Syndesmos</title>
+		<author>
+			<persName><surname>Youtube</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/" />
+	</analytic>
+	<monogr>
+		<title level="m">watch?v= 1oKr180HzdU</title>
+		<imprint>
+			<date type="published" when="2012-08-26">26 August 2012. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Xρυσή Aυγή: Mνήµη Θερµoπυλών</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Golden Dawn: Memory of Thermopylae 2013 1/2</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Youtube</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=bmLoYNDJIV4" />
+		<imprint>
+			<date type="published" when="2014-07-26">July 2014. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">Xρυσή</forename><surname>Aυγή</surname></persName>
+		</author>
+		<title level="m">Mνήµη Θερµoπυλών</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note>Golden Dawn: Memory of Thermopylae 2013 2/2</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><surname>Youtube</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=EGRIJ9YMgn" />
+		<title level="m">Θερµoπύλες 2014: Εθνικóς ΄Υµνoς-΄Υµνoς Xρυσής Aυγής</title>
+		<imprint>
+			<date type="published" when="2014-07-24">24 July 2014. 26 February 2022</date>
+		</imprint>
+	</monogr>
+	<note>uploaded by imediavideos Thermopylae 2014: National Anthem-Anthem of Golden Dawn</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Uploaded</forename><surname>Youtube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chrysi</forename><surname>By</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avgi</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=wvdkXP_0p3Y" />
+		<imprint>
+			<date type="published" when="2014-07-28">28 July 2014. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><surname>Θερµoπύλες</surname></persName>
+		</author>
+		<title level="m">Aιώνια τιµή και δóξα στoυς µεγάλoυς νεκρoύς</title>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>Thermopylae 2015: Eternal Honour and Glory to the Great Deceased</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Uploaded</forename><surname>Youtube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chrysi</forename><surname>By</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avgi</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=rIx5S3Ezjs" />
+		<imprint>
+			<date type="published" when="2015-09-05">5 September 2015. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Θερµoπύλες 2016-Ολóκληρη η εκδήλωση τιµής και µνήµης [Thermopylae 2016-Full Ceremony of Honour and Memory</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Uploaded</forename><surname>Youtube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chrysi</forename><surname>By</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avgi</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=MGV0sQHGFts" />
+		<imprint>
+			<date type="published" when="2016-09-03">3 September 2016. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><surname>Θερµoπύλες</surname></persName>
+		</author>
+		<title level="m">Ολóκληρη η εκδήλωση τιµής και µνήµης</title>
+		<meeting><address><addrLine>Thermopylae</addrLine></address></meeting>
+		<imprint>
+			<publisher>Full Ceremony of Honour and Memory</publisher>
+			<date type="published" when="2017">2017. 2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Uploaded</forename><surname>Youtube</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Chrysi</forename><surname>By</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avgi</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=7H-771WCVm8" />
+		<imprint>
+			<date type="published" when="2016-09-09">9 September 2016. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ολóκληρη η εκδήλωση [Thermopylae 2018-Full Ceremony]. YouTube, uploaded by Chrysi Avgi</title>
+		<author>
+			<persName><surname>Θερµoπύλες</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=-JdtlvRGUj8" />
+	</analytic>
+	<monogr>
+		<title level="m">Tα λάβαρα της Xρυσής Aυγής επέστρεψαν στις Θερµoπύλες</title>
+		<imprint>
+			<date type="published" when="2018-02-26">2018. 22 September 2018. 26 February 2022</date>
+		</imprint>
+	</monogr>
+	<note>The Banners of Golden Dawn Returned to Thermopylae!</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">2021: Mεγαλειώδης συγκέντρωση της Xρυσής Aυγής στις Θερµoπύλες έσπειρε πανικó στα MMΕ [2021: Grandiose Gathering of Golden Dawn at Thermopylae Spread Panic in the Media], YouTube, uploaded by Chrysi Avgi-Laïkos Syndesmos</title>
+		<author>
+			<persName><forename type="first">Chrysi</forename><surname>Youtube</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Avgi-Laïkos Syndesmos</surname></persName>
+		</author>
+		<ptr target="https://www.youtube.com/watch?v=xnGxS3IWDw4" />
+		<imprint>
+			<date type="published" when="2020-09-07">7 September 2020. 26 February 2022. 6 September 2021. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">Aristotle</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Excavating Modernity: The Roman Past in Fascist Italy</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Halliwell</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Cambridge</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Joshua; Ithaca</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="1995">1995. 2012</date>
+			<biblScope unit="page">3141</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Extreme-right Responses to the European Economic Crisis in Denmark and Sweden: The Discursive Construction of Scapegoats and Lodestars. Javnost-The Public</title>
+		<author>
+			<persName><forename type="first">Tina</forename><surname>Askanius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Yiannis</forename><surname>Mylonas</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/13183222.2015.1017249</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the European Institute for Communication and Culture</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="55" to="72" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The Ritual Core of Fascist Theatre: An Anthropological Perspective</title>
+		<author>
+			<persName><forename type="first">Günter</forename><surname>Berghaus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fascism and Theatre: Comparative Studies on the Aesthetics and Politics of Performance in Europe</title>
+		<editor>
+			<persName><forename type="first">Günter</forename><surname>Berghaus</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Berghahn Books</publisher>
+			<date type="published" when="1925">1996. 1925-1945</date>
+			<biblScope unit="page" from="39" to="71" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">And Bloodshed Must be Done&quot;: Heavy Metal and Neo-Nazism in Greece</title>
+		<author>
+			<persName><forename type="first">Dimitrios</forename><surname>Bormpoudakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitris</forename><surname>Dalakoglou</surname></persName>
+		</author>
+		<idno type="DOI">10.1386/jgmc_00026_1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Greek Media and Culture</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="27" to="48" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Excitable Speech: A Politics of the Performative</title>
+		<author>
+			<persName><forename type="first">Judith</forename><surname>Butler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Routledge</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Greek Lyric III: Stesichorus, Ibycus, Simonides, and Others</title>
+		<author>
+			<persName><forename type="first">David</forename><forename type="middle">A</forename><surname>Campbell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Greeks, Romans, Germans: How the Nazis Usurped Europe&apos;s Classical Past</title>
+		<author>
+			<persName><forename type="first">Johann</forename><surname>Chapoutot</surname></persName>
+		</author>
+		<editor>Richard R. Nybakken</editor>
+		<imprint>
+			<date type="published" when="2008">2016. 2008</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Oakland</pubPlace>
+		</imprint>
+	</monogr>
+	<note>First published</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Those Who Lived and Died like Heroes. A Banner Greater than Death</title>
+		<author>
+			<persName><forename type="first">Der</forename><surname>Stürmer</surname></persName>
+		</author>
+		<ptr target="https://www.flashlyrics.com/lyrics/der-sturmer/those-who-lived-and-died-like-heroes-16" />
+		<imprint>
+			<date type="published" when="2006-02-26">2006. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The Library of History: Books IX-XII</title>
+		<author>
+			<persName><forename type="first">Sicily</forename><surname>Diodorus</surname></persName>
+		</author>
+		<editor>Charles Henry Oldfather. Cambridge and London</editor>
+		<imprint>
+			<date type="published" when="1946">1946</date>
+			<publisher>Harvard University Press</publisher>
+			<biblScope unit="volume">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Post-Digital Cultures of the Far Right: Online Actions and Offline Consequences in Europe and the US</title>
+		<editor>Fielitz, Maik, and Nick Thurston</editor>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Transcript Verlag</publisher>
+			<pubPlace>Bielefeld</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">Erika</forename><surname>Fischer-Lichte</surname></persName>
+		</author>
+		<title level="m">Theatre, Sacrifice, Ritual: Exploring Forms of Political Theatre</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Hailing a Racial Kinship: Performances of Greek Tragedy during the Third Reich. In Tragedy&apos;s Endurance: Performances of Greek Tragedies and Cultural Identity in Germany Since 1800</title>
+		<author>
+			<persName><forename type="first">Erika</forename><surname>Fischer-Lichte</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page" from="143" to="181" />
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Greek Elegiac Poetry: From the Seventh to the Fifth Centuries BC</title>
+		<author>
+			<persName><forename type="first">Douglas</forename><forename type="middle">E</forename><surname>Gerber</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">Emilio</forename><surname>Gentile</surname></persName>
+		</author>
+		<title level="m">The Struggle for Modernity: Nationalism, Futurism, and Fascism</title>
+		<meeting><address><addrLine>Westport and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Praeger</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">H άκρα δεξιά στην Ελλάδα 1965-2018 [The Far Right in Greece 1965-2018]</title>
+		<author>
+			<persName><forename type="first">Vasiliki</forename><surname>Georgiadou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>Kastaniotis</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">The Nature of Fascism</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Griffin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A Working Definition: Fascism as a Revolutionary Form of Nationalism</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Griffin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fascism</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polity Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="26" to="55" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">Yannis</forename><surname>Hamilakis</surname></persName>
+		</author>
+		<title level="m">The Nation and Its Ruins: Antiquity, Archaeology, and National Imagination in Greece</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">Jeffrey</forename><surname>Herf</surname></persName>
+		</author>
+		<title level="m">Reactionary Modernism: Technology, Culture, and Politics in Weimar and the Third Reich</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Books VIII-IX</title>
+		<author>
+			<persName><surname>Herodotus</surname></persName>
+		</author>
+		<editor>Alfred Denis Godley. Cambridge and London</editor>
+		<imprint>
+			<date type="published" when="1925">1925</date>
+			<publisher>Harvard University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Was Classical Sparta a Military Society?</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sparta and War</title>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Anton</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Swansea</addrLine></address></meeting>
+		<imprint>
+			<publisher>Classical Press of Wales</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="111" to="162" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Sparta and Nazi Germany in Mid-20th-Century British Liberal and Left-Wing Thought</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sparta: The Body Politic</title>
+		<editor>
+			<persName><forename type="first">Anton</forename><surname>Powell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Swansea</addrLine></address></meeting>
+		<imprint>
+			<publisher>The Classical Press of Wales</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="297" to="342" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Sparta: An Exceptional Domination of State over Society?</title>
+		<author>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to Sparta</title>
+		<editor>
+			<persName><forename type="first">Anton</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="29" to="57" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Source: The Library of the Hellenic Parliament</title>
+		<author>
+			<persName><forename type="first">[h</forename><surname>Vradyni</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Βραδυνή</surname></persName>
+		</author>
+		<ptr target="https://digitallib.parliament.gr/display_doc.asp?item=47356&amp;seg=" />
+		<imprint>
+			<date type="published" when="1941-07-01">1941. July 1. 3 January 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Toward a National Heterotopia: Ancient Theaters and the Cultural Politics of Performing Ancient Drama in Modern Greece</title>
+		<author>
+			<persName><forename type="first">Eleftheria</forename><surname>Ioannidou</surname></persName>
+		</author>
+		<idno type="DOI">10.1353/cdr.2010.0023</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Drama</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">45</biblScope>
+			<biblScope unit="page" from="385" to="403" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Mε τις µέλισσες ή µε τoυς λύκoυς: Aγóρευση στη δίκη της Xρυσής Aυγής</title>
+		<author>
+			<persName><forename type="first">Thanasis</forename><surname>Kambagiannis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Antipodes</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>With the Bees or with the Wolves: Oral Pleading at the Trial of Golden Dawn</note>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Genetic Origins of the Minoans and Mycenaeans</title>
+		<author>
+			<persName><forename type="first">Iosif</forename><surname>Lazaridis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alissa</forename><surname>Mittnik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nick</forename><surname>Patterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Swapan</forename><surname>Mallick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nadin</forename><surname>Rohland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Saskia</forename><surname>Pfrengle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anja</forename><surname>Furtwängler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alexander</forename><surname>Peltzer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cosimo</forename><surname>Posth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Andonis</forename><surname>Vasilakis</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature23310</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Donatello among the Blackshirts: History and Modernity in the Visual Culture of Fascist Italy</title>
+		<editor>
+			<persName><forename type="first">Claudia</forename><surname>Lazzaro</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Roger</forename><forename type="middle">J</forename><surname>Crum</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell University Press</publisher>
+			<date type="published" when="2005">2017. 2005</date>
+			<biblScope unit="volume">548</biblScope>
+			<biblScope unit="page" from="214" to="218" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><surname>Losemann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Volker</surname></persName>
+		</author>
+		<title level="m">The Contribution of Ancient Sparta to Political Thought and Practice</title>
+		<editor>
+			<persName><forename type="first">Nikos</forename><surname>Birgalias</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Kostas</forename><surname>Buraselis</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Cartledge</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Athens</addrLine></address></meeting>
+		<imprint>
+			<publisher>Alexandreia</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="449" to="463" />
+		</imprint>
+	</monogr>
+	<note>Sparta in the Third Reich</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Redeeming the Text: The Validity of Comparisons of Classical and Postclassical Literature (A View from Britain)</title>
+		<author>
+			<persName><forename type="first">Charles</forename><surname>Martindale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arion: A Journal of Humanities and the Classics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="45" to="75" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">Frederick</forename><forename type="middle">W</forename><surname>Mayer</surname></persName>
+		</author>
+		<title level="m">Narrative Politics: Stories and Collective Action</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Fascist Aesthetics and Society: Some Considerations</title>
+		<author>
+			<persName><forename type="first">George L ;</forename><surname>Mosse</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mosse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>George</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002200949603100202</idno>
+	</analytic>
+	<monogr>
+		<title level="m">The Crisis of German Ideology: Intellectual Origins of the Third Reich</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Howard Fertig. First published</publisher>
+			<date type="published" when="1964">1996. 1998. 1964</date>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="245" to="252" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">The Fascist Revolution: Toward a General Theory of Fascism</title>
+		<author>
+			<persName><forename type="first">George</forename><forename type="middle">L</forename><surname>Mosse</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Howard Fertig</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">From Ancient to Modern: The Myth of Romanità during the Ventennio Fascista: The Written Imprint of Mussolini&apos;s Cult of the &apos;Third Rome</title>
+		<author>
+			<persName><surname>Nelis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-01">Jan. 2011</date>
+			<publisher>Brepols Publishers</publisher>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Back to the Future: Italian Fascist Representations of the Roman Past</title>
+		<author>
+			<persName><surname>Nelis</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/22116257-00301001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fascism: Journal of Comparative Fascist Studies</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="2014-01">Jan. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Tα «καθαρά χέρια» της Xρυσής Aυγής: Εϕαρµoγές ναζιστικής καθαρóτητας [The &apos;Clean Hands&apos; of Golden Dawn: Applications of Nazi Purity]</title>
+		<author>
+			<persName><forename type="first">Kostis</forename><surname>Papaioannou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Metaichmio</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><surname>Paraskeva-Veloudogianni</surname></persName>
+		</author>
+		<title level="m">O εχθρóς, τo αίµα, o τιµωρóς: Aναλύoντας δεκατρείς λóγoυς τoυ «αρχηγoύ» της Xρυσής Aυγής</title>
+		<meeting><address><addrLine>Athens</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nisos</publisher>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note>The Enemy, the Blood, the Punisher: Analysing Thirteen Speeches of the &apos;Leader&apos; of Golden Dawn</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">The Five Stages of Fascism</title>
+		<author>
+			<persName><forename type="first">Robert O ;</forename><surname>Paxton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dimitris</forename><surname>Plantzos</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/235001</idno>
+	</analytic>
+	<monogr>
+		<title level="m">To πρóσϕατo µέλλoν: H κλασική αρχαιóτητα ως βιoπoλιτικó εργαλείo [The Recent Future: Classical Antiquity as a Biopolitical Tool</title>
+		<meeting><address><addrLine>Athens</addrLine></address></meeting>
+		<imprint>
+			<publisher>Nefeli</publisher>
+			<date type="published" when="1998">1998. 2016</date>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Lycurgus</title>
+		<author>
+			<persName><surname>Plutarch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lives: Theseus and Romulus, Lycurgus and Numa</title>
+		<editor>
+			<persName><forename type="first">Bernadotte</forename><surname>Perrin</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Cambridge</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1914">1914</date>
+			<biblScope unit="page" from="203" to="304" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<author>
+			<persName><forename type="first">Konstantinos</forename><surname>Poulis</surname></persName>
+		</author>
+		<ptr target="http://politicalcritique.org/world/2017/golden-dawn-and-the-classics/" />
+		<title level="m">Golden Dawn and the Classics. Krytyka Polityczna and European Alternatives</title>
+		<imprint>
+			<date type="published" when="2017-05-30">2017. May 30. 26 February 2022</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">H µαύρη βίβλoς της Xρυσής Aυγής</title>
+		<author>
+			<persName><forename type="first">Dimitris</forename><surname>Psarras</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Polis</publisher>
+			<pubPlace>Athens</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Black Bible of the Golden Dawn</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">Dimitris</forename><surname>Psarras</surname></persName>
+		</author>
+		<title level="m">O αρχηγóς: To αίνιγµα τoυ N. Mιχαλoλιάκoυ [The Leader: The Enigma of N. Michaloliakos</title>
+		<meeting><address><addrLine>Athens</addrLine></address></meeting>
+		<imprint>
+			<publisher>Polis</publisher>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">From Thermopylae to Stalingrad: The Myth of Leonidas in German Historiography</title>
+		<author>
+			<persName><forename type="first">Stefan</forename><surname>Rebenich</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sparta: Beyond the Mirage</title>
+		<editor>
+			<persName><forename type="first">Anton</forename><surname>Powell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Stephen</forename><surname>Hodkinson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Swansea</forename><surname>London</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Classical Press of Wales</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="323" to="349" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Roche</surname></persName>
+		</author>
+		<title level="m">Sparta&apos;s German Children: The Ideal of Ancient Sparta in the Royal Prussian Cadet-Corps, 1818-1920, and in National-Socialist Elite Schools (the Napolas)</title>
+		<meeting><address><addrLine>Swansea</addrLine></address></meeting>
+		<imprint>
+			<publisher>Classical Press of Wales</publisher>
+			<date type="published" when="2013">2013</date>
+			<biblScope unit="page" from="1933" to="1945" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Brill&apos;s Companion to the Classics, Fascist Italy and Nazi Germany</title>
+		<author>
+			<persName><forename type="first">Helen</forename><surname>Roche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kyriakos</forename><forename type="middle">N</forename><surname>Demetriou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Brill</publisher>
+			<pubPlace>Leiden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">Alfred</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<title level="m">Der Mythus des 20. Jahrhunderts: Eine Wertung der seelisch-geistigen Gestaltenkämpfe unserer Zeit</title>
+		<meeting><address><addrLine>Munich</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1930">1934. 1930</date>
+		</imprint>
+	</monogr>
+	<note>The Myth of the 20th Century: An Evaluation of the Spiritual-Intellectual Confrontations of Our Age</note>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title level="m" type="main">The Myth of the 20th Century</title>
+		<author>
+			<persName><forename type="first">Alfred</forename><surname>Rosenberg</surname></persName>
+		</author>
+		<editor>Thomas Dalton. Clemens &amp; Blair, LLC</editor>
+		<imprint>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note>Translated from 1937 German edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Herodotus and the Dating of the Battle of Thermopylae</title>
+		<author>
+			<persName><forename type="first">Kenneth S ;</forename><surname>Sacks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anthony</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S0009838800033127</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Ethno-Symbolism and Nationalism: A Cultural Approach. London and</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="1976">1976. 2009</date>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="232" to="248" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">The Golden Dawn&apos;s &apos;Nationalist Solution&apos;: Explaining the Rise of the Far Right</title>
+		<author>
+			<persName><forename type="first">Sofia</forename><surname>Vasilopoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Daphne</forename><surname>Halikiopoulou</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Palgrave Macmillan</publisher>
+			<pubPlace>Greece. New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title level="m" type="main">Magie und Manipulation: Ideologischer Kult und Politische Religion des Nationalsozialismus [Magic and Manipulation: Ideological Cult and Political Religion of National Socialism]</title>
+		<author>
+			<persName><forename type="first">Klaus</forename><surname>Vondung</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Vandenhoeck &amp; Ruprecht</publisher>
+			<pubPlace>Göttingen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Constitution of the Lacedaemonians</title>
+		<author>
+			<persName><surname>Xenophon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Scripta Minora</title>
+		<editor>
+			<persName><forename type="first">Cardew</forename><surname>Edgar</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Marchant</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Cambridge</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Harvard University Press</publisher>
+			<date type="published" when="1925">1925</date>
+			<biblScope unit="page" from="135" to="189" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Not All Dead White Men: Classics and Misogyny in the Digital Age</title>
+		<author>
+			<persName><forename type="first">Donna</forename><surname>Zuckerberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

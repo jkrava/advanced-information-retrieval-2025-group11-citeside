@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">71DADD567844986F1F7FDD48250804E9</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The eruption of Vesuvius of 79 AD caused extensive destructions all over the Campanian area, engulfing the cities of Pompeii, Herculaneum, Oplonti and Stabiae. The eruption followed a long quiescence period and the inhabitants of the area were surprised by the volcanic events. The first part of the eruption was characterized by a widespread dispersal of pumices from a high eruptive column. The second part of the eruption, characterized by pyroclastic flows emplacement, caused the major damages with extensive life losses in most of the towns surrounding the volcano. In Pompeii, the major casualties during the first phase resulted from roof collapses; during the second phase, people were killed either by physical trauma due to the kinetic energy of the flow or by suffucation because of the ash-rich atmosphere.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The sequence of events during the 79 AD eruption of Vesuvius</head><p>Vesuvius is one of the most studied volcanoes in the world, because of its long time interval with historic eruptions (2000 years), its easy accessibility, and the first well-documented historic explosive eruption: that of 79 AD. The eruption destroyed Pompeii, Herculaneum, Oplonti and Stabiae and caused the death of Pliny the Elder among many other people.</p><p>Before the eruption, earthquakes occurred for some time, but were disregarded by local inhabitants because of their familiarity with the phenomenon. As the younger Pliny testified, "for several days before (the eruption) the earth had been shaken, but this fact did not cause fear because this was a feature commonly observed in Campania". The effects of these earthquakes are still visible in several buildings in Pompeii, and Villa Regina, where hastened repair works were underway in the days immediately preceeding the eruption.</p><p>The main phases of the eruption have been described by Pliny the Younger, who observed the eruption from a distance of more than 25 km, basing also on contemporary testimonies and closer view accounts, especially for what regards the death of the uncle, Pliny the Elder, gone to the rescue of the inhabitants of the area.</p><p>The beginning of the eruption is uncertain: the two Plinys observed the cloud at the seventh hour of the day (1 PM). We must presume that the eruption began sometime earlier to allow the arrival, at about the same hour, of a messenger sent from the Vesuvian area.</p><p>The eruptive cloud was directly observed from Misenum at a distance of 21 km, so that they could fully appreciate its total extent and behavior. ("It resembled a pine [Mediterranean pine] more than any other tree. Like a very high tree, the cloud went high and expanded in different branches. I believe, because it was first driven by a sudden gust of air then, with its diminution or because of the weight, the cloud expanded laterally, sometimes white, sometimes dark and stained by the sustained sand and ash".</p><p>During the night of the first day of the eruption, and for most of the morning of the next day, the houses of Misenum were shaken by earthquakes that caused much panic.</p><p>In the morning of the second day of eruption, Pliny the Younger observed the development of pyroclastic flows descending down the flanks of Vesuvius and flowing on the sea. "From the other side, black and horrible clouds, broken by sinuous shapes of flaming winds, were opening with long tongues of fire … . After a little while descended onto the land, opened the sea, covered Capri and prevented the sight of Misenum …"</p><p>The sequence of events described by the Younger Pliny fits well the geologic record of the eruption <ref type="bibr" target="#b3">(Lirer et al., 1973;</ref><ref type="bibr" target="#b10">Sigurdsson et al., 1985)</ref>.</p><p>We can summaryze the temporal evolution of the eruption into major phases which are typical of most large scale explosive eruptions. 1 The first phase, after minor phreatic explosions, is characterized by the development of an high, sustained column where the erupted mixture of juvenile gases and pyroclasts, mixing turbulently with atmospheric air, rises convectively into the stratosphere reaching an estimated maximum height of 32 km. 2 The second phase is characterized by the collapse of the eruptive column with the emplacement of pyroclastic flows and surges which destroyed every settlement within a radius of 10-15 km from the volcano. 3 Collapse of the magma chamber, ingression of water into the feeding system, magma water interaction and final phreato-magmatic activity. 4 Post-eruption remobilization of ashes and pumice by rain water during the following years.</p><p>The four phases are identified by their typical deposits (Figure <ref type="figure">1</ref>).</p><p>• The first phase produced a fall deposits consisting of a lower part of well-sorted white pumice and an upper part of gray pumice dispersed to the southeast of the volcano and traced on land to a distance of more than 70 km <ref type="bibr" target="#b3">(Lirer et al., 1973)</ref>.</p><p>• The deposits of the second phase consist of surge deposits made of layers of thin, poorly-sorted ash with cross bedding, and dune structures alternated with pyroclastic flow deposits made by thick and massive layers partly indurated and poorly sorted <ref type="bibr" target="#b10">(Sigurdsson et al., 1985)</ref>.</p><p>• Silty sands beds with abundant accretionary lapilli form the deposit of the third phase. In proximal areas a debris flow deposit consisting of angular lava and carbonate blocks supported by an ash matrix with minor pumices is correlated with this phase <ref type="bibr" target="#b10">(Sigurdsson et al., 1985</ref><ref type="bibr" target="#b9">, Sheridan et al., 1981)</ref>.</p><p>by Lisetta Giacomelli 1, Annamaria Perrotta 2 , Roberto Scandone 3 , and Claudio Scarpati 2</p><p>The eruption of Vesuvius of 79 AD and its impact on human environment in Pompeii</p><p>1 Gruppo Nazionale di Vulcanologia, Via Nizza 128, 00193 Roma, Italy. 2 Dipartimento di Geofisica e Vulcanologia, Largo San Marcellino 10, 80138, Napoli, Italy. 3 Dipartimento di Fisica, Università di Roma Tre, 00146, Roma, Italy.</p><p>• The deposits of the fourth phase are a succession of lahars made up of a conglomerate composed of coarse pebbles with a matrix composed of small pebbles and coarse sand <ref type="bibr" target="#b4">(Lirer et al., 2001)</ref>. <ref type="bibr" target="#b2">Carey and Sigurdsson (1987)</ref> estimated the height of the eruption column during the development of the Plinian phase basing on the isopleth distribution of maximum diameters of pumice and lithic fragments. They estimated that the eruption column rose from an height of 14 km to 26 km during the emission of white pumice and then to 32 km during the emission of grey pumice immediately before the deposition of pyroclastic flows. The estimates of the column heights permitted the evaluation of the corresponding magma discharge rates.</p><p>Scandone and Giacomelli (2001) used the estimates of <ref type="bibr" target="#b2">Carey and Sigurdsson (1987)</ref> to evaluate the temporal evolution of the eruption fed by a 7-12 km deep magma chamber. The progressive removal of magma in the course of the eruption caused a slow boiling of magma within the chamber because of decompression. This in turn produced a faster and faster emission rate until the final collapse of the wall surrounding the reservoir. Scandone and <ref type="bibr" target="#b5">Giacomelli (2001)</ref> evaluated the duration of the first phase at approximately 22 hours (several hours longer than previously estimated basing on average effusion rates). During this phase there was a steady increase in magma discharge rate. The second and most destructive phase with the massive emplacement of the major pyroclastic flows and surges lasted only about 5-6 hours.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>State of the buildings and distribution of victims inside the city of Pompeii</head><p>The city of Pompeii was destroyed and many of its inhabitants were killed during the 79 AD eruption. Several authors have reconstructed the succession of products emplaced during the eruption (e.g. <ref type="bibr" target="#b3">Lirer et al., 1973;</ref><ref type="bibr" target="#b10">Sigurdsson et al., 1985;</ref><ref type="bibr" target="#b2">Carey and Sigurdsson, 1987)</ref> but the stratigraphic framework used here largely follows that of <ref type="bibr">Luongo et al. (2002a</ref><ref type="bibr">Luongo et al. ( , 2002b) )</ref> which specifically studied the impact of this eruption on Pompeii. In the following paragraphs we summarise the damage suffered by population and buildings during the first two phases of the eruption and report the stratigraphic height at which were recovered human bodies and crumbled walls. The main sedimentological characteristics of the 79 AD deposit are reported in Figure <ref type="figure" target="#fig_0">2</ref>. On the basis of these characteristics the deposit has been subdivided in 8 units named A to H from base upwards; a soil at the top of the sequence (unit I) is also reported.</p><p>The state of the buildings all over the city is summarised in the following observations: a) the amount of destruction is not the same throughout the city, some buildings were more affected than others; b) the northern (relatively proximal) and southern (relatively distal) sectors in the city were generally affected in the same way; c) the ground floor is partly intact in most of the buildings, whereas the upper floor is almost completely demolished; d) the E-W oriented walls are by far more damaged than those striking N-S; e) in many cases, the northern vent-facing part of the buildings was more damaged than the southern one; f) most of the destruction is stratigraphically related to unit E.</p><p>As shown in Table <ref type="table">1</ref>, 394 corpses were found in the pumice fall deposit and 650 in the pyroclastic density currents (PDCs) deposit. So a total of 1044 victims were recovered inside 2/3 of the city of Pompeii (the excavated part). Other 100 victims are estimated on the basis of many groups of scattered bones. Finally, considering the regions partially excavated (I, III, IV, V, IX) an estimate of 464 corpses still buried is obtained. Furthermore, it is meaningful to document the amount of victims with respect to their location (e.g. inside or outside the buildings). Most of the corpses within the pumice fall deposit were found inside buildings (80% as shown in Table <ref type="table">1</ref>), whereas of the 650 corpses recovered in the PDCs deposit 334 were found inside buildings and 316 outdoor (Table <ref type="table">1</ref>). <ref type="bibr">Luongo et al. (2002b)</ref>, on the basis of recent excavation, state that all human casts in the PDCs deposit lie over the well-recognisable lithic-rich unit D, enclosed within unit E (Figure <ref type="figure" target="#fig_0">2</ref>). These corpses are mostly intact and only few corpses are partially or fully dismembered. In the still preserved outcrops of Pompeii and in the photographs of the Pompeii Archive, most of the casts lay prone in the attempt to shelter their face; it is noteworthy that in some places (e.g. garden of fugitives, Regio I, Insula 21; Stabian house, Regio I Insula 22) human casts show the head and the bust supported by arms, with this raised part of the body at higher stratigraphic level within E1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 1 General stratigraphic section of the 79 AD eruption deposits based on the reconstruction of Sigurdsson et al. (1985) in the main outcrops surrounding the Vesuvian area.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The effects of the 79 AD eruption on Pompeii</head><p>The process of Pompeii's destruction and burial started with the accumulation of a thick pumice lapilli deposit (layers A and B in Figure <ref type="figure">1</ref>) resulting from the column fallout. The rate of deposition in the city ranged from 15 cm per hour in open areas to 25/30 cm per hour in places accumulating additional pyroclasts rolling from the steeper roofs. Within six hours from the beginning of the eruption the roofs and part of the walls of the buildings had collapsed under the pumice load. By the morning of 25 August most structures were seriously damaged; the pumice fall deposit, generally 3 m thick, totally buried the lower part of the buildings. The percentage of victims (38%) found in this deposit at Pompeii is anomalously high with respect to a mean of 4% of deaths caused by tephra fallout in the last four centuries during explosive eruptions <ref type="bibr" target="#b0">(Blong, 1984;</ref><ref type="bibr" target="#b11">Tanguy et al., 1999)</ref>. This high percentage of deaths is possibly due to the attempt of some people to take shelter into buildings where roofs and walls collapsed under the load of the pyroclastic material. The small percentage of people found dead outdoor within the pumice fall deposit was probably killed by the crumbling roof tiles or by the largest lithic fragments following ballistic paths.</p><p>The first PDC flowed through the city depositing the basal ash layer C and causing irrelevant damages. Based on the evidence that all of the human remains lie above this deposit, it can be deduced that people were not killed by the earlier PDC (units S4 and S5 of <ref type="bibr" target="#b10">Sigurdsson et al., 1985)</ref>. The inhabitants survived also to the successive fallout phase that emplaced the lithic-rich layer D and some</p><p>Table 1 Total of corpses found in the pumice fall deposit and in the stratified ash and pumice PDCs deposit (into buildings and outdoor places) at Pompeii. External areas Regio I Regio II Regio III Regio IV Regio V Regio VI Regio VII Regio VIII Regio IX Unknown location Subtotal Total Indoor areas (a) 17 66 12 9 1 40 41 59 21 69 10 345 (88%) Outdoor places (b) 17 9 7 1 2 5 5 1 2 49 (12%) Indoor areas (a) 49 86 26 11 39 33 43 43 4 334 (51%) Outdoor places (b) 70 41 73 4 16 35 14 51 7 5 316 (49%) Total 153 202 118 13 2 67 117 111 120 120 21 1044 394 (38%) 650 (62%) Victims in the Fall deposit Victims in the PDC deposit</p><p>were able to walk outdoor during the emplacement of the basal part of the unit E. In fact, we found the victims several centimetres above the base of this unit. Possibly, the parental pyroclastic current ran over the city with a low-temperature, dilute frontal part settling progressively few centimetres of ash. The rear part of the current had a non-uniform behaviour in terms of concentration, possibly due to the canalization of the basal part of the current along the longitudinal walls of the buildings. Inside these areas the current showed a greater destructive power, flattening most of the (especially transversal) walls, standing out of the pumice fallout deposit, in its north-south path. In the areas outside the channels the current had essentially a depositional behaviour engulfing the city and suffocating the inhabitants. These opposed behaviour of the PDC in very close areas testify to the different kinetic conditions undergone by the Pompeii inhabitants and hence the different physical integrity of their corpses. Observations on objects, cloths, frescoes and skeletons rule out the possibility that burn injuries contributed to kill Pompeii inhabitants, as recently proposed for Herculaneum inhabitants <ref type="bibr">(Capasso et al., 2000;</ref><ref type="bibr" target="#b8">Mastrolorenzo et al., 2001)</ref>. Furthermore, the proposed non-uniform behaviour of PDCs, due to the interaction with the urban structures, justifies the described different state of destruction of the buildings throughout the city.</p><p>A final phreatomagmatic phase, punctuated by two minor lithic fall episodes, emplaced the upper part of the succession (F to H units). Field features, such as the presence of accretionary lapilli in the upper part of the ash and pumice deposit and the lack of high temperature evidences in the buildings, support the idea of low emplacement temperature for the pyroclastic currents during the final phase of the eruption.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Stratigraphic section of the 79 AD deposits at Pompeii with lithofacies characteristics and emplacement mechanisms reported for each layer. The maximum thickness for each unit is represented. On the right, a human cast near the casa del Criptoportico (photo from the Archives of the Soprintendenza Archeologica di Pompeii) stays above a well-exposed stratigraphic sequence (unit B to E1). Above: Campanian Plain with Somma-Vesuvius volcanic complex and the city of Pompeii. Pompeii map and location of regions (roman numbers). Unornamented areas represent unexcavated regions.</figDesc><graphic coords="3,65.69,404.17,453.29,332.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="2,38.77,95.88,331.37,348.00" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Blong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<publisher>Academic Press</publisher>
+			<biblScope unit="page">411</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Capasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Capasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Caramiello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>D'anastasio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Di Domenicantonio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Di Fabrizio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Di Nardo</surname></persName>
+		</author>
+		<title level="m">La Verghetta, M., 2000, Paleobiologia della popolazione di Ercolano</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="288" to="296" />
+		</imprint>
+	</monogr>
+	<note>Recenti Progessi in Medicina</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Temporal variations in column height and magma discharge rate during the 79 A</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sigurdsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geol. Soc. Am. Bull</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="303" to="314" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note>D. eruption of Vesuvius</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Two plinian pumice-fall deposits from Somma-Vesuvius</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pescatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P L</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geol. Soc. Am. Bull</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="759" to="772" />
+			<date type="published" when="1973">1973</date>
+			<pubPlace>Italy</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Occurrence of inter-eruption debris flow and hyperconcentrated flood-flow deposits on Vesuvius volcano</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lirer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vinci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Alberico</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gifuni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bellucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petrosino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Interri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Italy: Sediment. Geol</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="151" to="167" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Slow boiling of magma chambers and the dynamics of explosive eruptions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Giacomelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scandone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Volcanol. Geoth. Res</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="121" to="136" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">2002a, Impact of 79 AD explosive eruption on Pompeii I: relations amongst the depositional mechanisms of the pyroclastic products, the framework of the buildings and the associated destructive events</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarpati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Volcanology and Geothermal Research</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">2002b, Impact of 79 AD explosive eruption on Pompeii II: causes of death of the inhabitants inferred by stratigraphical and areal distribution of the human corpses</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarpati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Carolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Patricelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ciarallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Volcanology and Geothermal Research</title>
+		<imprint>
+			<publisher>In press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mastrolorenzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Petrone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pagano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Incoronato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Canzanella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fattore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Herculaneum victims of Vesuvius in AD</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">769</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A Model of plinian eruptions of Vesuvius</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Sheridan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barberi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Santacroce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">289</biblScope>
+			<biblScope unit="page" from="282" to="285" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The eruption of Vesuvius in A</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sigurdsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cornell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pescatore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Geo. Res</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="332" to="387" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J-C</forename><surname>Tanguy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ribière</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Scarth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tjetjep</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Volcanol</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="137" to="144" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

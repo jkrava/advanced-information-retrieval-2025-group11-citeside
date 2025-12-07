@@ -129,14 +129,3 @@ def get_citations(paper: Dict[str, Any]) -> Dict[str, Any]:
 
                 "citations": citations
             }
-
-
-N = 20 
-path = Path(r"Datasets\Training Data\s2orc\shard1\shard1.jsonl")
-output_path = Path(r"Datasets\Training Data\s2orc\shard1\citations_shard1.json")
-
-with output_path.open("w", encoding="utf-8") as out:
-    for paper in iterate_papers(path, N): 
-        citations = get_citations(paper)
-        out.write(json.dumps(citations, ensure_ascii=False, indent=2))
-        out.write("\n\n") 

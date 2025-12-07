@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Spartan King Leonidas and the Delphian Prophecy</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Editura Universitatii Alexandru Ioan Cuza din Iasi</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2024">2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Larisa</forename><surname>Pechatnova</surname></persName>
+						</author>
+						<title level="a" type="main">The Spartan King Leonidas and the Delphian Prophecy</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">STUDIA ANTIQUA ET ARCHAEOLOGICA</title>
+						<title level="j" type="abbrev">saa</title>
+						<idno type="ISSN">1224-2284</idno>
+						<idno type="eISSN">2392-6031</idno>
+						<imprint>
+							<publisher>Editura Universitatii Alexandru Ioan Cuza din Iasi</publisher>
+							<biblScope unit="volume">30</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="37" to="49"/>
+							<date type="published" when="2024" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">43DC74F0B08AC010711878857829C0D4</idno>
+					<idno type="DOI">10.47743/saa-2024-30-1-2</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Delphic oracle</term>
+					<term>Thermopylae</term>
+					<term>Sparta</term>
+					<term>Spartan kings</term>
+					<term>Leonidas</term>
+					<term>Herodotus</term>
+					<term>Plutarch</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The article examines the Delphic prophecy, which, as ancient authors believed, concerned the Spartan king Leonidas and was associated with the events at Thermopylae in 480 BC 2 . Herodotus quotes this oracle both in prose and in poetic retelling . Researchers have considerable doubts about the authenticity of both versions. We sought to prove that the two versions of the prophecy arose at different times: one, prosaic, and most likely authentic, appeared before Thermopylae, and the second, fabricated in Delphi, probably by order of the royal family of the Agiads, appeared after Thermopylae. It is important to emphasize that the Delphic prophecy, in which the death of the king was declared a condition for the salvation of Sparta, became an integral part of the myth of Leonidas. With the help of this heroic myth, Sparta skillfully transformed the defeat at Thermopylae into a victory for the Spartan spirit. The myth of Leonidas became a central part of the patriotic education of Spartan citizens.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>When we explore any topic concerning the relationship between the Delphic Oracle and the Greek poleis during the Greco-Persian Wars, our main literary source is Herodotus. This statement is fully true for the topic that is the main subject of our research. In this article we will try to assess the authenticity of the Delphic oracle, given to Sparta, according to Herodotus, before the start of one of the most famous and tragic episodes of the Greco-Persian Wars -the battle of Thermopylae in 480. Among modern researchers, the authenticity of this oracle, conveyed by ancient authors both in prose form and in poetic retelling, raises many doubts. The circumstances of the emergence of this prophecy and its various interpretations in ancient sources are also the subject of discussion in the latest literature. We should note that this topic is part of an important plot for the history of Sparta -the influence of the oracle of Apollo in Delphi on the strengthening and growth of the authority of royal power in Sparta<ref type="foot" target="#foot_2">foot_2</ref> .</p><p>We will consider another topic that is directly related to the problem of the authenticity of the prophecy in question, namely the degree of influence of this oracle on the decisions made by the Spartan king Leonidas.</p><p>Since the prophecy that interests us directly concerns the fate of Leonidas, we will turn first of all to the story of Herodotus, as the most valuable evidence. King Leonidas<ref type="foot" target="#foot_3">foot_3</ref> , who led the allied army, is the central figure in Herodotus' account of the Battle of Thermopylae. Since Herodotus's text is not always amenable to unambiguous interpretation, we are faced with a number of problems that require solutions. In this regard, the question arises as to what considerations Leonidas was guided by when he made the by no means easy and, from a military point of view, very controversial decision to remain at Thermopylae after he learned that the enemies had entered his rear. Solution of this problem is also the goal of our work. Along the way, we will consider a number of subjects that are in one way or another related to the main topics of the article.</p><p>We know extremely little about Leonidas. Although by 480 Leonidas had been in power for about 10 years, nothing is known about his activities before Thermopylae. Perhaps this circumstance is due to the reluctance of the Spartans to discredit Leonidas, who became a national hero after Thermopylae. But what could Leonid be accused of? Despite the lack of direct evidence, some researchers have suggested that King Cleomenes I, Leonidas's half-brother, did not commit suicide, but became the victim of a conspiracy headed by Leonidas as the person most interested in the death of his brother. With caution and reservations, D. Harvey leans towards this version 5 and it is also supported by P. Cartledge. In his opinion, a possible explanation for Cleomenes' death is that this king 'was murdered, and on the orders of the man who succeeded him on the Agiad throne, his younger half-brother, Leonidas. The story about his neat wine-drinking might then have been a mere propaganda smokescreen to cover up the fact of the murder of a king, whose person was sacrosanct, and the complicity in that murder of another king' 6 . I. E. Surikov shares the same opinion. According to him, Cleomenes was declared crazy on the initiative of relatives, among whom were not only his brothers Leonidas and Cleombrotus, but also Cleomenes' daughter and Leonidas' wife, Gorgo<ref type="foot" target="#foot_5">foot_5</ref> . Although Herodotus does not support this version, it cannot be completely ruled out. A hint of this option can be the words of Herodotus that 'Leonidas had gained the kingship at Sparta unexpectedly' (ἐξ ἀπροσδοκήτου) (VII. 204, hereinafter translated by A. D. Godley)<ref type="foot" target="#foot_6">foot_6</ref> .</p><p>Let us now turn directly to the events at Thermopylae. As Herodotus testifies, for the first two days the Greeks successfully repelled the attacks of the Persians and even inflicted significant losses on the Persian army. Apparently, the forces at Thermopylae were sufficient to repel the Persian attacks in a bottleneck (Her. VII. 202-203: the number of allies who came with Leonidas to Thermopylae).</p><p>However, the Persian detachment of the so-called Immortals, led by the noble Persian Hydarnes, was able to walk along the mountain path and find themselves in the rear of the Hellenes. Herodotus reports on the reaction of the leaders of the allied detachments who learned that the Persians were in their rear. According to him, there was no consensus among them about the current situation: 'Some advised not to leave their post, but others spoke against them. They eventually parted, some departing and dispersing each to their own cities, others preparing to remain there with Leonidas' (VII. 219. 2). From this laconic evidence, it follows that part of Leonidas' army simply deserted. But in the next chapter, Herodotus rehabilitates those who left, saying, 'that Leonidas himself sent them away because he was concerned that they would be killed' (VII. 220. 1). True, this rehabilitation is of dubious order. Herodotus explains Leonidas' decision to let his allies go as follows: 'I, however, tend to believe that when Leonidas perceived that the allies were dispirited and unwilling to run all risks with him, he told then to depart' (VII. 220. 2) <ref type="foot" target="#foot_7">9</ref> .</p><p>But Herodotus gives one more explanation of Leonidas' decision, strange from a military point of view, to send away the allied contingents: the king, already aware of the inevitability of death, wished 'to win distinction (κλέος) for the Spartans alone' (VII. 220. 4). However, this explanationunwillingness to share glory with allies -most likely came later, as a romantic version of Leonidas' action. The emphasis in Spartan propaganda, at least since the time of Tyrtaeus, was on the importance of physical fitness, training and ability to fight in the hoplite phalanx. Courage and obedience were recognized as the highest virtues. In this concept, the search for military glory did not occupy an important place<ref type="foot" target="#foot_8">foot_8</ref> .</p><p>So, the main motive of Leonidas, who made the fatal decision to fight and die heroically in battle, was the imperative learned from childhood, which ordered the Spartiates to never turn their backs on the enemy. Apparently, Leonidas at the last military meeting could well explain his firm decision to stay and take the fight by the fact that he 'felt it not fitting for himself and the Spartans to desert that post which they had come to defend at the beginning' (VII. 220. 1). Obedience as a great virtue comes to the fore and in the famous epitaph to the dead Spartiates, quoted by Herodotus:</p><p>'Foreigner, go tell the Spartans that we lie here obedient to their commands (τοῖς κείνων ῥήμασι)' (VII. 228. 2). But in the same Herodotus we also find an alternative explanation for this fatal decision of Leonidas to stay and fight until the last warrior: the king allegedly acted this way, strictly following the prediction of the Delphic Apollo. Herodotus states that Leonidas knew about an oracle<ref type="foot" target="#foot_9">foot_9</ref> , received by the Spartans at the very beginning of the Greco-Persian Wars: '… either Lacedaemon would be destroyed by the barbarians or their king would be killed' (ἢ Λακεδαίμονα ἀνάστατον γενέσθαι ὑπὸ τῶν βαρβάρων ἢ τὴν βασιλέα σφέων ἀπολέσθαι) (Her. VII. 220. 3). Noteworthy is the fact that Herodotus did not limit himself to only a short prose version of this prophecy, but also cited its second version -a poetic one<ref type="foot" target="#foot_10">foot_10</ref> :</p><p>For you, inhabitants of wide-wayed Sparta, Either your great and glorious city must be wasted by Persian men, Or if not that, then the bound of Lacedaemon must mourn a dead king, from Heracles' line.</p><p>The might of bulls or lions will not restrain him with opposing strength; for he has the might of Zeus.</p><p>I declare that he will not be restrained until he utterly tears apart one of these'<ref type="foot" target="#foot_11">foot_11</ref> (VII. 220. 4). Herodotus does not doubt the authenticity of this prophecy, according to which the sacrificial death of the king was supposed to be the price of saving Sparta. Later ancient authors also had no doubt about the authenticity of this oracle (Diod. <ref type="bibr">XI. 4. 4;</ref><ref type="bibr">Plut. Pelop. 21)</ref>.</p><p>But Herodotus limited himself to only quoting both versions of the prophecy, without providing their text with any commentary of his own. He also does not say anything about the reaction of the Spartans to the Delphic prophecy, which predicted the death of the king. А. Powell thinks this is very strange. He recalls that the prophecies that were given to Athens at about the same time (VII. 139-43) are completely different, more obscure and mysterious. Moreover, Herodotus fills his account of these oracles with numerous details: he calls Pythia and one of the leading priests by name (VII. 140-141), he gives various interpretations of these prophecies, the meaning of which was unclear to the Athenians (VII. 142-143) 14 .</p><p>The question arises whether the oracle given to the Spartans is genuine or composed after the Battle of Thermopylae. The last assumption is supported by the majority of scientists who have ever touched this problem 15 . The historicity of this prophecy was and still is in doubt, primarily because it is too simple, unambiguous, clear enough and accurately reproduces the situation of the battle of Thermopylae. If we recognize it as false, then the question of chronology arises. When, then, could this oracle appear? H. W. Parke believed that the fake prophecy was composed shortly after Thermopylae in order to morally support the Spartans and strengthen their resilience. In his opinion, it could well have been born with the help of one of the Delphic priests 16 . G. Zeilhofer, in turn, believed that the prophecy arose after the battles of Salamis and Plataea, when the fate of Greece had already been decided and it became possible to declare (as was done in the oracle) that after the death of the king, Sparta was no longer in danger 17 . In any case, it is assumed that the fake appeared in the years immediately after Thermopylae.</p><p>Already the commentators on Herodotus, W. W. How and J. Wells, definitely believed that this oracle was a vaticinium post eventum. In their opinion, this prediction is incompatible with the behavior of Leonidas during the entire military campaign 18 . J. Evans does not recognize the authenticity of this oracle either. He believes that 'the oracle of Herodotus 7.220 bears every mark of a vaticinium post eventum, designed to restore morale in Greece after the defeat at Thermopylae…' 19 . Leonidas, deciding to fight to at Thermopylae, could not be guided by this prophecy, since it simply did not exist then. Otherwise, as J. Evans 20 assures, the king would not 14 POWELL 2009, 41-42.  15 The authenticity of the oracle was already disputed by K. J. Beloch <ref type="bibr">(BELOCH 1916, 91-93)</ref> and Ed. Meyer <ref type="bibr">(MEYER 1954, 348, Anm. 1)</ref>. 16 PARKE, WORMELL 1956, II, 44.  17 ZEILHOFER 1959, 22.  18 Leonidas was sent at the head of a small Spartan force as an advance guard to encourage members of the Peloponnesian League to join him. (Her. VII. 202). The Spartans planned to send a larger army to help Leonidas after the Carneia had been celebrated. Apparently, the Peloponnesian allies intended to do the same after the end of the Olympic Games . The fact that this help was never sent, Herodotus explains by the too rapid development of events at Thermopylae (VII. 206. 2). 19 EVANS 1964, 231.  20 EVANS 1964, 232.  have left the troops of the Thespians 21 and Thebans 22 in his ranks. The only condition for the salvation of Sparta was the death of the king alone. The oracle did not require anything more. Even the death of his squad was already excessive.</p><p>Another explanation for the appearance of a fake prophecy is given by J. E. Fontenrose. In his opinion, this prophecy is a replica of the original -an oracle from the mythical history of Athens, where we are talking about King Kodros, who saved Athens at the cost of his own life: 'This is surely a post eventum composition…, and it repeats the theme of L49… The heroic death of Leonidas and his small company at Thermopylae recalled the old legend: Leonidas, like Kodros, had willingly died to save his city. So Q152 was composed as the oracle needed to fit Leonidas' heroism to the Kodros legend' 23 .</p><p>In recent times, researchers have tended to be quite cautious in assessing the authenticity of the oracle in question. Thus, Marcello Lupi believes that at least the metrical version of the prophecy cannot be unequivocally assessed: 'I sette versi che lo compongono non paiono, in verità, lasciare molti dubbi in merito a se l'oracolo sia o meno post eventum ('The seven poetic lines, whoever composed them, in truth, leave much doubt whether this oracle is post eventum or not') 24 . However, the too clear reference to the death of the king, continues M. Lupi, makes us rather inclined to interpret the poetic oracle as appearing post eventum 25 .</p><p>N. Richer 26 shares the same opinion and A. Powell. The latter believes that the name 'Leonidas' corresponds to the lion mentioned in the poetic oracle. And this accordance, as A. Powell thinks, is too exact to be genuine. The authenticity of this prophecy also raises strong doubts due to the lack of features characteristic specifically of the Delphic oracles: double-meanings, difficult to understand allegories, variability of possible interpretations 27 .</p><p>There are fewer supporters of the authenticity of this prophecy, especially its poetic version. So, for L. E. Rossi, the only guarantee of the authenticity of poetic prophecy was the presence in the text of 'technical incorrectness and stylistic ugliness' 28 . However, his arguments do not seem particularly convincing to us. Another way to 'save' the oracle is to try to connect its appearance with another historical context. According to D. Kienast, it is not prophecy itself that should be 21 Seven hundred hoplites from Boeotian Thespiae turned out to be the only allied detachment that voluntarily and enthusiastically remained with Leonidas when all the other allies left, not wanting to be surrounded and killed by the Persians. Perhaps the citizens of Thespiae were so actively involved in the fight against the Persians out of a desire to oppose themselves to Thebes, whose pro-Persian sentiments and actions were well known.</p><p>22 As for the Thebans, a detachment of whom also remained with Leonidas, it is difficult to say in what capacity the Spartan king retained them, as hostages, as Herodotus asserts (VII. 222), or as volunteers, according to the defender of the Boeotians Plutarch (Mor. 867a-b = De Her. Mal. 33). This question remains controversial. 23 FONTENROSE 1978, 78. For this mythical story, see: Her. VII. 25. 2; Cic. Tusc. disput. I. 116; Justin. II. 6. 20. 24 LUPI 2014, 357. 25 LUPI 2014, 359. 26 RICHER 2007, 250. 27 POWELL 2009, 41. 28 ROSSI 1981, 208-209.</p><p>recognized as a later invention, but the interpretation that Herodotus gives it. A German researcher attributes the origin of this oracle to an earlier episode of Spartan history and connects it with King Demaratus, who was removed from royal power through the intrigues of his colleague in office, Cleomenes I. After the events at Thermopylae, this prophecy, according to D. Kienast, began to be associated with King Leonidas 29 .</p><p>After this brief overview, we will suggest that both versions of the oracle, prosaical and poetical, arose at different times. The prose version could indeed have appeared, as Herodotus testifies, if not at the very beginning of the war, then at the beginning of the invasion of Xerxes (VII. 220. 3) 30 , and the second, poetic version was definitely a prophecy appeared post factum. Analysis of the poetic prophecy clearly indicates that it was composed when both the outcome of the battle and the mutilation of the king's corpse were already known. And the mention of 'the might of lions', of course, hints at the commander-in-chief Leonidas.</p><p>But if this is so, what prompted the Delphic priests to give the first prose prediction? Perhaps, as has happened more than once in the history of the relationship between the Spartan kings and the Delphic Oracle 31 , the main interested party and in this case was the king. Leonidas was no longer young around 480. He had only recently become king, and before that, apparently, he had been intriguing against his half-brother, King Cleomenes. At least, he was suspected of it. During his reign, Leonidas apparently looked for any opportunity to somehow distinguish himself. When faced with a serious military threat from Xerxes' army, it was he who probably went to Delphi for advice and help from the deity. Leonidas most likely wanted to lead the allied army himself and for this he really needed a prophecy suitable for such an occasion. The king hoped that, thanks to the unambiguous prophecy received at Delphi, it would be he, and not his younger colleague Leotychides (reigned 491-469), who would achieve the desired appointment from the ephors. It happened exactly as Leonidas had planned. He probably managed to convince the ephors of the advisability of appointing him as commander-in-chief of the allied forces. It is quite possible that he used the prophecy he received at Delphi as an argument in his favor. It is worth noting that the prose oracle, as well as the poetic one, are built exclusively around the figure of the Spartan king. 29 KIENAST 1995, 125. See also: KULISHOVA 2001, 265-266; 2001а, 25.  30 One cannot count on the absolute accuracy of Herodotus' chronology. 31 For example, the oracle at Delphi helped Agiad Cleomenes I get rid of his rival and enemy, King Demaratus. Cleomenes won over to his side Cobon, 'a man of great influence among the Delphians', and got the answer he needed from the Pythia (Her. VI. 66. 2). There may have been bribery involved. The Delphic priests helped restore power to Agiad Pleistoanax, who was caught taking a bribe from an enemy (he ruled, with a long break, from 459 to 409) (Thuc. <ref type="bibr">II. 21. 1;</ref><ref type="bibr">V. 16. 3;</ref>. It was rumored that Pleistoanax, burdened by his fate as an exile, turned to Delphi for help and received it (Thuc. V. 16. 2). The rehabilitation of Agiad Pausanias, regent and hero of Plataea, also appears to be linked to the Delphic oracle: the Spartans were repeatedly asked to give Pausanias a dignified burial and erect two monuments in his honor <ref type="bibr">(Thuc. I. 134. 4;</ref> (for the special connection between the Agiad dynasty and Delphi in the 5th century, see especially: <ref type="bibr">DIMAURO 2008, 57-59)</ref>.</p><p>The prophecy speaks of the death of the king as a necessary condition for the salvation of Sparta. There is not a word in it about the necessity of his entire detachment dying along with him. Perhaps, immediately after the needless death of three hundred Spartans (and this is how it might have looked and been perceived in Sparta), Leonidas' decision to remain surrounded and die did not seem so clear-cut. At first, the Spartans hardly appreciated the colossal moral resource that Sparta became the owner of, as it turned out, for many centuries. But the loss of three hundred citizens was a huge blow to Sparta and significantly accelerated the already begun process of oliganthropy (ὀλιγανθρωπία -'a few men') 32 .</p><p>Probably when the prophecy came true, the Agiad family began to develop their own interpretation of the events that took place at Thermopylae. It was the Agiads who apparently created the tradition according to which Leonidas committed an act of self-sacrifice (devotio). However, their interpretation probably differed somewhat from the state point of view. It seems that different emphasis was placed: the Agiad family particularly emphasized the feat of Leonidas, while the official version focused exclusively on the feat of the three hundred Spartans who died with the king 33 . Both traditions, although different from each other, had Spartan origins. Thus, in the years immediately following Thermopylae, a poetic version of the short prose oracle appears (not without the participation of the Agiads), where the theme of the king's death takes on an epic tone. The Agiads were probably again helped by the Delphic oracle, with which the family had long-standing friendly ties 34 .</p><p>By the time of Herodotus, the romanticized image of Leonidas as a hero and pious king, selflessly sacrificing himself for the sake of saving his homeland, had already taken shape. This is evident from the unconditionally positive assessment that Herodotus gives to Leonidas. The historian places the king extremely highly, claiming that he was highly admirable as a military leader (VII. 204). It is clear from the context that Herodotus was referring to his military talents. To his assessment, he adds the genealogy of Leonidas, listing all his ancestors back to Heracles (VII. 204). Leonidas' divine origin brings him closer to the Homeric heroes and gives Herodotus's story of Thermopylae an epic scale. This Homeric flavor is further enhanced in Herodotus's story of Leonidas' death and the struggle for his body (VII. <ref type="bibr">[224]</ref><ref type="bibr">[225]</ref>  35 .</p><p>According to Herodotus, Leonidas is an excellent commander, not a suicide who destroyed himself and his entire detachment. Herodotus's entire story, as his commentators have noted, 'only implies danger not self-immolation' 36 . Herodotus does not even hint that the fatal prophecy was a guide to action for Leonidas. Only in later historiography, did the concept of the heroic death of 32 By Spartiate oliganthropia is meant the catastrophic reduction of the civilian population of Sparta, which Xenophon already drew attention to (Lac. pol. 1. 1) (see more details: DORAN 2018, 1-106). 33 LUPI 2014, 354.  34 LUPI 2014, 353-354; LUPI 2018, 279.  35 ZALI 2021, 238.  36 HOW and WELLS 1912, Comm. on VII. 221.  Leonidas and his detachment fully take shape and acquire details. And only then did the version emerge that Leonidas, knowing about his future fate, almost joyfully went to meet it. Thus, Plutarch reports that 'before Leonidas went forth to that war, the Spartans exhibited to him funeral games, at which the fathers and mothers of those that went along with him were spectators' (Plut. Mor. 866b = De Her. Mal. 32, translated by W. W. Goodwin) 37 . There is no such evidence in Herodotus.</p><p>Leonidas and his army were awarded honors that no one in Sparta had ever received before. Spartan youth was educated by their example. It is not without reason that Leonidas' tomb was placed in the center of Sparta, near the agora and the sanctuary of Athena (Paus. III. 14. 1) 38 . There was also a stele with the names of the Spartans who died with him 39 , each of whom, according to Herodotus, he knew by name <ref type="bibr">(VII. 224)</ref>. This means that the historian has already witnessed the perpetuation of their memory. However, Herodotus does not mention the stele with their names. Apparently, this stele did not yet exist in Herodotus's time. It is very likely that the process of perpetuating the names of the heroes of Thermopylae, having begun as an oral process, was later formalized in the form of an inscription on this stele 40 . All the Spartans who died at Thermopylae were revered as heroes even in Roman times (IG V. 1. 660) 41 . Plutarch explains the tradition of 'bury their dead within the city, and to have memorials of them near the sacred places' by the need to strengthen visual propaganda and bring it closer to the Spartan youth. According to Plutarch, Lycurgus did this in order to 'fill the city full of good examples…' (Lyc. 27. 1-2). Leonidas may have been the first Spartan to be honored with a separate monument located outside the burial site of the Agiads 42 .</p><p>Sparta made significant efforts to transform the military defeat at Thermopylae into a victory for its political and moral values. The behavior of Leonidas and his detachment was recognized in 37 According to Herodotus, 'he (Leonidas -L.P.) now came to Thermopylae with the appointed three hundred he had selected, all of whom had sons' (VII. 205. 2). If καὶ τοῖσι ἐτύγχανον παῖδες ἐόντες is not a later interpolation, then apparently Leonidas, instead of his usual retinue, consisting of three hundred Spartan 'horsemen' (ἱππεῖς), selected the same number of ordinary Spartans who already had sons and were not part of the Spartan Hippeis <ref type="bibr">(LAZENBY 2012, 68-70)</ref>. Such an act is quite understandable. The enterprise was indeed associated with increased risk, and the value of the lives of the few Spartans, especially the hippeis, was quite high. The Spartan Hippeis were an elite troop of three hundred young men between the ages of 20 and 29 who belonged to the 'most distinguished houses' of Sparta (ἐκ τῶν ἐπιφανεστάτων οἴκων) (Dionys. Hal. Ant. Rom. II. 13. 1). They guarded the king on campaign (Her. <ref type="bibr">VIII. 124. 3;</ref><ref type="bibr">Thuc. V. 72. 4;</ref><ref type="bibr">Xen. Lac. Pol. 4. 3)</ref>, but were also used within Sparta to carry out particularly important government assignments (Xen. Hell. III. 3. 9). Leonidas retained the traditional size of his retinue, but changed its composition. 38 The placement of graves in the city center was a permitted act, sanctioned according to tradition by Lycurgus (Plut. Mor. 238d = Inst. Lac. 18). 39 LUPI 2018, 279.  40 ALLGAIER 2022, 101-102.  41 GENGLER 2011, 153-154.  42 Burials within city limits were considered exceptional during the classical period. Few were granted this honour: for example, Brasidas at Amphipolis (Thuc. V. 11. 1), Euphron at Sicyon (Xen. Hell. VII. 3. 12), Timoleon at Syracuse (Plut. Tim. 29).</p><p>Sparta as exemplary and became the ethical imperative that was accepted as obligatory for any true Spartan. According to A. Powell, 'it may be that Sparta's most unusual achievement involving Thermopylae was to create a myth which would propel her own men to generally successful, if often fatal, bravery in the future' 43 .</p><p>The success of patriotic education based on such models can be judged by the example of Callicratidas, the navarch of 406/5, who succeeded Lysander in this post (Xen. Hell. I. 6. 1; Diod. XIII. 76; Plut. Lys. 6). Callicratidas was predicted to die in battle. His death was seen as a condition for the Spartans' victory, which is very reminiscent of the story of Leonidas and Thermopylae. In the aphorism which Plutarch attributes to Callicratidas, the idea is clearly evident that the state is greater and more valuable than the individual: 'Sparta doth not depend on one man; my country will receive no great loss by my death, but a considerable one by my yielding to the enemy' (Plut.</p><p>Mor. 222f = Apoph. Lac. 43. 6, translated by W. W. Goodwin) 44 . In Plutarch and Diodorus, unlike Xenophon, we find a fully formed romantic image of Callicratidas, ready to die to save his fatherland 45 .</p><p>The myth of Leonidas and his detachment, of course, was not just a myth. Behind it was hidden a certain reality, but it was highly stylized and simplified, following the example of any patriotic propaganda. An integral part of this myth was an oracle in which the death of its king was declared the condition for the salvation of Sparta. Although Herodotus gives both versions of this prophecy as authentic, we have tried to show that, most likely, the prose and poetic versions arose at different times. The first short version may indeed have appeared, as Herodotus testifies (VII. 220. 3), at the very beginning of the Greco-Persian Wars. Leonidas and his dodgy wife Gorgo could theoretically have had something to do with the emergence of such a prophecy, although this in any case remains in the realm of speculation. The second, poetic version, arose already after Thermopylae. It represents an important part of the campaign that began after Thermopylae to glorify the heroes of Thermopylae 46 . Judging by the content of the poetic version, it probably appeared thanks to the efforts of the royal family of the Agiads, to which Leonidas belonged. The Agiads were extremely interested in rehabilitating Leonidas, interpreting the death of his entire detachment as the greatest feat of courage and fortitude of the Spartans. The poetic variant of the prophecy is essentially a commentary on the first short version. It contains the justification of Leonidas, who had no other choice but to sacrifice himself, and at the same time his comrades, for the sake of saving Sparta. It is quite possible that this oracle was created through the manipulations of one of the Delphic priests, friendly to the Agiads. 43 POWELL 2018, 24.  44 In Diodorus, Callicratidas declares before the naval battle of Arginusae that he is ready to die (ἕτοιμός ειμι τελευτᾶν) according to the prophecy he has received (XIII. 97. 4-98. 2). 45 SCOTT 2015, 76.  46 Let us recall that at the site of the Battle of Thermopylae, a whole complex of tombstones with epitaphs was erected, three of which are quoted by Herodotus (VII. 228).</p><p>As for the influence of the prose oracle on the decisions made by Leonidas, we believe that there was no such influence at all. Herodotus does not say a word about Leonidas as a military leader acting under the influence of this prophecy. On the contrary, Herodotus portrays the Spartan king as a talented military leader who made strategically correct decisions. It is not without reason that the historian asserts that '...the one most admired ... was a Lacedaemonian, Leonidas...' (VII. 204), referring specifically to his military leadership abilities. Apparently, Leonidas, not being superstitious, could nevertheless use prophecies, especially Delphic ones, to achieve his goals<ref type="foot" target="#foot_12">foot_12</ref> , but he did not necessarily follow them in his activities. Now let us turn to the question of what considerations guided Leonidas in deciding to remain at Thermopylae even after he learned that he would soon be surrounded. We came to the conclusion that Leonidas's main motive was the firmly established idea from childhood that it was impossible for a Spartiate to flee and show his back to the enemy. Not only the Spartans themselves were convinced of this, but all of Greece believed in it. According to Thucydides, 'they (the Greeks -L.P.) had thought that Spartans would never surrender their arms, in starvation or any other extremity, but would use them to the last of their strength and die fighting' (IV. 40. 1, translated by M. Hammond). The Spartans were raised on the heroic deeds of their ancestors, which included the value of a glorious death in battle. The heroic death of a Spartan glorified not only himself<ref type="foot" target="#foot_13">foot_13</ref> , but also his entire family and was a source of great pride for all the relatives of the deceased (Xen. Hell. VI. 4. 16). So, for Leonidas, as well as for his detachment, consisting only of the Spartiates, apparently the question of retreat simply did not arise.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>St. Petersburg State University, Institute of History, Russia; email: l.pechatnova@spbu.ru. ORCID -orcid.org/0000-0001-037X</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>All dates here and below are BC.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>According to ancient literary tradition, of all the Greek poleis, Sparta that was most closely connected with the famous sanctuary at Delphi, not only religiously, but also in military-political terms.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>Leonidas (c.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_4"><p>540-480) belonged to the royal family of the Agiads and was the son of Anaxandridаs II (c. 560 -c. 520). Anaxandridаs had three sons from his first marriage -Dorieus, Leonidas and Cleombrotus, and from his second marriagethe future king Cleomenes I (Her. V. 39-41; Paus. III. 3. 9). Leonidas was married to Gorgo, the daughter of his half-brother Cleomenes I, and had a son with her, Pleistarchus (Her. V. 41. 48; VII. 205; IX 10). Since the death of Cleomenes has been dated variously, between 491 and 488, the date of Leonidas's accession to the throne is uncertain(LUPI 2018, 275). He became king at about fifty years of age (for his age, see: GRANT 1961, 21).5 HARVEY 1979, 253-260.  6 CARTLEDGE 2002, 89.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p>SURIKOV 2005, 266.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p>For a discussion of the murder or suicide of Cleomenes I, see:HUXLEY 1962, 143, n. 603; GRIFFITHS 1989, 26-51.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p>A. Powell believes that Herodotus' account of Leonidas voluntarily sending away his allies may be an idealized false story(POWELL 2018, 14).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p>HOOKER 1989, 133.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p>The volume of sacred power of the Spartan kings was enormous by Greek standards. The Spartan kings, as high priests of the community, constantly interacted with the Delphic oracle and kept records of the oracle's answers (Xen. Lac. pol. 15. 1-4). Apparently, the kings not only received predictions, but also interpreted them, and, if necessary, withheld dangerous or secret information. For more information about the relationship between the Delphic Oracle and Sparta, see:KULISHOVA  2001, 264-266.    </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_10"><p>According to Strabo, at Delphi there was a practice of translating prose oracles into tonic ones: '…the Pythian priestess receives the breath and then utters oracles in both verse and prose, though the latter too are put into verse by poets who are in the service of the temple' (Strab. IX. 3. 5. Р. 419, translated by H. L. Jones).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_11"><p>πρὶν τῶν δ᾽ ἕτερον διὰ πάντα δάσηται -verbat. 'Before one of them is completely torn to pieces'. This last line uses the verb διαδάπτομαι (with tmesis), meaning 'to tear apart', 'to tear to pieces'. Herodotus' commentators see in it a hint of the mutilation of Leonidas's corpse, carried out on the orders of the enraged Xerxes(HOW, WELLS 1912, on VII. 220. 4).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="47" xml:id="foot_12"><p>The Spartan basileis, judging by the actions of some of them, for example, Cleomenes I (Her. 75. 3;[79][80][81], were not particularly religious and were not superstitious. This is explained by the fact that they enjoyed greater freedom than the other Spartiates, and differed from them in many respects. In particular, they were the only Spartans exempted from long-term stay in barracks schools (Plut. Ages. 1. 1) and the law prohibiting Spartans from freely leaving the country did not apply to them (Xen. Lac. pol. 14. 4). Our sources are unanimous in the fact that the Spartan kings more than once tried to solve their private problems with the help of the Delphic oracle. In times of dire need, the kings managed to interfere even in the process of creating prophecies, asking Zeus at Dodona or Apollo at Delphi such questions to which they could receive only one answer, the one they needed (for example, Agesilaus II: Plut. Mor. 208f-209a; Agesipolis I: Xen. Hell. IV. 7. 2). Manipulation of divination seems to have been a common practice among Spartan kings. Apparently, in their mentality they were very different from their God-fearing and extremely superstitious fellow citizens. It would have taken a lot of cynicism for any Spartan king to decide to bribe the Pythia and fabricate a prediction that would be beneficial to him.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="48" xml:id="foot_13"><p>The names of ordinary Spartans were not written on their graves (Plut. Lyc. 27. 2), unlike those who fell in battle, whose names were engraved on tombstones (Plut. Mor. 238 d = Inst. Lac. 18).</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The Thermopylae Epigrams and the Politics of Memorialisation (7. 228). Idem. Embedded Inscriptions in Herodotus and Thucydides</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Allgaier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Beloch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Griechische Geschichte, 2. Aufl. II, 2. Strassburg. CARTLEDGE, P. 2002. The Spartans: an epic history</title>
+		<meeting><address><addrLine>Wiesbaden; London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1916">2022. 1916</date>
+			<biblScope unit="page" from="74" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Re contro. La rivalità dinastica a Sparta fino al regno di Agide II. Alessandria: Edizioni dell&apos;Orso. DORAN, T. 2018. Spartan oliganthropia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Dimauro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ancient History</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="106" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Delphic oracle, its responses and operations, with a catalogue of responses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A S</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Fontenrose</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Leonidas and the heroes of Thermopylae: memory of the dead and identity in Roman Sparta</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Cavanagh</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Cavanagh</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Roy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Nottingham. GRANT</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1964">1964. 1978. 25 April 2009</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="14" to="27" />
+		</imprint>
+	</monogr>
+	<note>The &apos;final problem&apos; at Thermopylae. Greek, Roman and Honouring the Dead in the Peloponnese Proceedings of the conference held in Sparta 23 Byzantine Studies</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Was Kleomenes Mad?</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Griffiths</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Classical Sparta: Techniques behind her success</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<biblScope unit="page" from="26" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Leonidas the Regicide? Speculations on the death of Kleomenes I</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Berlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Hooker</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/9783110837629/html</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Classical Sparta, techniques behind her success</title>
+		<editor>
+			<persName><forename type="first">А</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979. 1989</date>
+			<biblScope unit="page" from="122" to="141" />
+		</imprint>
+	</monogr>
+	<note>Hellenic Studies presented to Arktouros Spartan Propaganda</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>How</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wells</surname></persName>
+		</author>
+		<title level="m">A Commentary on Herodotus, II: Books V-IX. Oxford. HUXLEY, G. L. 1962. Early Sparta</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1912">1912</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Die Politizierung des griechischen Nationalbewusstseins und die Rolle Delphis im grossen Perserkrieg</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kienast</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Delphic oracle in the system of ancient interstate relations</title>
+		<editor>
+			<persName><surname>Ch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Schubert</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Brodersen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart. KULISHOVA; Petersburg</addrLine></address></meeting>
+		<imprint>
+			<publisher>VII-V centuries BC). St</publisher>
+			<date type="published" when="1995">1995. 2001</date>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="117" to="133" />
+		</imprint>
+	</monogr>
+	<note>Rom und der griechische Osten in Russian</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The oracle of Delphi in the Greco-Persian conflict. Vestnik drevnei istorii</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">V</forename><surname>Kulishova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ancient History)</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="17" to="35" />
+			<date type="published" when="2001">2001</date>
+			<pubPlace>Mechanicsburg</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Russian). LAZENBY, J. F. 2012. The Spartan army</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Oracoli ed eroicizzazione: il sacrificio, il risarcimento e il recupero delle ossa di Leonida</title>
+		<author>
+			<persName><forename type="first">М</forename><surname>Lupi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Seminari Romani di Cultura Greca n.s. III</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="353" to="370" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A companion to Sparta I, 271-290</title>
+		<author>
+			<persName><forename type="first">М</forename><surname>Lupi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Geschichte des Altertums, 5 nd ed. IV, 1. Darmstadt. PARKE, H. W., WORMELL, D. E. W. 1956. The Delphic oracle, I-II</title>
+		<editor>
+			<persName><surname>Hoboken</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Meyer</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1954">2018. 1954</date>
+			<biblScope unit="page" from="499" to="478" />
+		</imprint>
+	</monogr>
+	<note>Sparta and the Persian Wars</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Divination, royalty and insecurity in Classical Sparta</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="35" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Reconstructing history from secrecy, lies and myth</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Powell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A companion to Sparta I</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hoboken</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="3" to="28" />
+		</imprint>
+	</monogr>
+	<note>Sparta</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The Religious System at Sparta</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Richer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A companion to Greek religion</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Ogden</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="236" to="252" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Gli oracoli come documento di improvvisazione</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Rossi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">I poemi epici rapsodici non omerici e la tradizione orale. Atti del Convegno</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Brillante</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Cantilena</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Pavese</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Padova</publisher>
+			<date type="published" when="1977">1981. Venezia, 28-30 settembre 1977</date>
+			<biblScope unit="page" from="203" to="221" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The Spartan heroic death in Plutarch&apos; Laconian Apophthegms</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hermes. Zeitschrift für klassische Philologie</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="72" to="82" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Ancient Greece: politicians in the context of epoch: Archaic and Early Classical period. Moscow. (in Russian). ZALI, V. 2021. Suspense in Herodotus&apos; narrative of the battle of Thermopylae</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Surikov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Suspense in ancient Greek literature</title>
+		<editor>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Konstantakos</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><surname>Liotsakis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin, Boston. ZEILHOFER, G; Sparta; Erlangen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1959">2005. 1959</date>
+			<biblScope unit="page" from="229" to="241" />
+		</imprint>
+	</monogr>
+	<note>Delphoi und die Amphiktyonen im 5. Jahrhundert vor Christus</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

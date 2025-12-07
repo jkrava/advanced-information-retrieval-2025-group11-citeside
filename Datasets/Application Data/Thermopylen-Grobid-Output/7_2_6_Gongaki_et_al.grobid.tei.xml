@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ASTRONOMICAL CALCULATION OF THE DATING THE HISTORICAL BATTLES OF MARATHON, THERMOPYLAE AND SALAMIS BASED ON HERODOTUS&apos; DESCRIPTION</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Konstantina</forename><surname>Gongaki</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physical Education and Sport Science</orgName>
+								<orgName type="institution">National &amp; Kapodistrian University of Athens</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Panagiota</forename><surname>Preka-Papadema</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Department of Astrophysics, Astronomy and Mechanics</orgName>
+								<orgName type="department" key="dep2">Faculty of Physics National</orgName>
+								<orgName type="institution">Kapodistrian University of Athens</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Konstantinos</forename><surname>Kalachanis</surname></persName>
+							<email>kalahanis@hotmail.com</email>
+							<affiliation key="aff2">
+								<orgName type="institution">New York College</orgName>
+								<address>
+									<settlement>Athens</settlement>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Panagiotis</forename><surname>Antonopoulos</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="institution" key="instit1">ICT Consultant</orgName>
+								<orgName type="institution" key="instit2">InterMediaKT-Interactive Media Knowledge Transfer Patras</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ASTRONOMICAL CALCULATION OF THE DATING THE HISTORICAL BATTLES OF MARATHON, THERMOPYLAE AND SALAMIS BASED ON HERODOTUS&apos; DESCRIPTION</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">98CD5C61E4BD0C5DA106C568B6C1191F</idno>
+					<idno type="DOI">10.5281/zenodo.4465552</idno>
+					<note type="submission">Received: 12/11/2020 Accepted: 12/02/2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Greco-Persian wars</term>
+					<term>Xerxes</term>
+					<term>astronomy</term>
+					<term>Herodotus</term>
+					<term>Artemision</term>
+					<term>battlrfield</term>
+					<term>eclipse</term>
+					<term>Olympic games. Lunar</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An important event of world history is the Greek-Persian war (5th century BC), as its outcome (with the victory of the Greeks) defined the evolution of culture in Greece and in whole Europe. Three battles that determined the course of this multi-year war was the battles of Marathon (490 BC) and of Thermopylae (480 BC) and the naval battle of Salamis (480 BC). Although the year of the above events is known, there is an uncertainty as to the date of their conduct. The purpose of this study is the presice determination of these dates based on the historical descriptions of Herodotus and the use of astronomical knowledge as Herodotus relates these events to great celebrations (Olympic Games, Carneia and Great Eleusinia) which were determined on the basis of the lunar calendars of Greek cities. Also, Herodotus mentions two solar eclipses that were observed at the beginning and end of Xerxes' campaign (480 BC) the dates of which help us to determine the period of this campaign.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">INTRODUCTION</head><p>The Greco-Persian Wars started during the 5 th century BC because Athens and Eretria helped the Ionian cities against king Darius I. After the first failed campaign of 492 BC the Persians came back, 490 BC, occupying various islands in Aegean Sea and the Eretria. However, after they suffered a heavy defeat by the Athenians in Marathon returned to Persia. After the death of king Darius, king Xerxes I invaded Greece, in 480 BC, in order to conquer the whole country. According to <ref type="bibr">Herodotus (VII,</ref><ref type="bibr">138)</ref>,"the king's campaign, only in name, turned against Athens, while really threatened the whole of Greece". His plan is revealed by himself (VII, 8), "I will unite all countries in one, crossing the whole of Europe". But his plan was cancelled. After Thermopylae battle in 480 BC, the united Greeks defeated the Persians in the naval battle of Salamis in 480 BC, and the following year they defeated them completely in Plataea and Mycale. Finally, Persians abandoned their intentions of conquering Greece and Europe. The main source about these critical and important wars is the 'Histories' of the Greek historian .</p><p>The unity of Greek cities was crucial for the deterrence of Persian danger. This is highlighted by the messages of the Greeks, before the battle of Salamis, to Gelon, Tyran of Syracuse 'because if all the Greek cities are united, then Greece becomes a great and resistant power against the enemy (VII, 157). The same was mentioned by Thebans to Mardonius, in the battle of Plataea, 'because with the power, the Greeks, when they are united, have been known for a long time, it is difficult to beat over them and all the people together' <ref type="bibr">(ΙΧ, 2)</ref> The assurance of the freedom of the Greeks, achieved with the victorious outcome of the Persian wars, allowed the Greek cities to develop a high civilization and to spread it throughout the world. Otherwise, our 'developed' world would be different, as the conquest from the east would have leaded him to "barbarian morals and customs" with the ancient Greek meaning of the term. This is the greatest importance of these battles according to all the international analysts.</p><p>Αlthough we know the chronologies of these important battles, as well as several details relating to their conduct, their exact date is not known precisely. Regarding the date of the battle of Marathon, most scholars agree that took place on September 11-12 (e.g. <ref type="bibr" target="#b22">Hammond, 1968)</ref> or August 12 (e.g. <ref type="bibr" target="#b36">Olson et al. 2004)</ref>. Also, about the battle of Thermopylae, they suggest confuse dates such as early August (e.g. <ref type="bibr" target="#b24">Hignett, 1963)</ref>, mid-August-around 17 th -20 th (e.g. <ref type="bibr">Holland, 2006;</ref><ref type="bibr">Cartledge, 2007;</ref><ref type="bibr" target="#b20">Green, 1970;</ref><ref type="bibr" target="#b8">Bradford, 1980;</ref><ref type="bibr" target="#b50">Steele, 1993)</ref> or September (e.g. <ref type="bibr" target="#b21">Greswell, 1827)</ref>. While for the naval battle of Salamis, dates between 22 to 29 of September are referred as possible dates such as September 27-28 (e.g. <ref type="bibr">Busolt, 1908)</ref>, <ref type="bibr">September 21-22, (e.g. Goodwin, 1906)</ref>, September 22-25 (e.g. <ref type="bibr" target="#b39">Papantoniou, 1950)</ref>, September 25 (e.g. <ref type="bibr" target="#b52">Strauss, 2004)</ref>.</p><p>The main purpose of this work is not to describe the already known events (e.g. <ref type="bibr" target="#b29">Lagos and Karyanos, 2020;</ref><ref type="bibr" target="#b12">Cartledge, 2013;</ref><ref type="bibr" target="#b52">Strauss, 2004;</ref><ref type="bibr" target="#b33">Matthews, 2008)</ref> but to determine the exact date of these three important battles. Research methodology includes a) the study of the literary and historical source which is the original text of the 'Histories' of Herodotus, which is the main source for the Persian Wars and b) the use of the science of Astronomy as a methodological tool. Herodotus refers to specific ancient festivals, which are the Olympic Games, Carnea, Yakinthia and the Great Eleusinia, which are determined temporally based on ancient calendars and lunar months. Also, he mentions two solar eclipses, marking the start and the end of the Xerxes' campaign which were used via appropriate software to determine the exact time of the battles. Such methodologies have been used successfully in the field of Archeoastronomy for the purpose of dating events based on astronomical observations (e.g. <ref type="bibr" target="#b37">Papamarinopoulos et al 2012;</ref><ref type="bibr" target="#b18">2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">ASTRONOMICAL DEFINITIONS: A BRIEF TUTORIAL</head><p>The lunar (synodic) month is the time between the two successive same phases of the Moon (e.g. from one full Moon to the next full Moon or from new Moon, to the next new Moon etc.). This time period is 29.530589 days. The ancient Greeks divided the solar year into 12 lunar (synodic) months. Every month had alternately 29 or 30 days. The solar year (~365 days) is the period that the Earth makes an orbit around the Sun or equivalently from an observer on Earth, the period that the Sun makes an orbit around the Earth.</p><p>Actually 12 months of 29.5 days' equals to 354 days. There is a difference of 11 days between solar and lunar year. This difference corrected by adding 3 months during a time interval of 8 years (in 3 rd , 5 th and 8 th year). This critical period named Octaetiris. In the middle of Octaetiris, the Olympic Games took place dividing the 8-year into 49 and 50 lunar months, total 99 months (8 x 12=96, 96+3=99 months). Thus, 99 x 29.5 = 2920.5 days is almost the same with 8 x 365 = 2920 days. We note that the 19-year Metonic cycle which included the intercalary month in a given year was established after the Persian Wars, in 433 BC <ref type="bibr" target="#b31">(Liritzis &amp; Castro, 2013)</ref>.</p><p>According to Pindarus the Olympic Games took place around the full Moon, in summer time <ref type="bibr">(Olympia 3,</ref><ref type="bibr">19 and 10,</ref><ref type="bibr">(74)</ref><ref type="bibr">(75)</ref>. Additionally, according to Scholia SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 in Pindarum <ref type="bibr">(Ol.3,</ref><ref type="bibr">35)</ref>  Perhaps, caused to this point, there are different opinions among the resources, about dating the Olympic Games; if the Olympia took place οn the first or the second full Moon after the summer solstice. However, we should note that in antiquity, there was not a common calendar as used today. Every Greekcity, Persia, Egypt, Mesopotamian countries etc. established their own calendar. The beginning of the year -the New Year' day -was different in each city but was always connected with a solstice [winter or summer] or an equinox (spring or autumn). For example, the Athenian calendar started in the first New Moon after the summer solstice and the calendar of Sparta started in the first New Moon after the autumn equinox. But how actually is defined a solstice and an equinox and which was their significance in antiquity? SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99</p><p>Consider the globe as a three-dimension reference system (latitude and longitude) defined according to the equator and the rotation axis of the Earth. Correspondingly, we consider a celestial sphere with a three dimensional reference system (right ascension and declination) designated from the celestial equator which is the extension of Earth's equator and the axis of the World which is the extension of the rotation axis of the Earth. The north celestial pole is the extension of the Earth's North Pole that marks the Polaris (Figure <ref type="figure" target="#fig_1">1</ref>). According to this reference system the planets (including Earth) perform elliptical orbits around the Sun along the Ecliptic which instead of identifying with the celestial equator forms an angle of 23.27 0 called obliquity of the ecliptic.</p><p>Earth performs an elliptical orbit around the Sun in ~365 days, but the terrestrial observer perceives the Sun rotating around the Earth which defines a solar year. The average duration of a solar year is 365,256363004 mean solar days (365 days, 6 hours, 9 minutes and 9,76 seconds). Because of the obliquity, the Earth's rotation axis is vertical to the equator but not to the ecliptic. This phenomenon causes the four seasons of the year. As a result, during the half year (March 20 th /21 st -September 22 nd /23 rd ) the Northern hemisphere "leans" towards the Sun with the maximum around June 21 st (summer solstice) while the rest half year the Southern hemisphere 'leans' towards the Sun with its maximum in December 21 st (winter solstice). During the solstices the terrestrial observers watch the Sun appearing in the northernmost or southernmost point of the sky. For the Northern Hemisphere the day of the summer solstice is the longest of the year while the winter solstice day is the shortest, except from the regions lying on the Tropics. Moreover, the equinox occurs twice a year, when the Earth passes through the inter chapter points of the ecliptic and the celestial equator. At this point, the sun-earth line is perpendicular to the axis of rotation of the Earth, with the result that day and night has equal duration at any point on the Earth's surface. Spring equinox occurs in 20 th -21 st of March, while the autumn equinox in 22 nd -23 rd of September.</p><p>It is also important to note that the Earth's rotation axis (axis of the World) does not have a fixed direction but performs a circular motion around the imaginary vertical axis of the ecliptic which is completed every ~26000 years. This phenomenon occurs because the Earth is not a perfect sphere, but its rotation is like a whirligig (Fig. <ref type="figure" target="#fig_1">1</ref>).</p><p>In this case, the terrestrial observer watches the celestial sphere rotating around him ~10 / 72 years, a phenomenon known as axial precession which results in the change of the positions of celestial bodies as they are perceived by the observer. The North Celestial Pole was not always directed to the Polaris since gradually moves away to the other constellations (e.g. Cepheus, Lyra, Hercules, Draco etc.). In accordance equinoxes and solstices also change spatially and temporally. Consequently, the today dates of equinoxes and solstices are different from the ones of 5 th century BC (Table <ref type="table">1</ref>).</p><p>Table 1. Solstices &amp; Equinoxes of 2000 AD &amp; 480 BC (Source: 480 BC dates calculated by using Stellarium 0.20.3) Event 2000 AD 480 BC Vernal equinox March 20 March 26 Summer solstice June 21 June 28 Autumnal equinox September 22 September 28 Winter solstice December 21 December 26</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">ASTRONOMICAL DATE OF MARATHON BATTLE AND SPARTAN CELEBRATION OF CARNEA (490 BC)</head><p>Marathon battle was the first great victory of Greeks against the Persians. Herodotus notes that 'These are the first Hellenes whom we know of to use running against the enemy. They are also the first to endure looking at Median dress and men wearing it, for up until then just hearing the name of the Medes caused the Hellenes to panic' <ref type="bibr">(VI,</ref><ref type="bibr">112)</ref>. For those who died at the battle, a tomb was built in order to remind to the next generations the crucial battle that interrupted the course of the Persians in Greece. In the honor of these heroes, the following epigram was written and attributed to the epic poet Simonides of Ceos 'Ἑλλήνων προμαχοῦντες Ἀθηναῖοι Μαραθῶνι, χρυσοφόρων Μήδων ἐστόρεσαν δύναμιν' <ref type="bibr">(Lycurgus,</ref><ref type="bibr">Oratio in Leocratem,</ref><ref type="bibr">109,</ref><ref type="bibr">(8)</ref><ref type="bibr">(9)</ref> which means that 'Champions of the Hellenes, the Athenians at Marathon scattered the might of gold-bearing Medes'. Plutarch (Moralia -De Gloria Atheniensium 347 C) also mentions the story of Pheidippides, the day-runner, who announced to the victory of Marathon in the Athenians. He runned so fast that he exceeded himself and arriving in Athens from Marathon, died, saying only the word 'Νενικήκαμεν-we have won'. The Marathon Road that has been included in the calendar of Athletics and also the revival of the Olympic Games was established in memory of this event. In Greece, this road sport starts from the Marathon tomb and ends in the Stadium where the first 'today's' Olympic Games (1896) were held.</p><p>According to Herodotus (VI, 106), the Athenians, before the battle, ordered Pheidippides to go in Sparta and ask for help, a route that lasted running for 2 days. The Spartans replied that they could not send troops in order not to violate their law according to which in the 9th day of the month they never campaigned, since there was not a full lunar cycle <ref type="bibr">(VI,</ref><ref type="bibr">106)</ref>. Most scholars agree that during these days the feast of Carnea was taking place which was the most SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 prominent feast for the Spartans. Furthermore, according to <ref type="bibr">Herodotus (VI,</ref><ref type="bibr">120)</ref>, after the full Moon, 2000 Spartans arrived in Attica marching for 3 days, but the battle was over. They only visited the battlefield appraising the Athenians and they returned in Sparta.</p><p>Carnea was held by the Spartans in honour of Carneios Apollo and took place in month Carneios which was the twelfth month of the Spartan calendar i and particularly in the 7th day of this month and lasted for 9 days. It ended before the Full Moon. During this period Spartan troops were forbidden to being involved in hostilities (Pausanias, Greaciae descriptio, III, 13, 1-4).</p><p>We remind that the Spartan calendar began in the first new Moon after autumn equinox. Modern software allows us to calculate the exact lunar phases in order to determine the exact dates of this celebration. Based on Espenak's calculations, the dates of lunar phases for 491-490 BC are included in Table <ref type="table">2</ref>. According to Espenak (<ref type="url" target="http://astropixels.com/ephem-">http://astropixels.com/ephem-</ref>eris/phasescat/phases-0499.html) "historians should note that the astronomical dating system used in these tables includes the year "0" while the traditional BCE -CE dating convention does not. Thus, the year "0" here corresponds to "1 BCE", the year "-100" is "101 BCE", and so on. The old style Julian calendar is used for dates prior to 1582 Oct 15, while the modern Gregorian calendar is used after that date". (See also <ref type="bibr">Rothwagl, 2015)</ref>.</p><p>So, the New Year for Sparta began on October 4th, 491 BC which was the date of the first new Moon after autumn equinox (see Table <ref type="table">1</ref>). In this case, Carneios month started during the new Moon in August 25, 490 BC, while the full Moon of this month was in September 9 th . The Carnea started in the 7th day of this month, August 31 st , and lasting for 9 days, until September 8 th of 490 BC.</p><p>Table 2. Lunar phases for 491-490 BC. (Source: <ref type="url" target="http://astropixels.com/ephemeris/phasescat/phases-0499.html">http://astropixels.com/ephemeris/phasescat/phases-0499.html</ref>) Year New Moon First Quarter Full Moon Last Quarter -0490 (491 BC) Jan 5 07:19 Jan 12 01:21 Jan 18 20:25 Jan 27 00:24 Feb 3 19:56 Feb 10 11:00 Feb 17 12:59 Feb 25 17:21 Mar 5 04:53 Mar 11 20:24 Mar 19 06:51 Mar 27 07:41 Apr 3 10:57 Apr 10 06:21 Apr 18 00:49 Apr 25 19:21 p May 2 15:31 May 9 17:32 A May 17 17:57 May 25 04:45 May 31 20:11 Jun 8 06:18 Jun 16 09:43 Jun 23 12:33 Jun 30 02:31 Jul 7 20:40 Jul 15 23:45 Jul 22 19:43 Jul 29 11:53 Aug 6 12:25 Aug 14 11:52 Aug 21 03:23 Aug 28 01:05 Sep 5 05:06 Sep 12 22:03 Sep 19 12:36 Sep 26 18:13 Oct 4 22:00 Oct 12 06:40 Oct 19 00:08 p Oct 26 14:29 Nov 3 14:07 A Nov 10 14:31 Nov 17 14:12 Nov 25 12:24 Dec 3 04:32 Dec 9 22:39 Dec 17 06:22 Dec 25 09:51 Year New Moon First Quarter Full Moon Last Quarter -0489 (491 BC) Jan 1 16:48 Jan 8 08:01 Jan 15 23:53 Jan 24 04:41 Jan 31 03:07 Feb 6 19:09 Feb 14 17:47 Feb 22 19:27 Mar 1 12:04 Mar 8 08:05 Mar 16 11:00 Mar 24 05:55 Mar 30 20:22 P Apr 6 22:39 Apr 15 02:32 t Apr 22 12:53 Apr 29 04:45 P May 6 14:37 May 14 15:42 May 21 17:45 May 28 13:54 Jun 5 07:36 Jun 13 02:30 Jun 19 22:06 Jun 27 00:34 Jul 5 00:59 Jul 12 11:33 Jul 19 03:24 Jul 26 13:27 Aug 3 17:50 Aug 10 19:56 Aug 17 11:00 Aug 25 05:01 Sep 2 09:14 Sep 9 04:40 Sep 15 21:54 Sep 23 22:55 Oct 1 22:36 Oct 8 14:28 t Oct 15 12:44 Oct 23 17:52 P Oct 31 09:52 Nov 7 01:37 Nov 14 07:26 Nov 22 12:02 Nov 29 19:22 Dec 6 14:05 Dec 14 04:54 Dec 22 04:01 Dec 29 03:44</p><p>According to Herodotus, Pheidippides arrived in Sparta in the 9 th day of Carneios month (September 2 nd ), when Carnea had already started in the 7 th day of this month. And the Spartans left from Sparta to Athens in September 9 th (Full Moon). Considering the 3 days' route of the Spartans to Athens, their arrival day in Athens was September 11 th . The fact, however, that the Spartans departed from Sparta on the full Moon, on September 9 th , means that the battle had not taken place until then. Otherwise, the Spartans still would be in Sparta. This is compatible with Herodotus' description that, while the army was in Marathon, the battle did not begin. The reason for this delay is the following: SCIENTIFIC CULTURE, Vol. <ref type="table">7</ref>, <ref type="table">No 2</ref>, <ref type="table">(2021)</ref>, <ref type="table">pp. 81-99</ref> The military administration of Athens consisted of ten generals, among which was Miltiades, who had made all the planning of the battle. The other generals gave the day of their command to Miltiades. He accepted it, but he did not carry out the battle, before his own 'normal' leadership day comes, so then the battle was held.</p><p>The above analysis shows that the battle of Marathon was conducted after the Full Moon, on September 9 th . Also, that it took place before the Spartans' arrival in Athens, three days after the Full Moon, on September 11 th . Therefore, it is pressumed that the battle of Marathon took place on September 10, 490 BC. This today date was the 17 th day of Carneios month, according to Spartan calendar or the 17 th day of Metageitnion month ii according to Athenian calendar. We remind that the Athenian New Year's day was the first new Moon after the summer solstice (June 28 th , see table <ref type="table">1</ref>). Consequently, the first month, Hekatombaion, started in July 26 th , 490 BC (see Table <ref type="table">2</ref>). It is noticeable that the previous new Moon (July 27 th ) was one day before the summer solstice.</p><p>Plutarch mentions that 'ἀλλ' ἕκτῃ μὲν ἱσταμένου Βοηδρομιῶνος ἐσέτι νῦν τὴν ἐν Μαραθῶνι νίκην ἡ πόλις ἑορτάζει· (Plu. De Glor. Ath.349 E10)-'in the 6 th day of Boedromion,the city celebrates the victory'. It means that the 'thanks of this victory' attributed to the goddess Artemis Agrotera (its temple is in the Adrittos hill, near Panathinaiko Stadium in Athens), whose celebration was in 6 th day of Boedromion month. It is known that the 6 th day of every month was dedicated to the Moon-goddess Artemis. This was the first monthly celebration of the goddess after the battle of Marathon. The reason for this celebration maybe it was a vow to the goddess from general Callimachus <ref type="bibr">(Anonymous,</ref><ref type="bibr">Scholia in Aristophanes' equites,</ref><ref type="bibr">660,</ref><ref type="bibr">3 and Scholiast to Arist. eq. 657 and Aelian V.H. II,</ref><ref type="bibr">25)</ref>.</p><p>Moreover, just that year, this day of celebration of the goddess Artemis was the day of autumn equinox, because the sixth day of Boedromion was in September 28 th (see Tables <ref type="table">1</ref> and <ref type="table">2</ref>). It was a double celebration as the 'goddess of the fields' was celebrated on the same day with the 'Moon of the famers' harvest'. At this significant day, the Athenians included the 'thanks of the victory' in the memory of the battle of Marathon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">DATING THE BATTLE OF THERMOPYLAE AND THE NAVAL BATTLE OF ARTEMISION (480 BC)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">A total solar eclipse at the beginning of the Xerxes' campaign?</head><p>Xerxes' campaign started from Sardis (near to Izmir, Turkey), when spring was just arrived-'ἅμα τῷ ἔαρι' (VII, 37) and departed from there to progressed against Abydos, near Hellespont (Herod. VII, 37: Ενταύθα χειμερίσας άμα τω έαρι παρεσκευασμένος ο στρατός εκ των Σαρδίων ορμάτο ελών ες Άβυδον). We remind that the spring equator was in March 26 th , 480 BC (Table <ref type="table">1</ref>). According to Herodotus, at this time 'the sun, leaving its position from heaven, disappeared, even though there were no clouds, and clear weather prevailed and the day became night' (VII, 37, Ὁρμημένῳ δέοἱ ὁ ἥλιος ἐκλιπὼν τὴν ἐκ τοῦ οὐρανοῦ ἕδρην ἀφανὴς ἦ νοὔτ' ἐπινεφέλων ἐόντων αἰθρίης τε τὰ μάλιστα, ἀντὶ ἡμέρης τε νὺξ ἐγένετο). It is a clear description of a total solar eclipse.</p><p>However, in the NASA eclipses catalog (<ref type="url" target="https://eclipse.gsfc.nasa.gov/JSEX/JSEX-index.html">https://eclipse.gsfc.nasa.gov/JSEX/JSEX-in- dex.html</ref>; Mouradian and Stavinschi, 1997) is not included any total or partial solar eclipse observable from every place of the Persian Empire during the whole year 480 BC except from the partial solar eclipse of 2 nd October 480 BC visible from Sardis and Athens. However, this phenomenon, mentioned also by <ref type="bibr">Herodotus (VII,</ref><ref type="bibr">37)</ref>, was related to the naval battle of Salamis (see in the next chapter). Consequently, there was not a total solar eclipse in Sardis during the spring of the year 480 BC. The closest in the description of Herodotus, total solar eclipse, is that of February 17, 478 BC, with obscuration (of solar disc) ~95% in Sardis and Athens.</p><p>Our search for the existence of a total or a partial solar eclipse with significant coverage of the solar disc, throughout the Persian Empire, expanded during the Xerxes' campaign preparation period (484-480 BC). Three partial solar eclipses were occurred during this time interval: In April 19 th , 481 BC, with obscuration 34% in Persepolis (Shiraz in Iran), in December 4 th , 483 BC, with obscuration 7% in Sardis and in July 1 st , 485 BC, with obscuration 7% in Sardis. However, even the obscuration of 34% is not compatible with the Herodotus' description that the day became night'.</p><p>SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 Not finding satisfactory answer in search of the total solar eclipse during the years of preparation of campaign by Xerxes, we searched for eclipses occurred during the years of preparation of campaign from Darius (489-487 BC), which actually was continued by Xerxes. Indeed, there was an almost total solar eclipse, observable in Sardis and in Athens with obscuration ~95%, in the 1 st of September of the year 488 BC (Figure <ref type="figure" target="#fig_2">2</ref>). Obviously that eclipse was related to the campaign according to the era's beliefs. The king obviously was terrified and asked his magicians for their advice, according to Herodotus. Later, it seems that this event connected with the start of the campaign under Xerxes' leadership caused to this campaign had been actualy organized and dreamed by his father Darius.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">The four months' route of Persian army from Hellespont until Attica</head><p>Xerxes' army from Sardis (near Izmir) marched to Abydos in Hellespont (which was an ancient city located near Troad and Mysia in Troas in the region of Hellespont opposite from Sestos), started at the beginning of spring, a date near to March 26-spring equinox. The distance between Izmir-Chanakkale (near to Abydos) is 332 km (coastal). The average speed of a man with normal walk is about 4 km/hour <ref type="bibr" target="#b9">(Browning et al. 2006)</ref>. In this case, however, a whole army is moving heavily armed accompanied by auxiliaries. Thus, the average speed of the army was about 3 km/hour. If the army moved only under the daylight (~12 hours in March), we must exclude about 4 hours for rest and meal. It means that the army crossed this distance at about 14 days (3 x 8=24 km/day, 332/24~14 days). Xerxes' army arrived in Hellespont early April 480 BC. Starting on March 26-spring equinox (when spring was just arrived-'ἅμα τῷ ἔαρι'(VII, 37) ), they arrived on the 8 th of April.</p><p>Herodotus describes in detail the actions of the Persians in the Hellespont (such as the army inspection, the navigation exercise, etc.), to which their delay for one month (VIII, 51), while the transition of the army using the double floating bridge of the Hellespont lasted 7 days and 7 nights <ref type="bibr">(Z, 56)</ref>. This means that the Persian army started the route in European area in early May 480 BC (e.g. in 8 th of May).</p><p>Herodotus notes in VIII, 51 'Ἀπὸ δὲ τῆς διαβάσιος τοῦ Ἑλλησπόντου, ἔνθεν πορεύεσθαι ἤρξαντο οἱ βάρβαροι, ἕνααὐτοῦ διατρίψαντες μῆνα ἐν τῷ διέβαινονἐς τὴν Εὐρώπην, ἐν τρισὶ ἑτέροισι μησὶ ἐγένοντο ἐν τῇ Ἀττικῇ, Καλλιάδεω ἄρχοντος Ἀθηναίοισι: -After crossing Hellespont, from where the barbarians begin their route, after their were delay for a month, in another three months they arrived in Attica, when Kalliadis was a surname lord in Athens'. This means that from three months after early May, the Persian Army arrived in Attica. So, Xerxes arrived in Attica in late July-early August 480 BC. However, because Xerxes after the end of Thermopylae battle needed a few days to arrive in Attica, the above mentioned information shows that the battle of Thermopylae was held during the July of 480 BC.</p><p>Moreover, Herodotus described the epoch of the battle of Thermopylae which took place simultaneously with the naval battle of Artemision (VIII, 15), writing that 'ἦν μὲν τῆς ὥρης μέσον θέρος,-it was the SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 middle of the summer (VIII, 12). We remind that the summer solstice was in June 28 (Table <ref type="table">1</ref>) and middle or late July is the middle of the summer until today.</p><p>The three months' time needed for the Persian army to arrive in Attica, is confirmed by a simple mathematical calculation following the description of the route as described by Herodotus (see map in Figure <ref type="figure">3</ref>). The estimated average speed of the army, about 3km/hour is also given by Herodotus <ref type="bibr">(VII,</ref><ref type="bibr">(196)</ref><ref type="bibr">(197)</ref><ref type="bibr">(198)</ref><ref type="bibr">(199)</ref><ref type="bibr">(200)</ref><ref type="bibr">(201)</ref>: 'the Persians from Alos (Almyros of Magnesia), after a 3-day route, arrived in Thermopylae'. The distance Almyros-Thermopylae is about 90 km (88 km). Thus, the army moved with about 30 km/day (29.33 km/day). In accordance with the above paragraphs, the army moved under the daylight of the summer in July, which is about 14 hours (6.00-20.00). Excluding four hours for rest and meal 10 hours per day remain, for the route. This means that its average speed was about 3 km/hour (30 km / 10 hours).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A) B)</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 3: The route of Xerxes' army from Sardis to Athens which has been divided with colors in several parts: A) red color: Sardeis-Abydos (Hellespont), green color: Abydos-Thermi (Thessaloniki), yellow color: Thermi-Ancient Also (Almyros, Magnesia). B: red color: Ancient Also-Thermopylae, blue color: Thermopylae-Orchomenos (Βoeotia), white color: Orchomenos-Plateae (entrance into Attica), blue color: Plateae-Athens © GOOGLE EARTH</head><p>The first stop of the Persian army after Hellespont was at Doriskos (near Feres in Evros River) 230 km away from Hellespont. According to previous analysis, the army covered this distance in 9 days, because the daylight-route (6.30 -19.30) with the exception of four hours for relax and meal in May, is 9 hours per day. Xerxes arrived in Doriskos around the middle of the month (e.g. May 17 th ). In this place, Xerxes, among others, inspected its army and its armada. Estimating that he stayed there for about 10 days, the army should have left around the end of the month (e.g. May 27 th ) in order to reach in Thermi (Thessaloniki).</p><p>The distance Doriskos (Feres)-Thermi (Thessaloniki) is 376 km. According to previous analysis, the army should have crossed that distance in 14 days, because the daylight -route in June is 9 hours per day (daylight 6.00-19.00, except 4 hours). However, there were many delays in this route (e.g. various recruitments from different cities, river crossings, as Nestos River, crossing the Strymon River with bridges, accommodation for 1-2 days in Akanthos (Nea Roda in Athos), passage of the canal in Athos etc), due to which the time of this route extended for 5-6 days. Thus, the Persian army arrived in Thermi (Thessaloniki) around the middle of the June (e.g. June 15-16) where they camped <ref type="bibr">(VII,</ref><ref type="bibr">127)</ref>.</p><p>We note that this canal in Athos was constructed by Xerxes in 480 BC in order his fleet to pass safely according to Herodotus. The last time that a Persian fleet crossed this area, under Mardonius' leadership, was destroyed. Its existence had been proved <ref type="bibr" target="#b28">(Karastathis, &amp; Papamarinopoulos, 1997</ref>) by using shallow reflection and refraction seismics. Today the canal is not visible as it has suffered sedimentations.</p><p>From Thermi (Thessaloniki), Xerxes boarded a ship and went to see the Thessalian mountains, Olympus and Ossa, as well as the Valley of Pinios River. Then he returned to Thermi, where he remained there for several days (Ζ, 131) because Persians (with 1/3 of the army) cut the trees from the forests of the mountain in order that the army could pass through them with southern direction. Simultaneously, Persian messages were sent to Greek cities asking for "land and water". Considering that it took them about 20 days to do all this, Xerxes remained in Thermi (Thessaloniki) until early July (e.g. July 6).</p><p>Then, the army reached Alos (Almyros of Magnesia) coming from Thermi (Thessaloniki). This distance is 230 km covering in 8 days during July (with 10 hours per day, see above). Xerxes arrived in Alos (Almyros) in the middle of July (e.g. July 14 th ). Herodotus writes that after 3 days, the Persian army arrived from Alos (Almyros) to Thermopylae (e.g. July 17 th ). This date is in accordance with Herodotus' mention for the epoch of the battle; during the middle of summer time «μέσον θέρους». The events in Thermopylae (see analytically in the next chapter) covered a period of 10 days (e.g. July 17 th -26 th ).</p><p>Then the Persian army moved southern to Doris and Fokis. 'The barbarians irrupted in all over the country, walking next to the Kifisos River and destroying everything", (VIII, 33) and they arrived to Orchomenos. They arrived there at the end of July (e.g. July 28 th ) following the route next to Kifisos River (101 km), covering 30 km/day (3 days route). Finally, after burning the cities of Thespians and Plataeans, the Persian army entered Attica at the end of July (e.g. July 30), as the distance Orchomenos-Plataea is 71 km (with 30km/day, route of 2 days). This date agrees with Herodotus' mention that Xerxes arrived in Attica after three months after having crossed the Hellespont (see above).</p><p>Xerxes arrived in 'empty' Athens after 2 days (the distance Plataea-Athens is 60 km), in 1 st of August according to modern calendar, considered that his campaign started from Sardis in March 26 th (when spring was just arrived (ἅμα τῷ ἔαρι, VII, 37)), exactly as it have been mentioned from <ref type="bibr">Herodotus (VIII,</ref><ref type="bibr">51)</ref>. This means that the battle of Thermopylae was held during the July of 480 BC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3">Daily description of the battle of Thermopylae and the naval battle of Artemision, in 'middle of the summer'. The Olympic games of 480 BC.</head><p>The Greeks decided to tackle the Persian army in the narrow pass of Thermopylae being aware of its large number. In this location, Persians could not use "neither the number nor their cavalry" (VII ,177). The Greek army took this position, when Xerxes was in Thermi (VII, 177). The Greek navy arrived in Artemision of North Evvoia (Ζ, 175) in order to protect the narrow passage of Euripus (Chalcis). The Persian fleet sailed from Thermi (Thessaloniki) 11 days after the departure of the Persian army and arrived on the same day to the Sipias cape (VII, 183) of Magnesia. If the army departed in early July, e.g. 6 th of July, then the navy sailed and arrived in Sipias, in 17 th of July. According to our computations the army arrived in Thermopylae in July 17 th (see previous chapter). The movements of the Persian army and fleet were synchronized, so that at the same time they will be found opposite the enemy positions. Herodotus notes that 'it happened so that in the same days these nave battle and battle at the Thermopylae' (VIII, 15).</p><p>The next day, 18 th of July, just dawned, and 'while peacefulness and calm happened', bad weather broke out. Simultaneously, a strong eastern wind was blowing which the people named 'Hellespontius' and as a result the sea was stormy' <ref type="bibr">(VII,</ref><ref type="bibr">(188)</ref><ref type="bibr">(189)</ref><ref type="bibr">(190)</ref><ref type="bibr">(191)</ref><ref type="bibr">(192)</ref><ref type="bibr">(193)</ref><ref type="bibr">(194)</ref><ref type="bibr">(195)</ref><ref type="bibr">(196)</ref>. In <ref type="bibr">VIII,</ref><ref type="bibr">198</ref> Herodotus mentions that at dawn a storm descended upon them out of a clear and windless sky, and the sea began to boil. A strong east wind blew, which the people living in those parts call Hellespontian (Ἅμα δὲ ὄρθρῳ ἐξ αἰθρίης τε καὶ νηνεμίης, τῆς θαλάσσης ζεσάσης, ἐπέπεσέ σφι χειμών τε μέγας καὶ πολλὸς ἄνεμος ἀπηλιώτης, τὸν δὴ Ἑλλησποντίην καλέουσι οἱ περὶ ταῦτα τὰ χωρία οἰκημένοι). The Persian fleet suffered severe damages. The storm lasted for 3 days (July 18 th , 19 th and 20 th ) and the 4 th day (July 21 st ) the Persian fleet managed to leave Sipias and arrive to Afetes, opposite to Artemision.</p><p>Obviously this phenomenon was a three-day strong annual topic storm (in Aegean Sea) known in Meteorology with the name 'Etesian' (or Meltemia). They appear on summer time (July and August) with the largest intensity and frequency. Etesians are defined as annual winds and are northern sector winds of the lower SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 atmosphere that flow over the Aegean Sea during summer and early autumn <ref type="bibr" target="#b27">(Kallos et al. 1998</ref><ref type="bibr">op. cit. Poupkou et al. 2011)</ref>. Aristotle in 'Meteorology' (361b 35 -362a 1) points out that the 'Etesiae' blow after the summer solstice and the rising of the dog-star (Sirius): not at the time when the sun is closest nor when it is distant; and they blow by day and cease at night. So, the destruction of Persian fleet took place about 18 th -20 th of July in the period of the Etesians.</p><p>Although Xerxes arrived in Thermopylae on July 17 th , however, he started the battle in 5 th day (VII, 210), in July 21 st , according to our calculations. During this period, Xerxes sent heralds to Greeks asking them to surrender. The answer, given by the Spartan King, Leonidas was laconic, but also so essential, that worthily and fairly has remained known after thousands of the years: 'μολών λαβέ'-come and take (them) <ref type="bibr">(Plutarch Apophthegmata Laconica,</ref><ref type="bibr">225,</ref><ref type="bibr">C,</ref><ref type="bibr">12)</ref>.</p><p>Following the first day of the battle (in the land and in the sea), during the night (July 21 st to 22 nd ), another storm caused damage to the Persian fleet. Herodotus writes exactly (VIII, 12): Ὡς δὲ εὐφρόνη ἐγεγόνεε, ἦν μὲν τῆς ὥρης μέσον θέρος, ἐγίνετο δὲ ὕδωρ τε ἄπλετον διὰ πάσης τῆς νυκτὸς καὶ σκληραὶ βρονταὶ ἀπὸ τοῦ Πηλίου· (When the darkness of the night was coming, it was the middle of the summer and it followed by heavy rain that remained all the night and light thunderstorms from the side of Pelion mountain). Our estimated date of July 21 st is absolutely compatible with Herodotus' mention that this event took place during the middle of the summer.</p><p>Additionally, it is well-known that in this period are the hottest days of the Greek summer time. Indeed, Herodotus writes (VII, 226) that when a Spartan soldier informed that 'if the barbarians shoot their arrows, there are so many that they will shade the Sun' answered that it is a good new, because they will fight under shadow and not under the (hot) Sun.</p><p>Table 3. Times of moon rise and moon set, at Thermopylae (CREDIT: Times calculated by using Stellarium 0.20.3 and astronomical ephemerides VSOP87 and ELP 2000-82B). Date Moon rise Transit Moon set Moon phase 17 July 480 BC 15:49 20:50 01:51 11 days 18 July 480 BC 16:41 21:37 02:33 12 days 19 July 480 BC 17:32 22:26 03:19 13 days 20 July 480 BC 18:20 23:15 04:10 14 days 21 July 480 BC 19:02 00:02 05:01 15 days 22 July 480 BC 19:45 00:52 06:00 16 days 23 July 480 BC 20:24 01:42 07:00 17 days 24 July 480 BC 21:02 02:32 08:02 18 days 25 July 480 BC 21:37 03:21 09:05 19 days 26 July 480 BC 22:12 04:10 10:08 20 days</p><p>It is well known that the Persians could not cross this narrow area of Thermopylae. However, there was a path leading from the mountain to the narrow pass of Thermopylae in rear ward of the Greek army. This path was revealed to Xerxes by a traitor named Ephialtes. So, after the second day of the battle, the night of July 22 nd to July 23 rd , according to our calculations, Ephialtes led a part of Persian army through this path in order to surround the Greek army. The Persians started after sunset and walking all night, reached the top of the mountain when it dawned (VII218). Then they descended into the strait of Thermopylae in which arrived on the morning.</p><p>A significant factor that must be considered in this description of events is the necessary existence of enough night (lunar) lighting, which provided the Persians with the ability to "see" inside the forest of the mountain. In Table <ref type="table">3</ref>, the time of rise and set of the Moon, at Thermopylae, from July 17 th until to July 26 th is presented. We note that the Full Moon was in July 21 st . However, the Moon should have risen from the afternoon, and would shine all night, until the dawn when they reached the top of the mountain. Indeed, in the night of July 22 nd -23 rd the Moon rοse around 20.00 and was setting around 6.00-7.00 in the next morning. On the contrary, the Moon was setting earlier than the Sunrise (~5.30), in the previous days (2.30-3.00 to 4.00-5.00).</p><p>Leonidas the king of Sparta, suggested the other Greeks to leave, but he and the 300 Spartans should remain, obeying to laconian law of Sparta: 'ἢ τὰν ἢ ἐπὶ τᾶς' (soldier you must return home either carrying your shield (alive and victorious) or be carried on your shield (dead with honor in battle)). Also, 700 Thespians stayed voluntary with them. In total 1000 soldiers against to hundreds of thousands of Persian army. In this battle, the few Greeks who had left were defended until the last, they all fell dead. This happened on July 23 rd , during the middle of the summer, according to Herodotus.</p><p>The element of Spartan self-sacrifice (and Thespians too) should be especially praised. Later, the Greek cities ('αμφικτυωνία') located in the battlefield an epigram of the poet Simonides (Εpigrams, 249) in the honor of these heroes: 'Ὦ ξεῖν', ἀγγέλλειν Λακεδαιμονίοις, ὅτι τῇδε κείμεθα τοῖς κείνων ῥήμασι SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 πειθόμενοι' -'Stranger, bear this message to the Spartans, that we lie here obedient to their laws'.</p><p>The Greek fleet sailed into the night (July 23 rd to 24 th ) from Artemision and arrived in Salamis Island, near to Athens. The next morning (July 24 th ) the Persian fleet sailed to Artemision and at noon arrived to Istiaia, near to Artemision, destroyed various places. Then, Xerxes told his sailors that whoever wants can go and see the battlefield in Thermopylae. So, the next day, July 25 th , many Persians went to Thermopylae. Obviously they could not get there on the same day, as it would have already been night. And the next day (July 26 th ) while those who went to the Thermopylae returned to Istiaia (VIII, 25), the Persian army started the southern route in order to reach in Athens. However, the Persian fleet departed from Istiaia after 3 days (July 26 th , 27 th and 28 th ) according to Herodotus (VIII, 66) and then through the Euripus it arrived to Faliron (near to Athens), after 3 days (July 29 th , 30 th and 31 st ). We note that the Persian fleet arrived in Athens simultaneously with the arrival of the Persian army (see in the previous chapter).</p><p>After this analysis, we conclude that the events in Thermopylae lasted for 10 days and we estimate that this time interval was July 17 th to 26 th . At this time 'some people from Arcadia (in Peloponnese)', who were deprived of their livelihood, came to the Persians and asked to work. Persians asked them to know what the Greeks did during this period. The Arcadians answered that 'Οἱ δέ σφι ἔλεγον ὡς Ὀλύμπια ἄγουσι καὶ θεωρέοιεν ἀγῶνα γυμνικὸν καὶ ἱππικόν'-'the Greeks celebrated the Olympia (Olympic Games) and they watch athletic games and equestrian races' .</p><p>This means that the battle of Thermopylae and the navy battle of Artemision had taken place simultaneously with the Olympic Games of the year 480 BC.</p><p>This Pan-Hellenic athletic celebration took place around the first or the second full Moon, after the summer solstice, lasted for 5 days and ended up 1 day after the full Moon. In the Table <ref type="table">4</ref>, the Moon phases for the years 481-480 BC is showed. We remind that the summer solstice was in June 28 (see Table <ref type="table">1</ref>). Thus, the first and second full Moon after the summer solstice was in July 21 st and August 19 th respectively. Consequenly the Olympic Games were held either July 18 th -22 nd or August 16 th -20 th .</p><p>Table 4. Lunar phases for 481-480 BC (Source: <ref type="url" target="http://astropixels.com/ephemeris/phasescat/phases-0499.html">http://astropixels.com/ephemeris/phasescat/phases-0499.html</ref>) Year New Moon First Quarter Full Moon Last Quarter -0480 (481 BC) Jan 6 19:04 Jan 14 23:38 Jan 22 02:29 Jan 28 17:37 Feb 5 12:39 Feb 13 16:31 Feb 20 11:52 Feb 27 05:19 Mar 6 06:07 Mar 14 05:04 Mar 20 20:13 Mar 27 18:44 Apr 4 22:27 Apr 12 13:37 Apr 19 04:17 T SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99</p><p>However, according to Herodotus' mention, that the battles of Thermopylae and Artemision were conducted in the middle of the summer, the most possible date is July 18 th -22 nd . The middle and late of August (August 16 th -20 th ) is compatible with the end of summertime. Additionally, these battles (and simultaneously Olympic Games) were conducted before the end of July, according to Herodotus (see in the previous chapter). So, we conclude that the Olympic Games must have taken place in July 18 th -22 nd , in the first Full Moon after the summer solstice at least for that year.</p><p>If we assume that the Arcadians started from their home to Thermopylae in July 17 th , just they informed that Xerxes was there, they arrived, in July 26, after 10 days. This results from the fact that they walked at an average speed of 3 km/ h, and for 10 hours per day (see previous analysis). The distance Tripoli (Arcadia)-Thermopylae is 300 km. Herodotus' indication that they were very poor obviously means that they had no horses or carriages. Thus, the Arcadians departed one day before the Olympic Games start (July 18 th ) and until their arrival to Isthmus in Corinth (about 3 days, the distance Tripoli-Isthmus is 83 km) the Olympia had begun and already were happening (July 18 th and 19 th ). When they reached Athens, after two days (the distance Isthmus-Athens is 74 km), the Olympia were nearly to their end (July 20 th -21 st ). Consequently, they accurately informed Xerxes that when they (the Arcadians) were still in the Peloponnese, the Greeks were attending the Olympia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4">Carneia or Yakinthia?</head><p>After the battle of Thermopylae, all the Peloponnesian rushed the Isthmus of Corinth led by the second king of Sparta, Kleomvrotos and started building a wall. Simultaneously they destroyed the road connecting Athens with Isthmus named Skironida road . In this description of the events, Herodotus mentions that the celebrations of the Olympic Games and Carneia 'were now ended' (VIII, 72: Ὀλύμπια δὲ καὶ Κάρνεια παροιχώκεε ἤδη.….). Indeed, the Olympia was over (July 18 th -22 nd ) because was conducted at the same time with the battle of Thermopylae (see previous section). However, the Spartan celebration of Carneia has not even started. This event started in the 7 th day of the 12 th month of Spartan calendar named Carneios (see in chapter 2) and lasted for 9 days. Note that the Spartan calendar started in the first New Moon after the autumn equinox (see Table <ref type="table">1</ref>). Thus, the Spartan New Year's Day was in October 13 th , 481 BC. According to Table 4, the first day of Carneios month was the 2 nd of September, 480 BC. Consequently, this celebration happened in September 8 th -16 th , 480 BC. Even if we assume that the Olympic Games were took place on the second full Moon after the summer season (August 16 th -20 th ), while at the same time the battle of Thermopylae was held, then Carneia should have been held in August. But this is incorrect too.</p><p>Additionally, before the battle of Thermopylae (around the mid of June), when the Greek army arrived in battlefield, the Greeks said to the local populations in order to encourage them, that they have come as "the vanguard of the other Greeks, and that the rest of the army would arrive as soon as possible", (VII, 203). The Greeks invoked as a reason for this, that during the same period with these events, 'Olympiad' had happened (ἦν γὰρ κατὰ τ ὠυτὸ Ὀλυμπιὰς τούτοισι τοῖσι πρήγμασι συμπεσοῦσα). We mention that this period characterized as 'Olympiad' and not as 'Olympia' (Olympic Games). This term referred to the period before the Olympia which was a time of preparation for these athletic games. It is well-known that a month before the Olympia, all the military operations stopped. This was in agreement with the period of Olympia which was July 18 th -22 nd .</p><p>Moreover, Spartans invoked a different reason, according to Herodotus. They said that at that time, the celebration of Carneia (see also in chapter 2) prevented them (Κάρνεια γάρ σφι ἦν ἐμποδών) from sending a strong military force (VII 206). Later, immediately after the celebration, they intended, after leaving a guard in Sparta, to campaign with all their military forces. However, Carneia had not even started in summer time (June or July or even August). This Spartan celebration took place in September 480 BC.</p><p>From all the above, we conclude that Herodotus is wrong at this point since another Spartan celebration at that time (summer time) may had been held. Indeed, this celebration referred by <ref type="bibr">Herodotus (IX,</ref><ref type="bibr">7 &amp; 11)</ref> when he describes the re-occupation of Athens by Mardonius, which was held 10 months after the occupation of Athens from Xerxes (IX, 3). This second occupation (and the celebration) took place either May or June-July 479 BC, depending on the dating of the first occupation. There are two possibilities: a) the start of 10 months was from Xerxes invaded in an 'empty' Athens in the end of July-early August 480 BC (see in previous sections) or b) the start of 10 months was the burning of Acropolis of Athens by Xerxes, after a long time from his entrance to it (IX, 3) on September 480 BC, shortly before the naval battle of Salamis (see in the next chapter).</p><p>The name of this Spartan celebration was Yakinthia (or Hyacinthia) (IX, 7). This fest was also related with god Apollo and during this celebration was forbidden to Spartans to participate in battles too. According to Xenophon, Amyclaeans invariably go back home to the festival of the Hyacinthia for the paean to Apollo, whether they chance to be on a campaign or away from home for any other reason <ref type="bibr">(Xenophon,</ref><ref type="bibr">Hellenica,</ref><ref type="bibr">IV,</ref><ref type="bibr">5,</ref><ref type="bibr">11)</ref>.</p><p>Perhaps, Herodotus due to carelessness referred with the wrong name (Carneia) into the Spartan celebration (Yakinthia) of the year 480 BC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">DATE OF THE NAVAL BATTLE OF SALAMIS AND THE CELEBRATION OF GREAT ELEUSINIA (480 BC)</head><p>After the battle of Thermopylae and the naval battle of Artemision, the Greek army was assembled in the Isthmus of Corinth (see in previous chapter, beginning to build a wall) and the Greek navy in Salamis Gulf. The Persian army and navy arrived almost simultaneously in the city of Athens and in its seaport, Faliron. However, Xerxes entered to an 'empty city' (VIII, 51), because the inhabitances were moved to Trizina, Aegina and Salamis by order of Athenian General Themistocles, to be saved.</p><p>Themistocles of Neocleus (527-459 BC) was the founder of naval power of Athens. When Xerxes was still getting ready for the campaign, the Athenians sent messages to the oracle of Delphi (VII, 141) and Pythia prophesied the destruction of their city. And when they asked for suggestion to be saved, Pythia told them that the "wooden wall" would save them. Themistocles interpreted the oracle; the "wooden wall" that will save them are their ships <ref type="bibr">(VII,</ref><ref type="bibr">143)</ref>. That is why they had to strengthen their fleet, which they did. They build 200 ships, making Athens the first naval power among the Greek cities. Thus, Xerxes captured an 'empty city', while the Athenian ships were waiting for him in the straits of Salamis. According to <ref type="bibr">Herodotus (VII,</ref><ref type="bibr">139)</ref>, 'if anyone supports that the Athenians became saviors of Greece, they are not wrong to the truth'. It is noticeable that this oracle gave also the location of the naval battle between Persian and Greeks, Salamis, and the epoch of this battle (early summer or autumn): (VII, 141)'Divine Salamis, you will destroy women's children either when goddess Demeter sows or when she harvests'.</p><p>Also, Herodotus mentions that the sailors from Corfu with 60 ships could not reach to Salamis caused to the occurrence of a strong Meltemi near to Maleas cape (southern Peloponnese) (VII, 168). As we have referred in previous chapter, this is a physical phenomenon that happened usually after the summer solstice, during July and August. If we connect this information with the epoch of the battle according to Pythia, we conclude that the naval battle of Salamis was taken place in the autumn, after the Meltemi' period. Moreover, according to <ref type="bibr" target="#b55">Zerefos et al. (2020)</ref>, an additional factor for choosing the Salamis Straits in order to conduct the naval battle (except for the difficulty of the large Persian fleet to maneuver during the naval battle in such a narrow geographical area) was the knowledge of local climatology and particularly the Etesian winds.</p><p>However, while most Athenians had abandoned Athens, a few of them remained fortified in the Acropolis of Athens. This fact forced Xerxes to line up his army on the hill opposite the Acropolis named Areios Pagos thus sieging the Acropolis. Herodotus mentions that (VIII, 52): 'ὥστε Ξέρξην ἐπὶ χρόνον συχνὸν ἀπορίῃσι ἐνέχεσθαι, οὐ δυνάμενόν σφεας ἑλεῖν'-'Xerxes did not know what to do, for a long time, because he could not capture them'. This means that the siege of Acropolis lasted for long.</p><p>During this period, two men were found in the Thriasion field (Eleusis), near Athens (VIII, 65) and Herodotus describes their discussion. 'When Attica was destroyed by Xerxes' army and it was 'empty' from the Athenians', these men saw a cloud of dust coming from Eleusis, as if a large army of 30000 men was walking with big noise. Simultaneously they listened to a voice and it seemed to them that this voice was the mysterious song of Iachus. The dust and the voice formed a big cloud which it got up and moved from Eleusis to Salamis iii . One of the two men explained to the other who had no idea of the sacred rites performed in Eleusis that this voice is divine and at the moment which Attica is 'empty' from Eleusis goes to help the Greeks. And he also gave more information: 'This celebration is performed by the Athenians every year in the honor of Mother and her daughter and whoever of these and of the other Greeks want, can be initiated to it. The voice you hear on this celebration is exclaimed', <ref type="bibr">(VIII,</ref><ref type="bibr">65)</ref>.</p><p>From the previous reference of Herodotus, it is clear that at this time interval the 'Great Eleusinia' was taken place. This celebration started in 14 th day of the Athenian month Boedromion-Βοηδρομιών and lasted for 9 days <ref type="bibr">(Alexopoulou-Bagia, 1985 vol. 1)</ref>. The mysterious song of Iachus was sung in Eleusis' temple of the goddess, after the 20 th day of this month. Boedromion was the 3 rd month of the Athenian calendar (see in previous chapter) whose New Year was the first new Moon after the summer solstice (June 28 th , 480 BC). According to Table <ref type="table">4</ref>, this day was in July 5 th , 480 BC. The lunar month Boedromion started with the new Moon in September 2 nd . Thus, the celebration began in September 15 (14 th day of Boedromion) and ended in September 23 rd , 480 BC. The song of Iachus was heard in September 21 st and 22 nd .</p><p>Taking into account the above analysis, we conclude that the fall of the Acropolis of Athens and the following naval battle of Salamis had not happened until then. This means that the fall of Acropolis which started during the early August, ended after September 23 rd , 'after a long siege' as mentioned by Herodotus. Finally, Xerxes occupied and fired the Acropolis of Athens <ref type="bibr">(VIII,</ref><ref type="bibr">53)</ref>. Also, he burned Demeter's temple in Eleusis <ref type="bibr">(IX,</ref><ref type="bibr">65 and IX,</ref><ref type="bibr">13)</ref>.</p><p>SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99</p><p>The Persian army and navy remain in Athens for two days after Acropolis' arson as in the 2 nd day from the fall of the Acropolis, Xerxes ordered for a sacrifice in the temple of the Acropolis (VIII, 54-55) iv . Consequently, in the afternoon of the 3 rd day after burning the Acropolis, the Persian navy arrived in Salamis, and the Persian army marched to Peloponnesus during the same night <ref type="bibr">(VIII,</ref><ref type="bibr">70)</ref>. But the Greeks had destroyed the road leading from Athens to Isthmus and the Persian army was forced to return to Athens.</p><p>The Persian navy remained in Salamis until the night. The vast crowd of their ships was expanding from Salamis to Mounichia (Castella in Piraeus) and guarded the passages in order to be impossible the escape, for the Greek ships (Η, 76). Also, around the middle night, the Persians moving slowly and methodologically surrounded the Greek ships. The naval battle started early in the next morning, in the 4 th day after the burning of the Acropolis. The tragic poet Aeschylus which was present in the events, claims that as the Persians approached they heard the Greeks singing their battle hymn (παιάν) (Aesch. Pers. 402-5.) ὦ παῖδες Ἑλλήνων ἴτε ἐλευθεροῦτε πατρίδ᾽, ἐλευθεροῦτε δὲ παῖδας, γυναῖκας, θεῶν τέ πατρῴων ἕδη, θήκας τε προγόνων: νῦν ὑπὲρ πάντων ἀγών.</p><p>On, you men of Hellas! Free your native land. Free your children, your wives, the temples of your fathers' gods, the tombs of your ancestors. Now you are fighting for all you have.</p><p>The naval battle of Salamis resulted in the debacle of the Persian fleet. Herodotus notes that (VIII, 91) 'the barbarians left in panic and sailed to Faliron'. Also Herodotus mentions the contribution of Aristides son of Lysimachus, the Athenian who, did this in the commotion that arose at Salamis: taking many of the armed men who were arrayed along the shore of Salamis, he brought them across and landed them on the island of Psyttalea, and they slaughtered all the Persians who were on that islet (VIII, 95). Xerxes wanted to leave from Attica but did not want anyone to understand his purposes. For this reason, he began to prepare some works, obviously the next day of the battle. In the same day, the children of Xerxes departed by ships to Ephesus. And in the same night, the entire Persian fleet sailed in order to arrive quickly in Hellespont (VIII, 107). In the next morning, in the 2 nd day after the naval battle of Salamis, the Greeks realized that the Persian fleet had left and tried to find it, without success.</p><p>However, unlike the immediate departure of the fleet, Xerxes and his army remain in Attica for a few days after the naval battle of Salamis and then departed to Boeotia and Thessaly (VIII 113) v .'This means that Xerxes stayed in Athens 4-5 days after the battle of Salamis.</p><p>The end of military operations was close to autumn equinox (September 28 th , 480 BC) because two important personalities, the generals Themistocles (VIII, 109) and Mardonius (VIII, 113), after the naval battle of Salamis, declare unambiguously that 'now' was the time to end the war as the winter is coming and they will continue the war in spring equinox, with the coming of spring -'ἅμα τῷ ἔαρι' (VII, 37). It is well known that in antiquity the battles started in the spring or summer time and ceased during winter.</p><p>Additionally, the Spartan army departed from Salamis in October 2 nd , 480 BC, marking the departure of Persian army at least one day before. This date was characterized by a partial solar eclipse, according to Herodotus. Cleomvrotos, the king of Sparta, took his army from Isthmus and returned to Sparta for the following reason. While he made a sacrifice against the Persians, the Sun got dark in the sky (ΙΧ, 10, θυομένῳ οἱ ἐπὶ τῷ Πέρσῃ ὁ ἥλιος ἀμαυρώθη ἐν τῷ οὐρανῷ). This description is in accordance with a partial and not the total solar eclipse because the Sun covered partially by the Moon and lost some of its brightness. This solar eclipse taken place on October 2 nd , according to the NASA Catalog of eclipses (Figure <ref type="figure" target="#fig_3">4</ref>). The solar disc obscuration was about 60% for the observers of Isthmus and the phenomenon was visible at noon (12.30-15.30).</p><p>SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 Consequently, the events around the naval battle of Salamis took place between September 23 rd -October 2 nd 480 BC. Because the burning of Acropolis took place from September 23 rd onwards and the naval battle of Salamis followed this event, in the 4 th day, we conclude that the date of the naval battle was September 26 th onwards. We note that Plutarch referring to this date wrote that the Greeks won in Salamis 'περὶ τὰς εἰκάδας, τοῦ Βοηδρομιώνος' vi . The noun 'εικάςεικάδος' means the 20 th day of the month according to Scholia Graeca in Aristophanem. Also The plural of it, 'εἰκάδες' means according to Lidell-Scott Lexicon the last 10 days of the month vii (e.g. 21, 22…..27, 28, 29).</p><p>Indeed, the naval battle of Salamis could not have been conducted in September 30 th or in October 1 st because in October 2 nd the Spartans departed from Isthmus. In such a case, the Persian army would have to leave the same or the next day of the battle. However, this is in the contrary to description of Herodotus. The Persian army stayed in Athens for a few days after the naval battle.</p><p>Consequently, the possible dates of this naval battle are 26 th , 27 th , 28 th or 29 th of September. However, in case the battle was conducted in September 28 th or 29 th , Xerxes must have left from Athens until the 1 st of October, remaining in Attica only 1-2 days after the battle thus departing in 2 nd or 3 rd day. This is in contrary to the description of Herodotus that Xerxes departed from Athens a few days (e.g. 4-5 days) after the battle. Additionally, two days after the battle (e.g. September 30 th or October 1 st ), the Greek fleet was looking for the Persian fleet, according to Herodotus, and Xerxes was still in Athens.</p><p>From the above analysis, we conclude that the naval battle of Salamis was conducted in 26 th or 27 th of September 480 BC. The events started with the fall of Acropolis in September 23 rd or 24 th . Xerxes remained in Athens for two days (September 24 th -25 th or 25 th -26 th ). The Persian navy surrounded the Greek ships in Salamis at the middle night of 3 rd day after the fall of Acropolis (September 25 th to 26 th or 26 th to 27 th ). The next day, September 26 th or 27 th , in the 4 th day after the fall of Acropolis, the naval battle was fought.</p><p>A day after, the Persian fleet departed from Attica (September 27 th or 28 th , at night) and the next day (September 28 th or 29 th ) the Greek fleet was looking for the Persian fleet. The Persian army remained in Athens for 4-5 days after the naval battle, until September 30 th or October 1 st and then it departed too. Then, the Spartan army also departed (October 2 nd ). It is noticeable that the autumn equinox (September 28 th ) coincided with the withdrawal of Persian fleet or a day after, when Themistocles indicates the end of the military operations because of the forthcoming winter.</p><p>Plutarch viii mentioned that the Athenians celebrated the victorious naval battle of Salamis, together with the celebration of Mounichia Artemis, in the 16 th SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99 day of the Athenian month Mounichion (early spring). The reason for this choice was that the temple of the goddess Artemis in Mounichia (Castella in Piraeus) was near the battlefield (see above). Moreover, there was a prophecy mentioned by Herodotus relating this temple of Artemis to the victorious battle (VIII, 77) ix 'When the sacred headland of golden-sworded Artemis and Cynosura by the sea they bridge with ships. After sacking shiny Athens in mad hope, Divine Justice will extinguish mighty Greed the son of Insolence Lusting terribly, thinking to devour all. Bronze will come together with bronze, and Ares Will redden the sea with blood. To Hellas the day of freedom Far-seeing Zeus and august Victory will bring'.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="6.">CONCLUSIONS</head><p>The purpose of this work was to determine the date of the important battles between Greeks and Persians in 490 and 480 BC. The present study was based in Herodotus' description and astronomical data concerning the ancient lunar months.</p><p>Our results are:  The battle of Marathon was conducted in 10 th of September, 490 BC. This date corresponds to the 17 th day of the Spartan month Carneios.</p><p>For that year, this Spartan month corresponded to the Athenian month Metageitnion. Thus, this date was also the 17th h day of the Athenian month Metageitnion. Moreover, the Fest of Carneia took place during August 31 st to September 8 th , 490 BC.  The battle of Thermopylae and simultaneous naval battle of Artemision took place between July 17 th -23 rd , 480 BC and particularly in July 21 st , 22 nd and 23 rd . These dates were included in the Athenian month Hekatombaion or the Spartan month Phleiasios. The last day of the battles, July 23 rd was the 19 th day of Hekatombaion or Phleiasios month, respectively. Moreover, the Olympic Games only for that year happened during July 18 th -22 nd , during the 1 st full Moon after the summer solstice.</p><p> The naval battle of Salamis taken place in 26 th or 27 th of September, 480 BC. This date corresponds to the 25 th or 26 th day of the Athenian month Boedromion and simultaneously to the 25 th or 26 th day of the Spartan month Carneios. Moreover, the Fest of Carneia took place in September 8 th -16 th , 480 BC. Also, the Great Eleusinia was celebrated in September 15 th -23 rd , 480 BC. Herodotus mentioned two solar eclipses during the year 480 BC. One of them was related to the departure of Spartans after the naval battle of Salamis, signaling the end of the military operations of this year. The date of this partial solar eclipse (with obscuration 60%, in Isthmus and in Attica in general) occurred in 2 nd of October 480 BC. The other which described as a total solar eclipse must had happened at the early spring of 480 BC, at the start of these military operations of this year, according to Herodotus. However, there was not any solar eclipse in the entire Persian Empire during this time period, except from that of October. The closest in the description of Herodotus solar eclipse occurred on February 17 th , 478 BC. Moreover, examining the period of preparation for this campaign, both Xerxes and Darius, identified an almost total solar eclipse observable in Sardis and in Athens on September 1 st , 488 BC.</p><p>The Greek cities, through these important battles, were able to stop the route of the "barbarians" towards Europe and they secured their freedom. This was the necessary precondition for the further development and dissemination of ancient Greek civilization which is the basis of today's 'western' culture. For this reason, the topic of ascertaining the exact date of these battles has its value.</p><p>Τhis work is a contribution to the festive series of events for 2500 years that have passed since these historic events. Τhe celebration of this anniversary for 2020 was held by the Greek State on the initiative of the Ministry of Culture and Sports, the Ministry of Interior Affairs and the 'Marianna V. Vardinoyannis' Foundation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>the Olympia were held alternatively during the Apollonios (July) either Parthenios (August) months of the Elis calendar. 'Γίνεται δε ὁ ἀγὼν ποτέ μέν διά τεσσαράκοντα ἐννέα μηνῶν, ποτέ δε διά πεντήκοντα. ὅθεν καί ποτέ μέν τῷ Απολλωνίω μηνί, ποτέ δέ τῶν Παρθενίων, παρ' Αιγυπτίοις Μεσωρί ή Θωθ, ἐπιτελοῦνται. The Games are conducted either during the 49 th or either 50 th month that is during Apollonios month or Parthenios month respectively which is called by the Egyptian Mesori or Thoth'. Or A&lt;διχόμηνις:&gt;διχόμηνις&lt;ὅτι&gt;περὶ τὴν ιϛʹ πανσελήνου οὔσης ἄγεται τὰ Ὀλύμπια, τουτέστι διχομηνίᾳ Παρθενίου ἢ Ἀπολλωνίου μηνὸς, παρ' Αἰγυπτίοις Θὼθ ἢ Μεσωρί. At the full of the Moon: In the 16 th day which is the full Moon the Olympic Games are conducted that is to say during the full Moon of Parthenios or Apollonios month called by the Egyptians Mesori or Thoth'. We remind that the Olympic Games took place in the Elis area (for a detailed analysis see Boeckh, 1855). Moreover, according to Scholia in Pindarum (Ol.3, 33) the Olympic Games took place on the 8 th full Moon, starting with the full Moon of the month that included the winter solstice. 'περὶ τοῦ χρόνου καθ' ὃν ἄγεται τὰ Ὀλύμπια καθ' ἑκάστην Ὀλυμπιάδα, καὶ Κώμαρχος ὁ τὰ περὶ Ἠλείων συντάξας φησὶν οὕτως· πρῶτον μὲν οὖν παντὸς περίοδον συνέθηκεν ἐν τῇ ἡμέρᾳ .... ἄρχειν νουμηνίαν μηνὸς ὃς Θωσυθιὰς ἐν Ἤλιδι ὀνομάζεται, περὶ ὃν τροπαὶ ἡλίου γίνονται χειμεριναί· καὶ π̃α Ὀλύμπια ἄγεται ηʹ μηνί· Concerning the time that the Olympic Games were held during each Olympiad Comarchos (leader of Komi) who put together in order the matters of Elians says the following: starting at the first of the month (or the new Moon) which is called Thosythias in Elis at the time of the winter solstice. And the Olympic Games are held in the 8 th month' which means in English that firstly when the month called Thosydias in Elis during which occurs winter solstice. And the 81 st Olympias takes place during the 8 th month. (see also V. Vaughan (2002) in http://www.onereed.com/articles/vvf/olympics.html). Indeed, for the 81 th Olympiad (456 BC) the 8 th full Moon after winter solstice was in July 25 th , while for the previous 80 th Olympiad it was in August 8 th (the dates computing according to Espenak calculations, see in the next chapter).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: (Left) The celestial sphere with a three dimensional reference system designated from the celestial equator which is the extension of Earth's equator and the axis of the World which is the extension of the rotation axis of the Earth. The north celestial pole is the extension of the Earth's North Pole that marks the Polaris. Source: https://ase.tufts.edu/cosmos/print_images.asp?id=48. (Right) The Earth's rotation axis perform a circular motion around the imaginary vertical axis of the ecliptic which is completed every about 26000 years. This phenomenon occurs because theEarth is not a perfect sphere, but its rotation is similar to a whirligig. Source: https://faculty.virginia.edu/</figDesc><graphic coords="3,66.48,457.26,227.22,208.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. The path of the solar eclipse 1/9/488 BC between 6.30-7.30 pm (thick blue line). In Sardeis and Athens this eclipse was observable with obscuration of solar disc 95%. The meridians are shown with the thin vertical lines. Source:&lt;http://xjubier.free.fr/en/site_pages/solar_eclipses/ and https://eclipse.gsfc.nasa.gov/JSEX/JSEX-index.html © NASA</figDesc><graphic coords="7,79.98,78.00,434.88,213.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. The path of the solar eclipse of October 2 nd 480 BC (thick blue line). In Isthmus (Corinth) this eclipse was observable with obscuration of solar disc 60%. The meridians are shown with the thin vertical lines. In the Table of theFigure are shown more details about this eclipse as it was observed from Isthmus. (Source:&lt;http://xjubier.free.fr/en/site_pages/solar_eclipses/xSE_GoogleMap3.php?Ecl=-04791002&amp;Acc=2&amp;Umb=1&amp;Lmt=1&amp;Mag=0&gt; © NASA)</figDesc><graphic coords="15,89.76,78.00,415.20,259.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="8,126.48,202.26,342.00,167.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="8,171.90,393.12,251.22,202.44" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>SCIENTIFIC CULTURE, Vol. 7, No 2, (2021), pp. 81-99</p></note>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ACKNOWLEDGEMENTS</head><p>We thank the anonymous referees for valuable comments.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>iii ἰδεῖν δὲ κονιορτὸν χωρέοντα ἀπ᾽ Ἐλευσῖνος ὡς ἀνδρῶν μάλιστά κῃ τρισμυρίων, ἀποθωμάζειν τέ σφεας τὸν κονιορτὸν ὅτεών κοτε εἴη ἀνθρώπων, καὶ πρόκατε φωνῆς ἀκούειν, καί οἱ φαίνεσθαι τὴν φωνὴν εἶναι τὸν μυστικὸν ἴακχον -and saw advancing from Eleusis a cloud of dust as if raised by the feet of about thirty thousand men. They marvelled at what men might be raising such a cloud of dust and immediately heard a cry. The cry seemed to be the "Iacchus" of the mysteries.</p><p>iv Ξέρξης ἀπέπεμψε ἐς Σοῦσα ἄγγελον ἱππέα Ἀρταβάνῳ ἀγγελέοντα τὴν παρεοῦσάν σφι εὐπρηξίην. Ἀπὸ δὲ τῆς πέμψιος τοῦ κήρυκος δευτέρῃ ἡμέρῃ συγκαλέσας Ἀθηναίων τοὺς φυγάδας, ἑωυτῷ δὲ ἑπομένους, ἐκέλευε τρόπῳ τῷ σφετέρῳ θῦσαι τὰ ἱρὰ ἀναβάντας ἐς τὴν ἀκρόπολιν….δευτέρῃ δὲ ἡμέρῃ ἀπὸ τῆς ἐμπρήσιος Ἀθηναίων οἱ θύειν ὑπὸ βασιλέος κελευόμενοι ὡς ἀνέβησαν ἐς τὸ ἱρόν -So it was that Xerxes took complete poschapter of Athens, and he sent a horseman to Susa to announce his present success to Artabanus. On the day after (second day after the arson of Athens) the messenger was sent , he called together the Athenian exiles who accompanied him and asked them go up to the acropolis and perform sacrifices in their customary way… but on the day after its burning (second day after the arson of Athens), when the Athenians ordered by the king to sacrifice went up to the sacred precinct.</p><p>v Οἱ δ᾽ ἀμφὶ Ξέρξην ἐπισχόντες ὀλίγας ἡμέρας μετὰ τὴν ναυμαχίην ἐξήλαυνον ἐς Βοιωτοὺς τὴν αὐτὴν ὁδόν.</p><p>vi Plutarch, Camillus,19: οἱ δ᾿Ἀθηναῖοι … ἐν δὲ Σαλαμῖνι περὶ τὰς εἰκάδας, ὡς ἡμῖν ἐν τῷ Περὶ ἡμερῶν ἀποδέδεικται.</p><p>vii Scholia Graeca in Aristophanem, Nubes, 17a: &lt;ὁρῶν ἄγουσαν τὴν σελήνην&gt;ἢ ὅτι μετὰ τὴν εἰκάδα ὁ μήν, καὶ προσεγγίζει τῇ τριακάδι,&lt;he sees the Moon moving&gt; or the month after the 20 th day approaching the 30 th day of the month. In Lidell Scott Lexicon: twentieth day of the month (sc. ἡμέρα), Hes. <ref type="bibr">Op.792,820, Plu.2.1089c, etc.: pl., B. l. c., Epicur.Fr.217;</ref><ref type="bibr">ἡ πρώτη, δευτέρα, etc (the first, second)., μετ' εἰκάδα, εἰκάδας, the 21st, 22nd, etc., Men.320.3, IG22.890, etc.;</ref><ref type="bibr">τετάρτηἐπὶεἰκάδι IG9(1)</ref>.694.2 (Corc.): hence εἰκάδες, αἱ, the last ten days of the month, And.1.121; σελήνην ἄγουσαν εἰκάδας Ar.Nu.17; τρίτῃ εἰκάδι, i.e. the 23rd, Pl.Lg.849b. viii  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Statistical study of the solar eclipses over Egypt during 20 centuries (1-2000)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">I</forename><surname>Abdel-Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Marzouk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NRIAG Journal of Astronomy and Geophysics</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Aeschylit ragoediae, 2nd edn</title>
+		<author>
+			<persName><surname>Aeschylus</surname></persName>
+		</author>
+		<idno>01.0011</idno>
+		<ptr target="http://www.perseus.tufts.edu/hopper/text?doc=Per-seus%3Atext%3A1999" />
+		<editor>). Persae, ed. G. Murray</editor>
+		<imprint>
+			<date type="published" when="1955">1955</date>
+			<publisher>Clarendon Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by Weir Smyth</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">History of sports, in the ancient Greek world. Salto publications</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Albanidis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Thessaloniki</pubPlace>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Publications of History of Eleusis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Alexopoulou-Bagia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">History of Eleusis</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note>in Greek</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><surname>Anonymous</surname></persName>
+		</author>
+		<title level="m">Prolegomena de comoedia. Scholia in Acharnenses, Equites, Nubes</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Wilson</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+	<note>Scholia in equites (scholia vetera et recentiora Triclinii) Scholia in Aristophanem 1.2. Groningen: Wolters Noordhoff</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Aristoteles</surname></persName>
+		</author>
+		<ptr target="http://classics.mit.edu/Aristotle/meteorology.2.ii.html" />
+		<editor>). Meteorologica. ed. F.H. Fobes</editor>
+		<imprint>
+			<date type="published" when="1919">1919</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, Mass</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translation by E. W. Webster available at</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nowruz Calendar and Its Emergence from Different Perspectives and Its Impact on Various Aspects of People&apos;s Lives</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Behzadi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of History Culture and Art Research</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="395" to="401" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Zur Geschichte der Mondcyclen der Hellenen</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boeckh</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1855">1855</date>
+			<publisher>Druck und Verlag von B. G. Teubner</publisher>
+			<pubPlace>Leipzig</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Thermopylae: Battle for the West</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bradford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>McGraw-Hill</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Effects of obesity and sex on the energetic cost and preferred speed of walking</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Browning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Herron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kram</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Physiology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="390" to="398" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Griechische Geschichte bis zur Schlacht bei Chaeroneia</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Busolt</surname></persName>
+		</author>
+		<idno>Anm. 1</idno>
+		<imprint>
+			<date type="published" when="1895">1895. 1895. 1967</date>
+			<publisher>ND Hildesheim</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">686</biblScope>
+			<pubPlace>Gotha</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">What have the Spartans done for us?: Sparta&apos;s Contribution to Western Civilization</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cartledge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Greece &amp; Rome</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="164" to="179" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Thermopylae: The Battle That Changed the World. London, Pan Books Cleostratus</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Cartledge</surname></persName>
+		</author>
+		<editor>Fragmenta, ed. H. Diels and W. Kranz</editor>
+		<imprint>
+			<date type="published" when="1951">2013. 1951</date>
+			<publisher>Weidmann</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Tidal evolution of the Moon from a high-obliquity, high-angularmomentum Earth</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ćuk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hamilton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lock</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature</idno>
+		<ptr target="https://doi.org/10.1038/nature" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">539</biblScope>
+			<biblScope unit="page" from="402" to="406" />
+			<date type="published" when="2016">2016. 19846</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Thucydides. The Peloponnesian War</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dent</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>London, New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Five Millennium Canon of Solar Eclipses, Chapter 4 (NASA TP-2006-214141) (PDF)</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Espenak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meeusean</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006-10">October 2006</date>
+		</imprint>
+	</monogr>
+	<note>NASA STI Program Office. Archived from the original (PDF) on 2007-06-20 Retrieved 2007-01-24</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Notes on Thermopylae and Artemisium</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A S</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Historia: Zeitschrift für Alte Geschichte</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="389" to="406" />
+			<date type="published" when="1969-08">1969. Aug. 1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Freeth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Bitsakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Moussas</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature05357</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">444</biblScope>
+			<biblScope unit="issue">7119</biblScope>
+			<biblScope unit="page" from="587" to="591" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Eclipse Prediction on the Ancient Greek Astronomical Calculating Machine Known as the Antikythera Mechanism</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Freeth</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0103275</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0103275" />
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<date type="published" when="2014-07-30">2014. July 30, 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Harvard Studies in Classical Philology</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Goodwin</surname></persName>
+		</author>
+		<idno type="DOI">10.2307/310311</idno>
+		<imprint>
+			<date type="published" when="1906">1906</date>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">74</biblScope>
+		</imprint>
+	</monogr>
+	<note>The Battle of Salamis</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">The Greco-Persian Wars</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Green</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970-10-15">1970. October 15, 1998</date>
+			<publisher>University of California Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Revised edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Origines kalendariae Hellenicae</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Greswell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1827">1827</date>
+			<publisher>E. Duychinck, Collin &amp; Co</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">The Campaign and the Battle of Marathon</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G L</forename><surname>Hammond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Hellenic Studies</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="13" to="57" />
+			<date type="published" when="1968">1968. 1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<author>
+			<persName><surname>Herodotus</surname></persName>
+		</author>
+		<ptr target="https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126" />
+		<title level="m">Les Belles Lettres</title>
+		<editor>
+			<persName><forename type="first">)</forename><surname>Historiae</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ed</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="middle">E</forename><surname>Ph</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Legrand</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+	<note>Translated by A. D. Goodley available at</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Xerxes&apos; Invasion of Greece</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hignett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1963">1963</date>
+			<publisher>Clarendon Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Persian Fire: The First World Empire and the Battle for the West</title>
+		<author>
+			<persName><surname>Hippolytus</surname></persName>
+		</author>
+		<editor>M. Marcovich. De Gruyter</editor>
+		<imprint>
+			<date type="published" when="1986">1986. 2006</date>
+			<pubPlace>Berlin, Holland, Tom; New York, Doubleday</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Refutatio omnium haeresium</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Marathon and the Mytho f the Same-Day March</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Holoka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Greek, Roman and Byzantine Studies</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="329" to="353" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">On the long-range transport of air pollutants from Europe to Africa</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kallos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kotroni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lagouvardos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Papadopoulos</surname></persName>
+		</author>
+		<idno type="DOI">10.1029/97GL03317</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geophys. Res. Lett</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="619" to="622" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The detection of King Xerxes&apos; Canal by the use of shallow reflection and refraction seismics -Preliminary results</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">K</forename><surname>Karastathis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Papamarinopoulos</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2478.1997.3410266.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Geophysical Prospecting</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="389" to="401" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Who really won the battle of Marathon?: A Bold Re-appraisal of One of History&apos;s most famous battles</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lagos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Karyanos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<publisher>Pen and Sword Military</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Greek-English Lexicon, 7 th edition revised and augmented with the cooperation of professor Dissler</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Liddell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1896">1896</date>
+			<publisher>Harper &amp; Brothers</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Delphi and Cosmovision: Apollo&apos;s absence at the land of the hyperboreans and the time for consulting the oracle</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Liritzis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Β</forename><surname>Castro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Astronomical History and Heritage</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="184" to="206" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<author>
+			<persName><surname>Lycurgus</surname></persName>
+		</author>
+		<title level="m">Oratio in Leocratem</title>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Conomis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Leipzig, Teubner</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Battle of Thermopylae: A Campaign in Context</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Matthews</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Spellmount, Illustrated Edition SCIENTIFIC CULTURE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="81" to="99" />
+			<date type="published" when="2008">2008. 2021</date>
+			<pubPlace>Stroud, Gloucestershire</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">About Saros and Inex series</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meeus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mathematical Astronomy Morsels III. Ch</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Willmann-Bell, Richmond VA, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Theoretical and Observational Problems Related to Solar Eclipses</title>
+	</analytic>
+	<monogr>
+		<title level="j">Nato Science Series C</title>
+		<editor>
+			<persName><forename type="first">Z</forename><surname>Mouradian</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Stavinschi</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W L R</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Doescher</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Olson</surname></persName>
+		</author>
+		<title level="m">The Moon and the marathon. Sky &amp; Telescope</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="34" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A new astronomical dating of Odysseus&apos; return to Ithaca</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Papamarinopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Preka-Papadema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Antonopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mitropetrou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsironi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitropetros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mediterranean Archaeology and Archaeometry</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="117" to="128" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">A new astronomical dating of the Trojan War&apos;s end</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Papamarinopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Preka-Papadema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mitropetros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Antonopoulos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mitropetrou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Saranditis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Mediterranean Archaeology and Archaeometry</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="93" to="102" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Graeciae description. ed. F. Spiro, Pausaniae Graeciae descriptio</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Papantoniou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Salamis Naval Battle</title>
+		<meeting><address><addrLine>Athens; Leipzig; Olympia; Leipzig, Teubner</addrLine></address></meeting>
+		<imprint>
+			<publisher>Teubner. Pindarus</publisher>
+			<date type="published" when="1903">1950. 1903. 1971</date>
+			<biblScope unit="page" from="26" to="31" />
+		</imprint>
+	</monogr>
+	<note>in Greek Dating the Salamis Naval Battle 3 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">De gloria Atheniensium (345c, 351b)</title>
+		<author>
+			<persName><surname>Plutarch</surname></persName>
+		</author>
+		<editor>W. Nachstädt, Plutarchi moralia</editor>
+		<imprint>
+			<date type="published" when="1935">1935</date>
+			<publisher>Teubner</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<pubPlace>Leipzig</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Present climate trend analysis of the Etesian winds in the Aegean Sea</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poupkou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zanis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nastos</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00704-011-0443-7</idno>
+		<ptr target="https://doi.org/10.1007/s00704-011-0443-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Theor. Appl. Climatol</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="459" to="472" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">De Herodoti malignitate</title>
+		<author>
+			<persName><forename type="first">Ed</forename><surname>Plutarch ; Camillus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ziegler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Leipzig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plutarch&apos;s moralia</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="1965">1969. 1965</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Plutarch; Ed. Pearson, L. Cambridge, Mass</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Plutarchi vitae parallelae</title>
+		<author>
+			<persName><surname>Plutarch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plutarch&apos;s lives</title>
+		<editor>
+			<persName><forename type="middle">Ed K</forename><surname>Phocion</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Ziegler</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="1916">1916. 1964</date>
+			<publisher>Harvard University Press Plutarch</publisher>
+			<pubPlace>Cambridge, Mass; Leipzig, Teubner</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">The calculation of doomsday based on Anno Domini</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rothwangl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientific Culture</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="22" to="32" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Herodotus and the Dating of the Battle of Thermopylae</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sacks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Classical Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="232" to="248" />
+			<date type="published" when="1976-12-02">1976. 2 December</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Vocabulary of Greek language. Andreas Koromilas publications, Athens (in Greek) Scholia in Aristophanem (1960) Scholia in equites (scholia vetera et recentiora Triclinii)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Scarlatos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Prolegomena de comoedia. Scholia in \ Acharnenses</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Equites, Nubes</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1852">1852</date>
+		</imprint>
+	</monogr>
+	<note>Scholia in Aristophanem 1.2. Groningen: Wolters \ Noordhoff</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m">Prolegomena de comoedia. Scholia in Acharnenses, Equites, Nubes, Scholia inAristophanem 1.3.1</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Holwerda</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Groningen, Bouma</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>Scholia in nubes (scholia vetera)</note>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m">Scholia in Pindarum (scholia vetera)</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Drachmann</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Teubner</publisher>
+			<date type="published" when="1924">1924</date>
+		</imprint>
+	</monogr>
+	<note>Scholia vetera in Pindari carmina 3 vols. Leipzig</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Athens: Its History and Coinage Before the Persian Invasion</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Seltman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1924">1924</date>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Thermopylae</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Steele</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>New Discovery, UK.</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Lunar Eclipse times predicted by the Babylonians</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Steele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Stephenson</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/002182869702800203</idno>
+		<ptr target="https://doi.org/10.1177/002182869702800203" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal for the History of Astronomy</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="119" to="131" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">The Battle of Salamis: The Naval Encounter That Saved Greece-and Western Civilization</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Strauss</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Simon and Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<author>
+			<persName><surname>Thucydides</surname></persName>
+		</author>
+		<title level="m">Thucydidis historiae, 2 vols</title>
+		<editor>
+			<persName><forename type="first">)</forename><surname>Historiae</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ed</forename><forename type="middle">H S</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Powell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1942">1942</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<author>
+			<persName><surname>Xenophon</surname></persName>
+		</author>
+		<title level="m">Xenophontis opera omnia</title>
+		<editor>
+			<persName><forename type="first">Ed</forename><forename type="middle">E C</forename><surname>Hellenica</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Marchant</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1900">1900</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">The Role of Weather during the Greek-Persian &quot;Naval Battle of Salamis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zerefos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Solomos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Melas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kapsomenakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Repapis</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/at-mos11080838</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">838</biblScope>
+		</imprint>
+	</monogr>
+	<note>in 480 B.C. Atmosphere</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<ptr target="https://en.wikipedia.org/wiki/Ancient_Greek_calendars" />
+		<title level="m">Panamos -Πάναμος Herasios -Ἡράσιος Apellaios -Ἀπελλαίος Diosthyos-Διόσθυος</title>
+		<imprint/>
+	</monogr>
+	<note>FOOTNOTES i Months according to Spartan calendar</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

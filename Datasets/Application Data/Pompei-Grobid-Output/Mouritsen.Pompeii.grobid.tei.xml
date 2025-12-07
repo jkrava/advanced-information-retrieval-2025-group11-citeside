@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">King&apos;s Research Portal Document Version Publisher&apos;s PDF, also known as Version of record Link to publication record in King&apos;s Research Portal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title level="a" type="main">King&apos;s Research Portal Document Version Publisher&apos;s PDF, also known as Version of record Link to publication record in King&apos;s Research Portal</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7924ACBE51B54AB119A124EE78EE8225</idno>
+					<note type="submission">2 Alföldy 1985, 146. 3 Rilinger 1985; Winterling 2001. See also note 14 below.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>STATUS AND SOCIAL HIERARCHIES:</head><p>THE CASE OF POMPEII 1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Henrik Mouritsen</head><p>Since Géza Alföldy published his famous model of Roman society almost forty years ago, this iconic image has become the standard representation of its social order (Fig. <ref type="figure" target="#fig_0">1</ref>). 2 Graphic representations of this kind are a powerful means of expressing structures and hierarchies, and because they, by necessity, are simplified abstractions they also force us to consider how we conceptualise a social totality; in this case they bring to the fore the difficulties involved in any attempt to define a society according to a specific set of criteria. Alföldy's chosen framework was the hierarchy of personal statuses that constituted the backbone of Roman society. The three ordines, partly divided into subcategories, formed the upper tiers, while the rest of the population -plebs, freedmen, and slaves -constituted a vertically differentiated substrate of society. Despite its seemingly self-evident logic and wide acceptance, Alföldy's model has also met with some criticism, especially among German scholars, who have pointed out inconsistencies in his approach to social stratification and also queried the validity of some of the criteria he used. <ref type="bibr">3</ref> Thus it remains an open question whether we can capture the complex social reality of ancient Rome through legal definitions alone. In principle these could be represented as a simple list of personal statuses in descending order, and following that logic Aloys Winterling replaced Alföldy's pyramid with two basic status rankings, one representing the state and the other the familia (Fig. <ref type="figure">2</ref>). The model could be further refined by applying an imperial perspective that would add categories such as cives Romani, Latini, and peregrini.</p><p>While Alföldy's model is essentially structured around formal categories, he also arranged them into the familiar pyramid shape, which introduced an element of scale and quantitative differentiation. In doing so he transformed the model from an abstract diagram into an actual depiction of Roman society. But perhaps more importantly he sought to take some account of the distribution of economic resources. What prompted this departure from the overall concept was the existence of affluent freedmen and imperial liberti, who were included in the form of a mini pyramid superimposed on the conventional status hierarchy. Likewise, at the pinnacle of the pyramid the domus imperatoria was recognised as a category in its own right despite its lack of formal status in order to reflect its exceptional power and resources. Finally, the mass of the population was divided into urban and rural, thereby adding yet another, geographical factor to the equation.</p><p>The multiplicity of criteria applied and the inconsistencies that this inevitably creates remind us of the need for methodological clarity in exercises of this kind. Since the analysis can be based on a number of different parameters that do not produce the same result, the historian must consider the different outcomes and decide which aspects of the social totality the model is primarily intended to illustrate. Importantly in this context, it forces us to reassess the posited correlation between wealth and status that constituted the basis for Alföldy's model.</p><p>Most societies show a broad correspondence between status and wealth and in Rome this link was even stronger since membership of the elite was not heritable but -partly -based on economic criteria that had to be met in each generation. The absence of a formalised hereditary aristocracy meant that the image of the impoverished nobleman, so familiar from later European history, was far less common in Rome, where this type tended to disappear from view. Nevertheless, there were notable exceptions to this correlation, most obviously the affluent freedmen, whom Alföldy tried to accommodate in what was otherwise a purely status-based model. But the problem goes beyond the existence of this particular 'status dissonance' -to use Keith Hopkins' sociological terminology -caused by Roman manumission practices, however glaring it may have been. <ref type="bibr">4</ref> Although the definition of the highest orders was overtly plutocratic, especially after the Augustan reform which devised separate property bands for the highest orders, it is not given that they always conformed directly to the social hierarchy; some men of substance might, for example, have chosen not to pursue senatorial careers, as had occasionally happened already in the Late Republic. Rank and wealth did not, therefore, automatically coincide, even within the top elite. But if we take a step down the status ladder, to the level of the municipality, there is a further twist since the local ordines decurionum typically are contrasted with a so-called 'sub-elite' that comprises virtually everybody outside the official honours system. Indeed, in Alföldy's model the most sharply drawn line of the entire diagram was precisely that separating the ordo decurionum from those below. But the question is whether such formal distinctions really reflect the social reality of a community. The obvious place to investigate the issue in greater depth is Pompeii, which offers a more detailed picture of the municipal elite than is available anywhere else in the Roman Empire. Fig. 2: Winterling's model of the status hierarchies in Roman society (Winterling 2001)  Although access to public office and ordo-membership depended on the census, we cannot automatically equate the ordo with the elite; for while the elite undoubtedly belonged to the ordo, it is not given that all members of the elite fitted into the ordo. Conversely, one could ask whether the elite necessarily was a homogeneous body, in which case the real elite might just have been a subsection of the ordo. The ordo was in principle a random number of people usually determined by administrative features such as the number of new ex-magistrates entering the body each year. Although there seems to have been some variation in the number of decurions, this did not fully reflect the range of town sizes. It might, therefore, have borne relatively little relation to the size of the community, to its socio-economic structure, and hence to the naturally occurring elite. We do not know how large the Pompeian ordo was, but all indications point to a body considerably smaller than the hundred councillors often assumed in textbooks. <ref type="bibr">5</ref> But while the precise size of the council remains uncertain, there is strong evidence that the boundary between ordo and sub-ordo was fluid, with a large pool of families able and willing to hold local office and sit on the council. Looking more closely at the elections at Pompeii, it becomes clear that there was considerable competition, especially for the lower office of the aedileship, which secured the holder a life-long seat in the ordo. This in itself indicates that the economic stratum of affluent families who qualified for the census decurionalis and were capable of meeting the cost of public office exceeded the number of decurions.</p><p>Our picture of the curial order in Pompeii is incomplete even for the last generation of its existence. Nevertheless, during the thirty-year period between 50 and 79 CE -when 60 new aediles would have been elected -no fewer than 126 individual candidates, magistrates, and decurions are recorded in electoral posters, tablets and tituli. <ref type="bibr" target="#b18">6</ref> In this context the distinction between candidates and elected magistrates is less important since they all belonged to the same propertied class. Moreover, this is the mere minimum; to this figure should be added a number of likely members of this class, since there is a gap in the record in the 40s CE, when many councillors would have entered the ordo and remained there till the final period. <ref type="bibr">7</ref> The fact that many magistrates datable to the 50s CE are absent from the electoral posters or appear in just a single programma also suggests that not all magistrates and candidates from that decade are known to us. <ref type="bibr">8</ref> The Iucundus tablets, dating to the same period, also feature several high-ranking 5 In order to reach this figure a substantial number of non-magisterial decurions would have been required for whom there is relatively little evidence in Pompeii; cf. Mouritsen 1998. 6 Mouritsen 1988, with further updates in appendix 1. 7 Or they might have entered the ordo even earlier, such as L. Lucretius Satrius Valens, aedile in 33 CE and later duovir, who must have kept his seat well into the last generation of Pompeii. Likewise it is highly likely that the curial family of the Umbricii Scauri retained its prominence during the final period, as suggested by their continued business activity and imposing house. Other members include the decurio (later aedile?) L. Lucretius Valens, who was admitted during the reign of Claudius, and the young decurio N. Popidius Celsinus. 8 We, therefore, also keep discovering new candidates, such as the aedilician candidate Pettius; cf. Giordano -Casale 1991, no. 33.  witnesses (at least fifteen) who are likely to have been magistrates/candidates, bringing our total to 141. And if we consider the composition of the recorded family names, we find that the candidates and magistrates carried 88 different gentilicia, to which should be added elite families documented through prominent women and those represented by high-ranking witnesses in the Iucundus tablets. This gives us a figure of 99 elite 'families' with distinct gentilicia; the impression, therefore, is of a potential curial class that was considerably larger than the actual one. Some of these families remained prominent over long periods and were in many cases split into different branches with separate praenomina. Often they fielded several candidates in the same generation and held multiple magistracies including the highest one, the quinquennial duovirate with censorial powers. By contrast, other families were clearly more marginal, represented by only a single member and often just in one generation. This would suggest an overall structure to the ordo consisting of an inner circle and an outer ring of less permanent curial families. <ref type="bibr">9</ref> The curial class emerging from this evidence was, therefore, not homogenous but internally stratified, unstable and permeable at the edges. A continuous turnover of families thus appears integral to the make-up of the ordo, but at the same time combined with an essential stability provided by a powerful group of core families. Depending on how we look at this structure, we could, therefore, say that the Pompeian elite was either larger or smaller than the ordo, but not identical with it.</p><p>A similar picture emerges from the -admittedly few -examples of identifiable houses belonging to the curial elite (Fig. <ref type="figure" target="#fig_1">3</ref>), which reveals a mix of sizes and styles, ranging from the very grand to the considerably more modest.<ref type="foot" target="#foot_2">foot_2</ref> Thus, the survey shows several candidates and magistrates living in relatively small houses, including M. Lucretius Fronto, M. Casellius Marcellus, Q. Bruttius Balbus, and A. Trebius Valens. While house size by no means represents a foolproof indicator of the occupants' social standing, it may still provide a broad measure of their wealth. And by placing these findings in the wider context of Pompeian housing we may be able to cast further light on the relationship between the elite and the ordo. Looking at houses of the domus type, roughly two tiers can be identifiedwithout making any claims to scientific accuracy. <ref type="bibr" target="#b21">11</ref> The highest level consists of very large houses with spacious atria and peristyles (sometimes multiple) and several formal dining rooms. Forty-six houses can be assigned to this category, to which we may hypothetically add eight in the unexcavated parts of the town (Fig. <ref type="figure" target="#fig_2">4</ref>). Below this level we find a number of smaller but still relatively substantial houses of the atrium-peristyle type. The minimum house size qualifying for inclusion in this category is set by the smallest of the curial residences identified above, and on this criterion the group comprises 100 houses, in addition to a conjectural twenty yet to be discovered (Fig. <ref type="figure">5</ref>). These calculations take us to a likely total of 174 elite houses, a number that seems well above what members of the curia could have occupied. <ref type="bibr">12</ref> The structure of urban housing in Pompeii would then seem to provide yet another indication that the pool of potential curial families was considerably larger than the ordo itself.</p><p>Which of these aspiring families managed to get into the ordo may to some extent have been a matter of chance, elections always carrying an element of unpredictability. However, connections and patronage probably played an important part, as suggested by occasional glimpses of the underlying political process gained from the electoral posters. The candidate A. Trebius Valens was, for example, described as a cliens of M. Epidius Sabinus, a powerful figure in late Pompeii (CIL IV 7605). And it was probably not by chance that M. Casellius Marcellus, apparently a homo novus, ran for office together with L. Albucius Celsus, the scion of a prominent old family, suggesting that their joint electoral ticket represented patronage in action. The success and indeed wealth of new families may often have derived from such support. Property would have been regularly passed around between families through inheritances and dowries, and not even the most powerful families were immune to the hazards posed by the mortality rates, as illustrated by the case of the Eumachii, who appear to have become extinct during the first century CE. <ref type="bibr">13</ref> Therefore, while some new families may have been recent arrivals to the city, including imperial freedmen, many others would have been local Pompeians, some of them the sons of freedmen who had benefited from patronal favours.</p><p>The result was an open and diverse elite that extended well beyond the actual ordo, membership of which merely formalised the status of a subsection within it, sometimes for a relatively brief period of time. The existence of a substantial category of affluent families, sometimes with a share of formal status, suggests that we are dealing with a continuum of wealth, which in theory may have reached even further down the social scale. As such it offers at least partial support for the Fig. 5: Medium-sized elite houses in Pompeii</p><p>recent attempts to present a more nuanced picture of Roman social stratification which have questioned the sharp division into rich and poor and have argued for the existence of 'middling' groups in Roman society. <ref type="bibr">14</ref> The traditional bipolar model, to which these scholars react, reflected the status-focused approach, exemplified by Alföldy, which inevitably over-simplifies our image of social hierarchies. The point is that despite the finely calibrated class distinctions at the top of society, the Romans otherwise operated with a limited set of categories, which left the mass of citizens more or less undifferentiated. Thus, apart from the classes of the Republican comitia centuriata, which became obsolete under the Empire, the vast majority of the freeborn population was not formally subdivided according to status.</p><p>Therefore, if we take the legal framework as our only guide to social reality, we invariably end up with a polarised vision of Roman society dominated by a fundamental split between the members of the ordines and those who did not belong to them. Needless to say, the social landscape must have been more complex and comprised middling groups that carried no formal definition. The re-evaluation of the non-elite is, therefore, both welcome and long overdue. However, some scholars have gone further and tried to revive the idea of a Roman 'middle class', sometimes using the term 'plebs media' to give it an air of authenticity. <ref type="bibr">15</ref> The question is to whom such a label would have applied and, more fundamentally, whether this modern concept is really helpful for understanding Roman society.</p><p>The problem is that a 'middle class', as opposed to 'middling' groups, is not defined solely by its intermediate economic position, but involves a set of additional characteristics related to behaviour, ideology and social attitudes that distinguishes it from those of the classes above and below. From the outset it should be noted that it makes little sense to see the extended curia, identified above, as a class in its own right, let alone a 'middle class', since there are no signs that it differed from the top elite in terms of values, behaviour or lifestyle -it simply had fewer resources. The same would seem to apply further down the social scale, most fundamentally because the class markers traditionally used to separate elites and middle classes do not apply in towns like Pompeii. Central to the theory of the 'middle class' is the notion of economic differentiation and the identification of intermediate groups as more commercial than the supposedly land-owning aristocracy. Without entering into the primitivist/modernist debate, it should be noted that at municipal level we find little trace of the posited aristocratic disdain for commerce, which Cicero famously expressed in his De officiis. In Pompeii most affluent families appear to have relied on a mixed portfolio, which included not just land but also various forms of urban production and in many cases also trade. Above all, the elite's urban estates were integral to their economic basis with most elite houses incorporating tabernae and other commercial premises. <ref type="bibr" target="#b22">16</ref> The epigraphic evidence tells a similar story, with amphora inscriptions and stamps showing the prominence of elite families in the production and distribution of a variety of products. Even curial families made no attempt to hide their involvement, as the famous example of the Umbricii Scauri demonstrates.<ref type="foot" target="#foot_8">foot_8</ref> It follows that if the elite maintained extensive interests in every aspect of the urban economy, it becomes difficult to identify a specifically commercial class distinct from the curiales.</p><p>There was of course one group which seems to have been deeply involved in all things commercial, and they were the freedmen, the very category that also tends to upset modern attempts at modelling Roman society. To gain an idea of the sheer scale of their involvement, we may briefly consider the 152 Iucundus tablets whose witness lists provide a unique insight into the commercial circles of Pompeii. They belong to the period 50-62 CE and feature 320 witnesses listed in a rough ranking according to status. <ref type="bibr">18</ref> The witnesses can be divided into three main categories: 1) documented or likely members of curial elite, 2) members of apparently freeborn non-curial families, 3) and freedmen, primarily identified on the basis of onomastics. The latter seem to make up no fewer than 70% of the 285 non-curial signatories. This figure tallies with a wide range of other types of evidence such as amphora inscriptions and metal stamps, which all suggest that freedmen occupied a dominant position in the urban economy.</p><p>The prominence of former slaves shows the futility of relying entirely on formal criteria to describe social hierarchies, but the answer may not simply be to insert a new category between plebs and elite. The contradictions inherent in conventional stratigraphic models suggest we will have to rethink the ways in which we visualise Roman society. The status-based pyramid adopted by Alföldy could not easily accommodate the existence of affluent freedmen, and he, therefore, presented them as an autonomous social hierarchy that partly overlapped with the higher echelons. This was also the solution preferred by François Jacques and John Scheid, whose model is a more complex but also less visually coherent attempt to represent Roman society. There the analytical isolation of the freedmen is even more pronounced, since their pyramid has become entirely detached from the rest of society (Fig. <ref type="figure" target="#fig_3">6</ref>). <ref type="bibr">19</ref> Their separation of the freedmen is of course correct in terms of rank and status, but by treating them as an anomalous category that somehow fell outside the normal ordering of society the model is unable to account for their numbers and manifest economic importance. <ref type="bibr">20</ref> What seems to be missing from these models is a consideration of the links and ties that existed between the different social strata as well as the flow of resources which they facilitated. In the models of Alföldy and Jacques/Scheid freedmen are far removed from the elite, either entirely separate or bundled up with slaves and the free plebs among the poorly differentiated masses. But their remarkable numbers and relative success are probably better understood as a function of their intimate connections with the elite, which continued to replenish their ranks through a steady stream of new manumissions. While freedmen and local aristocrats could not have been further apart from a status perspective, in reality they shared the same world and the fortunes of the former were inseparable from the values and economic strategies of the latter.  (Jacques -Scheid 1990)   The Roman elite were famously adverse to employing staff that were not subject to their own personal authority. As a result the familia became the key social and economic unit, which in turn created a direct link between top and bottom of society -largely to the exclusion of those in-between. The striking closeness that existed between masters and slaves/freedmen in the urban environment opened up a wide range of opportunities. Freed slaves became institutionally integrated into the familia, with the former owner assuming the pseudo-paternal role of patronus while the freed person adopted the patron's family name. As members of the extended familia freedmen remained bound by both formal and informal tiesmoral, personal, legal, and financial -which allowed them to be put in positions of trust within what might be described as 'family firms'. In practical terms they benefited from basic education and training which might lead to further support and investments. Many stayed with their patron after manumission, performing the same tasks as before, while others were employed under a variety of different managerial arrangements, including tenancies, which offered access to commercial premises in the form of tabernae and workshops, or partnerships that allowed them a degree of independence as well as a share of profits.</p><p>The Iucundus tablets offer interesting insight into the importance of familial backing. As noted earlier, the large majority of the witnesses appear to have been freed, and a very large proportion of them came from leading familiae. Thus, if we ignore the witnesses who were themselves members of the elite, 185, or 65%, of the remaining 285 carried the gentilicial names of families that had held or run for office. Some high-ranking and prominent freedmen may belong to relatively unknown families, but since freedmen are a priori unlikely to be wealthier than their patrons, we may assume they too came from a comfortable background. <ref type="bibr">21</ref> Their patrons may have left little epigraphic trace, but the fact that non-freedmen did not usually put up funerary inscriptions in late Pompeii means that many families outside the ordo are known to us only through their freedmen. 22 Moreover, it is entirely possible that many of these families were in fact represented among the missing candidates and magistrates from the 40s and 50s CE when our coverage is patchy.</p><p>While the precise scale of manumission in Roman Italy cannot be determined with any certainty, there is ample evidence to suggest that the practice was very common and freedmen extremely numerous. The most unequivocal data come from neighbouring Herculaneum, where fragments of an extensive album listing the local citizens indicate that a remarkably high share of the population was freed, and a similar impression is conveyed by evidence from Misenum. <ref type="bibr">23</ref> In order to understand the scale of manumission it is perhaps instructive to cast a glance at the local elites with which this phenomenon was so closely connected and, in particular, their economic power. Thus, if we again take their dwellings as a rough indicator of wealth and revisit the Pompeii maps presented above, we find that the domus of the elite, including what we might call the wider -or potential -ordo, make up a strikingly large proportion of the domestic housing (cf. Fig. <ref type="figure" target="#fig_4">7</ref>). <ref type="bibr">24</ref> is in 21 They include, for example, the magister pagi Aug. Felicis suburbani L. Barbidius L.l. Communis and the augustalis and paganus C. Munatius Faustus, and among the Iucundus witnesses C. Atullius Euander, T. Sornius Eutychus and Cn. Vibrius Callistus. 22 As argued in Mouritsen 2005.  23 Mouritsen 2011, 129-131; Herculaneum: Camodeca 2008, 87-98; Wallace-Hadrill 2011,  138-139; Misenum: D'Arms 2000.  24 When evaluating the overall distribution of elite housing in Pompeii it should of course be borne in mind that substantial parts of regions I, II, and III had been given over to gardens, orchards, and vineyards in the final period of the town's existence.</p><p>the context of this aristocratic world that the Pompeian freedmen should be viewed, their numbers and relative prominence directly reflecting the power and resources of the local ruling class. This symbiotic relationship between the elite and their slaves/freedmen in the urban environment affected the conventional hierarchies, and if standards of living are also factored in, the 'dissonance' becomes even more pronounced since domestic staff, irrespective of personal status, often enjoyed a better quality of life at least in material terms than many of those who ranked far above them. Faced with such contradictions we are reminded again that no model can capture the structure of Roman society as a whole -only certain aspects of it. And since by its very nature a model is not a representation but an attempt to draw attention to certain significant features -in deliberately simplified form -the question is which features we consider to be the more significant. And here the aim must be to present a model that does not dismiss a substantial -and indeed vital section of society -as an aberration from the norm but is able to account for its significance within the chosen frame of reference.</p><p>We will, in other words, have to rethink how a social structure is conceptualised, not just in terms of layering and connections but also with regard to the visual imagery used to express this understanding graphically. Presenting Roman society as a pyramid may seem logical, although the shape in itself is of little heuristic value, since it, to a greater or lesser extent, is applicable to all societies where the poor are also the many. More importantly, however, it fails to highlight what was in fact distinctive about Roman society, which was precisely the fundamental tension that existed between status, on the one hand, and economic resources and standards of living, on the other.</p><p>As an alternative one might consider a model that shows not just the overwhelming concentration of resources in the hands of the elite but also takes account of the wider social, economic and demographic repercussions this had on society. To that end the application of a bird's-eye view of society may be more helpful, and from that perspective the socio-economic order emerges as a set of concentric circles (Fig. <ref type="figure">8</ref>). At the very centre we find an inner core of powerful aristocratic families of long-standing prominence and extensive resources. <ref type="bibr">25</ref> Around this group existed an outer band of minor curial families, which competed for a limited number of seats on the council. This group was less stable and probably to some extent dependent on patronage and political support from the inner Fig. 8: A model of the social structure of Pompeii</p><p>core of families. The next circle, in turn, is occupied by the extensive elite households, made up of slaves and freedmen, many of whom lived comfortably or even in considerable affluence. They prospered from their association with the elite, which opened up economic opportunities that were generally not available to the population at large. Finally, in the outer ring were located the free but 'unconnected' poor, who had little access to education, training, or the investments that depended on personal trust and familiarity with social superiors. Since they had little to offer in return for patronage, their prospects were further reduced by the elite's preference for personally controlled staff, which forced them to rely on short-term, low-skilled employment. Presumably most members of this category suffered a precarious existence dominated by a daily struggle for economic survival. <ref type="bibr">26</ref> The purpose of the diagram is to illustrate the lack of correlation between status and economic circumstances while also highlighting the importance of social ties. As the rings spread out, wealth declined, and furthest away from the aristocratic core we find the 'structurally' poor, who were defined not just economically but also socially, since their economic disadvantage was matched by social marginality. As such the labour strategies of the elite created a very different kind of polarisation from that entailed by Alföldy's status-based model, one that paradoxically left the free poor far more exposed than those who formally ranked below them. But this reversal of 'normal' hierarchies does not of course imply that status did not matter to the Romans; indeed the elite preferred slaves and freedmen precisely because of their inferior and dependent status. <ref type="bibr">27</ref> The model could, therefore, be seen as an illustration of Tacitus' famous distinction between the respectable plebs, who were attached to the grand houses, and the rabble that was not. <ref type="bibr">28</ref> While steeped in conventional elite prejudices, the passage may still reflect real socioeconomic patterns that concentrated economic opportunities around elite households and reduced large sections of the lower classes to 'structural' poverty.</p><p>At this point we may briefly revisit the question of the 'middling class' in light of our model. Was there a defined social group between the elite and their familiae and the most disadvantaged plebs? It is not implausible that such a social layer (tentatively indicated in Fig. <ref type="figure" target="#fig_6">9</ref>) could have existed, but it must also be recognised just how little we know about its size, social profile and economic basis. We cannot identify them securely in the urban fabric, since the fact that a house is of middling size and décor does not per se indicate that the occupants belonged to a specific middling group; they might well be freedmen or perhaps even minor relatives of curiales. Similarly, the frequently made association of this social layer with tabernae, retail and craft production seems to project later European petites bourgeoisies onto the very different world of ancient Rome where these functions typically were performed by dependent labour. <ref type="bibr" target="#b20">29</ref> What we can say is that such a stratum would have been inherently unstable, its members' modest resources reducing their ability to withstand the fundamental uncertainties of life in the ancient world. Certainly, the image of a 'solid middle class', sometimes invoked, seems misplaced. There can have been nothing solid about this middling group; more likely it was fluid, heterogeneous and probably often dependent. If, for example, we take the children of liberti, often seen as potential members of such a category, we may doubt how numerous they were, given that many freedmen did not produce freeborn offspring because of late or informal manumission. Moreover, their economic fortunes would have been quite insecure as the source of their relative prosperity usually derived from the familia they left behind. They would, therefore, have tended to either rise or sink socially, according to the level of patronal support they continued to receive. If none was forthcoming or their familia was broken up among external heirs, they would in all probability have drifted into the outer ring of our diagram. Alternatively, if they found favour they might well have entered the ranks of the curial hopefuls. Similar patterns would have applied to other members of the 'middling' plebs whose prospects would have been closely tied to patronal support from social superiors. It follows that to the extent such a layer existed it would probably have been fairly transient, lacked a clear social profile and displayed none of the characteristics nowadays associated with a 'middle class'.</p><p>General models of social structure such as the ones discussed above are not just simplified abstractions but also, by necessity, static in nature, describing a more or less stable set of relationships at a given moment in time. It may, however, be worthwhile briefly to consider the possibility of adding a diachronic aspect to our picture of Pompeian society, given the city's unparalleled archaeological record. When looking at the urban fabric from that perspective, two salient features immediately stand out, both of which demonstrate the dynamic nature of elite housing.</p><p>Firstly, the character of the familia as a complex and layered socio-economic unit, described above, is apparent in the mix of formal representative spaces, 'service' areas, and commercial facilities that all formed part of the urban estates of the elite. Moreover, these three types of spaces were continually adjusted and modified over time, perhaps partly mirroring the fluctuating fortunes of the owner, but also taking advantage of emerging commercial opportunities; thus, even the richest houses demonstrate an acute awareness of the earning potential offered by urban real estate -seemingly unperturbed by the moral opprobrium conventionally associated with such income.</p><p>Secondly, even a quick glance at the houses of the elite reveals a remarkably consistent trend towards ever greater concentration of urban property in fewer and fewer hands. This phenomenon can be traced across the history of Roman Pompeii and even further back into Samnite times, and while each aristocratic house followed its own trajectory and developed at its own pace, the overall tendency towards accumulation of property is nevertheless clear. All the large domus included in our highest category and many of those in the second tier were the result of a gradual, steady process of expansion which saw the absorption of several smaller houses into a single sprawling residence. <ref type="bibr">30</ref> The result was often highly complex layouts which comprised several entrances, atria, reception areas and colonnaded garden spaces, the so-called 'peristyles'. In some cases the process was completed already in the second century BCE, e.g. the House of the Faun, 31 but in others it continued well into the first century CE, most strikingly in the case of the House of the Lyre Player (I 4,5.25), which went through successive expansions and modifications stretching over more than 200 years. In some instances we can trace beneath later changes the faint (and admittedly partly hypothetical) outline of the original ownership structures, which suggest that when the insulae were first divided up, they were split into plots of broadly similar size. For example, the House of the Menander (I 10,4) covers what may once have been four or five separate plots, while the House of the Lyre Player eventually came to occupy five of the original units and parts of two others. <ref type="bibr">32</ref> These processes raise interesting questions about the social structure of early Pompeii, which judging from the domestic fabric appears to have been a relatively egalitarian society with limited variation in property sizes and, presumably, a fairly even distribution of wealth. Against this background the later developments are so much more remarkable, since the accumulation of urban property must be indicative of increased inequality and a corresponding decline of 30 The fullest discussion of this process is that of Ling 1997, 238-247.  31 Hoffmann -Faber 2009, 103-109, who note that its expansion happened at the expense of several smaller houses which previously occupied the insula. 32 H. Geertman's attempt at reconstructing the original layout of the Insula of the Menander seems highly conjectural: see Geertman 1998, 24-25, figs. 19-20. For a more cautious approach see Ling 1997, 223-232. The House of the Lyre Player has been studied by S.C. Nappo, whose reconstruction is shown in Nappo 1988, 29, fig. 23. VI 15,7.38 is another instructive example: cf. Seiler 1992.</p><p>previously prominent 'middling' groups, whose dwellings make up an everdiminishing proportion of the urban housing stock. <ref type="bibr">33</ref> The growth of elite houses suggests that the ancient mortality regime and the continuous redistribution of assets and property that entailed did not, as one might have expected, lead to a 'flattening' of the social pyramid. It created a wider and in some respects less permanent elite which, as we saw, was relatively fluid at the edges, but there is no indication that it led to a more even distribution of resources among the citizens of Pompeii as a whole. In fact, quite the opposite seems to have been the case, with the archaeological evidence suggesting a widening gap between rich and poor. It would appear, therefore, that factors such as mortality and the practice of partible inheritance concentrated rather than spread resources. Presumably estates, in their entirety or in parts, were left to other members of the elite, either long-established or rising newcomers, but rarely to citizens outside of this circle. <ref type="bibr">34</ref> In terms of our model of Roman society, the implication is that those located in our -hypothetical -band of 'middling' Pompeians (cf. Fig. <ref type="figure" target="#fig_6">9</ref>) did not benefit to any significant extent from elite support or legacies; while some may have risen individually, as a social group they experienced a steady decline, as indicated by their dwindling presence in the urban landscape. On occasion those in the inner 'familia circle' may have been considered in the wills of the elite, creating the spectacular examples of social mobility often seen as defining features of Imperial society. Most likely, however, these were relatively rare exceptions to a prevailing pattern of inter-generational property transfer that tended to restrict the circulation of resources to those who were already part of the elite, or who happened to enjoy its particular favour and patronage.</p><p>33 In this context the shrinking of the built-up area of Pompeii also attracts attention, since the parts of regions I, II and III, which in later periods had been given over to orchards and vineyards, appear to have been occupied by small 'terrace' houses in the past; cf. Nappo 1997.  34 The celebrated examples of domestic houses transformed into commercial premises (e.g. I  6,7; VI 8,20-21 and VI 14,21-22; cf. Dickmann 2010) may also be the result of property accumulation, perhaps through inheritance. Families already in possession of representative townhouse(s) may plausibly have decided to use new acquisitions to generate income rather than employ them for private habitation. That could be done either in the form of commercial letting or by turning the domus into production sites. Viewed from that perspective, the once popular interpretation of these instances as signs of aristocratic 'decline' appears misguided.</p><p>APPENDIX 1. THE POMPEIAN ELITE, 50-79 CE Families documented as candidates or magistrates are indicated in bold; families where the position of its members in the Iucundus tablets makes elite status likely are underlined, while families represented only by elite women are italicised. The epigraphic evidence for the first category is collected in Mouritsen 1988. Aelii: L. Aelius Magnus cand.; Aemilii: C. Aemilius Severus (t.113); Albucii: L. Albucius Celsus aed. cand.; L. Albucius Iustus dv. 58 CE; Alleii: Cn. Alleius Nigidius Maius aed. cand., dv. cand. quinq. cand., quinq. 55 CE; Appuleii: Appuleius dv. cand; A. Appuleius Severus (t.49, 106); Q. Appuleius Severus (t.10, 12-5, 17, 19, 25, 43, 67, 71, 73, 82, 88, 92, 99, 113); Ateii: C. Ateius Capito aed. cand.; Attii: Sex. Attius Amplus aed. cand.; Audii: Cn. Audius Bassus aed. cand., quinq. cand. (cf. C. Numitorius Audius Bassus (t.22, 151). Betutii: L. Betutius Iustus (t.95); Blaesii: L. Helvius Blaesius Proculus dv. 52 CE; Bruttii: Q. Bruttius Balbus aed. cand., dv. cand., aed. 56 CE. Caecilii: L. Caecilius Capella dv. cand.; Caltilii: Q. Coelius Caltilius Iustus dv. 61 CE; Calventii: C. Calventius Sittius Magnus aed. cand., dv. cand.; M. Calventius cand.; Calventius Quietus dv.cand.; Caprasii: A. Vettius Caprasius Felix aed. cand., dv. cand.; Casellii: M. Casellius Marcellus aed. cand.; Ceii: L. Ceius Secundus aed. cand., dv. cand.; Cerrinii: M. Cerrinius Vatia aed. cand.; Cinii: T. Cinius cand.; Claudii: Ti. Claudius Claudianus dv. cand.; Ti. Claudius Verus dv. cand., dv. 61 CE; Clodii: Clodia sacerd. publ.;<ref type="foot" target="#foot_16">foot_16</ref> Coelii: Q. Coelius Caltilius Iustus dv. 61 CE; Consii: C. Consius aed. cand.; Cordii: L. Cordius aed. cand.; Cornelii: C. Cornelius aed. cand.; C. Cornelius Macer dv. 57 CE; Cuspii: C. Cuspius Pansa dv. 50-62 CE; C. Cuspius Pansa aed. cand. Epidii: M. Epidius Sabinus aed. cand., dv. cand. Fabii: Fabius Rufus cand.; Fabia Probi f., wife of T. Terentius Felix aed. (CIL X 1019); Fadii: Fadius aed. cand.; Fervenii: Fervenius Celer aed. cand.; Fuficii: A. Fuficius Certus (t.112); M. Fuficius Fuscus (t.112). Gavii: C. Gavius Firmus (t.81, 89, 95); C. Gavius Rufus aed. cand., dv. cand.; P. Gavius Pastor dv. c. 50 CE; P. Gavius Proculus dv. cand.; (cf. Cn. Pompeius Grosphus Gavianus dv. 59 CE).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 :</head><label>1</label><figDesc>Fig.1: Alföldy's model of Roman society(Alföldy 1985)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3 :</head><label>3</label><figDesc>Fig. 3: The identifiable houses of Pompeian magistrates and candidates</figDesc><graphic coords="7,133.80,155.57,327.36,506.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 :</head><label>4</label><figDesc>Fig. 4: Large elite houses in Pompeii</figDesc><graphic coords="9,148.92,155.33,295.92,505.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 6 :</head><label>6</label><figDesc>Fig. 6: Jacques and Scheid's model of Roman society(Jacques -Scheid 1990)   </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 7 :</head><label>7</label><figDesc>Fig. 7: Large and medium-sized elite houses in Pompeii</figDesc><graphic coords="16,143.76,155.33,307.92,505.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>26 C. Holleran's recent paper on migration casts important new light on what in my model constitutes the 'outer ring' of the 'structurally poor', emphasising the unstable and fluctuating nature of this social layer; cf. Holleran 2011. 'Structural poverty' in Rome is also discussed by N. Morley in Morley 2006.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 9 :</head><label>9</label><figDesc>Fig. 9: A Pompeian 'middling class'?</figDesc><graphic coords="19,135.96,133.25,319.20,315.84" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="10,143.52,155.57,296.04,506.04" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_0"><p><ref type="bibr" target="#b39">Hopkins 1965</ref><ref type="bibr" target="#b39">Hopkins [1974]]</ref>.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_1"><p>This model of the curial elite has been explored in greater detail in<ref type="bibr" target="#b46">Mouritsen 1988</ref>, which presents the relevant evidence.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_2"><p>Houses of magistrates and candidates: I 4,5.25 (LL. Popidii Ampliatus and Secundus, 4.2375;</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_3"><p>The main criterion is inevitably the size of the house, including upper stories and terracing, but the layout is also taken into account, i.e. presence of reception spaces, atria and peristyles. A full list of the houses in the two categories is presented in appendix 2.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_4"><p>Some wealthy house owners, such as the freed Vettii, may of course not have been eligible for membership of the ordo, but such anomalous cases probably do not affect our figures substantially.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_5"><p><ref type="bibr" target="#b48">Mouritsen 1997.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_6"><p>For the most sophisticated version of that argument see<ref type="bibr" target="#b59">Scheidel 2006</ref>. Cf. also Vittinghoff  1980<ref type="bibr" target="#b63">[1994]</ref>;<ref type="bibr" target="#b64">Vittinghoff 1990;</ref><ref type="bibr" target="#b56">Pleket 1990</ref>. Both argued for the existence of economically 'middling' groups in Roman society.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_7"><p>For example, the owner of the imposing House of the Menander installed a small rented flat over his atrium (I 10,5) and separated another corner of this property off and turned it into an inn (I 10,13); Ling 1997. Even more strikingly, in VIII 4,2-4, whose owner appears to have been the magistrate Q. Postumius Modestus, commercial facilities were created at the heart of the house to exploit the abundant water supply, while small tabernae were created along the exterior to further maximise earnings; cf. Dickmann -Pirson 2002. On urban property see in general<ref type="bibr" target="#b55">Parkins 1997.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_8"><p><ref type="bibr" target="#b28">Curtis 1984;</ref><ref type="bibr" target="#b29">Curtis 1988;</ref> cf. Mouritsen 1997, 62-64.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_9"><p>The classic study of this material remains Andreau</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1974" xml:id="foot_10"><p>Jongman 1988, 338-353  provides a full list of witnesses. For their ranking see<ref type="bibr" target="#b47">Mouritsen 1990</ref>.  19 Jacques -Scheid 1990, 308.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_11"><p>The model seems indebted to P. Veyne's classic study of Petronius' Trimalchio, which presented him as a member of an isolated 'freedman community' shunned by the rest of society; see<ref type="bibr" target="#b61">Veyne 1961.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_12"><p>Another problem with the 'pyramid model' is that visually it gives the impression of an elite 'floating' on top of the social hierarchy rather than being firmly embedded and integrated into it: indeed, it formed its very core.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_13"><p>In the countryside the situation would have been different and probably conformed better to the official ranking of classes according to status.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_14"><p>Tac. Hist. 1.4.3: Pars populi integra et magnis domibus adnexa versus the plebs sordida et circo ac theatris sueta.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_15"><p>As argued by e.g.<ref type="bibr" target="#b62">Veyne 2000;</ref><ref type="bibr" target="#b58">Robinson 2005;</ref><ref type="bibr" target="#b34">Flohr 2007;</ref><ref type="bibr" target="#b44">Mayer 2012.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="35" xml:id="foot_16"><p>D'Ambrosio 1983, no. 5 OS; cf. Mouritsen 2005, 49.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="36" xml:id="foot_17"><p>Two younger Lucretii are recorded as decuriones, but they may well have been praetextatiand not yet full members of the ordo.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="38" xml:id="foot_18"><p>Camodeca 2000; cf.Mouritsen 2005, 51-52.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="39" xml:id="foot_19"><p>The numbers in brackets refer to door openings relating to units that were not directly connected to the main house, but whose location and layout suggest they formed part of the same property.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX 2. THE HOUSES OF THE ELITE 39</head><p>Large elite houses in Pompeii Regio I  I 4,5.6.25.28 (26; 27); I 6,2.16 (1; 3); I 10,4.14-17 (12; 13). 7.3.6.8.9 (4; 5); V 1,23.25.26.27.10 (20.21; 22; 24); V 2,i.e.21. Regio VI  VI 1,6.7.8.24.25.26; VI 6,1.8.12.13 (2; 3; 4.5; 6.7; 9; 10.10a; 11; 14; 15; 16;  17.18.19.20.21; 22; 23); VI 7,20.21.22; VI 9,2.13; VI 9,3-5.10-12; VI 9,6-9; VI  10,8.9.11.14 (10; 12; 13; 15); VI 11,8-10; VI 12,1.2.3.5.7.8 (4; 6); VI 15,1.27; VI  17,19-26; VI 17,32-39 (31). Regio VII  VII 1,25.46.47 (24; 26); VII 2,20.21.41 (40); VII 4,31-33.50.51 (30; 34; 35; 36;  37; 38); VII 7,2.5.14.15 (1; 3; 4; 6; 7); VII 15,1.2.15; VII 16,12-16; VII 16,17-20; VII 16,21-22.   Regio VIII  VIII 2,5.7.14-16; VIII 2,18-21; VIII 2,29.30 (31); VIII 2,32-34 (35); VIII  2,36.37; VIII 2,38.39; VIII 3,4.6 (2; 3; 5); VIII 3,8 (7; 9; 10-12); VIII 4,2-6.49.50  (1.53; 45: 46; 47; 48; 51.52); VIII 4,14-16.22.23.30 (24; 25); VIII 5,2.3.5 (1.40;  4; 6; 7); VIII 5,28.29.34.35 (27; 30.31; 32; 33). Regio IX  IX 1,20.30; IX 1,22.29 (21; 23; 24); IX 5,14-16; IX 6,4-7; IX 8,6.3.a (1; 2; 4; 5; 7); IX 13,1-3; IX 14,2.4.c (1.a.b).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">(</forename><forename type="middle">M Lucretius</forename><surname>Fronto</surname></persName>
+		</author>
+		<idno>4.6625; 6626; 6765; 6633; 6795</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Alleius Nigidius Maius, 4.138); VI 15</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="24" to="25" />
+		</imprint>
+	</monogr>
+	<note>M. Pupius Rufus, 4.3537; 4615); VII 1.25,47 (PP. Vedii Siricus and Nummianus 10.8059.81); 4.805; 916; 917</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Umbricius Scaurus; cf. Giordano -Casale</title>
+		<idno>VII Ins. Occ. 1-2.12-16</idno>
+	</analytic>
+	<monogr>
+		<title level="j">VIII</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="15" to="16" />
+			<date type="published" when="1984">1991. Curtis 1984</date>
+		</imprint>
+	</monogr>
+	<note>Q. Postumius Modestus, 4.738; 775; 778); IX 1,20.30 (M. Epidius Sabinus, 4.1059; 10.861; 8058.40); IX 2 Q. Brittius Balbus, 4.935b; 935d; 935h</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">IX</title>
+		<imprint>
+			<biblScope unit="volume">3666</biblScope>
+		</imprint>
+	</monogr>
+	<note>IX 2,26 or IX 3,14-15 (M. Casellius Marcellus, 4.3649; 1-3 (C. Iulius Polybius, 4.7925; 7942; 7945; 7954; 7956; 7957; 7958; Giordano -Casale 1991, 48 and 50</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">For a discussion of the criteria applied see Mouritsen 1988, ch. 1. Hegii: Hegius quinq. 55 CE; Helvii: Cn. Helvius Sabinus aed. cand.; L. Helvius Blaesius Proculus dv</title>
+		<idno>aed. 50-62 CE</idno>
+	</analytic>
+	<monogr>
+		<title level="m">52 CE; L. Helvius Rufus (t.70); Herennii: N. Herennius Celsus aed. cand.; Holconii: Holconius Celer cand.; Holconius Rufus cand.; C. Holconius Ser. cand.; M. Holconius Priscus aed. cand., dv. cand.; Hordionii: A. Hordionius Proculus aed. 50-62 CE. Igii: Igius Fuscus cand.; Iulii: Iulius Modestus aed. cand.; C. Iulius Polybius aed. cand., dv. cand.; L. Iulius Ponticus dv. c. 50 CE; M. Iulius Simplex aed. cand; Ti. Iulius Rufus</title>
+		<imprint>
+			<biblScope unit="volume">8996</biblScope>
+		</imprint>
+	</monogr>
+	<note>IX 14,2.4.c (M. Obellius Firmus, 4.3828; 8970; 8971b Iunii: M. Iunius aed. cand., quinq. cand. (cf. C. Memmius Iunianus aed. 56 CE</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<idno>dv. 52-61 CE</idno>
+		<title level="m">Laelii: L. Laelius Fuscus aed. cand., dv. cand.; Licinii: M. Licinius Faustinus aed. cand.; M. Licinius Romanus</title>
+		<imprint>
+			<publisher>Laecanii: C. Laecanius quinq. cand</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Romanus aed. cand.; Lollii: C. Lollius Fuscus aed. cand.; Q. Lollius Rufus aed</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Licinius</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>cand.; Loreii: M. Loreius (t.27</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m">Loreius, prospective cand. (cf. CIL IV 7539, 7733); Lucretii: 36 D. Lucretius Valens decurio</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lucretius</forename><surname>Valens Aed. Cand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Lucretius</forename><surname>Satrius</surname></persName>
+		</author>
+		<idno>Valens aed. 33 CE, dv. 53-61 CE</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Marii: Q. Marius Rufus aed. cand.; Melissaei: M. Melissaeus quinq. cand.; Memmii: C. Memmius Iunianus aed. cand. aed. 56 CE; Messii: N. Sandelius Messius Balbus dv. 60; Mulvii: Mulvia Prisca, mother of C. Vestorius Priscus aed</title>
+		<imprint>
+			<date type="published" when="1910">1910</date>
+			<biblScope unit="volume">402</biblScope>
+		</imprint>
+	</monogr>
+	<note>Naevii: L. Naevius Rufus aed. cand.; Nigidii: Cn. Alleius Nigidius Maius aed cand., dv. cand., quinq. cand., quinq. 55 CE; Ninnii: N. Ninnius Calvus (t.70</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">Ninnius</forename><surname>Iustus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Obellii: M. Obellius Firmus dv. cand., dv. 50-62 CE; Oppii: Oppia, wife of L. Numisius Rarus aed. cand. (CIL IV 1567</title>
+		<title level="s">M. Nollius cand.; Nonii: L. Nonius Severus aed. cand.; Numisii: L. Numisius Rarus aed. cand.; Numitorii: C. Numitorius Serenus aed</title>
+		<imprint>
+			<publisher>Ostorii: C. Ostorius cand</publisher>
+		</imprint>
+	</monogr>
+	<note>t.70 cand.; C. Numitorius Audius Bassus (t.22, 151 Ovidii: L. Ovidius Veiento aed. cand</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">L. Pompeius Secundus aed. cand.; N. Popidius Celsinus decurio post 62 CE; N. Popidius Rufus aed. cand., dv. cand.; Poppaei: Q. Poppaeus aed. c. 50 CE; Postumii: Q. Postumius Modestus aed. cand., dv. cand., quinq. cand., dv. 56 CE; [Q. Postumius] Proculus aed</title>
+		<author>
+			<persName><surname>Paquii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sallustii: Q. Sallustius Capito aed. cand.; Salvii: M. Salvius aed. cand.; Samellii: M. Samellius Modestus aed. cand.; Sandelii: N. Sandelius Messius Balbus dv. 60 CE; Satrii: M. Satrius Valens dv</title>
+		<title level="s">P. Paquius Proculus aed. cand., dv. cand.; Pericatii: L. Pericatius cand.; Pettii: Pettius aed. cand.; Pompeii: Cn. Pompeius Grosphus dv. 59 CE: Cn. Pompeius Grosphus Gavianus dv. 59 CE; Sex. Pompeius Proculus dv. 57 CE; Popidii: L. Popidius Ampliatus aed</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+		</imprint>
+	</monogr>
+	<note>Postumius Proculus aed. cand.; Pupii: M. Pupius Rufus aed. cand., dv. cand. Rusticelii cand., quinq. cand.; D. Lucretius Satrius Valens aed. 33 CE, dv. 53-61 CE; Seppii: Seppius cand.; Septumii: Septumius cand.; Sevii: L. Sevius Rufus (t.81, 89 Sextilii: L. Sextilius Lalus cand.; L. Sextilius Restitutus aed. cand.; L. Sextilius Syrticus, dv. cand.; Sittii: C. Calventius Sittius Magnus aed. cand., dv. cand.; P. Sittius Coniunctus dv Sittius Magnus aed. cand.; Statii: L. Statius Receptus dv. cand Suettii: A. Suettius Certus aed. cand., dv. cand.; A. Suettius Verus aed. cand. Taedii: Taedia Secunda, grandmother of L. Popidius Secundus aed. cand. (CIL IV 7469</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A. Trebius Valens quinq. cand. Valerii: M. Valerius aed. cand.; Varii: L. Varius cand.; Vedii: P. Vedius Nummianus aed. cand; P. Vedius Siricus dv. cand., quinq. cand., dv. 60 CE; Veii: L. Veius Rufus aed. cand.; Veranii: C. Veranius Rufus dv</title>
+	</analytic>
+	<monogr>
+		<title level="m">L. Veranius Hypsaeus quinq. cand., dv. 58 CE; Vesonii: M. Vesonius Marcellus dv. cand.; Vestorii: C. Vestorius Priscus aed</title>
+		<editor>
+			<persName><forename type="first">:</forename><forename type="middle">T</forename><surname>Terentii</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Terentius Aed. Cand</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Terentius Felix Aed</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="50" to="62" />
+		</imprint>
+	</monogr>
+	<note>Trebii: A. Trebius Valens aed Vettii: A. Vettius Caprasius Felix aed. cand., dv. cand.; A. Vettius Firmus aed. cand.; A. Vettius Syrticus aed Vibii: Vibius Severus aed. cand., dv. cand.; C. Vibius Secundus aed., dv. 56 CE; P. Vibius Cac. cand.; T. Vibius Macer (t.106). Medium-sized elite houses in Pompeii</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Regio I I</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Iii</forename><surname>Regio</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Iii</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Regio V V 1</surname></persName>
+		</author>
+		<idno>18.11.12</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m">Regio VI VI 1,9</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+		</imprint>
+	</monogr>
+	<note>VI 2,15.22; VI 2,16.21; VI 2,17.20; VI 3,3.27.28 (1.2; 4)</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title/>
+		<idno>VI 17,27.28.30</idno>
+	</analytic>
+	<monogr>
+		<title level="j">VI</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="42" to="44" />
+		</imprint>
+	</monogr>
+	<note>VI</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Vii</forename><surname>Regio</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vii</surname></persName>
+		</author>
+		<idno>47.48.51.65 (45.46</idno>
+	</analytic>
+	<monogr>
+		<title level="j">VII</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page">49</biblScope>
+		</imprint>
+	</monogr>
+	<note>VII 2,3.6.7 (1; 2; 4; 5); VII 2 3.4. (1.2.); VII 6,7 (5.6; 8.9</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">VII</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="6" to="8" />
+		</imprint>
+	</monogr>
+	<note>VII 3.4.16-18 (1.25; 2; 5; 15; 19-21); VII 14,5.17-19 (1.20; 3; 4; 6.7</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">VII</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">VIII</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Regio IX IX</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date>10</date>
+		</imprint>
+	</monogr>
+	<note>VIII 5,8.9 IX 2,15.16; IX 2,17; IX 2,19-21(22; 23); IX 2,25 (26); IX 3,5.24 (3;</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">IX</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="1" to="3" />
+		</imprint>
+	</monogr>
+	<note>IX</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The Social History of Rome, London (English translation of G. Alföldy, Römische Sozialgeschichte</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Alföldy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1975">1985. 1975. 2011</date>
+			<biblScope unit="volume">4</biblScope>
+			<pubPlace>Wiesbaden; Stuttgart</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Andreau</surname></persName>
+		</author>
+		<title level="m">Les affaires de Monsieur Jucundus</title>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">I Q. Postumii, magistrati pompeiani, in un&apos; iscrizione incompresa: CIL X</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Camodeca</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">8138</biblScope>
+			<biblScope unit="page" from="187" to="196" />
+			<pubPlace>Stabiae), AION</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">I Lucretii Valentes pompeiani e l&apos;iscrizione funeraria del cavaliere d&apos;età claudia D. Lucretius Valens</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Camodeca</surname></persName>
+		</author>
+		<editor>F. Senatore</editor>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="323" to="347" />
+			<pubPlace>Pompei, Capri e la Penisola Sorrentina, Capri</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">La populazione degli ultimi decenni di Ercolano</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Camodeca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ercolano. Tre Secoli di scoperte. Catalogo della mostra</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Guidobaldi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Napoli; Milano</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008">2008. 16 ottobre 2008-13 aprile 2009</date>
+			<biblScope unit="page" from="86" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">A personalized floor mosaic from Pompeii</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Curtis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AJA</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="557" to="566" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Umbricius Scaurus of Pompeii</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Curtis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studia Pompeiana et Classica in Honor of W. F. Jashemski</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">I</forename><surname>Curtis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New Rochelle</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="19" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">I: Fotopiano e documentazione della Necropoli di Porta Nocera</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>D'ambrosio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Un Impegno per Pompei</title>
+		<meeting><address><addrLine>Milano</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>D'arms</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Memory, money and status at Misenum: three new inscriptions from the collegium of the Augustales</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="126" to="144" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Die Umwandlung von Wohn-in Verkaufsraum in spätrepublikanischen domus</title>
+		<author>
+			<persName><forename type="first">J.-A</forename><surname>Dickmann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Etruskisch-italische und römisch-republikanische Wohnhäuser, Studien zur antiken Stadt 9</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Bentz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Reusser</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Munich</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="273" to="280" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Die Casa dei Postumii in Pompeji und ihre Insula. Vorläufige Ergebnisse zur Genese, Nutzung und Besiedlungsgeschichte eines Architekturkomplexes</title>
+		<author>
+			<persName><forename type="first">J.-A. -F</forename><surname>Dickmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pirson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RM</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="243" to="316" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Nec quicquam ingenuum habere potest officina? Spatial contexts of urban production at Pompeii</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BABesch</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="129" to="148" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>AD</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The layout of the city and its history: the Dutch project</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Geertman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Unpeeling Pompeii. Studies in Region I of Pompeii</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Berry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Naples</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="17" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Iscrizioni pompeiane inedite scoperte tra gli anni 1954-1978</title>
+		<author>
+			<persName><forename type="first">C. -A</forename><surname>Giordano</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Casale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atti Acc. Pont</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="273" to="378" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">A. -A</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Faber</surname></persName>
+		</author>
+		<title level="m">Die Casa del Fauno in Pompeji (VI.12)</title>
+		<meeting><address><addrLine>Wiesbaden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Migration and the urban economy of Rome</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Holleran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Demography and the Graeco-Roman World. New Insights and Approaches</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Holleran -A</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Pudsey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="155" to="180" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hopkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Élite mobility in the Roman Empire</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Finley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965. 1974. 1974</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="103" to="120" />
+		</imprint>
+	</monogr>
+	<note>Studies in Ancient Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Rome et l&apos;intégration de l&apos;Empire: 44 av</title>
+		<author>
+			<persName><forename type="first">F. -J</forename><surname>Jacques</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Scheid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Les structures de l&apos;empire romain</title>
+		<editor>
+			<persName><forename type="first">J.-C.-260 Ap. J.-C</forename></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<date type="published" when="1990">1990</date>
+			<pubPlace>Tome; Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Jongman</surname></persName>
+		</author>
+		<title level="m">The Economy and Society of Pompeii</title>
+		<meeting><address><addrLine>Amsterdam</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Album of Herculaneum and a model of the town&apos;s demography</title>
+		<author>
+			<persName><forename type="first">, L. -P</forename><surname>De Ligt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Garnsey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JRA</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="69" to="94" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ling</surname></persName>
+		</author>
+		<title level="m">The Insula of the Menander at Pompeii</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mayer</surname></persName>
+		</author>
+		<title level="m">The Ancient Middle Classes. Urban Life and Aesthetics in the Roman Empire, 100 BCE-250 CE</title>
+		<meeting><address><addrLine>Cambridge, MA -London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The poor in the city of Rome</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Morley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Poverty in the Roman World</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Atkins -R</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Osborne</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="21" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Elections, Magistrates and Municipal Elite</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in Pompeian Epigraphy</title>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A note on Pompeian epigraphy and social structure</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Classica et Mediaevalia</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="131" to="149" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Mobility and social change in Italian towns during the principate</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roman Urbanism. Beyond the Consumer City</title>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Parkins</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London -New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="59" to="82" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">The album of Canusium and the town councils of Roman Italy</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chiron</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="229" to="254" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Freedmen and decurions. Epitaphs and social history in Imperial Italy</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="38" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+		<title level="m">The Freedman in the Roman World</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">The Ancient Middle Classes: Urban Life and Aesthetics in the Roman Empire, 100 BCE-250 CE</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mouritsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rev</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mayer</surname></persName>
+		</author>
+		<idno>BMCR 2012.09.40</idno>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">The urban transformation at Pompeii in the late third and early second centuries B.C</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Nappo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Domestic Space in the Roman World. Pompeii and Beyond, JRA Suppl</title>
+		<editor>
+			<persName><forename type="first">R</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Laurence -A</forename><surname>Wallace-Hadrill</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Portsmouth</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="91" to="120" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Insula 1.4 and the House of the Lyre-player: The Italian project</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Nappo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Unpeeling Pompeii. Studies in Region I of Pompeii</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Berrv</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Naples</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="27" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">The &apos;consumer city&apos; domesticated? The Roman city in élite economic strategies</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Parkins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roman Urbanism. Beyond the Consumer City</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Parkins</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London -New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="83" to="111" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Wirtschaft</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Pleket</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Europäische Wirtschafts-und Sozialgeschichte in der römischen Kaiserzeit</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Vittinghoff</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="25" to="160" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Moderne und zeitgenössische Vorstellungen von der Gesellschaftsordnung der römischen Kaiserzeit</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rilinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Saeculum</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="299" to="325" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Re-thinking the social organisation of trade and industry in first-century AD Pompeii</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roman Working Lives and Urban Living</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Macmahon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Price</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="88" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Stratification, deprivation and quality of life</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Scheidel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Poverty in the Roman World</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Atkins -R</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Osborne</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="40" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Seiler</surname></persName>
+		</author>
+		<title level="m">Casa degli Amorini Dorati</title>
+		<meeting><address><addrLine>Munich</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Vie de Trimalcion</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Veyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annales ESC</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="213" to="247" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">La &apos;plèbe moyenne&apos; sous le Haut-Empire</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Veyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annales HSS</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1169" to="1199" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Civitas Romana. Stadt und politischsoziale Integration im Imperium Romanum der Kaiserzeit</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Eck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1980">1980. 1994. 1994</date>
+			<biblScope unit="volume">230</biblScope>
+			<biblScope unit="page" from="253" to="271" />
+		</imprint>
+	</monogr>
+	<note>Soziale Struktur und politisches System der hohen römischen Kaiserzeit</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Gesellschaft</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vittinghoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Europäische Wirtschafts-und Sozialgeschichte in der römischen Kaiserzeit</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Vittinghoff</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="161" to="369" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+		<title level="m">Herculaneum. Past and Future</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Staat&apos;, &apos;Gesellschaft&apos; und politische Integration in der römischen Kaiserzeit</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Winterling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Klio</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="93" to="112" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

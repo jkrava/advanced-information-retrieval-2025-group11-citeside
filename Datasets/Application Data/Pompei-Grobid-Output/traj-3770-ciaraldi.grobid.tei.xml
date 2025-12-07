@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Food, Ritual and Rubbish in the Making on Pompeii</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Open Library of the Humanities</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2000-04-06">06 April 2000</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Marina</forename><surname>Ciaraldi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Jane</forename><surname>Richardson</surname></persName>
+						</author>
+						<title level="a" type="main">Food, Ritual and Rubbish in the Making on Pompeii</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Theoretical Roman Archaeology Journal</title>
+						<idno type="eISSN">2515-2289</idno>
+						<imprint>
+							<publisher>Open Library of the Humanities</publisher>
+							<biblScope unit="volume">0</biblScope>
+							<biblScope unit="issue">1999</biblScope>
+							<biblScope unit="page">74</biblScope>
+							<date type="published" when="2000-04-06">06 April 2000</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">63CB9D93CEFD0A0B9A244D941C84E28E</idno>
+					<idno type="DOI">10.16995/trac1999_74_82</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Botanical and zoological data from two excavations within Pompeii, the HOllse of the Wedding of Hercules (VII. <ref type="bibr">9.47</ref>) and the House of the Vestals (VI. <ref type="bibr">1.7)</ref>, are used here to go beyond a city frozen by the eruption, to understand the dynamics of the vibrant pre-AD 79 community. The diachronic nature of the deposits are examined in order to study the exploitation of the natural resources as the city develops, while the analysis of two spatially disparate dwellings allows a house in the heart of the 'old city' to be compared to a house close to the city walls . The disposal of domestic waste is also studied and finally the use of food in the ritual lives of the inhabitants of these houses is analysed.</p><p>The House of the Vestals (VI. <ref type="bibr">1.7</ref>) is situated close to the city walls, near to the Herculaneum gate (figure I). The Anglo-American Project in Pompeii has been recording the standing remains and undertaking stratigraphic excavation here since 1995. Secondly, the House of the Wedding of Hercules (VII. <ref type="bibr">9.47</ref>) is close to the central forum area and is being excavated by the University of Rome. Both of these houses had developed into large and elaborate properties by the time of the AD 79 eruption and both were clearly the homes of wealthy Pompeian families (e.g. D. Robinson forthcoming; <ref type="bibr" target="#b5">Jones and Robinson 1998)</ref>. Environmental data from two distinct phases in the lives of the two properties were analysed (phases 2 and 3) <ref type="bibr" target="#b1">(Carafa 1997</ref>). In the House of the Wedding of Hercules, phase 2 (from the 4th to the first half of the 2 nd century BC) relates to the early Hellenistic house, while phase 3 (from the second half of the 2 nd century BC) sees the development of the typical atrium house. The environmental data from the House of the Vestals mainly relate to this later phase, with the exception of an earlier (phase 2) ritual deposit.</p><p>The retrieval of environmental remains from the House of the Vestals has been 'near-total' with the screening of all stratified deposits through 5-mm sieves. From here the majority of the faunal remains was retrieved. In addition, a sample of every uncontaminated context was screened using a modified Ankara-style flotation tank. This systematic flotation process was responsible for the recovery of the majority of fish bones and the carbonised and mineralized plant remains. Conversely the strategy of retrieval at the House of the Wedding of Hercules was somewhat less intensive. No systematic on-site screening was undertaken, but large-scale flotation was possible. The difference in retrieval strategies has affected the faunal assemblages in particular and the implications of this are considered in the following interpretations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dietary data</head><p>Dietary evidence from the plant remains has been found in two kinds of deposits: cesspits/drains and rubbish pits. At the House of the Wedding of Hercules a cesspit dates to phase 2 and 3, while at the House of the Vestals several drains have been assigned to phase 3. The plant remains recovered from both types of context are preserved as mineralized remains and this suggests that varying states of preservation should not be a factor. In addition, as both types of deposit resulted from the same depositional processes (essentially cess), it is hoped that the plant assemblages from both households are a true reflection of the food consumed by the occupants. A direct comparison of the species present in phase 2 and 3 deposits from the House of the Wedding of Hercules, with those from phase 3 deposits from the House of the Vestals, should stress changes in the use of plants over time, as well as variations between the two households.</p><p>An attempt has been made to compare the edible plant species from the two sites by assigning the plant species to one of three broad categories: fruits, cereals and spices (figure <ref type="figure" target="#fig_1">2</ref>). Quantitative data have not been considered as the relative importance of the various species between samples is strongly affected by preservation factors <ref type="bibr" target="#b2">(Ciaraldi forthcoming;</ref><ref type="bibr">Green 1979)</ref>. Instead the presence/absence of species allows an immediate comparison to be made. Clearly the assemblage from the House of the Vestals presents a greater range of spices and fruits than was recovered from the deposits at the House of the Wedding of Hercules. This indicates a wider availability of food resources at the House of the Vestals and may reflect the wealth of the occupants of this house (for archaeological evidence see <ref type="bibr" target="#b5">Jones and Robinson 1998)</ref> or more generally an increase in the range of produce avai lable in the city by phase 3.</p><p>A predominance of millet (Panicum miliaceum) in the cereals present in a phase 2 cesspit from the House of the Wedding of Hercules was particularly noteworthy. This is in contrast to the almost complete absence of millet from phase 3 deposits from the House of the Vestals. The dearth of millet from the House of the Vestals may indicate a significant difference between the two assemblages, especially as in later periods millet was considered to be a food of the poor (Pliny NH xviii.!I7). The change in the frequency of millet between the two phases and the two houses, however, can be interpreted in various ways . It could either represent a shift in the economic significance of this species (with a decline in the importance of this crop), or alternatively a difference in the wealth of the occupants of the two households at two different stages in their history. Rubbish deposits found at the House of the Wedding of Hercules (phase 2) also indicate the presence of millet. This millet is always associated with barley (Hordeum vulgare), wheat (both free-threshing (Triticum sp.) and emmer (Triticum dicoccum) and another species of millet, Italian millet (Setaria italica). The plant assemblage recovered from these rubbish pits also reveals a common association between cereal grains and chaff, in particular emmer glume bases. In contrast, chaff is absent from later contexts and this is true for both houses. The presence of chaff generally indicates that part of the crop processing of cereals was occurring close by. Its subsequent absence from later deposits in Pompeii represents a shift in the location of crop processing away from these houses, probably to the many villae rusticae where cereals were produced or to the numerous bakeries of Pompeii. A similar interpretation has also been made for the plant assemblages recovered from the excavations of 1.9.11-12 <ref type="bibr" target="#b10">(Robinson 1999)</ref>.</p><p>In order to compare the faunal data from both houses, it was necessary to exclude the fish remains. As retrieval at the House of the Vestals was 'near-total', fish bones and scales dominated this assemblage and indicated that this marine resource was commonly consumed <ref type="bibr">(Richardson 1995:27)</ref>. Conversely the recovery of fish remains from the House of the Wedding of Hercules was so poor that direct comparisons were extremely difficult. Instead the faunal analysis concentrates on the consumption of the four main domesticates, cattle, sheep(/goat), pig and chicken. The few dog and horse bones that were retrieved probably represent the remains of working animals and certainly no butchery marks were seen. The wall paintings and mosaics of Pompeii suggest that dogs were kept for hunting and guarding, while horses (mules and donkeys) were used for riding and to pull carts and turn mills <ref type="bibr">(Richardson et al. 1997:94-96)</ref>.</p><p>Animal remains from the House of the Wedding of Hercules have been found in both phase 2 and 3 deposits. These indicate a change in diet over time with a relative increase in the percentage of pig and a decline in cattle and chicken (figure <ref type="figure" target="#fig_2">3</ref>). interestingly, the faunal data from phase 3 deposits from the House of the Vestals are very similar to phase 3 at the House of the Wedding of Hercules (cf. figure <ref type="figure" target="#fig_2">3</ref> and <ref type="figure" target="#fig_3">4</ref>). The only difference is a higher proportion of chicken bones at the House of the Vestals and this probably reflects the more comprehensive retrieval strategy at this site. Perhaps by phase 3 there was no difference in ability of these two households to procure a wide range of plant and animal foodstuffs.  Using the proportions of domestic animals to determine dietary status is extremely difficult, if not impossible. An indication of high status consumption, however, may be identified by the slaughter patterns calculated from epiphyseal fusion and dental eruption and wear data. The slaughter patterns identified for pigs and sheep are similar from both properties. Over 80% of the pigs from both households were slaughtered as juveniles or young adults. The age data for sheep also indicate a widespread slaughter of juveniles, with significant numbers killed in their first year and the majority of animals dead by the end of their second year. These juvenile pigs and sheep indicate that prime pork and lamb were the preferred meats and, in part, corroborate the literary references to suckling pig as a Roman delicacy (cf. Columella VII.9.4). They suggest that the inhabitants of both the House of the Vestals and the House of the Wedding of Hercules had no need to consume poor quality meat from old animals and instead enjoyed diets of some status.</p><p>From the House of the Wedding of Hercules where more cattle bones were retrieved, a different strategy of procurement seems to have occurred. Although fusion and dental data were limited, there was an apparent lack of juvenile and sub-adult cattle available for slaughter. It is likely that cattle were more valued for their milk or as traction animals to facilitate crop husbandry in the fertile Campanian plain. Perhaps the value of cattle, in terms of their secondary products, meant that young animals rarely made it onto the tables of Pompeii, even the tables of the elite.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rubbish disposal</head><p>In general terms, the quantity of animal bones recovered from the House of the Vestals and the House of the Wedding of Hercules is very small. Even though thousands of fragments have bt:en recorded, very few contexts have produced the intensity of domestic refuse normally associated with urban contexts. Certainly from the House of the Vestals, the quality of the retrieval procedures and the survival of fine fish, bird and rodent bones proves that material has not been lost through poor excavation or taphonomic decay.</p><p>Despite the assertion that retrieval has been ' near-total', however, a bias still exists in the faunal assemblages. Atypically this is not the small bones and small species usually lost to decay or missed during excavation. Instead the most cumbersome bones of the largest species, . in this case cattle, are absent. Although the paucity of cattle bones may reflect food preferences, the systematic collection and removal of these large bones may also have occurred. The few cattle bones that have been retrieved tend to be the smaller bones from the lower legs and feet. This is not a product of the ease of identification, however, as very few 'cattle-sized' long bone fragments have been recorded . As this phenomenon cannot be explained by taphonomic bias, human activity is indicated. Although the possibility of leather-working cannot be discounted entirely (the lower leg bones may have entered the house attached to hides), an efficient means of rubbish disposal within the city would explain this retrieval pattern . Certainly any type of debris, including food waste, was rarely buried in the ground.</p><p>The position of the House of the Vestals on the city wall would have allowed this household to dispose of its waste over the wall. This clearly happened elsewhere as excavations by a Japanese team at the site of the supposed Capua gateway have revealed large deposits of animal bone (for excavation details see <ref type="bibr" target="#b3">Etani et. al. 1995</ref>). These presumably represent the disposal of the city's waste. The faunal data, however, indicate that the inhabitants of the centralised house of the Wedding of Hercules also disposed of their domestic debris. Perhaps a more formalised system of rubbish removal was in operation, at least collecting waste from the elite houses of Pompeii. Literary references certainly indicate that a rubbish collection and street cleaning service was in operation in Rome, with carts being used to take away all kinds of refuse (Tacitus, Annates 11.32; Valerius Maximus 1.7).</p><p>Whether rubbish disposal in Pompeii was the responsibility of an individual household or provided as a community service, the implications for the faunal assemblages are significant. Together, the small quantity of domestic debris and the dearth of the larger bones of the larger species indicate that the faunal data from both excavations represent only a fraction (and a biased fraction) of the meat diet consumed by these households.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ritual activity</head><p>Some animal and plant remains, however, were quite deliberately deposited within Pompeii, both in houses and temples. As early as 1899 Pompeian archaeology recognised that food was used in ritual activities. Ritual pits containing burnt figs, pine kernels and cones, nuts and dates <ref type="bibr" target="#b6">(Mau 1982)</ref> were found during excavations of the Temple of Isis.</p><p>The excavations at the House of the Vestals have also provided insight into the use of food in rituals. Here foundation rituals associated with the initial laying out and building of the first part of the House of the Vestals have been identified. In the early house a pit lay entirely inside the boundary of the tabl inurn <ref type="bibr">(Bon et. al. 1995: J 0;</ref><ref type="bibr" target="#b5">Jones and Robinson 1998)</ref>. Although the pit was of substantial size, its fill contained no evidence of domestic debris. The only finds were a collection of small incense cups, neonatal pig bones and various plant and other food remains</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The plant and animal assemblages excavated from the House of the Vestals and the House of the Wedding of Hercules have provided valuable insights into the diets, rubbish disposal practices and the ritual lives of these two households. The faunal and floral remains recovered from the two houses span at least a 300-year period of Pompeii's development. During this period the entire character of the urban area changed from a sparsely populated hill top enclosure to a thriving densely occupied city (e.g. <ref type="bibr" target="#b1">Carafa 1997</ref>). The environmental remains offer the potential to investigate how the food supply to the city changed during this crucial period and opens up the possibility of interpreting the diachronic nature of food consumption.</p><p>The plant remains suggest that the range of foodstuffs was less extensive in the earlier phase of the city (phase 2). In addition, millet, a 'poverty' crop was utilised and chaff remains indicate that crop processing occurred within individual households . Lamb and chicken dominated the meat diet, although pork and beef were also available. In contrast, phase 3 deposits contained no chaff and this may indicate that by the second half of the second century BC either the bakeries of Pompeii had taken over the role of crop processing or that this activity took place outside the town. By this time the range of plant species had increased to include new species of fruits and spices (e.g. peppercorn, sesame and melon) and pork consumption had apparently increased at the expense of beef and chicken.</p><p>The two houses were also unusually clean and the dearth of environmental remains suggests a systematic policy of ru bbish disposal. This may be a reflection of the wealth of the owners of the two properties. The scale and the grandiose nature of the domestic architecture suggests that the House of the Vestals and the House of the Wedding of Hercules would have needed a large household staff who may have been responsible for taking waste to the city dump. Alternatively there may have been a municipal collection policy as happened in Rome. This observation, however, has serious implications for accurate dietary reconstruction as the larger bones and the bones of the larger species were apparently discarded with more thoroughness than those of the smaller species.</p><p>Finally, the environmental remains recovered from the House of the Vestals and the House of the Wedding of Hercules have provided insights into the ritual practices of these households. The excavations beneath the tablinum of the House of the Vestals suggest that the foundation of a house was a highly sacred act wrapped up in ritual activities, accompanied by the sacrifice of piglets and the deposition of breads and fruits. Such a deposit was apparently an exceptional occurrence and this should be set alongside the everyday food rituals that gave a portion of every meal to the household lares . In Pompeii, food was an integral part of both everyday and exceptional ritual activity.</p><p>This paper represents a new scientific approach to Pompeian archaeology. The ongoing excavations in the House of the Vestals and the House of the Wedding of Hercules are revealing the stratigraphic record of the pre-AD 79 ground surfaces and the environmental remains, along with the artefact groups, are being rigorously collected. To date, however, it has only been possible to study two large and imposing properties. Consequently, the hypotheses of an increasingly varied diet and an efficient rubbish disposal system may be biased by the activities that occurred in the houses at the upper end of the property spectrum. It is hoped that as excavations extend to include a more representative sample of Pompeian houses, a city-wide analysis of diet, rubbish disposal and ritual practices will be possible. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure f</head><label>f</label><figDesc>Figure f The location a/properties mentioned in the text.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Comparison of the number of taxa in mineralized samples.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Species proportions from the House of the Wedding of Hercules (the numbers in brackets indicate the minimum number of anatomical units).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Species proportions from the House of the Vestals (a minimum number of 1455 anatomical units from phase 3).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>B.U.F.A.U. -University of Birmingham &amp; West Yorkshire Archaeological Service, Wakefield</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="7,453.45,-6.59,71.58,699.02" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="10,-72.14,-6.32,75.52,698.61" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>X X X X X Phase 3 x X X X X X X X X X X X X X X X XTable J Presence/absence of plant foods from the ritual contexts from the House of the Vestals and the House of the Wedding of Hercules</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We would like to thank the directors of the Anglo-American Research Project at the <rs type="affiliation">House of the Vestals</rs>; <rs type="person">Rick Jones</rs>, <rs type="person">Jarrett Lobell</rs> and <rs type="person">Damian Robinson</rs>, and those of the House of the Wedding of Hercules; <rs type="person">Paolo Carafa</rs>, <rs type="person">Andrea Carandini</rs> and <rs type="person">Tessa D' Alessandro. Their</rs> help in providing us with the necessary excavation details was invaluable, as was their assistance in the field . We are also grateful to <rs type="person">Damian Robinson</rs> for his suggestions on this paper and his production of Figure I and to our anonymous referee for his/her insightful comments. finally, thanks must be given to the many students of both field schools for their enthusiastic help in running the flotation system.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>including figs, grapes, hazelnuts and bread. A ritual explanation is likely and Varro's De Re Rustica (II. <ref type="bibr">4.16</ref>) does highlight the use of piglets for ritual sacrifice.</p><p>Similar ritual deposits have also been found from the House of the Wedding of Hercules, from phase 2, but also from the later phase 3 deposits. Here neonatal pig bones and the same type of incense cups have been found once again. Votive plant remains from phase 2 and 3 contexts from both houses are recorded in table I and it is interesting that the later ritual deposits contain a significant number of new plant species, including date, carob and pine cones. A phase 3 deposit from the House of the Wedding of Hercules also included mineralized poppy seed cake and a carbonised ring-shaped biscuit. A similar change in the plant composition of earlier and later ritual deposits has been recognised from the excavations of the House of Amarantus (I.9.II-12) <ref type="bibr" target="#b10">(Robinson 1999)</ref>.</p><p>It is interesting that the ritual deposits found at the House of the Vestals and in later contexts at the atrium house of the Wedding of Hercules are repeated in the ritual deposits of the Temple of Isis. Cults involving food offerings appear to be widespread in terms of context, both temple and domestic and widespread in terms of the date of deposition, at least from the fourth century to the second century Be. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Anglo-American Research at Pompeii</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kurchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995. 1995</date>
+			<pubPlace>Bradford</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Bradford Archaeological Sciences Research I</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Preliminary Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">What was Pompeii before 200 BC? Excavations in the House of Joseph 1I, in the Triangular Forum and in the House of the Wedding of Hercules</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Carafa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sequence and Space in Pompeii</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxbow; Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="13" to="31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">New observations on the mineralisation process of plant rem ai ns: the evidence Pompei an cess pits and drains</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ciaraldi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forthcoming</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Etani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kiriyama</surname></persName>
+		</author>
+		<title level="m">Preliminary report. Archaeological investigation at Porta Capua, Pompeii. Opuscula Pompeiana</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="55" to="67" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">F. 1. 1979. Phosphatic mineralization of seeds from archaeological si tes</title>
+		<author>
+			<persName><surname>Green</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal oj Archaeological Science</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="279" to="284" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The House oJ the Vestals at Pompeii (VI. 1.6-8)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno>1995-7</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Bradford Archaeological Sciences Research</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Bradford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Preliminary Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Pompeii: its Life and Art</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Caratzas Brothers</publisher>
+			<pubPlace>New Rochelle NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Faunal remains</title>
+		<author>
+			<persName><forename type="first">1</forename><surname>Richardson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Anglo-American Research at Pompeii 1995. Preliminary Report. Bradford: Bradford Archaeological Sciences Research I</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Kurchin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="27" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">New directions in economic and environmental research at Pompeii</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Genovese</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sequence and Space in Pompeii</title>
+		<editor>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Oxbow Books</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="88" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">D. 1. forthcoming. The Shape oj Space in Pompeii. The Social Production oj a Roman Urban Landscape</title>
+		<author>
+			<persName><forename type="first">Robinson</forename></persName>
+		</author>
+		<imprint>
+			<pubPlace>University of Bradford</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Macroscopic plant remains from the Pre-Roman Phases of Houses I I and 12 of Regio I, Insula 9, Pompeii</title>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Towards a History of Pre-Roman Pompeii: excavations beneath the House of Amarantus</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Fulford</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1999">1999. 1999</date>
+			<biblScope unit="page" from="95" to="102" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

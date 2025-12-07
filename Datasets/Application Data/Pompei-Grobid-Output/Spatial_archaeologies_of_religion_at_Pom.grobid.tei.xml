@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Spatial archaeologies of religion at Pompeii</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Miko</forename><surname>Flohr</surname></persName>
+						</author>
+						<title level="a" type="main">Spatial archaeologies of religion at Pompeii</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EF296D14144AB02B63DFA54A4214385E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper discusses the development of could be called the 'religious landscape' of Pompeii in the long last century of the city's existence. It does so with the aim of assessing how the actual material remains of permanent religious structures can be used to explore the relation between urban development and religious change. The argument will build upon developments in scholarship about Roman urban space, which has become increasingly sensitive to the micro-histories of everyday life, particularly -for better and for worse -at Pompeii. Starting from the definitive incorporation of Pompeii in Rome's empire in 80 BCE, it will explore to which extent we can actually trace the way in which Pompeii's religious landscape changed in the early imperial period, and how such a narrative of spatial change can be linked to (or rather reflects) changes in religious practice. This, in turn, can hopefully add a new dimension to scholarship about religion in Pompeii, and make the debate more sensitive to the reality of chronological change and its complex impact on the religious landscape, and religious practice.</p><p>There is a substantial bibliography on the archaeology of religious life at Pompeii, covering both the monumentalization of temples and other cult facilities in public space, and the material remains of ritual in the domestic sphere. In recent decades, William van Andringa's 2009 monograph is both the most ambitious and most detailed discussion of the archaeology of religious practice in Pompeii (and  Herculaneum), and sketches a vivid picture of a city where 'the gods were everywhere'. <ref type="bibr">1</ref> More importantly, Van Andringa was the first to develop a true 'archaeology of religion' at Pompeii: in line with developments in other branches of Pompeian studies, his approach moved beyond the traditional Pompeianist emphasis on architecture and art by incorporating a much larger number of evidence types, such as remains of altars and artefact assemblages. This made it possible to cover a much broader spectrum of religious practice. At the same time, Van Andringa was, remarkably enough, the first to present a more-or-less integrated analysis of the various sets and contexts of religious practice in Pompeii. Indeed, most scholarship touching upon religious life at Pompeii uses the city as a case study as part of an analysis of one, more limited, aspect of religious practice. In this way, Flower's recent book on the Roman lares uses the street altars of Pompeii to discuss how religion operated at the Roman street corner. <ref type="bibr">2</ref> Similarly, Gradel uses the evidence from Pompeii in his discussion of the nature of emperor worship in Roman Italy. <ref type="bibr">3</ref> However, from the perspective of the present argument, most of this scholarship suffers from two shortcomings. In the very first place, discourse on religious practice in Pompeii has overwhelmingly approached the city from a cultural systems perspective, thus not only quietly (or even explicitly) assuming that Pompeii in its cultural whereabouts reflected an average Roman (provincial) town -an extremely problematic idea in itself, given the exceptionally un-typical history of the bay of Naples region -but also supposing an absence of historical change: in these approaches, what we see at Pompeii was not a very specific reflection of local, regional, Roman, and pan-Mediterranean developments in religious practice, but simply reflects the way things worked in Roman Italy. Only in those domains of religion that are closely associated with the political sphere, some degree of change is acknowledged -e.g. as a result of the foundation of the colony in 80 BCE, and following the emergence of emperor worship in the Augustan period. Otherwise, change is off the conceptual table. It will be argued in this paper that this is a very problematic position.</p><p>The second issue with most extant literature on religious practice at Pompeii is that it has a certain tendency to study religious practice and religious facilities independently of their physical urban environment. Thus, while it has been argued that 'religion' was omnipresent in Pompeii, its actual position in the urban landscape remains underexplored -even by Van Andringa, who offers some contextual analysis, at points, but who does not thematically address the role of religious practice in shaping urban space at large. Yet, it is important to acknowledge that the reverse is also true: there has been only limited interest in religion from the side of scholars studying the dynamics of Pompeii's urban landscape. For instance, while Laurence's monograph on space and society in Roman Pompeii briefly touches upon the spatial distribution of street altars, the interpretative emphasis lies with the role these altars play in keeping together the neighbourhood. <ref type="bibr">4</ref> More recent work by Hartnett and Poehler equally engages with religion only to a very limited extent.<ref type="foot" target="#foot_3">foot_3</ref> Thus, while social and commercial life play a central role in discourse on urban space at Pompeii, religion remains a marginal phenomenon. Outside Pompeii, some work on urban religious landscapes has been done at Ostia, by Marlis Arnhold and Katherine Crawford, but given the nature of the material remains in Rome's port town, this has a strong focus on monumental (public) architecture, rather than on the whole spectrum of religious practices. <ref type="bibr">6</ref> This paper will discuss ways to address these issues, and will present a tentative reconstruction of the way in which the role of religious structures and facilities in urban space changed in the last century BCE and the first century CE. This will not be a straightforward process as the evidence is relatively badly preserved, and often resists clear dating. Nevertheless, it is possible to discuss some basic directions of development. This paper will distinguish developments in the spread and embedding of religious structures and facilities at three different spatial levels, which represent three different spheres of agency and social interaction. The analysis will start in the domestic sphere, and will then discuss the level of the neighbourhood before looking at the level of the community as a whole. It will be argued that one key development in Pompeii's urban landscape in this period -at all three spatial levels -is an increased presence of permanent religious structures and facilities in urban space, and thus, an increasingly dense urban religious landscape. This, in turn, will be a starting point for discussing the question of religious change, and the role of archaeology in highlighting it. By means of introduction, however, the argument will start with a brief outline of the history of Pompeii and its urban landscape.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introducing Early Imperial Pompeii</head><p>When Pompeii was ordered to receive a colony of Sullan veterans in 80 BCE, the city had a long history behind it. Walls, city gates, and parts of the street grid had been around since the sixth century BCE, though few of the standing (domestic) structures can be dated back securely to earlier than the third century BCE. It is clear, however, that right from the earliest period of its existence, Pompeii's urban landscape was decisively shaped by two major sanctuaries -one directly to the west of what quickly became the city's main plaza, and to the southeast of the city center. Throughout the pre-Roman history of Pompeii, or at least until the very late second century BCE, these two temples would be the city's main public sanctuaries. Yet, the city around these sanctuaries grew, gradually, throughout the third and early second century BCE, and more spectacularly from about 140 BCE onwards, when an influx of wealth fostered the emergence of a rather prosperous elite, which was responsible for what has been referred to as 'Pompeii's golden century <ref type="bibr">'. 7</ref> This period saw major private and public construction works on a scale not seen, in this period, elsewhere in Italy. It more or less concludes with the Sullan colony, and the related transformation of the city centre in the following decades, which saw the construction of a second theatre, an amphitheatre, a second complex of public baths, and two major new temples -a temple for the Capitoline triad at the north end of the forum, and an enormously monumental temple for Venus Pompeiana in the south-west part of the city, overlooking the Sarno Estuary.<ref type="foot" target="#foot_6">foot_6</ref> It may be observed that this last temple was very visible for people approaching the city, but occupied a marginal position in the urban landscape, cut off from the urban environment by a large wall, and bypassed by all major traffic routes. Exactly the same had been true, from the start, for the temple in the southeast corner of the city centre. Moreover, the temple of Apollo, although centrally located and readily accessible, was surrounded by a precinct that visually separated it from the forum. Thus, after the foundation of the colony, the city's religious landscape had become more complex, but also more strongly focused, as it was now dominated by one very visible temple: the Capitolium at the head of the forum.</p><p>This paper focuses on the developments following the transformations associated with the foundation of the colony. For Pompeii as a whole, this period seems to have been one of gradual urban growth, both within and beyond the city walls. Along the west and south edge of the city, a sequence of elite houses emerged with large terraces overlooking the Bay of Naples, and the immediate environment of the city became densely occupied with suburban elite villas. However, throughout the city, changes to the urban landscape were not as radical as they had been in the preceding century. Nevertheless, besides the gradual, organic development of the city, there were two major causes of more substantial change. The first of these is the arrival of the emperor as the key figure in the political spectrum, which from the Augustan period onwards began to transform the ideological articulation of the city's public landscape. <ref type="bibr">9</ref> The second cause of change appeared in the 60s CE, when Pompeii was struck by at least one major earthquake and probably a range of smaller earthquakes and aftershock, signalling a period of seismic upheaval that lasted right up to the 79 CE eruption.<ref type="foot" target="#foot_8">foot_8</ref> Both events had, in very different ways, a substantial impact on Pompeii's landscape of religion. Moreover, both were also specific to Pompeii and the Vesuvian region. This is self-evident in the case of the seismic upheaval, but it may be argued that the physical proximity of Rome's imperial elite made the impact of the new regime significantly more acute in the bay of Naples area than in many other parts of Early Imperial Italy and the Roman world: local elites, and urban patrons, were well-connected to the senate or even to the emperor, and could use the cities around the Bay of Naples to do what they could no longer do in Rome itself: build public monuments. The strongly monumental development of fora at Pompeii, Cumae and Puteoli, and the benefactions of equites like Marcus Nonius Balbus and a Lucius Cornelius in Herculaneum and Surrentum respectively confirm this idea. <ref type="bibr">11</ref> Because of its privileged position in the Bay of Naples, Pompeii was able to develop into a city of aboveaverage prosperity, where, throughout the period under consideration here, buying power was not restricted to a small urban elite, but had spread over a much larger part of the urban population. The extent of this wealth is hard to quantify, but it is reflected both in the broad access of households to basic and more complex forms of decoration on walls and floors -the evidence suggests that, e.g. the market for fourth-style panel-pictures was dominated not by the elite, but by sub-elite and middling groups. 12 Thus, in a period in which urban life was characterized by significant seismic unrest, and many houses show clear evidence of one or more phases of repair works, a significant part of Pompeii's population retained access to complex forms of wall-decoration. While artefact assemblages of smaller dwellings have remained understudied compared to those of elite houses, those that have been studied also suggest that many households were able to build up relatively rich and varied sets of material possessions. <ref type="bibr">13</ref> Archaeobotanical remains from a sewer in Herculaneum have recently been used to argue that even diets of people living in modest upper floor apartments were remarkably varied.<ref type="foot" target="#foot_11">foot_11</ref> Pompeii's religious landscape, thus, developed in a prosperous community that was situated at the heart of the Roman world, and maintained close connections with the Roman imperial elite. This, in other words, was a community that had the money and the connections to build itself an above-average set of religious monuments and facilities. It also was a community that, particularly in the decades preceding the 79 CE eruption, may disproportionally have felt the need to do so.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Domestic Sphere</head><p>Physical remains of religious facilities in domestic context predominantly have the form of niche altars that were embedded in walls. At Pompeii, these altars have been well studied, and catalogues were compiled by Boyce in the 1930s, and by <ref type="bibr">Fröhlich in 1990. 15</ref> As their work highlights, these niches were well-spread. They would typically be around 50cm high, and were often positioned between one and two meters above the floor; many had a ledge in the form of a projecting tile at their bottom level, and they could have an aedicula above the niche, in paint, stucco or stone; there could also be stuccoed columns on the side. Many altars were equipped with, and surrounded by paintings. Occasionally, these altars could take a more elaborate form, and either took up a larger proportion of the wall, or were built, as a separate structure, against the wall; in some cases, niche altars could be surrounded by elaborate paintings. A few houses had an entire room that was devoted to such facilities, but generally, domestic altars were a subordinate element in a larger room.</p><p>A huge problem with virtually all of these altars is that they cannot be easily dated. That is to say, 'normal' Pompeian dating strategies do not work, and neither the catalogue of Boyce, nor that of Fröhlich includes dates. Obviously, the paintings on and around the altars do not conform to the canonical Pompeian styles, and this leaves archaeologists with few stylistic criteria for accurate dating. <ref type="bibr">16</ref> Moreover, even if the underlying wall is exposed, it is not always clear whether the niche is contemporary to the wall or, if not, when it should be dated: typical arguments such as building materials or construction techniques that work for walls, do not necessarily also work for niches. That being said, a number of observations can be made. In the first place, the number of niches with walls in first or second style decoration is exceptionally low, and when they occur, the niches are evidently later than the surrounding wall-decoration. A good example is the south wall of the garden of house IX 3, 2, which was initially decorated with a typical first-style sequence of panels and pilasters. At a later moment, one of the panels was partially replaced by a niche accompanied by paintings (fig. <ref type="figure" target="#fig_0">1</ref>). 17 Secondly, in cases where the wall structure of a niche is visible, it is often clear that use has been made of bricks -either in constructing the aedicula on top of the niche, or in the reinforcements around the niche itself. This would point to a date somewhere in the period that is the focus of the present chapter. In many cases, this date is implied anyway by the construction date of the wall in which the niche had been carved out. Thus, even if detailed dating is problematic, there is something to say for the idea that a lot of these niches date to the Augustan period or the first century CE, and there are reasons to assume that the number of permanent altars in domestic contexts was lower in the preceding period. The more elaborate structures particularly seem to be of a late date. Again, none of these can be found in combination with first-or second style wall-decoration, and many either have been constructed with large amounts of brick, or were placed against a wall in opus vittatum mixtum, opus latericium, or another building technique pointing to the first century CE. One example is the altar in the atrium of house VII 14, 5, which was constructed, with opus vittatum mixtum in the last decades of the city's existence (fig. <ref type="figure" target="#fig_2">2</ref>). <ref type="bibr">18</ref> The altar in the atrium of the House of the Menander (I 10, 4) also dates to this period (fig. <ref type="figure" target="#fig_3">3</ref>), as does the altar in the house of Caecilius Iucundus (V 1, 22).</p><p>There are multiple ways to understand this picture, and they do not necessarily exclude each other. There is of course the possibility that many of the altars that were made in the first century CE replaced predecessors that simply have left no trace, even though this is hard to reconcile with the lack of examples -and indeed models -for such altars in the second and first centuries BCE. It is also possible that the increased wealth of people at Pompeii translated itself into a monumentalization of ritual facilities in the domestic sphere, so that altars were no longer portable, or of perishable material, but fixed and permanent. Technology may also have played a role in the sense that the increasing role of bricks and mortar in everyday building practice simply made it easier and cheaper to have these altars constructed. For example, it was considerably more difficult, and risky, to carve a niche out of a wall in traditional opus africanum, which does not use mortar, than it was to do this in the opus incertum walls that were constructed from the mid second century BCE onwards. At the same time, structural developments in religious practice also may have contributed, even though for Pompeii, these can hardly be assessed through other sources than these very altars. It is, however, important to note that many of the altars were not simply built in the first century but quite specifically belong to the period of the fourth style, which coincides with the two decades in which Pompeii suffered considerably from earthquakes. Indeed, it surely is no coincidence that one of our best iconographic sources for the seismic upheaval -the earthquake frieze from the house of Caecilius Iucundus -comes from a domestic altar (fig. <ref type="figure" target="#fig_4">4</ref>). It is possible, though hard to prove or quantify, that the events of the 60s and 70s CE stimulated Pompeian households to invest in religious infrastructure so as to repair (or safeguard) the pax deorum that they probably saw as threatened.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Neighbourhood</head><p>The material remains of religious infrastructure in Pompeian neighbourhoods -that is to say, at the street corners, on façades, and in the parts of houses that were exposed to the outside world -do not differ, archaeologically, so much from the altars and aedicula that could be found inside houses. Typically, they would consist of a modestly sized altar of ca. 50-70 cm high, placed against the façade or side wall of a house, and surrounded by often quite substantial paintings with religious and ritual imagery. Occasionally, the structure would be a little bit more elaborate, or the remains would be limited to paintings. Besides this 'infrastructure', façades could, and in some cases were used for religious imagery, by depicting gods, ritual scenes, or more abstract symbols of religious significance -including a substantial number of phalluses. Methodologically, the same issues and problems apply: the evidence is to some extent specific on religious functionality, but very weak in terms of dating. More than is the case with houses, our knowledge is also influenced negatively by the history of excavations at Pompeii, which meant that at least some of the evidence has disappeared unrecorded after excavation in the parts of the city that were excavated before ca. 1860, when proper recording began in earnest. This has particularly harmed our understanding of the spread of façade paintings, which are only really well known in the zone of the Scavi Nuovi of the 1910s -basically, this comes down to the eastern half of the Via dell'Abbondanza. <ref type="bibr">19</ref> Altars have been spared by the elements, so that it is at least possible to reconstruct a map with their spread over the urban topography -as Ray Laurence has done.<ref type="foot" target="#foot_17">foot_17</ref> However here, too, the best preserved examples are limited to the Scavi Nuovi area, though several 19 th century drawings give a rough idea of what has been lost in some high-profile situations elsewhere in the city. <ref type="bibr">21</ref> However, compared to the domestic altars, there is quite a bit of evidence suggesting that semi-public street altars, as a phenomenon, went back to the first century BC or even earlier. For instance, the altar in VIII 4, 24 seems situated in a room that was designed for this specific purpose when the east wing of the Domus Cornelia, to which it belonged, was built in the early first century BCE. Flanking the Via Stabiana, this wing included a row of six shops, followed by a back entrance to the Domus Cornelia, and, at the south end of the complex, a small room, with a narrow entrance, which housed the small altar (fig. <ref type="figure" target="#fig_5">5</ref>). While the present altar is not necessarily contemporary to the building, the room is too small to have been constructed as a shop. <ref type="bibr">22</ref> At the same time, the proportion of altars directly associated with building materials and techniques from the early imperial period is surprisingly limited. Indeed, many altars basically consisted of a block of Sarno Stone -a local, very porous travertine that dominated Pompeian construction practice until the mid-second century BC -placed in upright position, and in most cases, this wall is made of late-Republican building techniques. In some cases, later alterations offer a terminus ante quem: the small altar on the northwest corner of insula IX 8 was originally made of a Sarno Stone block, but was subsequently expanded with opus vittatum simplex, a technique that appears to by typical for the second half of the first century BCE (fig. <ref type="figure" target="#fig_6">6</ref>). A few blocks away, a similar altar became embedded in the outer wall of the Central Baths, the construction of which began somewhere in the 60s or 70s CE, suggesting that, even though the pre-existing buildings in the insula were all demolished, the altar needed to be kept in place (fig. <ref type="figure" target="#fig_7">7</ref>). <ref type="bibr">23</ref> Thus, the spatial distribution of street altars at Pompeii may have remained more or less stable throughout the later first century BCE and the first century CE. It is harder to assess whether the same is also true for the paintings surrounding the altars. In several cases it is clear that the paintings that made it to 79 CE were not very old, as they covered sections of the wall behind the altars that dated to the first century CE, but it is of course unclear what these paintings looked like earlier on. The development of the visual presence of street altars can thus not really be assessed. However, there is an argument to be made that what happened on façades in terms of religious imagery (independent of the street altars) was predominantly a phenomenon of the first century CE. This is not only because Fröhlich dated these paintings overwhelmingly to the period of the fourth style -and thus to the last two decades of Pompeii's existence, but also because this ties in nicely with broader developments in walldecoration, which point to an increasing proliferation of arrangements with multiple colours and anatomically complex figures throughout the social hierarchy, increasingly including also the mediumsized households responsible for façades with religiously explicit paintings. <ref type="bibr">24</ref> Even if the 79 CE religious topography of street altars at Pompeii had roots in the first century BCE or earlier, one could argue that the development of the façade as a communicative medium in the first century CE transformed the way in which religious practice was present in Pompeian streets. However, this point is relative rather than absolute: the spread of this religious symbolism was both spatially, and socially, uneven and always remained limited. It is essential to note that none of the street altars was ever directly associated with the monumental tufa façades of the large domestic, public, and commercial buildings that lined the streets of Pompeii along their most high-profile sections. Façade paintings, at the same time, were almost universally associated with small-to medium sized houses, and never with elite villas -the change, in this respect, clearly came from below. Topographically, even accounting for biases caused by excavation and preservation, these paintings were rare alongside the major throughroutes of the city, including the Via Stabiana, the western Via dell'Abbondanza, and the Via della Fortuna, which were dominated by the second century BCE tufa façades; there is only a small number of nineteenth century reports for façade paintings. Still, these developments contributed to a denser landscape of religious symbolism in parts of the city.</p><p>Alongside the façades and the street altars, it is important not to overlook the fact that, by the first century BCE, Pompeii's streets had become lined with tabernae, which, with their broad openings were strongly integrated into the neighbourhood atmosphere: whatever happened inside these tabernae was within sensory reach of people on the street, and this is not only true for the work taking place in these establishments, but also for their religious infrastructure. Over the course of the first century CE, the number of tabernae along the streets of Pompeii only seems to have increased. Not all tabernae had an altar niche in one of their walls, but many had, and these would often be situated in a fairly visible place. In some cases, these lararia were associated with elaborate paintings, which occasionally can be seen to clearly communicate with the outside world. <ref type="bibr">25</ref> It is very hard to say whether this phenomenon increased in the first century CE; most altars remained rather small and have left chronologically aspecific remains. Yet the general development of having more tabernae in Pompeii undoubtedly contributed to this phenomenon becoming a bit more common.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Public Sphere</head><p>Finally, there is the role of religious infrastructure that was serving the urban community as a whole. As argued earlier in this paper, a basic set of key temples had emerged by the middle of the first century BCE. These temples, of course, continued to exist. It could perhaps be argued that the temple at the head of the forum over time lost a little bit of its visual prominence, as the forum plaza was filling up with statues and other civic monuments, and the temple became surrounded by honorific arches on both sides. The temple of Venus Pompeiana was completely being rebuilt in 79 CE, but this does not seem to have affected its position within the city. On the whole, these four temples remained stable, and continued to be defining elements in Pompeii's religious landscape, and in the urban landscape more in general. The small second century BCE temple along the Via Stabiana, which has long been associated with Iuppiter Meilichios but probably was dedicated to Aesculapius, also simply continued to exist without any dramatic changes to its spatial position. <ref type="bibr">26</ref> The same is true for the temple of Isis, which was founded at its present location in the second century BCE and, while completely rebuilt in the 60s and 70s CE, continued to occupy the same (marginal) position in the urban landscape. Yet in spite of this continuity, the public religious landscape of Pompeii was significantly transformed from the Augustan era onwards.</p><p>Well known is the transformation of the east side of the forum, which had been lined with shops since the third century BCE. These shops were removed from the Augustan period onwards, together with some of the houses behind them, to make place for a new set of public monuments (fig. <ref type="figure" target="#fig_8">8</ref>). The first of these, the so-called 'Building of Eumachia', in fact was dedicated in its building inscription to Concordia Augusta and Pietas. <ref type="bibr">27</ref> Even if no identifiable altar has been preserved in the building (there certainly was place for one), the religious connotations of its dedication are explicit, and are made even stronger by the association of the entire complex with the Porticus of Livia in Rome, which included a temple for Concordia. <ref type="bibr">28</ref> The religious nature of the two buildings north of the Porticus of Eumachia is more straightforward. Neither of these buildings has been identified with universal agreement but both were organized around an altar. The nature of the small temple precinct directly north of the Porticus of Eumachia is disputed -most scholars assume that it had something to do with Augustus, and the question is whether it is related to his Genius or to himself -but its date -early in the first century CE -is not. <ref type="bibr">29</ref> Further to the north, a larger, completely opened, structure in recent years also has been associated with emperor worship. The date is fiercely debated. Dobbins has argued that the building must have been constructed after the 62/63 CE earthquake, others have argued for an earlier date. <ref type="bibr">30</ref> In terms of building techniques, it clearly distinguishes itself from the two buildings south of it. Van Andringa has identified the complex as being dedicated to the domus divina, others have seen it as an 'Imperial Cult Building'. <ref type="bibr">31</ref> However, more important than the dedication of the temple is the way in which it was imposed on the forum plaza. Not only was the main room completely open on its front side, its side walls also extended significantly towards the plaza compared to the surrounding buildings. Moreover, the disposition of the columns in front of the building deviates from the main colonnade along the west side of the forum. Whatever its precise function was, this building was designed to visually dominate the forum plaza, and its construction therefore not only strengthened the religious infrastructure of the forum area, but also its role in the landscape. One possibility that should not be discounted too easily is that its construction does not reflect the generally increased role of emperor worship, but rather reflects a local response to imperial assistance following the devastating earthquake that struck the city in the early 60s CE. All in all, the east side of the forum transformed from a mostly commercial zone to a zone dominated by religious infrastructure and symbolism -even if this modified the nature of commerce taking place in this area rather than completely removed it, and this had a significant impact on the overall character of the forum. Particularly, it may be noted that the east side of the forum is the side that is best integrated into the urban movement network: the eastern porticus offered the easiest and most comfortable connection between the busy Via dell'Abbondanza and the equally busy Via di Mercurio and Via Consolare. <ref type="bibr">32</ref> A major intervention outside the direct environment of the forum was the construction of the temple of Fortuna Augusta on the corner of the Via della Fortuna and the Via del Foro (fig. <ref type="figure" target="#fig_9">9</ref>). Urbanistically, this is perhaps the most interesting intervention of the early imperial period. The new temple was constructed in a place previously occupied, in all probability, by a house. It was constructed on private land by a certain Marcus Tullius, in the Augustan period, as the dedicatory inscription makes clear. <ref type="bibr">33</ref> The temple is a classic, frontal podium temple, and its orientation has been slightly adapted: the building has been turned northward at an angle of approximately 3° compared to the Via della Fortuna. This significantly enhanced the visibility of the temple for people moving towards Pompeii's centre from the Via Consolare, and gave public religion a spectacular presence in an area where, up to the Augustan period, it had been completely absent. Obviously, as was true for the development of the east side of the forum, there were several things going on at the same time, not in the least, again, the changing political world within which the Pompeian was operating, and the gradual monumentalization of Pompeii's urban landscape as a whole. Indeed, the construction of this temple can be seen in direct relation to the development of the Via Consolare as the most monumentalized access route to the city, which also was reflected in the Porta Ercolano, constructed in the thirties BCE as the largest and most monumental gate of the city.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>This paper has assessed the historical development of the urban landscape of religion in early imperial Pompeii at three different levels. While at each level, the assessment of the evidence is complicated, and caution is needed, the evidence seems to point to a similar direction. At the very least, this highlights the importance of understanding the 79 CE landscape of religion at Pompeii in its specific historical context: the urban archaeology of religion in Pompeii was not only a product of its time in the broader sense, it also was profoundly influenced by the particular historical trajectory of Pompeii and its urban community in the first centuries BCE and CE -the reconstruction of the temple of Isis after its earthquake collapse, and the frieze of the lararium in the house of Caecilius Iucundus pointing to probably the same event can be taken to symbolize this, perhaps together with the Imperial Cult Building on the forum, if it should be dated so late. On top of this, it could be argued that the evidence suggests that Pompeii's urban landscape became increasingly packed with religious infrastructure and symbolism in the period between Augustus and 79 CE, at all three levels: within houses, along the streets, and in the city center.</p><p>The question, of course, is what to make of this, and in which way these changes meaningfully contribute to thinking about the 'urban archaeology of religion', or about the history of Roman religion more in general. One point to emphasize in this respect is that developments in the spatial presence of religious infrastructure and symbolism need to be seen in the broader context of the transformations to the spatial configuration of Roman urbanism in the early imperial period. As many people have observed, the first century CE is a key period for urban development in Roman Italy, with urban elites spending considerably on urban infrastructure, urban amenities, and urban monuments, and with urban communities reciprocating the honour by granting them statues in public places, and funerary monuments in prominent locations along the streets to and from their cities. <ref type="bibr">34</ref> This resulted in urban landscapes that were increasingly full of monuments and, indeed, community narratives. At Pompeii, the forum developed into a store of community memory, full with statues of locals who in some way or another had played a role in the development (and resilience) of the city. Just outside the Porta Ercolano and, as has recently become clear, the Porta Stabia, monumental tombs told similar stories -often to great detail. At the same time, many of the façade paintings not just referred to religious practice, but also illustrated the city's economic life, as did the increasing commercialization of urban space in general. Inside houses, iconography began to play a central role in decoration from the Augustan period onwards, both on wall paintings, and through marble furniture. Thus, the spread of religious infrastructure and symbolism was part of a much broader phenomenon in which urban space became increasingly full with all kinds of visual impulses and narratives, and this may have impacted upon the way in which individual elements in the landscape were experienced or, even, noticed. Secondly, it is arguably possible that the developments in Pompeii's religious landscape, or some of them, were rooted in changes to religious practice, but the problem remains that it is very hard to actually prove this. Partially, this is the result of the (at least potentially) prominent role of the locally specific factors that have been mentioned above. More in general, religious practice is too complex to simply assume that increasing archaeological visibility or changing strategies of construction and decoration come from historically meaningful changes in urban religious practice -the best illustration, perhaps, is the question as to whether the emergence of emperor worship, and the resulting changes to the public landscape in the forum area should be seen as a religious development rather than a political one. Perhaps, therefore, it could be suggested the question about the origins of these developments is illposed, and the more promising question concerns the consequences of the changing religious landscape. Arguably, an increase in religious infrastructure increases the possibilities for worship and other forms of religious action, and an increase in religious symbolism adds to the possibilities for religious experience and contemplation. Essentially, the stages upon which religion could be performed multiplied, and spread over the urban landscape, and by their very existence created a need for, and an expectation of religious practice. Moreover, particularly at the level of domestic altars, or the niches in the walls of tabernae, the appearance of such infrastructure also created a model for religious practice that could be followed by others: in a way, what we are seeing may even result from a self-supporting religious 'dialogue' taking place within the Pompeian community, with people following each other's example in producing permanent facilities and narratives of religious practice.</p><p>Thus, is it possible to come to an urban archaeology of religious history? At Early Imperial Pompeii, with its unique archaeological record, there are clear possibilities to assess the changing position of religious practice in the urban landscape, and there is evidence suggesting that, yes, developments were taking place, and, yes, these had consequences for the way religion could be enacted and experienced. At the same time, this paper has highlighted the interpretative difficulties that come with the nature of the evidence even at the best-preserved archaeological site of the Roman world. The key problem at Pompeii is essentially twofold. On the one hand, while the objects and assemblages of the 79CE finds record give (at least occasionally) very specific information about everyday religious practice in the first century CE, they lack the time-depth necessary to assess chronological development; on the other hand, the architectural remains of altars and shrines do offer a bit of time-depth, but they are a much weaker source for assessing actual religious practice. This poses limits on the historical argument that can be derived from such remains. Still, this paper argues that the changing religious landscape as reflected in these architectural remains offers some glimpses of a development that made that religious practice became a physically much more widespread aspect of everyday urban space. Fig. 1         </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FiguresFig. 1</head><label>1</label><figDesc>Figures</figDesc><graphic coords="12,133.40,121.80,327.90,245.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Fig. 1. Pompeii, house IX 3, 2. S-wall. First style wall-decoration with altar-niche (Photo: Miko Flohr).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Pompeii, house VII 14, 5. Altar in the SW-corner of the atrium (Photo: Miko Flohr).</figDesc><graphic coords="12,72.00,405.10,451.30,338.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Pompeii, house of the Menander (I 10, 4). Altar in the NW-corner of the atrium (Photo: Miko Flohr).</figDesc><graphic coords="13,72.00,72.00,451.30,300.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4 .</head><label>4</label><figDesc>Fig.4. Pompeii, house of Caecilius Iucundus (V 1, 18). Earthquake frieze from the altar in the atrium (Photo: Nash, Oxford, instarchbx202im 077).</figDesc><graphic coords="13,72.00,409.35,451.26,294.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 5 .</head><label>5</label><figDesc>Fig. 5. Pompeii, unit VIII 4, 25. 'Sacellum' (Photo: Miko Flohr).</figDesc><graphic coords="14,72.00,399.65,451.30,300.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig. 6 .</head><label>6</label><figDesc>Fig. 6. Pompeii, street altar on the NW corner of insula IX 8 (Photo: Miko Flohr).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Fig. 7 .</head><label>7</label><figDesc>Fig. 7. Street altar near the SE corner of insula IX 4, integrated in the (later) south wall of the Central Baths (Photo: Jackie and Bob Dunn, pompeiiinpictures.org).</figDesc><graphic coords="15,72.00,72.00,432.58,323.17" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Fig. 8 .</head><label>8</label><figDesc>Fig. 8. Pompeii, plan of early imperial buildings along the east side of the forum (from: Wright 1905, p. 142).</figDesc><graphic coords="15,139.40,433.30,316.49,301.45" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Fig. 9 .</head><label>9</label><figDesc>Fig. 9. Pompeii, façade of the temple of Fortuna Augusta seen from the Via della Fortuna (Photo: Miko Flohr).</figDesc><graphic coords="16,72.00,72.00,451.30,300.05" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Beard</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>2008, 276-308; Andringa 2009. 2 Flower 2017. 3 Gradel 2002.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>Laurence 1994, 39-42.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p><ref type="bibr" target="#b22">Hartnett 2017;</ref><ref type="bibr" target="#b31">Poehler 2017.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p><ref type="bibr" target="#b3">Arnhold 2015;</ref><ref type="bibr" target="#b9">Crawford 2019.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p><ref type="bibr" target="#b29">Pesando 2006.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p><ref type="bibr" target="#b7">Caroll 2010.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p>See e.g.<ref type="bibr" target="#b36">Zanker 1998;</ref><ref type="bibr" target="#b8">Cooley 2016.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p><ref type="bibr" target="#b18">Fröhlich and Jacobelli 1993;</ref> Monteix 2017, 210-212.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p>On the forum of Cumae see Gasparri 2009. On Marcus Nonius Balbus see<ref type="bibr" target="#b34">Wallace-Hadrill 2011;</ref> AE 1947, 144.  Lucius Cornelius in Surrentum: CIL 10, 688.  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_10"><p><ref type="bibr" target="#b0">Allison 2004;</ref> 2006;<ref type="bibr" target="#b12">Flohr 2011.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="14" xml:id="foot_11"><p><ref type="bibr" target="#b32">Rowan 2017.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_12"><p><ref type="bibr" target="#b6">Boyce 1937;</ref><ref type="bibr" target="#b17">Fröhlich 1991.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_13"><p>See esp. the discussion inFröhlich 1991, 68-75.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_14"><p>Mau</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_15"><p>1882, 104; Boyce 1937, 82.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_16"><p>On this house seeBorgard et al. 2003, 20-23; Flohr 2016, 169-170.  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="20" xml:id="foot_17"><p>Laurence 1994, 43; corrected in Laurence 2007, 43.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="21" xml:id="foot_18"><p>See e.g.Flower 2017, 151, 153.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="22" xml:id="foot_19"><p>It looks similar to unit VII 9, 4, in front of the macellum, which also was used for religious purposes.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_20"><p>On the central baths see<ref type="bibr" target="#b21">Haan and Wallat 2008.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_21"><p>Fröhlich 1991. See, on the social spread of painting, alsoFlohr 2019.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_22"><p>E.g. in taberna I 8, 8.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_23"><p><ref type="bibr" target="#b29">Pesando and</ref> Guidobaldi 2006, 66-68. Marcattili 2006.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_24"><p>CIL 10, 810.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_25"><p>Andringa 2009, 55.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_26"><p>SeeAndringa 2009, 49-53. See alsoGradel 2002, 103-108. Pesando and Guidobaldi 2006, 48-49. See also<ref type="bibr" target="#b35">Wallat 1993.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_27"><p><ref type="bibr" target="#b10">Dobbins 1994;</ref><ref type="bibr" target="#b11">1996.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="31" xml:id="foot_28"><p>Andringa 2009, 59-70.   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="32" xml:id="foot_29"><p>On Pompeii's traffic system see Poehler 2017.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="33" xml:id="foot_30"><p>CIL 10, 820. Cf.Pesando and Guidobaldi 2006, 54-55.   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Pompeian Households. An Analysis of the Material Culture</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Allison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Los Angeles</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cotsen Institute of Archaeology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m">The Insula of the Menander at Pompeii. III. The Finds</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Quotidien des dieux et des hommes : la vie religieuse dans les cités du Vésuve à l&apos;époque romaine. Bibliothèque des Écoles françaises d&apos;Athènes et de Rome</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Andringa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Van</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>École française de Rome</publisher>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Sanctuaries and Urban Spatial Settings in Roman Imperial Ostia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Arnhold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to the Archaeology of Religion in the Ancient World</title>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Raja</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Rüpke</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2015">2015</date>
+			<biblScope unit="page" from="293" to="303" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Pompeii. The Life of a Roman Town</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Beard</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Profile Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Le produzioni artigianali a Pompei. Richerche condotte dal Centre Jean Bérard</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Borgard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>J.-P. Brun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Leguilloux</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Tuffreau-Libre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rivista di Studi Pompeiani</title>
+		<imprint>
+			<biblScope unit="volume">XIV</biblScope>
+			<biblScope unit="page" from="9" to="29" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Corpus of the Lararia of Pompeii</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Boyce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memoirs of the American Academy in Rome</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1" to="110" />
+			<date type="published" when="1937">1937</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Exploring the sanctuary of Venus and its sacred grove: politics, cult and identity in Roman Pompeii</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caroll</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers of the British School at Rome</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="63" to="106" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Coming to Terms with Dynastic Power, 30 BC-AD 69</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cooley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to Roman Italy</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Cooley</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Chichester</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley Blackwell</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="103" to="120" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Rethinking Approaches for the Study of Urban Movement at Ostia</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Crawford</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Finding the Limits of the Limes Modelling Demography, Economy and Transport on the Edge of the Roman Empire</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Verhagen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Joyce</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Groenhuijzen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="313" to="327" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Problems of Chronology, Decoration, and Urban Design in the Forum at Pompeii</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dobbins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Archaeology. The journal of the Archaeological Institute of America</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="629" to="694" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The imperial cult building in the Forum at Pompeii</title>
+	</analytic>
+	<monogr>
+		<title level="m">Subject and Ruler: The Cult of the Ruling Power in Classical Antiquity</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Small</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ann Arbor, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page" from="99" to="114" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Reconsidering the Atrium House. Domestic Fullonicae at Pompeii</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pompeii: Art, Industry, Infrastructure</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Poehler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Cole</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxbow, Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="88" to="102" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Constructing Occupational Identities in the Roman World</title>
+	</analytic>
+	<monogr>
+		<title level="m">Work, labor and professions in the Roman World</title>
+		<editor>
+			<persName><forename type="first">K</forename><surname>Verboven</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Laes</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Leiden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brill</publisher>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="147" to="172" />
+		</imprint>
+	</monogr>
+	<note>Impact of Empire</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Quantifying Pompeii: Population, Inequality and the Urban Economy</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Economy of Pompeii</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="53" to="84" />
+		</imprint>
+	</monogr>
+	<note>Oxford Studies on the Roman Economy</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Artisans and Markets: the Economics of Roman Domestic Decoration</title>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Archaeology. The journal of the Archaeological Institute of America</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="page" from="101" to="125" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">The Dancing Lares &amp; the Serpent in the Garden. Religion at the Roman Street Corner</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Flower</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Lararien-und Fassadenbilder in den Vesuvstädten</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fröhlich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Mainz</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Archäologie und Seismologie, la regione vesuviana dal 62 al 79 d.C., problemi archeologici e sismologici</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fröhlich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Jacobelli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Munich</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Il Foro di Cuma dal I. sec. a.C. all&apos;età bizantina</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gasparri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cuma. Atti del Quarantottesimo Convegno di Studi sulla Magna Grecia</title>
+		<meeting><address><addrLine>Taranto</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="581" to="611" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><surname>Gradel</surname></persName>
+		</author>
+		<title level="m">Emperor worship and Roman religion</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Le Terme Centrali a Pompei: ricerche e scavi 2003-2006</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Haan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wallat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Nuove Ricerche Archeologiche nell&apos;Area Vesuviana</title>
+		<editor>
+			<persName><forename type="first">M.-P</forename><surname>Guidobaldi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P.-G</forename><surname>Guzzo</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2008. scavi 2003-2006</date>
+			<biblScope unit="page" from="15" to="24" />
+		</imprint>
+	</monogr>
+	<note>Studi della Soprintendenza archeologica di Pompei</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The Roman Street. Urban Life and Society in Pompeii, Herculaneum and Rome</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hartnett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Laurence</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Roman Pompeii -Space and Society</publisher>
+			<pubPlace>Routledge, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m">Roman Pompeii: Space and Society</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Un tempio di Esculapio a Pompei. Strutture, divinità, e culti del cosidetto tempio di Giove Meilichio</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Marcattili</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Contributi di archeologia vesuviana II</title>
+		<editor>
+			<persName><forename type="first">F</forename><surname>Marcattili</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Romizzi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="9" to="76" />
+		</imprint>
+	</monogr>
+	<note>Studi soprintendenza archeologica Pompei</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Geschichte der dekorativen Wandmalerei in Pompeji</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1882">1882</date>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Urban Production and the Pompeian Economy</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Monteix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Economy of Pompeii</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="209" to="241" />
+		</imprint>
+	</monogr>
+	<note>Oxford Studies on the Roman Economy</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Landscapes &amp; Cities. Rural Settlement and Civic Transformation in Early Imperial Italy</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Il &apos;Secolo d&apos;Oro&apos; di Pompei. Aspetti dell&apos;architettura pubblica e privata nel II secolo a.c</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pesando</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sicilia ellenistica, consuetudo italica</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Osanna</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Torelli</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Rome and Pisa</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="227" to="241" />
+		</imprint>
+	</monogr>
+	<note>Alle origini dell&apos;architettura ellenistica d&apos;Occidente</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Pompei Oplontis Ercolano Stabiae. Guide Archeologiche Laterza</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Pesando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M.-P</forename><surname>Guidobaldi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Laterza, Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title level="m" type="main">The Traffic Systems of Pompeii</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Poehler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Sewers, Archaeobotany, and Diet at Pompeii and Herculaneum</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rowan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Economy of Pompeii</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="111" to="134" />
+		</imprint>
+	</monogr>
+	<note>Oxford Studies on the Roman Economy</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Pompei alla luce degli Scavi Nuovi di Via dell</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Spinazzola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Abbondanza</title>
+		<imprint>
+			<date type="published" when="1953">1953</date>
+			<publisher>Rome</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The monumental centre of Herculaneum: in search of the identities of public buildings</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Roman Archaeology: an International Journal</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="121" to="160" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Die Ostseite des Forums von Pompeji. Peter Lang</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wallat</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Frankfurt am Main</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Pompeii. Public and Private Life</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Zanker</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

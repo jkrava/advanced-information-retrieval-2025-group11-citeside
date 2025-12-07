@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">SPATIAL THEORIES AND THE STUDY OF ANCIENT (ROMAN) URBANISM 1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Christer</forename><surname>Bruun</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ann</forename><surname>Brysbaert</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Irene</forename><surname>Vikatou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hanna</forename><surname>Stöger</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gabriel</forename><surname>Evangelou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paolo</forename><surname>Garofalo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Antti</forename><surname>Ijäs</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kai</forename><surname>Juntunen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nikoletta</forename><surname>Kanavou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tuomo</forename><surname>Nuorluoto</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Tristan</forename><surname>Power</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dimitris</forename><surname>Roumpekas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Olli</forename><surname>Salomies</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Heikki</forename><surname>Solin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kaius</forename><surname>Tuori</surname></persName>
+						</author>
+						<title level="a" type="main">SPATIAL THEORIES AND THE STUDY OF ANCIENT (ROMAN) URBANISM 1</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A8296676492E95DFA2DA392085F68C6A</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARCTOS -ACTA PHILOLOGICA FENNICA</head><p>Arctos has been published since 1954, annually from vol. 8 (1974). Arctos welcomes submissions dealing with any aspect of classical antiquity, and the reception of ancient cultures in mediaeval times and beyond. Arctos presents research articles and short notes in the fields of Greek and Latin languages, literatures, ancient history, philosophy, religions, archaeology, art, and society. Each volume also contains reviews of recent books. The website is at <ref type="url" target="www.journal.fi/arctos">www.journal.fi/arctos</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>In the last decades, the notion of space has been centered in studies on the ancient world, following trends that have been equally influential in the human sciences in general. The aim of this review article is to take stock of this remarkable and growing intellectual turn, its methodologies, theoretical frameworks, topics of interest and future prospects. As a sample, it will analyse a selection of prominent recent works that have introduced the spatial dimension in studies of antiquity and highlight their main contributions and drawbacks. In doing so, it attempts to chart how the toolbox of spatial theories has been used and what the future may hold.</p><p>The works surveyed are Amy Russell's The politics of public space in Republican Rome (2015), Daniel Gargola's The Shape of the Roman Order: The Republic and Its Spaces (2017), Carlos Machado's Urban Space and Aristocratic Power in Late Antique Rome (AD 270-535) from 2019, and Christopher 1 This research has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 771874) with the ERC CoG project "Law, Governance and Space: Questioning the Foundations of the Republican Tradition". The author gratefully acknowledges the invaluable help of Ms Oona Raatikainen and Dr Heta Björklund. He also acknowledges as full disclosure the discussions he has had with two of the authors here reviewed, Russell and Gargola, on the study of space in the Roman world. However, such discussions did not involve the current review nor were they aware of it. He would like to also thank members of the SpaceLaw project for their comments to the manuscript.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dickenson's On the Agora: The Evolution of a Public Space in Hellenistic and</head><p>Roman <ref type="bibr">Greece (c. 323 BC -267 AD) from 2016. 2</ref> This is by no means an exhaustive list, but rather a sample skewed towards my own interests in the spatial representations of the public sphere. However, these studies employ very different approaches and methodological tools. Russell's award-winning work focuses on the public-private distinction in Late Republican Rome with some references to other cities in Italy. The individual chapters concentrate on themes such as the forum, the basilica, sacred spaces and the uses of art in making statements, with a distinct interest in individual agency. In contrast, Gargola seeks to understand how space was conceptualized and how spatial orientation informed and guided action in the Roman republic. Machado's book focuses on senatorial aristocracy in Late Antique Rome, a period in which the retreat of imperial power coincided with the rise of Christianity, a territory already staked by the likes of Peter Brown and Richard Krautheimer. If the emphasis of Russell and Gargola is on the rise and expansion of an imperial capital, Machado looks at a city in decline and abandonment that is also the site of massive ecclesiastical building programs. Machado's work is divided into sections on urban space, the uses of space and the development of private space.</p><p>Dickenson's book is the most expansive in scope, investigating the evolution of the agora and public space in general in Greece over a period of nearly six centuries. In comparing these works, the aim is primarily in discussing different ways of doing research with the toolbox of spatial theories and the various advantages and drawbacks that they entail.</p><p>In the following, we will first discuss what the spatial turn is and what it means for investigations into the past. We will explore how these approaches have thus far been used in the study of the ancient world in general. Then, we turn to our sample studies and explore how they position themselves against this background and how they use space and spatiality as tools or even aims.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What is the spatial turn?</head><p>There is no single definition of the spatial turn or how spatial theories are to be used, but there are numerous different sources and methodological foundations. Some of the main sources are the works of Marxist geographers such as Edward Soja, David Harvey and Doreen Massey, who began to investigate how issues such as class could be studied through their spatial manifestations. <ref type="bibr">3</ref> One of the basic premises of spatial theories has been a Gramscian notion of structural power. Theories such as those by Michel Foucault or, more specifically, Henri Lefebvre argue that the built environment acts as a kind of petrified social structure. <ref type="bibr">4</ref> Within historical studies and studies of space in past societies, there is something of a monotonic focus on using the theories of Henri Lefebvre. One of the most important features of the spatial approach developed by Lefebvre is the focus on how people experienced space and how those experiences differed. His view was that space is not only constructed but also experienced through a social and cultural prism. <ref type="bibr">5</ref> In historiography, there are also clear linkages to the Annales school of history, which emphasizes the role of structures and long term (or longue durée) developments such as changes in urban or rural spaces. Thus, seminal texts such as Emmanuel Le Roy Ladurie 's Montaillou (1975) or Fernand Braudel's La Méditerranée (1949) sought to present space as a central factor, or even an actor, in lieu of short-term surface level activities. <ref type="bibr">6</ref> Within historical studies, we may group interest in spatial theories as focused on three main aspects: power, symbols and memory. The aspect of power is conceptually fairly self-explanatory as it investigates how power relations may be examined in urban environments and in their usages. For example, palaces have a function of projecting power while public spaces may be used to demonstrate the lack of centralized power or hierarchies. <ref type="bibr">7</ref> The symbolic aspect is tied to the aspect of power in that it includes the meanings that are attached to objects such as statues or monuments. Monuments act as placeholders for values, and their prominence is a sign of the esteem in which those values are held, but how the audience, for instance, the people read it and what kinds of emotion they link to it is up to them. <ref type="bibr">8</ref> The aspect of memory and the construction of public memory are the final interlinked concepts, i.e., the reference to the past. Pierre Nora's famous idea of the lieux de mémoire is fundamental here as it illustrates how places may be given meanings that are wholly independent of their original function or intent. Nora's work mainly referred to places where historical events took place or where they were believed to have taken place. <ref type="bibr">9</ref> A particularly interesting aspect of the use of spatial approaches is the revelatory potential they have with regard to the blind spots of written sources, such as gender or marginalized groups, such as slaves. Their existence and significance can be revealed through their visibility in domestic or communal spaces. <ref type="bibr">10</ref> There are equally interesting specific usages of spatial thinking in historical work, such as the theory of the middle ground, initially coined in 1991 by Richard White to illustrate the creative ambiguity and communicative license that enabled peaceable commerce and interaction between indigenous inhabitants and settlers in the Great Lakes area. Striving for mutual accommodation and understanding in this setting, the middle ground became both a term for a geographic area and for the mode of being that sought to avoid domination and marginalization. <ref type="bibr">11</ref> In historical studies, the spatial turn is mostly used as a way to gain a novel approach to materiality. It involves emphases on space as the realm of and mirror to power, as the locus of symbols and as the realm of sites of memory and representation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Has there been a spatial turn in ancient studies?</head><p>The beginning of the use of the spatial turn in studies on the ancient world in general is difficult to pinpoint since there are numerous alternatives. One could begin with the works of Ray Laurence, especially his Roman Pompeii: Space and Society (1994), which displayed the idea of analyzing urban activities in their spatial context by utilizing the wealth of material from Pompeii. Laurence established connections between activities and movement, the development of the city and its identity, its social and economic spheres and the daily rhythm of life. <ref type="bibr">12</ref> Laurence was, or is, part of a larger group of Pompeianists who seek to write the history of Roman urbanism. David Newsome, his doctoral student, has continued his work by studying movement and traffic, while others have expanded into issues such as soundscapes and sightlines. <ref type="bibr">13</ref> A methodologically different approach was taken by the practitioners of spatial syntax analysis, such as Michael Anderson, Michael Grahame and Hanna Stoeger, who were inspired by the work of Hillier and Hanson. Their works have utilized computer models to determine how people moved in cities or even in houses. <ref type="bibr">14</ref> Another starting point could be the approach taken by Diane Favro. Her studies, primarily Augustan Rome (1996), have explored how ancient Romans experienced their city and its change in the building programs of Augustus. The central concept of her study is the urban image, a concept borrowed from Kevin Lynch's The Image of the City (1960), and its transformation. <ref type="bibr">15</ref> In a similar way, recent scholars, such as Harriet Fertik, have explored the way power dynamics are present in spatial environments. <ref type="bibr">16</ref> Since Lefebvre is just one of the numerous French theorists on space and spatiality, it comes as no surprise that there are many French applications of <ref type="bibr">12</ref> Laurence 1994. Laurence's study coincided with other important works, such as Wallace-Hadrill 1994; Zanker 1998. <ref type="bibr">13</ref> Laurence -Newsome 2011. Other Pompeianists that are interested in spatial matters include, e.g., Berry 2007; Flohr 2013; Ellis 2018; Viitanen -Nissin 2017.   14 Hillier -Hanson 1984; Grahame 2000. However, this methodology has received much criticism.</p><p>See, e.g., Simelius 2018, 42-43.  these theories to the study of the ancient world. Therefore, another starting point could be, for example, the work of Claude Nicolet or Mireille Corbier, who have utilized the concepts of power and knowledge in their analysis of the Roman public sphere. <ref type="bibr">17</ref> Issues of space have loomed large even in German scholarship. Karl-Joachim Hölkeskamp's studies on the Roman Republic and its public sphere, Annette Haug's work on ancient urbanism and the work of the massive Topoi project (where one needs to mention only Susanne Muth among many) have been hugely significant. <ref type="bibr">18</ref> When speaking of an emphasis on space and a spatial view, the question arises whether there is much of a difference between avowedly spatial studies and topographical studies that combined historical and archaeological aspects long before trendy monikers and the invention of the whole concept of a spatial turn. Notable topographical studies have been conducted by household names such as Filippo Coarelli and Mario Torelli. <ref type="bibr">19</ref> Naturally, the works mentioned above have mostly been on Roman urbanism. The ancient world was mostly agricultural in nature as has been pointed out in the studies of Diane <ref type="bibr">Spencer. 20</ref> Equally important are the emphases on cartography and the conceptualization and visualization of space. These emphases can be found in the works of, for example, Richard Talbert and Kaj Brodersen. <ref type="bibr">21</ref> In the same vein, the centrality of Rome needs to be re-evaluated, as is done, for instance, in Hans Beck's work on localism (Localism and the Ancient Greek City-State). There has also been a surge of spatially themed works on ancient Greece. <ref type="bibr">22</ref> In this respect, the study of public and private spheres in the ancient world is also interesting. From this aspect, Andrew Wallace-Hadrill, Joanne Berry and many others have studied the experience between domestic and public spheres. The public-private distinction, i.e. the semi-permeable and often confusing line between what may be understood as being in the private sphere and what that meant, is an issue taken up by scholars such as Andrew Riggsby, Annapaola Zaccharia Raggiu and Laura Nissin, among others. <ref type="bibr">23</ref> In addition to the works referred to here at length, there are numerous others who taken up the spatial theme have within the last decade. For instance, Michael Scott's Space and society in the Greek and Roman Worlds (2012) utilizes different spatial theories to analyse a series of case studies in ancient Greece and Rome. <ref type="bibr">24</ref> One of the most self-conscious, theoretically ambitious works to come out recently is Fitzgerald's and Spentzou's edited volume The Production of Space in Latin Literature (2018), which explores spatial dynamics in Roman literature. Its introduction is a veritable cornucopia of references to seminal works ranging from Lefebvre to Michel de Certeau and Soja. <ref type="bibr">25</ref> There is also a clear post-colonial strain of scholarship that challenges the notions prevalent in earlier studies regarding ethnicity. In Britain, for instance, these works have questioned ideas such as the racialized boundaries between Romans and barbarians, leading to heated online conflicts. <ref type="bibr">26</ref> In short, there has been a fairly large and diverse output of spatial studies on the ancient Mediterranean world. These studies have bridged the disciplinary boundaries of classics, history and archaeology, although they do demonstrate clear continuities from earlier works. In a number of additional studies, the spatial aspect is almost invisible and is not even mentioned in the titles of these studies. However, very few of these engage with the theory beyond a few footnotes that acknowledge both first and second tier theories before moving to other subjects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What theoretical and methodological tools are used?</head><p>Because of the difficulty of distinguishing between studies that merely claim to utilize spatial theories and those that actually do, it is perhaps beneficial to start by discussing the theoretical and methodological foundation of this new crop of studies. Do they simply repackage topographical approaches, or do they achieve something new?</p><p>The demand of openly stating one's theoretical pedigree may be misleading. As someone once said, it is hardly relevant to spend sixty pages of an introduction to explain what this or that trendy French theorist really meant if one does not actually apply their theories to the sources, to the research material itself. In most of the works mentioned above, the main references are to second tier theories, the field-specific applications of theories such as Lefebvre's.</p><p>The works at hand may be divided into two groups based on theory: the theoretical introducers and the implicit theory users. Among the first group, Russell has a full section (Russell 2015, 16-24) on methodology that situates her work in relation to the development of spatial theories from Lefebvre onwards, giving theoretical nods to Foucault, Harvey, Soja, Tuan, Rapoport and Casey. She mentions, e.g., Laurence, Spencer, Hillier and Hanson, Favro and others as her predecessors. She describes her approach as behavioral with the aim of tracking ancient behavior since ancient feelings are hard to grasp. She combines Favro's pathways with Riggsby's and Zaccharia Raggiu's behavioral public-private definitions to examine how different actors behaved in public spaces.</p><p>Machado's section on methodology is fairly developed (Machado 2019, 18-24), but he begins by referring primarily to great names from topographical studies, such as Coarelli or Zanker. Of the first level theorists in geography and cultural studies, Charles Withers and Michel de Certeau are mentioned in addition to the almost compulsory reference to Lefebvre. Machado also has a productive way of explaining parallels. For example, when discussing imperial visits to households, he compares them to Elizabethan England and the way that royal visits shaped the political geography of Tudor England (Machado 2019, 228), or when he discusses the public functions of domestic places by Romans in comparison to that of Indian local administrators during the Raj (Machado 2019, 252-53). <ref type="bibr">27</ref> In contrast, implicit theory users rely more on doing than showing. Since Gargola's interest is in the conceptualization of space, it would be reasonable to assume that his methodological apparatus would be different from others. Of course, many of his references are to studies on constitutionalism and constitutional law, but even he is not immune to the necessary reference to Lefebvre (in the French original) as well as to Hillier and Hanson. What he does add is a reference to anthropological work, primarily M. E. Bloch. All in all, Gargola's theoretical framework is mostly one that is assumed rather than explained, outlined as it is in just a single page (Gargola 2017, 2).</p><p>Dickenson also includes his share of Lefebvre, but not in his section on methodology per se. Instead, methodological observations and references to the main exemplars of earlier literature are located in the "previous literature" section (Dickenson 2016, 16-31). Though he does not cite much theory, key concepts that he uses, such as experienced space, betray at least a second-hand reading of the geographical theory. However, he approvingly cites Alcock on the lack of suitably preserved sites in Greece that would enable the kind of "hi-tec spatial analysis" (Dickenson 2016, 22) that has been done, for instance, in Pompeii.</p><p>While the aims of these works are quite different, their stated theoretical allegiances are remarkably similar. Thus, Russell discusses behavior within spaces, Gargola analyses how space and the things in it were conceived of and Machado examines how history happens in urban spaces. Dickinson, for his part, is primarily interested in spaces and only secondarily in what happened in them. This difference is mostly due to main sources that each scholar uses. Dickinson focuses on archaeological remains, while the others rely more on written sources. This brings us to our next issue: the field of study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How are they situated: classics, history, archaeology or topography?</head><p>Disciplinary alignment still plays a crucial role even in our inter-, post-and transdisciplinary times. Institutional affiliation and cited and emulated research often reveal what field of study the author thinks his or her research belongs to.</p><p>As mentioned above, Dickenson's book is quite easily and clearly categorized as archaeology. The others fall within different types of history or classical scholarship in general. Gargola's study is the clearest historical work of them all with its classicist emphasis on language. His emphasis is on how the outside world is conceptualized and understood through the Roman political, conceptual and legal framework. Machado's study is also very historical. His characters move in the spaces of Late Antique Rome rather than in the city itself, and decline/transformation of Rome becomes an actor in its own sense. Russell's work situates itself as history, both political and feminist, but in practice, it falls within the topographical approaches of combining written and archaeological sources.</p><p>Even though such a distinction of disciplinarity is easy to make, it does not mean that it is self-evident. All works belong to a group whose authors could easily find a home within a traditional classics department and therefore to a larger inbetweenness of ancient studies writ large.</p><p>Are they interested in the spatial aspects of politics, economy, religion and social relations?</p><p>The onus of each book reveals its stated allegiances. Most studies on Roman public space are focused on politics. Economic interests are rare outside of works on space that are specifically focused on economics, such as the studies by Ellis and Flohr mentioned above. Religion and social relations have a similar specialist tendency. Typically, studies on religious space concentrate on religious change and promotion, and studies on social change focus on the domestic sphere or marginalized groups.</p><p>Dickenson's study is the most politically minded of them all in its interest in upper level developments. The characters he deals with are rulers, cities and states, with the individual and her life far from the focus. The economic aspect, quite significant in relation to the agora, receives little attention. For Machado, all of these facets of life are basically the same: politics, economy, religion and social relations represent different aspects of the playing field of the aristocratic competition. Thus, even developments in the domestic sphere, such as the gradual disappearance of the aristocratic domus, are fundamentally issues of economic and political change.</p><p>Even for studies that attempt to approach the activities taking place in the private sphere, it remains difficult due to the emphasis of the literary sources on the public arenas. Gargola's approach is basically a combination of political and legal history in which religion and social relations matter mostly for their influence on political history, particularly in public rituals and ceremonies. However, he does discuss how the individual acted in the framework provided by different rules. Russell's emphasis, clearly to her dislike, is on the elite men who dominated the public sphere and political life of the Roman republic and on the sources that we have of them. Economy is largely absent, but cultic life and social relations have a central role, although they are viewed only through the lens of the elite men and their activities in the public space.</p><p>The different emphases on the smaller or larger scale of things are, of course, often contingent on the content of the sources, but more importantly, they are dictated by the stated or unstated practice of writing about the past. Studies on the ancient world are, by their very nature, dependent on the sources, on their availability and character. This means that, while one would want to hear a plurality of voices, sometimes those voices cannot really be heard, and the questions that emerge from reading modern theories remain unanswered.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How is space seen?</head><p>The way that space is understood and conceptualized is another major distinguishing factor. Is space seen as static or fluid? Is it an arena where things happen or a place defined by movement, memories or traditions? This is a remarkably interesting way of looking at an author's analytical process. This is also an aspect of research in which disciplinary focus leads to startlingly different results. Dickenson's space is the built environment, the agoras of Greek cities, which appear almost completely depopulated in comparison to the others' concepts of space. His focus is on buildings, their history and function.</p><p>If Dickenson's starting point is existing remains and his focus is to reveal their development and functions, the others are more interested in the actor's perspective. Gargola tries to understand space as the Romans conceived of it, how they thought about it, and how it influenced and informed their polity and its change. His notion of space is deeply constructivistic, where both the polity that is Rome and the groups and individuals that comprise of it make their own space and time in the sense that it is formed by "their movements, their experience, their memories and their traditions. " According to Gargola, "Romans viewed their political order spatially through the lens provided by their city and its magistrates" (Gargola 2017, 224). The outside world was where magistrates operated, signalled by their departures and arrivals, their preparation to take action or their return in triumph. There was a clear bifurcation between the city, with its clear rules, and the set boundaries and space beyond, where rules mattered little, except for the roads that tied them to Rome.</p><p>If Gargola seeks to find out how Romans thought about space, Russell's stated emphasis is on movement in spaces. She dwells on how building is used to alter the dynamics of space and power, for example, when Pompey was forced to return home when the Senate took to its chambers (because he was not a member) led Pompey to build his own curia for the Senate. Russell's enduring interest is in the public/private dichotomy and in its construction through a cross-historical understanding.</p><p>Machado's view of power dynamics and their representations are almost Foucauldian: "Just as the power of a late Roman senator was of a very different magnitude from that of Roman emperors (or, later, Ostrogothic kings), houses and places were political centres of different scales" (Machado 2019, 252). The insides of houses and palaces were sets that operated as props in which actions took place, persons were hidden from pursuers, and imperial hierarchies were reinforced through the acts of ordering and waiting.</p><p>The way that space is approached and conceptualized is revealing even when it is given very little attention. For example, Eva-Maria Lackner's monumental study of the Republican fora discusses at length the role of architecture in the creation of communities and their political ideologies. As Baker put it in his review, "fora ultimately became a medium that both cultivated and reinforced social rules and relationships in the Republican period. " However, Lackner does not explicitly elaborate on the theoretical underpinnings of this argument.<ref type="foot" target="#foot_21">foot_21</ref> This is typical of works that are deeply embedded in a disciplinary foundation, or worse, in a practical description in which the meaning of methodological reflection is buried behind practice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Any mention of gender?</head><p>Aspects of gender and the discussion on groups apart from the elite male worldview have been some of the great promises of novel methodologies, whether they be critical Marxist social sciences or studies on race or gender. This is one of the reasons why I was quite excited about reading the works through this lens. However, it was not to be. In movies or other works of fiction, the Bechdel test of female characters asks whether there is a scene in which two female characters talk with each other and do not talk about a man. If these books were made into movies, they would all fail this test.</p><p>As a work that explicitly defines itself as feminist, Russell's book attempts to rise above the male-dominated written sources, but moments of frustration shine through: "we are forced to search for any scrap of evidence for the experience or even the presence of women" (Russell 2015, 179).</p><p>Gargola and Machado do not deal with women except as statisticians. The same may be said of Dickinson.</p><p>Of course, public space is stereotypically a field from which women are often assumed to be excluded, and Roman sources quite explicitly state that they are. The cornerstone of this assertion is the jurist Ulpian's statement in this regard in Digest 50,17,2. However, in both social and legal historical studies on women in the economic and social worlds, this assertion has been clearly demonstrated to be false in the lived experience. Why is this then the case in studies on public space?</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How do they illustrate space?</head><p>Discussing space with mere words is a futile exercise. Images feed the imagination of the reader and enable the message to be conveyed much more effectively, especially when that message seeks to repeal firmly held underlying assumptions. The use of images is also a question of emphasis. Social scientists using quantitative data or even historians of demography tend first to look at tables in an article since they are of primary interest to them. The same can be said of figures and maps for historians of architecture.</p><p>Though her work is primarily based on written sources, Russell attempts to use illustrations and maps for more than just pictures. There are three purpose-made maps of Rome and its forum and a total of 21 illustrations featuring architectural reconstructions, photographs of sites, coins, paintings and the like. Most of the reconstructions are reproductions, with some original works. Despite this effort, the narrative is clearly based on texts and reliant on the written sources. The other Classics/historical studies have the same trait. Machado's book has an almost equal amount of illustrations, containing 2 maps and 21 reconstructions or photographs. They are all reproductions of illustrations that have previously appeared elsewhere. Gargola has a total of six maps, all of which are made for his volume.</p><p>However, even the most archaeologically disposed of the lot is primarily based on text. Dickenson has the most plentiful set of illustrations, with 51 maps, pictures, reconstructions and other images, but most of them are repurposed material from earlier studies.</p><p>In comparison to earlier works, such as Favro's Urban Image, which have attempted to integrate images to make the argument, the use of second-hand illustrations is a slight disappointment. While Favro, in the style of architects, emphasizes illustrations and conveys her argument through them, the four authors discussed here use images as secondary material to illustrate the text.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>What directions could spatial theories lead to in ancient studies?</head><p>The works discussed here have been published within the last four years by the time of writing, and thus, in the glacial pace of academic publishing, should be considered the latest word. Regarding future prospects, there are also numerous ongoing book projects and conferences that will undoubtedly bring new inspiration. <ref type="bibr">29</ref> Based on the works at hand and the knowledge of the ongoing projects, what is the future of spatial studies on the ancient world?</p><p>What I have learned in my earlier inquiries into the history of science is that, like the Newtonian laws of motion, scientific inquiry has inertia that slows down the adoption of new ways, but that inertia also keeps it moving once in motion. In his keynote address at the Auckland conference on space and ancient studies in January 2020, Ray Laurence envisioned how the language of space is reproduced across the Roman Empire and discoverable in almost every aspect such as epigraphy, language or architecture. What are then the theoretical and practical issues that have not yet been tackled and which of them could prove to be useful in the coming years?</p><p>Of the issues that have been discussed in spatial theory, many have been incorporated in works on the ancient world, for instance, spatial representations, the discussion on movement and access, ideas on perception and the way it has been conditioned. Even the notions of rhythm and temporality have gained some attention. When speaking of future directions, one is always in danger of selfobsession, of raising only one's own ideas as the way forward. What I will attempt to avoid is just that, at least to some extent, and instead focus on some of the potential avenues to be explored, based on an admittedly shallow understanding of space and spatiality.</p><p>There are two larger aspects on which I would like to focus: the theoretical and the practical. Within theoretical discussions about the ancient world and spatiality, the concept of space is used in a very general sense as I have hopefully demonstrated. This has led to some ambiguities, for instance, in the potentially fruitful distinction between "hard" infrastructure logistics and "soft" imaginations and their spatiality. Especially in the Roman world, with the Roman habit of projecting power through both infrastructure, such as roads and military installations, and the Roman appeal to the imaginary, this distinction could yield interesting results. Another undiscussed issue is the separation of space and place, with regard to which there has been an immense theoretical debate, which has rarely been communicated to ancient studies, for instance in the sense of place-making as a form of cultural meaning-creation. <ref type="bibr">30</ref> On the theoretical side, numerous analytical tools have yet to have larger purchase, let alone practical application. While their effects have certainly been noted, the distinctions on scope and scale have not been addressed. On the issue of scale, for example, ideas of locality could be complemented with notions of verticality. Theories of flat ontologies, which maintain that objects that are imagined may be as "real" in their being as physical objects, could be put to use in analyses as the ancient world had an immensely rich sense of objects that inhabited mostly or only the shared imagination, for instance, in myth and religion. Equally, the actor-network theory, or ANT, which examines things primarily through their relations to each other, has yet to receive much attention. <ref type="bibr">31</ref> Since the move out of essentializing models in understanding culture has strengthened, it is important for a matching a move to take place away from essentializing definitions of spaces and toward recognizing the plurality that the ancient world exhibited, as has occurred in anthropology. <ref type="bibr">32</ref> Due to the political focus of much of our sources, topology or the relative or flexible notions of geography could be very interesting for the analysis of how power distorts, stretches and obscures distance and relations between places. To borrow a term from social sciences, locating regimes had a pervasive impact on the ancient world, which means that spatial logic was backed by power. <ref type="bibr">33</ref> Another approach of great potential in ethnographic research is the use of feminist geography, or the general focus on the marginalized, such as immigrants or asylum seekers. 34 This is an area in which the silence of written sources can be complemented by material finds, but such approaches are not easy as Russell's example demonstrates. A similar possibility is the utilization of practice theory, for instance, Schatzki's theory of social sites. Social sites are places in which social orders, practices, agency and daily social life happens, and practice theory allows us to understand the interlinkages between these constitutive factors that underlie so much of the activities in public places. <ref type="bibr">35</ref> When discussing public spaces, there is a wealth of theoretical and practical work that could be mined for insights. The legal, social, political and symbolic ownership of public places and the private infringement on them is a theme that has resonance both in ancient and contemporary studies. The notion of public space as political space, both as a space of deliberative action but also of insurgence, is something that could be fruitfully theorized across the temporal spectrum. Access to public space and its restrictions as well as the potential for interaction can be approached from different angles, from boundaries that are physical, social, symbolic or legal. These boundaries may exist for some and not 31 Much of the attention that it has received may be traced back to the work of Bruno Latour. <ref type="bibr">32 Gupta -Ferguson 1992. 33</ref> For an introduction to topology, see Paasi 2011. <ref type="bibr">34</ref> Mountz 2011. <ref type="bibr">35 Schatzki 2002.</ref> for others, as plural, porous or blurred. <ref type="bibr">36</ref> All of this is, as a phenomenon, readily familiar to those interested in Roman or Greek public spaces, the fora and the agora, and in the ways that access to them was controlled.</p><p>A practical theme that could have significance is the use of imagining. Especially in Roman archaeology, the use of GIS, photogrammetry and 3D applications has become commonplace, but their implications for research have yet to be fully realized. The new Virtual Modeling of the Great Marble Map of Rome project on the Forma Urbis is a good example of the possibilities that are open. <ref type="bibr">37</ref> As is obvious from the four books and their illustrations as well as almost all other recent books on the topic, very little truly new work has been conducted in images.</p><p>At this point, the frustrated classicist or classical archaeologist may wonder what practical benefit the theoretical emphasis may bring. We have archaeological sites and their study, but these do not enable the voices of the inhabitants or the users to inform us about what they thought about space, or if there are voices, we cannot really ask questions that they do not answer. At the opposite end of the spectrum, we are in possession of texts that recount movement in spaces that, quite often, we know next to nothing of. Again, we cannot do surveys or ask the ancient Greeks to fill out questionnaires.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>During the last three decades, the spatial turn has become a household term in studies on the ancient world. In the four recent works that were discussed here, it is simultaneously apparent how much the issue of space has become a key analytical tool for understanding the public sphere in the ancient world as well as how much work there is still to be done.</p><p>While some of the theorists discussed above have a tendency to write vacuous prose that is very hard to understand unless one is really passionate about critical theory, there is usually a point buried under the references to Deleuze. Quite often, theory helps to point out interesting junctures and gain a sensibility of phenomena that have earlier been overlooked.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>University of Helsinki</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Ancient Pompeii: Contextualizing scriptores and Their Work The Sociolinguistic Study of Ancient Greek and Latin: Review Article Spatial Theories and the Study of Ancient (Roman) Urbanism: Review Article</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>29</head><figDesc>The recent Auckland conference, titled The Spatial Turn in Roman Studies (University of Auckland, January 22-24 2020) and organised by Amy Russell and Maxine Lewis, will undoubtedly produce a new set of publications. Upcoming books include Dunia Filippi's edited volume The Spatial Turn and the Archaeology of Roman Italy: New Perspectives in the Study of Urban Space (forthcoming in the Taylor &amp; Francis series Studies in Roman Space and Urbanism) and Miko Flohr's edited volume Urban Space and Urban History in the Roman World, as well as Samuli Simelius' upcoming book, Pompeian Peristyle Gardens, based on his PhD thesis.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_0"><p><ref type="bibr" target="#b46">Russell 2015;</ref><ref type="bibr" target="#b21">Gargola 2017;</ref><ref type="bibr" target="#b36">Machado 2019;</ref><ref type="bibr" target="#b11">Dickenson 2016.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_1"><p>The standard history may be read in works such as Arias -Warf 2009. For a short introduction to Harvey's multi-layered thinking on the concept of space, see<ref type="bibr" target="#b25">Harvey 2004.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_2"><p>Especially famous examples are the coercive uses of space such as the Panopticon.<ref type="bibr" target="#b19">Foucault 1977.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_3"><p><ref type="bibr" target="#b35">Lefebvre 1991</ref>. On Lefebvre, see Merrifield 2006.    </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_4"><p>Both Le Roy Ladurie and Braudel have had a later resurgence due to translations into other languages.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="7" xml:id="foot_5"><p>These constitute the first generation of studies (the "Monuments of Power" style), which explore in a Foucauldian manner how constructed space may be used for social control and coercion.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="8" xml:id="foot_6"><p>Boschung -Hölkeskamp -Sode 2015.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="9" xml:id="foot_7"><p>Nora 1984Nora  -1992.   .    </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_8"><p>This is something that followed directly from the Marxist roots of the theory, but as Russell demonstrates, following up on this idea is not simple. However, F. Mira Green has demonstrated how the archaeology of domestic settings can provide clues to power relations.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="11" xml:id="foot_9"><p>White 2011.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="15" xml:id="foot_10"><p><ref type="bibr" target="#b14">Favro 1996;</ref> Yegül -Favro 2019.    </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="16" xml:id="foot_11"><p>Fertik 2019. Spatial Theories and the Study of Ancient (Roman) Urbanism</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="17" xml:id="foot_12"><p><ref type="bibr" target="#b10">Corbier 1987;</ref><ref type="bibr" target="#b40">Nicolet 1991.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_13"><p>Hölkeskamp 2004; Hölkeskamp -Stein-Hölkeskamp 2006; Haug -Merten 2020. On the Topoi project (2007-2017), see www.topoi.org.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_14"><p>The greatest monument to this approach is the massive Steinby 1993-2012 (11 volumes and a series of supplementa). See also Carandini</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2011" xml:id="foot_15"><p>  20  Spencer 2010. On landscapes in literature, see Skempis -Ziogas 2014. 21 In addition to their own work, both Talbert and Brodersen have promoted larger collaborations on ancient cartography, such as the Ancient World Mapping Center. Talbert 2019; Brodersen -Talbert 2004. 22 de Jong 2012; Skempis -Ziogas 2013; Purves 2010.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="23" xml:id="foot_16"><p>Laurence -Wallace-Hadrill 1997;<ref type="bibr" target="#b45">Riggsby 1997;</ref> Zaccaria Ruggiu 2005;<ref type="bibr" target="#b39">Nevett 2010;</ref> Hales 2003;<ref type="bibr" target="#b12">Dickmann 1999;</ref><ref type="bibr" target="#b9">Carucci 2008;</ref><ref type="bibr" target="#b5">Bowes 2010;</ref><ref type="bibr" target="#b41">Nissin 2016;</ref> Tuori -Nissin 2015.    </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="24" xml:id="foot_17"><p><ref type="bibr" target="#b48">Scott 2012.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="25" xml:id="foot_18"><p>On literary representation, see also<ref type="bibr" target="#b31">Larmour -Spencer 2007.</ref> </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="26" xml:id="foot_19"><p>Tolia-Kelly 2011.Spatial Theories and the Study of Ancient (Roman) Urbanism</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="27" xml:id="foot_20"><p>The closest comparison to Machado's study isWallace-Hadrill's (1994)  references to 19 th century English manors.Kaius Tuori</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_21"><p>Baker 2011.Kaius Tuori</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="30" xml:id="foot_22"><p>One of the few to utilize the space/place distinction in ancient studies is Spencer 2010.Spatial Theories and the Study of Ancient (Roman) Urbanism</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="36" xml:id="foot_23"><p>For examples, see<ref type="bibr" target="#b0">Amin 2008;</ref><ref type="bibr" target="#b8">and Carmona 2015</ref>. For an urban history approach, see Gadeyne -Smith 2016, who note that the defining traits of public space are ownership, accessibility, and assembly(Gadeyne -Smith 2016, 2).</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="37" xml:id="foot_24"><p>Led by Elizabeth Wolfram Thill at IUPUI, the Antiquities Administration of Rome and the Ancient World Mapping Center, see https://awmc.unc.edu/wordpress/mapping-the-classical-world-since-1869-past-and-future-directions-scs-annual-meeting-2019-papers/5-romes-marble-plan-progressand-prospects-elizabeth-wolfram-thill/ Spatial Theories and the Study of Ancient (Roman) Urbanism</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Collective culture and urban public space</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Amin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">City</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="5" to="24" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Arias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Warf</surname></persName>
+		</author>
+		<title level="m">The Spatial Turn: Interdisciplinary Perspectives</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Republikanische Fora. Eine städtebaulich-historische Analyse</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Baker ; Of Lackner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E.-M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JRS</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="321" to="322" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Review</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berry</surname></persName>
+		</author>
+		<title level="m">The Complete Pompeii</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m">2015. Raum und Performanz: Rituale in Residenzen von der Antike bis 1815</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Boschung -K</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">-C</forename><surname>Hölkeskamp</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Sode</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Houses and Society in the Later Roman Empire</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bowes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J A</forename><surname>Brodersen -R</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Talbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Space in the Roman World: Its Perception and Presentation</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Münster</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carandini</surname></persName>
+		</author>
+		<title level="m">Atlante di Roma antica: Immagini della città</title>
+		<meeting><address><addrLine>Milano</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>2 vols</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Re-theorising contemporary public space: a new narrative and a new normative</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carmona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Urbanism: International Research on Placemaking and Urban Sustainability</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="373" to="405" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Romano-African domus: studies in space, decoration and function</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carucci</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">L&apos;urbs: Espace urbain et histoire (I er siècle av. J.-C.-III e siècle ap</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Corbier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">On the Agora: The Evolution of a Public Space in Hellenistic and Roman Greece (c. 323 BC -267 AD</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Dickenson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Leiden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">J.-A</forename><surname>Dickmann</surname></persName>
+		</author>
+		<title level="m">Domus frequentata: Anspruchsvolles Wohnen im pompejanischen Stadthaus</title>
+		<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Roman retail revolution: the socio-economic world of the taberna</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J R</forename><surname>Ellis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Favro</surname></persName>
+		</author>
+		<title level="m">The urban image of Augustan Rome</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fertik</surname></persName>
+		</author>
+		<title level="m">The Ruler&apos;s House: Contesting Power and Privacy in Julio-Claudian Rome</title>
+		<meeting><address><addrLine>Baltimore, MD</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m">forthcoming. The Spatial Turn and the Archaeology of Roman Italy: New Perspectives in the Study of Urban Space</title>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Filippi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York -London</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The World of the Fullo: Work, Economy, and Society</title>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Roman Italy, Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m">forthcoming. Urban Space and Urban History in the Roman World</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Flohr</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Discipline and Punish: The Birth of the Prison</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Foucault</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gadeyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Smith</surname></persName>
+		</author>
+		<title level="m">Perspectives On Public Space in Rome, From Antiquity to the Present Day</title>
+		<meeting><address><addrLine>London -New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Gargola</surname></persName>
+		</author>
+		<title level="m">The Shape of the Roman Order: The Republic and its Spaces</title>
+		<meeting><address><addrLine>Chapel Hill, NC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Reading Space: Social Interaction and Identity in the Houses of Roman Pompeii</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grahame</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferguson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Beyond &quot;Culture&quot;: Space, Identity and the Politics of Difference</title>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="6" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hales</surname></persName>
+		</author>
+		<title level="m">The Roman House and Social Identity</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Harvey</surname></persName>
+		</author>
+		<ptr target="http://frontdeskapparatus.com/files/harvey2004.pdf" />
+		<title level="m">Paper for Marx and Philosophy Conference</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004-05-29">2004. 29 May 2004</date>
+		</imprint>
+	</monogr>
+	<note>Space as a Key Word</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m">2020. Urban Practices. Repopulating the Ancient City</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Haug -S. Merten</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Turnhout</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hillier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hanson</surname></persName>
+		</author>
+		<title level="m">The Social Logic of Space</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hölkeskamp</surname></persName>
+		</author>
+		<title level="m">Senatus Populusque Romanus: Die Politische Kultur Der Republik: Dimensionen Und Deutungen</title>
+		<meeting><address><addrLine>Wiesbaden</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hölkeskamp -E. Stein-Hölkeskamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Erinnerungsorte der Antike: Die römische Welt</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>München</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Space in Ancient Greek Literature: Studies in Ancient Greek Narrative</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">J F</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jong</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Leiden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H J</forename><surname>Larmour -D</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spencer</surname></persName>
+		</author>
+		<title level="m">The Sites of Rome: Time, Space, Memory</title>
+		<meeting><address><addrLine>Oxford -New York</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><surname>Laurence</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Space and Society</publisher>
+			<pubPlace>Roman Pompeii; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laurence -D</forename><forename type="middle">J</forename><surname>Newsome</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>Movement and Space</publisher>
+			<pubPlace>Rome, Ostia, Pompeii; Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m">1997. Domestic Space in the Roman World: Pompeii and Beyond</title>
+		<editor>
+			<persName><forename type="first">R</forename></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Laurence -A</forename><surname>Wallace-Hadrill</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Portsmouth, RI</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lefebvre</surname></persName>
+		</author>
+		<title level="m">The Production of Space (trans. by Donald Nicholson-Smith)</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Urban Space and Aristocratic Power in Late Antique Rome: AD</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Machado</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="270" to="535" />
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Henri Lefebvre: A Critical Introduction</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Merrifield</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Where asylum-seekers wait: Feminist counter-topographies of sites between states</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mountz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gender, Place &amp; Culture</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="381" to="399" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Domestic space in classical antiquity</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nevett</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><surname>Nicolet</surname></persName>
+		</author>
+		<title level="m">Space, Geography, and Politics in the Early Roman Empire</title>
+		<meeting><address><addrLine>Ann Arbor</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1988">1991. French orig. 1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title level="m" type="main">Roman Sleep: Sleeping Areas and Sleeping Arrangements in the Roman House</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nissin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Les lieux de mémoire</title>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Nora</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="1984">1984-1992</date>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Geography, space and the re-emergence of topological thinking</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paasi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dialogues in Human Geography</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="299" to="303" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Space and Time in Ancient Greek Narrative</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Purves</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Public&quot; and &quot;private&quot; in Roman culture: The case of the cubiculum</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Riggsby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JRS</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="36" to="56" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Russell</surname></persName>
+		</author>
+		<title level="m">The Politics of Public Space in Republican Rome</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schatzki</surname></persName>
+		</author>
+		<title level="m">The Site of the Social: A Philosophical Account of the Constitution of Social Life and Change</title>
+		<meeting><address><addrLine>University Park, PA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Space and Society in the Greek and Roman Worlds</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scott</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Pompeian peristyle gardens as a means of socioeconomic representation</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Simelius</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note>Helsingin yliopisto</note>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title level="m" type="main">Simelius forthcoming. Pompeian Peristyle Gardens</title>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+		<imprint>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Landscape: Configurations of Space in Greek and Roman Epic</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Skempis -I</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ziogas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geography, Topography</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Berlin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><surname>Spencer</surname></persName>
+		</author>
+		<title level="m">Roman Landscape: Culture and Identity</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m">Lexicon Topographicum Urbis Romae</title>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Steinby</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Roma</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993">1993-2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m">2019. Challenges of Mapping the Classical World</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">J A</forename><surname>Talbert</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Abingdon, Oxon -New York, NY</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Narrating the postcolonial landscape: archaeologies of race at Hadrian&apos;s Wall</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Tolia-Kelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Institute of British Geographers</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="71" to="88" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Public and Private in the</title>
+		<editor>K. Tuori -L. Nissin</editor>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Roman House and Society</publisher>
+			<pubPlace>Portsmouth, RI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Campaigning for Votes in Ancient Pompeii: Contextualizing Electoral Programmata</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Viitanen -L. Nissin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Writing Matters: Presenting and Perceiving Monumental Inscriptions in Antiquity and the Middle Ages</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Berti -K. Bolle -F. Opdenhoff -F</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Stroth</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="117" to="144" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

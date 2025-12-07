@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The loss of geological memory of past catastrophes: the case of Pompeii</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Instituto Nazionale di Geofisica e Vulcanologia, INGV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2021-12-13">2021-12-13</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lisetta</forename><surname>Giacomelli</surname></persName>
+							<idno type="ORCID">0000-0003-3580-1935</idno>
+							<affiliation key="aff0">
+								<address>
+									<addrLine>Via Palermo 36c Ciampino</addrLine>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Roberto</forename><surname>Scandone</surname></persName>
+							<email>robertoscandone@gmail.com</email>
+							<idno type="ORCID">0000-0002-6758-1722</idno>
+							<affiliation key="aff1">
+								<orgName type="department">Istituto Nazionale di Geofisica e Vulcanologia</orgName>
+								<orgName type="institution">Sezione di Napoli Osservatorio Vesuviano (</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mauro</forename><surname>Rosi</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Dipartimento di Scienze della Terra</orgName>
+								<orgName type="institution">Università di Pisa</orgName>
+								<address>
+									<settlement>Pisa</settlement>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Istituto Nazionale di Geofisica e Vulacologia</orgName>
+								<orgName type="institution">Sezione di Napoli -Osservatorio Vesuviano</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The loss of geological memory of past catastrophes: the case of Pompeii</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Annals of Geophysics</title>
+						<idno type="ISSN">1593-5213</idno>
+						<idno type="eISSN">2037-416X</idno>
+						<imprint>
+							<publisher>Instituto Nazionale di Geofisica e Vulcanologia, INGV</publisher>
+							<biblScope unit="volume">64</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page">VO547</biblScope>
+							<date type="published" when="2021-12-13" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">CD2B72BA20C082A4ECD89852E41302C3</idno>
+					<idno type="DOI">10.4401/ag-8631</idno>
+					<note type="submission">received January 20, 2021; accepted August 16, 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Pompeii</term>
+					<term>Eruption dynamics</term>
+					<term>Archeology</term>
+					<term>Volcanic deposits</term>
+					<term>Volcanic risk</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In 79 A.D. Vesuvius buried entire cities in a few days under a blanket of pumice and ashes. It was a sudden event, which occurred after centuries of inactivity, heralded only by earthquakes that repeated periodically, for many years, creating addiction rather than alarm. After the event, the vegetation covered the volcanic products, and the memory of the disaster was lost. The first excavations began in Herculaneum in 1738 and in Pompeii ten years later, in times when archeology still did not exist. Much was destroyed, given away, thrown away. Almost intact buildings emerged, with all their contents, with many inhabitants caught on the run. The arduous process of recovering the sites has had important and not always happy stages, accompanied by continuous progress in the excavation methods.</p><p>Volcanology has drawn from those experiences as much as it could, setting itself the goal of reconstructing the story of an explosive eruption, the first in the world to be described, by Pliny the Younger, the one that most left its mark on buildings, vegetation, animals and humans.</p><p>Without the eruption, Pompeii and Herculaneum would have disappeared. The details on how the romans lost their lives in the tragedy is an important component to be offered to Pompeii's visitors and that is at present largely imperfect. Knowing it and reconstructing its impact on people and the territory, going beyond the archaeological site, is an experience of the past and a warning for today and for the future.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The eruption of Vesuvius in 79 CE consisted in the formation of a convective eruptive column over thirty km high, followed by a convective/collapsing column producing pulsating pyroclastic density currents and ended with voluminous pyroclastic density currents. During the first part of the eruption pumices transported by the convective column fell in the direction of Pompeii where they gently accumulated up to form a deposit of about 3 m (Figure <ref type="figure">1a</ref>). The first pyroclastic flows descended towards Herculaneum after 7-9 hours from the eruption onset and reached their climax about 18-19 hours from the eruption onset when they spread over the entire territory of the gulf. The onset of the pyroclastic flow activity was accompanied by a parallel increase of seismic shaking that reached its maximum right before the largest flow were produced. The eruption lasted no more than two or three days and between 4 and 5 cubic km of magma were emitted, mainly during the eruptive sustained column phase <ref type="bibr" target="#b16">[Sigurdsson et al., 1985;</ref><ref type="bibr">Cioni et al., 1994]</ref>. The generalized stratigraphic column is shown in Figure 1b <ref type="bibr">[Cioni et al., 1994]</ref> whereas in fig. <ref type="figure">1a</ref> we show the deposit stratigraphy in the city of Pompei along with the corresponding eruption units. Many of the victims brought to light by the archaeological excavations in the town of Pompei were found, either inside (40%) the houses whose roofs collapsed during the pumice accumulation and the strong ground shaking or inside and outside (60%) the houses, above the pumice fall, and within the deposit of the pyroclastic density currents that enveloped the city during the second phase of the eruption <ref type="bibr" target="#b6">[Giacomelli et al., 2003]</ref>.</p><p>The burial of entire cities and their rediscovery marked the birth of archeology (Figure <ref type="figure" target="#fig_0">2</ref>). The information, that can be obtained on how the volcanic phenomenon impacted the roman town, and how the inhabitants managed to survive during the different steps of the tragedy inevitably depends on the archaeological excavation which, for obvious reasons, demolishes the geological outcrop (Figure <ref type="figure" target="#fig_1">3</ref>).</p><p>The great archaeological spectacle has always overshadowed the way in which both people and structures were impacted in the different moments of the eruption due to the lack of awareness in more distant centuries, the little attention in recent times, and the the lack of the contribution of other disciplines. Unraveling how the tragedy unfolded, has been considered marginal. The most complete works on the event remain those of a few volcanologists who were able to benefit from participation in the excavation, on outcrops that are no longer available.</p><p>In this paper we try to derive, from few examples, some qualitative assessments of the impact of the eruption on buildings and people through archaeological reports and observation of images taken during excavations.There are also questions about some interventions which, if better documented, could have added important details about the eruption.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lisetta Giacomelli et al.</head><p>2</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 1a</head><p>The products of the eruption of 79 CE. From below there are about 3 m of pumice, white at the base, gray from the middle of the layer, alternating upwards with flow products. The upper layer is formed by pyroclastic density current products.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Figure 1b</head><p>The generalized stratigraphic column of the eruption products [after <ref type="bibr" target="#b3">Cioni et al., 2000]</ref>. Therefore, the first question that arises is: what remains in Pompeii of the eruption that buried it in 79 AD? The only remnants are those left by the first excavations, led since 1748 by generals of the Bourbon engineering corps, in times when there was no archeology and even less volcanology. Then, what was saved from the reconstructions of the 1800s and 1900s and the hasty restorations after the serious damage of the bombings in 1943. Of all the deposits that buried the city, the only left over are those that have not yet been excavated, but which are inexorably reducing <ref type="bibr" target="#b6">[Giacomelli et al., 2003;</ref><ref type="bibr" target="#b15">Scandone et al., 2019]</ref>.</p><p>To get some observations on the products of the eruption while they were still intact, it was necessary to read the excavation notebooks, the oldest written in ancient Spanish, then gradually in an Italian that approached today's one. Fortunately, Giuseppe Fiorelli translated the excavation notebooks from 1748 to 1860 in the Pompeianarum Antiquitatum Historia, (PAH) <ref type="bibr" target="#b4">[Fiorelli, 1861]</ref>. The reports are detailed on the findings, superficial on the description of the deposit, when it is noted, of course in relation with the knowledge of the time, even hasty on the number, position, and characteristics of the victims. In the midst of that quantity of precious finds, skeletons were rarely preserved, often thrown away with the resulting material (Figure <ref type="figure" target="#fig_2">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Archeological observations</head><p>Some examples of early observation are given by the excavation of the "Villa di Diomede" (n. 1 in Figure <ref type="figure" target="#fig_0">2</ref>), a building outside Porta Ercolano, unearthed between 1771 and 1774 under the guidance of the two Spanish brothers Francesco and Pietro La Vega. May 2, 1771 -"two skeletons, the head of one is preserved, the one entirely with teeth". December 11, 1772 -18 large human skeletons were found, one of a boy, and the other like milk infant(...) The shape of some bodies (in the ash), and in particular of a woman, was also found on this site, which were sent to the Museum, as still a skull with hair.</p><p>The same news reported in the PAH (Giuseppe Fiorelli): December 12, 1772 -Eighteen skeletons, plus two others of children. Rain of ash with water, which seems to have run there. Footprints left in the ground. Hair and clothes of the aforementioned skeletons.</p><p>And, again, William Hamilton <ref type="bibr" target="#b7">[Gell and Gandy, 1824</ref>] -The female bust was in very fine ash "a few feet above the floor".</p><p>From these phrases, extrapolated from long and detailed lists of findings, it is clear first of all, that among "dos cabezas de hombre" (from the notebook of Joachim de Alcubierre, the first director of the excavations), the archaeologists kept only the one with the teeth. It is noted that on a skull there were still hair, an unequivocal sign of the variation in the temperature of the flows from one place to another. In one place they could overwhelm and burn (in the garden of the same house they found on 17 August 1771, well-preserved carbonized trees), in another place just beyond, even the most fragile materials, such as hair and fabrics were preserved.</p><p>The bodies that leave their mark in the fine ash, a prelude to the plaster casts that Fiorelli invented in 1863, indicate that they were above the pumice, even if it is not specified, (a layer a few feet high, could be 1-2 m) which acted as a filter for the slow decay of the soft parts of human body. The (fine) ash that covered them could not have been that of dense pyroclastic flows, formed by coarse pyroclasts and building material. In fact, not only does the "rain of ash with water" better reflect the characteristics of the deposits of expanded pyroclastic clouds, but the footprints remain clear only in a deposit composed by fine and homogeneous particle size, which mixes around the bodies, then hardens, while preserving footprint. The Villa di Diomede site is located in the area of Pompei closest to Herculaneum and, after the pumice fall, the first flows may have been the surges, expanded and fast, associated with the dense pyroclastic flows, slower and conditioned by the topography, which descended towards Herculaneum.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lost Pompei</head><p>The print of the nude female bust was so faithful and aroused such curiosity that a large number of visitors to the Portici Museum wanted to look at it and touch it, until it crumbled. Ashes were and ashes returned to be.</p><p>The excavation notes give great prominence and accurate description of statues, precious objects, paintings; the bodies, the heaviest consequence of the eruption, receive attention only if accompanied by jewels or coins.</p><p>Other examples about the Villa di Diomende, from PAH: 6 th February 1773 -Above the lapilli amongst the middle of the rain of ash, a skeleton was found (…) and close to the same, wrapped in a net, the following was found: Gold, and Silver (detailed list follows).</p><p>In the same day, the notebook reports: a room (…) was found with a vault, which by being largely emptied was seen from a window, not yet being able to enter by the door.</p><p>Vaulted structures are known to have resisted more than other kind of roofs and, in this case, in spite of the abundance of material in the dwelling that prevented opening the door. Direct testimony is important because it is not always easy to recognize them today, because of the reconstructions or the collapses that occurred after excavations.</p><p>13 th February 1773 -A skeleton of a man was found (…), and near to this skeleton 43 coins(…) These skeletons (…) after having escaped from the rain of lapilli, were surprised by the flood of ash. 20 th February 1773 -Two skeletons were found (on one hand) a silver ring (…). A short distance from these skeletons, a hand was found, (…) and joined to this was a ring of gold (…)-Two other skeletons have been discovered, and close to one of these there were 5 bronze coins.</p><p>28 th July 1774 -We have found (…) a skeleton with a silver ring on its finger, (…) and with a bronze arm bracelet, which has been sent to the Royal Museum together with a bone from the same arm, which was united to a mass of earth. Another attempt that comes close to the casts and another involuntary clue to the position of the body. Some terms used by the La Vega brothers would be incomprehensible without Fiorelli's translation in the PAH: February 1, 1773 -"a skeleton was found among the rivegine, immediate to the rapillo". According to Fiorelli, this is "a skeleton on top of the lapillus, within the ash rain". Therefore, it is another victim who, like the previous ones, can be included among those caused by the eruption phase following the fall of pumice (Figure <ref type="figure" target="#fig_3">5</ref>).</p><p>Giuseppe <ref type="bibr">Fiorelli (1823</ref><ref type="bibr">Fiorelli ( -1896) )</ref> is a legendary figure of Pompeian studies. In addition to the tribute due to him for the intuition that led him to make the plaster casts of the victims, his excavation notebooks are particularly accurate and scrupulous in the description of the archaeological findings. The data on the eruption are limited to some sporadic indication of the thickness of the volcanic products, however sufficient to make it clear which moment of the eruption it referred to: January 7, 1861 -in the atrium of House VIII,4,4 (House of Holconius Rufus; n. 2 in Figure <ref type="figure" target="#fig_0">2</ref>) "at the height of about 14 palms in the earth layer. Bone. (it is not specified whether human or not).</p><p>In the same day and same house, "A fragmented skull was found in the tablinum of house 4 on Via degli Olconii at a height of 10 palms".</p><p>February 30, 1861 -House of Cornelius Rufus (VIII,4,15; n. 3 in Figure <ref type="figure" target="#fig_0">2</ref>) "at the height of 10 palms, a fragmented human skull". And, after many pages of detailed lists of objects, the last one to be named could be "Bone. A human skull". However, despite the lack of regard for human remains, the thickness of the products expressed in Neapolitan palms (0.2645 m) is repeated without substantial variations and roughly corresponds to the thickness of the pumice that fell on Pompeii, revealing that those skulls also belonged to people who died after the pumice fall.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">The modern excavations</head><p>Amedeo Maiuri, the longest serving (just under forty years of service at the excavations, from 1923 to 1961) and most brilliant of the Superintendents of the past, unwittingly rendered many services to volcanology. His constant attempt to highlight the immense effort that the archaeological excavation had cost, both in Herculaneum and in Pompeii, his intuition towards an active museumization, which also involved the public, led him to innovative and useful solutions for the two disciplines . His efforts were always and exclusively aimed at archeology but, ultimately, they also benefited volcanology. But, also for Maiuri, the volcanic products, which he had swept away with the buldozers, were "dirty snow Lisetta Giacomelli et al.</p><p>to be bled", <ref type="bibr">[Maiuri, 1964</ref><ref type="bibr">[Maiuri, , ed. 1998</ref>] or "a manure with excellent fertilizing soil" <ref type="bibr" target="#b11">[Maiuri, 1950]</ref>.</p><p>The scarce interest of archaeologists towards the eruption is also encountered in the work of today's researchers, with solid and well-deserved reputations in their field. Being impossible to avoid references to the volcanic phenomenon, they do not fail to demonstrate an embarrassed approach to the subject.</p><p>The advent of photography (The first photographs were made by the French Alfred Nicolas Nomand in 1851) represented a step forward in documentation, although it is never as precise and complete as the direct observation of the products and the ascertainment of the damage caused by the different phenomena and processes. For example, without the images of the excavations made by Maiuri in the Orto dei Fuggiaschi (n. 4 in Figure <ref type="figure" target="#fig_0">2</ref>), we would not know at what point of the stratigraphy, that is, at what moment of the eruption that group of people died. Some photos show the preparation of the casts and the victims are on a thin layer of pyroclastic flow products that covers the pumice. A doubt that arises when observing one of the casts on display is whether the products on which the head rests, as if asleep, are the same on which it was found. A photograph of the excavations confirms the position, with the head higher than the thin layer on which the other corps lie, perhaps due to an irregularity in the thickness of the flow at that point or an attempt to raise the head in the last moment of life, as is more evident in a neighboring victim (Figure <ref type="figure" target="#fig_4">6</ref>).</p><p>The excavation of the Orto dei Fuggiaschi farm is relatively recent and we have photographs from 1961 and 1972, when, after being freed of all traces of volcanic products, it returned to be the field it was the day before the eruption. In the excavation, in addition to the group of people, a triclinium and the alignments of crops, with irrigation furrows, came to light. Next to it, another agricultural area, Casa Stabiano (n. 5 in Figure <ref type="figure" target="#fig_0">2</ref>) is an outcrop that should be safeguarded because it is the only one left inside the city, with the volcanic products of the first eruptive phase intact and the victims, the only ones, that still remain in the position in which they fell two millennia ago (Figure <ref type="figure" target="#fig_5">7</ref>).</p><p>The casts of Casa Stabiano were made in 1989 using, instead of plaster, cement, which both here and in the reconstruction of the buildings has not proved indestructible as was believed. The stratigraphic position of these victims, ten in all, is the same as that of the bodies in the nearby Orto dei Fuggiaschi, above a few cm of ashes which cover about three meters of pumice <ref type="bibr" target="#b13">[Santacroce, 2018]</ref>. On the bodies, the presence of tiles and some poles could suggest that they had taken refuge under a canopy. But this could not be the case, because the underlying pumice layer is undisturbed, so it fell directly to the ground (Figures <ref type="figure">8 a</ref>,<ref type="figure">b</ref>,<ref type="figure">c</ref>).</p><p>They were, therefore, certainly in an open place and the material torn from the buildings was dragged by the same flow that hit them. At the far side of the excavation, a skeleton remains, still incorporated in the products of the flow that has wavy structures that deviate at every small obstacle, climb over the same skeleton, while containing coarse building material transported in suspension. Here too it could be assumed a flow with different concentration of solids and with different transport capacity. How then the bodies can remain composed, with an attitude "more similar to the one who sleeps" (Pliny the Younger description of the corps of Pliny the Elder) than to a human overwhelmed by a high temperature flow, capable of breaking down even thick walls, remains to be understood (Figure <ref type="figure" target="#fig_8">9</ref>). The 1914 photographs of the garden of the Casa del Criptoportico [AA. <ref type="bibr">VV., 1914;</ref><ref type="bibr">n. 6</ref> in Figure <ref type="figure" target="#fig_0">2</ref>] are not very clear. You can see the windows of the cryptoporticus, through which, the people found in the garden, may have fled; a group of at least seven, from which three casts have been made. Under the bodies there is a thin layer of ash and below, down to the ancient ground, the thick layer of pumice. At the edges of the excavation, the products of the flows that covered them can be seen. The photographs of the excavations show in the ground of the garden a trace, possibly wheel grooves, but there are no indications that these were left on the day of the eruption or by carts used during the excavation. The garden of the Casa del Criptoportico reveals a lot, but it raises even more questions (Figure <ref type="figure">10 a-b</ref>).</p><p>The victims in the three sites (and many others found at the same stratigraphic level) are all outdoors and all in the same stratigraphic position suggesting that the survivors were compelled all at the same time to leave the relative safety of the houses where they survived the first phase of the eruption. Comparing Casa Stabiano with Casa del Criptoportico and Orto dei Fuggiaschi, a temporal picture of the moment in which many Pompeians tried to save themselves is available; that is, between the end of the first phase (pumice fall) and the beginning of the collapsing column phase, at least between 10 and 20 hours from the start of the eruption <ref type="bibr" target="#b16">[Sigurdsson et al., 1985]</ref>.</p><p>Many evidences (and the comparison with explosive eruptions observed) suggest a temporal synchronism of the emission of the largest pyroclastic flows with the occurrence of strong earthquakes and that these were possibly the final cause of their departure from the houses on the point of crumbling <ref type="bibr">[Scandone et al., 2019b]</ref> (Figure <ref type="figure" target="#fig_11">11</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lost Pompei</head><p>Inside the House of Painters at Work (n. 7 in Figure <ref type="figure" target="#fig_0">2</ref>), a wall can be seen overturned over the thin layer of ash and the underlying pumice, exactly in the stratigraphic position in which the victims of the three previous sites are located. The same thing, overturning over the pumice, is witnessed in the scene of the large theater <ref type="bibr" target="#b10">[Maiuri, 1998</ref> "knocked down by the flows"]. Even the perimeter wall of the Palestra Grande facing Vesuvius seems to have been overturned by the arrival of the flows <ref type="bibr" target="#b10">[Maiuri, 1998]</ref>. (Figure <ref type="figure" target="#fig_0">12</ref>) Lisetta Giacomelli et al.  </p><note type="other">8</note></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lost Pompei</head><p>In the excavations of 2018-19, in the Casa di Orione <ref type="bibr" target="#b12">[Osanna, 2019;</ref><ref type="bibr">n. 8</ref>  <ref type="figure" target="#fig_0">2</ref>], the floor of the collapsed tablinum was found on an older floor. In the collapse hole there are white pumice (beginning of the eruption) mixed with gray pumice and then the ashes of the flows. It is not possible, with this data, to establish the precise moment of the collapse, but the lowering of the floor of a ground floor room, intended to contain furniture and people, would require a very high load. The pumices caused the slightly sloping roofs to collapse after 40 cm of accumulation <ref type="bibr">[Luongo et al., 2003]</ref> but, where it happened, the beams and tiles are also found on the floor below, which apparently do not exist here. Perhaps the earthquakes contributed to the collapse of a floor that was believed to be unyielding.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>in Figure</head><p>Another case where archeology should have been better integrated with volcanology is the excavation of the famous tomb of Porta Stabia (Press Release, Parco Archeologico di Pompei; n. 9 in Figure <ref type="figure" target="#fig_0">2</ref>). We did not find any detailed works on the stratigraphy of the volcanic products removed and the site has long been inaccessible. In 2017, during the renovation of a building of the Superintendency, a tomb with a long and important epigraph came to light and, next to it, two deep traces of carts. The measurements coincide with those obtained from the tracks of the wagons on the paving of the roads, 7-8 cm wide, distant from each other just under a meter. The interpretation of archeologists is that they were carts of the Pompeians on the run. Indeed, in the excavations of 1889, some fugitives were found outside Porta Stabia, but without wagons. It would be comforting to know that in such a dramatic situation it was still possible to put carts over three meters of pumice and reach the outside of the city. If the depth of the furrow is due to the still very soft and deformable ash (even from a single cart), then one would expect to find also footprints, human or animal. Lisetta Giacomelli et al.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lost Pompei</head><p>Figure <ref type="figure">8c</ref> The casts of the group of victims in the Casa Stabiano farm lie on a succession of flow products which, in the stratigraphy proposed by <ref type="bibr" target="#b2">Cioni et al. (1992)</ref> ends with E1 + E2 (= UE4) and are covered by ash with pisolites (F), still referable to UE4, in which are contained tiles and wooden beams.   Lost Pompei Figure 12. On the right, the wall, with the window grating, overturned over the first layer of flow products that covers the pumice fall.   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Lost Pompei</head><p>Without a direct vision, made as the products were removed, and without precise data, every hypothesis is possible, but without scientific value. The doubt that the traces may have been left after the eruption arises from the fact that the clearing of the material is documented, in Fiorelli's excavation notebooks, for at least all the first three months of 1861 with many dozens of wagons directed to unload beyond Porta Stabia <ref type="bibr" target="#b5">[Fiorelli, 1873]</ref>. All the maps of the areas excavated from 1800 to 1881 show the west and south sectors of the city, including the Porta Stabia area (figures 13 a, b). Furthermore, in the western sector, in the direction of the walls, traces of wagons used to free the buildings from eruptive materials, were recognized under the materials accumulated later, reported by Antonio Sogliano in <ref type="bibr">[1910]</ref> (as mentioned by <ref type="bibr" target="#b1">Capurso, [2015]</ref>: the atrium was filled with earth and lapillus not in primary position (and) at about one meter above the original floor, the passage of wagons for the disposal of debris had to take place. (...) After this function, this passage was also obliterated). Many wagons used for clearing, up to and beyond the advent of wagons on rails, had the same characteristics as the ancient ones that have been reconstructed through the finds of the metal parts.</p><p>Again, the photographs do not give answers, but serve to ask more questions.</p><p>The excavation of the House of Iulius Polybius (n. 10 in Figure <ref type="figure" target="#fig_0">2</ref>) is the only one in Pompeii, up to now, to be sufficiently documented, both by archaeologists and volcanologists (Figure <ref type="figure" target="#fig_14">14</ref>).</p><p>The clearing of the garden from the products of the eruption, which took place between 1964 and 1966, is perhaps the most recent intervention in the heart of the city. Although the building was completely freed from volcanic products and the bodies of the victims removed, volcanologists were able to consult extensive documentation, including photographic ones, and produce accurate works to trace the situation in the house during the eruption.</p><p>The wall that closes the peristyle was found intact as it was spared by the collapse caused by the pyroclastic flows by the nearby building of the Casa dei Casti Amanti. The streams bypassed without demolishing it, leaving their traces on the plaster of the walls. The peristyle area was covered by about 5 m of pumice, more than the 3 m commonly found, because they also slipped from the pitch of the roof <ref type="bibr">[Luongo et al., 2003, a,b]</ref> which therefore had to be sloping and not flat as they were later rebuilt. The victims, perhaps the entire family of Iulius Polybius, were found in the rooms at the bottom of the peristyle, that withstood the eruption, although they were on the side facing Vesuvius. The 1975 photographs show the position of the bodies, above 50 -60 cm of volcanic material, with a flask next to them to quench their thirst.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusions</head><p>Of the great explosive eruption of Vesuvius in 79 CE in Pompeii there are very few traces of primary volcanic deposits left by archaeological excavations, both ancient and recent. In the first excavation notebooks, it is possible to trace some references that can integrate the knowledge of the deposits and the conditions of the city, as they were at the time of the discovery.</p><p>The number of volcanology works, especially those contemporary to the archaeological excavation, the only moment in which the products can still be critically examined and studied, is inadequate to the importance of the event and its consequences on an inhabited area. The outcrops, once eliminated, do not allow any further revision, perhaps updated on the basis of new knowledge, nor debate with different opinions and skills.</p><p>In the city, there is only one outcrop, albeit in very bad condition, Casa Stabiano, with the products of the eruption and the victims in their original position, which can be considered a rare find of volcanology. Excavated in the 1970s, as early as 2005 the ash was covered with grass, indicating how quickly volcanic ash can transform into soil.</p><p>Among the inhabitants of Pompeii who had taken refuge in the most sheltered areas of their homes, many were pushed outside, at the same time for the threatening produced by a major, long-lasting earthquake that accompanied the collapse of the magma chamber <ref type="bibr" target="#b15">[Scandone et al., 2019]</ref>. Outdoors, they were then caught up and killed by pyroclastic flows. The most important fact is that many people were still alive after tens of hours of eruption and that, with appropriate knowledge and adequate organization, they could have saved even from the most violent explosive phases of the eruption, which could have important consequences for the Civil Protection plans.</p><p>The only way to preserve the volcanological information for future investigation and understanding is leaving a few examples of outcrops within the city with their impact on edifices not totally excavated. The cast of humans and animals found in the ashes must be left in the places of their findings to better understand the timing and the causes of their deaths.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Map of Pompeii excavations with the sites discussed in the text.</figDesc><graphic coords="3,70.18,429.69,454.89,320.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The volcanic products around the excavation were covered with geomats during the recent works to make safe the perimeter of the site.</figDesc><graphic coords="4,70.87,73.83,453.62,340.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Excavations along Via dell'Abbondanza, next to the Casa di Trebio Valente (28 February 2020). In the background, Vesuvius.</figDesc><graphic coords="5,70.87,73.83,453.62,340.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. A cast (n. 16) made between 1890 and 1908. The bony part of the skull and the teeth emerge from the plaster.</figDesc><graphic coords="8,126.04,70.87,343.33,257.39" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 6 .</head><label>6</label><figDesc>Figure 6. One of the casts of the Orto dei Fuggiaschi catches the last attempt of a victim to get up.</figDesc><graphic coords="8,126.04,391.66,343.34,257.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. The farm called Orto dei Fuggiaschi on the right and on the other side that of Casa Stabiano. Vesuvius in the background.</figDesc><graphic coords="9,65.30,382.74,464.74,348.50" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 8b</head><label>8b</label><figDesc>Figure 8bDetail of a tile and a pole above the casts of Casa Stabiano. The bodies were intact and without marked signs of trauma, but in the cast, we note the fracture of the neck and the deterioration of the material used (cement).</figDesc><graphic coords="10,123.95,472.43,347.54,260.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 8a</head><label>8a</label><figDesc>Figure 8a Stabiano House. The victims lie on top of the pumice layer and the thin layer of flow products (PDC). Above, to the left, a skeleton can be seen incorporated into the flow products that covered the victims. Above the victims of Casa Stabiano you can see poles, tiles and other material coming from the buildings overwhelmed by the pyroclastic flows.</figDesc><graphic coords="10,146.60,67.45,302.24,320.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 9 .</head><label>9</label><figDesc>Figure 9. Cast of a victim from the Orto dei Fuggiaschi. The garment leans and deforms the flow products; the hands try to repair the face.</figDesc><graphic coords="11,107.34,468.14,380.60,264.81" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 10a</head><label>10a</label><figDesc>Figure 10a Image from 1914 of the area of the Casa del Criptoportico where nine victims were found [V. Spinazzola in: News of the Excavations of Antiquity, Vol XI, page 259, Figure 3].</figDesc><graphic coords="12,101.30,75.87,392.68,304.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 10b Figure 12 .</head><label>10b12</label><figDesc>Figure 10bThe windows on the left correspond to those at the top of the photo from 1914.</figDesc><graphic coords="12,101.32,449.28,392.80,294.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 11 .</head><label>11</label><figDesc>Figure 11. Composition of the images of the excavations of the three sites. From left: Casa Stabiano, Casa del Criptoportico, Orto dei Fuggiaschi. The same position is noted with respect to the stratigraphy of volcanic products.</figDesc><graphic coords="13,145.66,321.90,304.08,405.26" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 13b</head><label>13b</label><figDesc>Figure 13b Map of the excavations drawn up by Giuseppe Fiorelli, contained in the volume "The excavations of Pompeii from 1861 to 1872", Appendix, pl. 1, p. 20. The dark areas locate the excavations made in the period 1861-72.The discharge of the volcanic material took place towards the west and, mainly, towards the south, near Porta Stabia which is located in the lower center.</figDesc><graphic coords="14,89.63,419.93,416.20,286.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><head>Figure 13a</head><label>13a</label><figDesc>Figure 13aOblique aerial view of Pompeii.</figDesc><graphic coords="14,89.94,44.47,415.46,311.54" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><head>Figure 14 .</head><label>14</label><figDesc>Figure 14. House of Casti Amanti with the trace of the deposit of PDC on the plaster of the wall. The victims were in the rooms in the background of the picture.</figDesc><graphic coords="15,70.87,391.20,453.54,340.16" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Xi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">257</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Pompei. La Casa di Marco Fabio Rufo, Valtrend</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Capurso</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<pubPlace>Collana Pompei, II</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Dynamics of the AD 79 eruption: Stratigraphic, sedimentological and geochemical data on the successions of the Somma-Vesuvius southern and eastern sectors</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marianelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sbrana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Vulcanol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="109" to="123" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Precursors to the Plinian eruptions of Thera (Late Bronze Age) and Vesuvius (Ad 79): Data from archeological areas</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gurioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sbrana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vougioukalakis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Chem. Earth</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="719" to="724" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Pompeianorum Antiquitatum Historia ex Schedis Diurnique</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fiorelli</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1860">1861. 2 v., Napoli, 1860, 1862</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Gli Scavi di Pompei dal 1861 al 1872: relazione al Ministro della Pubblica Istruzione, Tip. It</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fiorelli</surname></persName>
+		</author>
+		<editor>Liceo V. Emanuele, Na</editor>
+		<imprint>
+			<date type="published" when="1873">1873</date>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+	<note>20 tav</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The eruption of Vesuvius of 79 AD, and its impact on human environment, Episodes</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Giacomelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scandone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarpati</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="page" from="234" to="237" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Gandy</surname></persName>
+		</author>
+		<title level="m">Pompeiana: the Topography, Edifices, and Ornaments of Pompeii, 1824, I, II, Rodwell &amp; Martin</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1824">1824</date>
+			<biblScope unit="page">2754</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impact of 79 AD explosive eruption on Pompeii I: Relations amongst the depositional mechanisms of the pyroclastic products, the framework of the buildings and the associated destructive events</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarpati</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Volcanol. Geotherm. Res</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="3" to="4" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impact of the AD 79 explosive Lisetta Giacomelli et al. Lost Pompei eruption on Pompeii, II. Causes of death of the inhabitants inferred by stratigraphic analysis and areal distribution of the human casualties</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Luongo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Perrotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scarpati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Carolis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Patricelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ciarallo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Volcanol. Geotherm. Res</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="169" to="200" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maiuri</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Giunti</publisher>
+			<biblScope unit="volume">288</biblScope>
+		</imprint>
+	</monogr>
+	<note>Pompei e Ercolano tra case e abitanti</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Maiuri</surname></persName>
+		</author>
+		<title level="m">Le Vie d&apos;Italia</title>
+		<meeting><address><addrLine>Milano, Touring Club</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1950">1950</date>
+			<biblScope unit="page">186</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><surname>Osanna</surname></persName>
+		</author>
+		<title level="m">Pompei, il Tempo ritrovato</title>
+		<imprint>
+			<publisher>Rizzoli</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page">416</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Santacroce</surname></persName>
+		</author>
+		<ptr target="www.vesuvioweb.com" />
+		<title level="m">L&apos;eruzione del Vesuvio del 79 d.C. e la distruzione di Ercolano e Pompei</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Mount Vesuvius: 2000 years of volcanological observations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scandone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Giacomelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gasparini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Volcanol. Geoth. Res</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="5" to="25" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Death, Damage and Survival, during the 79 AD Eruption which destroyed Pompeii and Herculaneum</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Scandone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Giacomelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rosi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Reading</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="5" to="30" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The eruption of Vesuvius in A</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sigurdsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Carey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cornell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pescatore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Geographic Research</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="332" to="387" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

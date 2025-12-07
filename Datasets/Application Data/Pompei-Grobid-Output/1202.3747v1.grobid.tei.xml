@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reconstructing Pompeian Households</title>
+				<funder ref="#_PFj9nW2">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">David</forename><surname>Mimno</surname></persName>
+							<email>mimno@cs.umass.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Computer Science</orgName>
+								<orgName type="institution">Princeton University</orgName>
+								<address>
+									<postCode>08540</postCode>
+									<settlement>Princeton</settlement>
+									<region>NJ</region>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reconstructing Pompeian Households</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">9F2A4036B29A6F6F4495165629DA032C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A database of objects discovered in houses in the Roman city of Pompeii provides a unique view of ordinary life in an ancient city. Experts have used this collection to study the structure of Roman households, exploring the distribution and variability of tasks in architectural spaces, but such approaches are necessarily affected by modern cultural assumptions. In this study we present a data-driven approach to household archeology, treating it as an unsupervised labeling problem. This approach scales to large data sets and provides a more objective complement to human interpretation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1">Introduction</head><p>Over the past century the goal of archeology has shifted from finding objects of artistic value to reconstructing the details of day-to-day life in ancient cultures. Reconstructing daily life is difficult as the evidence that would be useful was generally considered commonplace and unworthy of preservation by people at the time. Objects are gradually moved or disposed of; structures are renovated, repurposed or recycled for building materials. These ongoing processes make it difficult to make statements about specific points in time based on material evidence. A remarkable exception to this pattern is the Roman city of Pompeii in southern Italy, which was was covered in volcanic ash during an eruption of Mt. Vesuvius in 79 AD. As a result of its sudden, violent destruction, many aspects of day-to-day life in first-century Roman Italy were preserved in place as they existed on a particular day.</p><p>The study of Pompeian households has until recently been dominated by analyses of architectural patterns and wall paintings, as these are easily available for study. Only in the past few years has a database of objects, which are removed for conservation immediately upon excavation, been compiled and made available by <ref type="bibr">Allison [2]</ref>. This database, which is available online, 1 contains more than 6000 artifact records for finds in 30 architecturally similar "atrium-style" houses in Pompeii. For each artifact, the database specifies a type from 240 typological categories (coin, amphora, etc.) and a find location from 574 rooms. Allison has used data about artifacts in their original context to challenge many common assumptions about the function of particular types of object, the use of particular spaces, and the consistency of patterns of use across different houses. The relatively large amount of archeological information compiled in the Pompeian households database supports the application of statistical data mining tools. In this paper we apply one such tool, Bayesian mixed-membership modeling, in which rooms are modeled as having mixtures of functions, and functions are modeled as distributions over a "vocabulary" of object types. Mixed-membership models have previously been applied to a broad range of inference problems in applications such as population genetics <ref type="bibr" target="#b9">[10]</ref>, text mining <ref type="bibr" target="#b2">[3]</ref> and social network analysis <ref type="bibr" target="#b0">[1]</ref>. We show that mixed-membership models both address several theoretical problems with simpler clustering methods and also provide improved predictive ability. Compared with a trained archaeologist, such models are naive and simplistic, but they have the advantage that they do not bring preconceived notions about culture along with them. As a demonstration, after assessing the model's predictive ability we consider several issues raised by Allison, and attempt to provide a perspective that is, if not unbiased, at least mathematically concrete in its biases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">Clustering methods in household archaeology</head><p>There are several previous examples of data-driven methods in the archaeological study of ancient households.</p><p>Fiedler considers the relative proportions of fine, cooking, and plain ceramic ware found in three room types in the Greek city of Leukos <ref type="bibr" target="#b6">[7]</ref>. Ciolek-Torello applies PCA, factor analysis, and multidimensional scaling to objects found at Grasshopper Pueblo in Arizona <ref type="bibr" target="#b5">[6]</ref>, but finds the latent factors difficult to interpret. Cahill performs a k-means analysis of houses in the Greek city of Olynthus, using the percentage of floor space allocated to each room type as input variables <ref type="bibr" target="#b4">[5]</ref>.</p><p>Cahill also identifies several problems faced in attempting to recover patterns of activity from house-hold assemblages <ref type="bibr" target="#b4">[5]</ref>:</p><formula xml:id="formula_0">• Artifact types are high-dimensional.</formula><p>The database of houses at Olynthus contains more than 1000 distinct types, comparable to Pompeii's 240. This number of types cannot be easily studied and visualized.</p><p>• Rooms can serve more than one function, and artifact types can be used for more than one purpose. A particular type of large shallow bowl is often associated with washing, but "other examples of these artifacts, however, are found together with grinding assemblages and may have been used for kneading dough." Cahill continues "just as the use of space in ancient houses was flexible and varied according to season or need, the use of artifacts could change, and our models for interpretation must be flexible enough to allow for such changeability."</p><p>• Quantification of artifacts is critical. As an example, ancient looms used weights suspended by bundles of warp threads. These weights tend to survive after the organic matter of a loom has decayed. Cahill argues, however, that the presence of a single weight is not sufficient to indicate that a room was used for weaving, and that only the presence of a dozen or more weights in the same location indicates the presence of a loom. Both Cahill and Ciolek-Torello advocate using original data frequencies rather than binary presence/absence variables.</p><p>Bayesian mixed membership models address all three issues. First, such models are appropriate for highdimensional categorical variables, having been applied to text documents, where vocabulary sizes are in the tens of thousands. Second, mixed membership models allow individual groups of observations to combine multiple "components" such as topics or activities, while simultaneously allowing any observed dimension, such as a word or artifact type, to be generated with non-zero probability by any component. Finally, using the multinomial event model rather than the binary event model allows us to take into account the number of times an artifact type occurs, rather than the simple fact that that type is present. For example, a single loom weight by itself might be absorbed into the functional group of other objects in the same room, while a group of 15 loom weights provides substantial evidence that a functional group with high probability of generating loom weights is active.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3">Models for predicting room contents</head><p>The goal of this work is to use the evidence available to us from archaeological excavations to learn predictive models for the contents of different rooms in Roman houses. Such models should then help us better understand how the Romans used their domestic spaces. The information in the database compiled by Allison consists of a set of 30 houses, each consisting of between 7 and 56 rooms. Details on the houses are provided in Table <ref type="table" target="#tab_4">4</ref>. Each room is labeled with a type based on its architectural features. Room types are further divided between rooms surrounding the atrium, an open courtyard adjacent to the main street entrance (room 01 in Figure <ref type="figure" target="#fig_0">1</ref>), rooms surrounding a garden area (room 09), and other rooms, including kitchens and bath complexes. Descriptions of room types and their frequencies are shown in Table <ref type="table" target="#tab_2">2</ref>. In each room, artifacts of different types were recorded.</p><p>We now introduce mathematical notation for these entities. Let H be the set of houses {h 1 , ..., h 30 }. A room r in house h has type t ∈ {1, ..., 22}, and contains a set of objects. Objects are instances of a fixed dictionary of artifact classes A. Let the set of object class indicators x 1 , ..., x Nr be the objects in room r, such that x 3 = a if the third object is of class a. For readers familiar with text processing, this representation is similar to the standard bag-of-words model, with rooms analogous to documents, and objects analogous to words. Inspired by methods that have been applied to document analysis, we present four predictive models (names used in figures are shown in parentheses).</p><p>1. A single-distribution model (Simple), equivalent to a unigram language model. This model predicts artifact types based on the frequency of previously-seen artifacts, smoothed using a Dirichlet model <ref type="bibr" target="#b11">[12]</ref>. Let N a be the number of instances of artifact type a in the training data and η be a smoothing parameter. The probability of a room r is</p><formula xml:id="formula_1">P (x (r) ) = Nr i=1 N xi + η a N a + |A|η .<label>(1)</label></formula><p>2. A conditional type-distribution model (CondSimple), a "Naive Bayes" model. This model is identical to the previous model, but takes into account room types. Let N a|t be the number of instances of artifact type a in rooms of type t in the training data. Conditioned on its type, the probability of a room r is</p><formula xml:id="formula_2">P (x (r) |t) = Nr i=1 N xi|t + η a N a|t + |A|η .<label>(2)</label></formula><p>3. A mixed-membership "topic model" over functional groups (FG). As in text-oriented topic models <ref type="bibr" target="#b2">[3]</ref>, room contents are drawn from a mixture of k component distributions, which we describe here as "functional groups" (ie "topics" in document modeling). Examples are shown in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Given an allocation of objects in the training set to functional groups (either through hard or soft assignments), let N a|k be the number of instances of type a in group k. The probability of an object type a given a group k P (a|k, β) has the same form as Eq. 1 with N a|k substituted for N a and β for η. Let z 1 , ..., z Nr be indicator variables specifying an allocation of the objects x 1 , ..., x Nr in a new room r, such that z i = a if object x i is generated by group k, and N k|r = i I zi=k . Let α 1 , ..., α K be a vector of Dirichlet parameters. The probability of a room is then a marginalization over all possible settings of z:</p><formula xml:id="formula_3">P (x (r) ) = z Γ( k α k ) Γ( k α k + N r ) k Γ(α k + N k|r ) Γ(α k ) × Nr i=1 P (x i |z i , β).<label>(3) 4.</label></formula><p>A mixed-membership model over functional groups conditioned on room type (CFG). This model is similar to the previous model, but with a distinct vector of Dirichlet parameters α are mixed-membership models that draw objects in a room from a room-specific mixture of distributions.</p><p>The first and third models do not take into account room types, while the second and fourth use room types at training time and condition on room type at testing time.</p><p>Inference in the first two models can be accomplished by counting. Inference in the mixed-membership models was carried out by Gibbs sampling using the Mallet toolkit <ref type="bibr" target="#b7">[8]</ref>. For the simple mixed-membership model (FG), asymmetric room-group hyperparameters α 1 , ..., α k and a single symmetric hyperparameter β were iteratively optimized as advocated by Wallach et al. <ref type="bibr" target="#b10">[11]</ref>. Room-type-specific Dirichlet priors over functional groups were learned post-hoc from the simple mixed-membership model given saved Gibbs sampling states <ref type="bibr" target="#b8">[9]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">Evaluation of Predictive Ability</head><p>We begin by evaluating these models using leaveone-out cross validation on houses. For thirty training runs, we estimated parameters for the four models. For the mixed-membership model, we trained 25 models, five random initializations each for K ∈ {10, 15, 20, 25, 30}. We ran each model for 10,000 iterations of Gibbs sampling, saving states every 500 iterations.</p><p>Eq. 3 involves an intractable summation over an exponential number of possible functional group assignments. Held-out probability for rooms in the leftout houses was therefore estimated using Buntine's sequential method <ref type="bibr" target="#b3">[4]</ref>. In order to make comparisons between rooms with differing numbers of objects, we report perplexity, the negative log probability of the room divided by the number of objects, as is typical in language modeling.</p><p>The choice of the number of functional groups K affected perplexity, with more groups leading to greater likelihood. Average perplexities for different values of K are shown in Table <ref type="table" target="#tab_1">3</ref>. We did not consider K greater than 30 due to the relatively small size of the data set.</p><p>All subsequent perplexity numbers are averaged over these five values of K. Overall, the conditional functional groups mixedmembership model provides the best predictive performance averaged over all rooms, followed by the functional groups model, the conditional type-distribution model, and the simple single-distribution model. The difference in means between each pair of models is significant according to a pairwise t-test. We found small p-values for all pairs except between the two non-mixed-membership models, which have p = 0.002. This performance of different models, however, varies between houses and between room types.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Perplexity by house</head><p>Figure <ref type="figure" target="#fig_1">2</ref> shows the average perplexity of each house under the four models. In most cases the mixedmembership model conditioned on room type performs best, followed by the simple mixed-membership model. The conditional single-distribution model outperforms the simple "unigram" model in the majority of cases, 21 of 30 houses, but not always. House 4, the Casa dei Ceii, is the most unpredictable in all models. Allison reports that this house shows signs of having been disturbed after the eruption, possibly by people familiar with the floor plan of the house and the neighboring house. The most well-predicted house is number 25, House VIII 2,26, which has the fewest objects of any house (17). There is no clear relationship between average perplexity and number of objects, however: the largest collection (house 9, the Casa del Menandro), is in the middle range of perplexity scores.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Perplexity by room type</head><p>We can also look at the distribution of perplexities by room type. There are clear and consistent architectural patterns in Roman houses, but architectural similarity does not necessarily imply similarity of use. Evidence from Pompeii is commonly used to infer how Romans organized their household activities.</p><p>It is therefore critical to evaluate how consistent the contents of rooms are between each other, in order to determine whether we can extrapolate from the sample of available rooms to more general conclusions about the specific function of rooms.</p><p>Allison's classification of room types is shown in Table <ref type="table" target="#tab_2">2</ref>. Average perplexities over each room type are shown in Figure <ref type="figure" target="#fig_2">3</ref> (note that there is an additional type 0 for lower floors included in the online database but not the published description). The dark line shows the mean of the average perplexities for room types. In most cases, the two mixed-membership models outperform the non-mixed-membership baseline models, indicating that rooms are better described by a combination of more specific distributions learned from several different room types than room-specific distributions.</p><p>The relative performance of the four models, however, varies between room types. Certain specialized rooms, such as entranceways (1), kitchens (14), latrines (15) and stairways (20) are better predicted by the two conditional models than their non-conditional counterparts. The type-distribution model is better than the functional group model for kitchens (p = 0.0002), but not significantly for front halls (3, p = 0.62). In many other cases, however, the conditional type-distribution model is either indistinguishable from or worse than the single-distribution model.</p><p>If the average perplexity for a room type is greater for a non-conditional model than that model's conditional version, room type information is useful for prediction, implying that the contents of a particular room type are similar across houses. If perplexity is greater for the conditional model, individual instances of a room type do not predict the contents of similar rooms. The variability of perplexities are generally smaller for rooms centered around the front hall and the garden than "other" specialized rooms. For example, kitchens (14) and stairways (17) are better predicted conditioned on their types, indicating that these rooms have consistent contents. This argument is to Table 2). Main gardens (9) were difficult for all models to predict, indicating varied usage, while specialized rooms such as kitchens (14), latrines (15), and stairways (17) are distinctive and similar across houses. The dark line shows the mean average perplexity for each model. some extent circular, because these two room types are at least partly defined by the presence of large, immovable fixtures such as hearths and stairs, but it provides an indication of what the model should show if there is consistent use. In contrast, rooms open to the street ( <ref type="formula">20</ref>) are less well predicted when conditioned on their type, indicating that conditional models are overfitting, and suggesting that we should be wary of generalizing about the contents of such rooms given our sample.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5">Context-driven estimation of artifact function</head><p>The models presented in Section 3 provide a tool for testing archaeological questions. In this section we attempt to validate two hypotheses proposed by Allison.</p><p>When artifacts are excavated, standard archeological practice involves removing them to secure storage for preservation. Although the location of artifacts is carefully noted in modern scientific digs, artifacts in storage tend to be analyzed in comparison to typologically similar objects rather than within their original context. As a result, questions about the use or function of particular artifact types have been based more on arbitrary tradition and researchers' perceptions of what an artifact is reminiscent of than the types of objects found with the object. For example, Allison identifies two classes of artifact, the casseruola ("casserole dish") and forma di pasticceria ("pastry mold"), that were named based on similarities to 19th century household objects. She cites research going back more than 100 years suggesting that these items were not used in food preparation contexts, but finds that contemporary scholars still make this assumption due to their (modern) names.</p><p>Using imaginative 19th century names to understand the function of objects is not good practice, but simply counting cooccurrences within rooms may also lead to improper rejection of connections. Due to small sample sizes, it may be possible for two related items to never appear together in a room purely by chance. In order to reduce bias of both kinds, we explore the function of these artifact types using only cooccurrence data, without any reference to the actual typology of the objects. We use the functional group mixedmembership model to detect clusters of object cooccurrence that may indicate functions. Note that we are still dependent on experts to classify physical objects into appropriate categories, but given those classifications we make no further archeological assumptions in training the model. At the same time, we expect that if two artifact types a 1 and a 2 appear with artifacts a 3 , a 4 and a 5 , all five objects will tend to be placed in the same functional group, even if a 1 and a 2 never occur together.</p><p>Intuitively, if two objects share a similar pattern of use, they should both have high probability in one or more "topic". Given a model, we can evaluate the probability that two artifact types a 1 and a 2 will be produced by the same functional group, marginalized over functions, as P (a 1 , a 2 ) = k P (k)P (a 1 | k)P (a 2 | k), where P (k) is proportional to the average number of tokens assigned to functional group k and P (a 1 | k) is proportional to the average number of objects of type a 1 assigned to functional group k. Table <ref type="table" target="#tab_6">6</ref> shows results for the two types mentioned previously.</p><p>There is little to no connection to food preparation objects, supporting Allison's claim that modern names for these items are incorrect. 6 Modeling room functions</p><p>The Roman houses included in the database show strong architectural patterns. Much of the study of Pompeian households has involved identifying categories of rooms and assigning functions to them. Again, Allison argues that commonly held assumptions about such functions are incorrect. For example, the atrium is often described as a formal space, in which the pater familias received his clients and distributed gifts from a large metal chest. Allison argues that the atrium was more of a utilitarian, industrial space. Similarly, a closed room off the atrium is described as a cubiculum ("bedroom"), but there is little evidence that these rooms correspond to modern concepts of bedrooms.</p><p>Before using an analysis of objects to provide information about the function of spaces, it is important to establish whether architectural room types have consistent patterns of object contents. The city suffered a severe earthquake 17 years before the final eruption, and was disrupted before and after the eruption. As shown previously, certain types of rooms have strong connections to particular artifact classes, while for others, conditioning on room type does not improve predictive performance.</p><p>As a result of this variability of room contents, it is difficult to make general claims about what activities occurred in which spaces. We can, however, attempt to rule out certain possibilities. Table <ref type="table" target="#tab_7">7</ref> shows probable functional groups for several architectural types. Atria show evidence of utilitarian storage: large ceramic amphorae. The only type that shows significant evidence of objects related to bedding is type 11 (large open rooms with views of the garden); the cubiculum does not. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="7">Conclusions</head><p>The excavations at Pompeii provide a unique view into domestic life in 1st century Roman Italy. We analyzed a database of 30 Roman houses using four predictive models, comprising all combinations of singledistribution and mixed-membership models, and unconditional models and models that condition on Allison's room type annotations. Building statistical models of the distribution of objects in these houses is valuable in that it provides a data-driven method for measuring how confident we can be in making claims about the function of domestic spaces.</p><p>In many cases, conditioning on room type did not improve predictive performance, demonstrating that room function is not necessarily determined by architectural characteristics. Our results are consistent with Allison's challenge to assumptions that small closed rooms (cubicula) were used for sleeping and that two object types (casseruola and forma di pasticceria) were used in food preparation.</p><p>We find that mixed-membership models provide a promising method for identifying patterns of use in archaeological data. They find interpretable functional groups, have good predictive performance, and address theoretical problems with simpler clustering methods.</p><p>As the quantity of digitized data from excavations increases, such methods should provide a powerful tool for interpreting archaeological data.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 :</head><label>1</label><figDesc>Figure 1: A Roman house, the Casa degli Amanti from Pompeii. The entrance is at left, opening onto the atrium (01), which leads to a colonnaded garden (09). Image from http://www.stoa.org/projects/ph.</figDesc><graphic coords="1,344.10,421.32,201.00,130.80" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 :</head><label>2</label><figDesc>Figure 2: The mixed-membership model conditioned on room types has the best perplexity. Each point represents the average perplexity over all rooms of each of the 30 houses. The dark line shows the mean average perplexity for each model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 :</head><label>3</label><figDesc>Figure 3: Conditioning on room type frequently does not improve performance. Each point shows the average perplexity for one of the 22 room types (see Table2). Main gardens<ref type="bibr" target="#b8">(9)</ref> were difficult for all models to predict, indicating varied usage, while specialized rooms such as kitchens (14), latrines (15), and stairways (17) are distinctive and similar across houses. The dark line shows the mean average perplexity for each model.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 :</head><label>1</label><figDesc>The probability of the top five most probable object types for eight functional groups (K = 20).Groups correspond roughly to object categories such as storage furniture, decorative statuary, ceramic storage jars, and chests and cupboards.</figDesc><table><row><cell>0.403 architectural door fitting</cell><cell>0.359 large sculpture/sculpture fragment</cell></row><row><cell>0.376 door/chest/cupboard fitting</cell><cell>0.073 fixed statue base</cell></row><row><cell>0.031 chest/cupboard fitting</cell><cell>0.068 fountain/fountain fitting</cell></row><row><cell>0.023 fixed seat</cell><cell>0.059 marble or stone basin</cell></row><row><cell>0.020 key</cell><cell>0.056 marble base/statue base/basin base</cell></row><row><cell cols="2">0.165 pottery amphora/amphoretta/hydria 0.566 chest/cupboard fitting</cell></row><row><cell>0.120 pottery amphora fragment/lid</cell><cell>0.046 glass bottle/flask/pyxis</cell></row><row><cell>0.103 unidentified pottery vessel</cell><cell>0.043 chest/cista</cell></row><row><cell>0.095 nail</cell><cell>0.038 chest fitting</cell></row><row><cell>0.086 pottery jar/vase</cell><cell>0.028 cupboard</cell></row><row><cell>0.076 measuring equipment</cell><cell>0.355 vehicle fragment</cell></row><row><cell>0.050 iron or lead strip</cell><cell>0.309 harness</cell></row><row><cell>0.043 chisel</cell><cell>0.065 pendant</cell></row><row><cell>0.034 pick/pickaxe</cell><cell>0.029 coin</cell></row><row><cell>0.033 bone fitting/strip</cell><cell>0.022 cart/wagon</cell></row><row><cell>0.194 glass bottle/flask/pyxis</cell><cell>0.142 pottery jug</cell></row><row><cell>0.116 small glass bottle</cell><cell>0.090 pottery pot</cell></row><row><cell>0.060 glass beaker/cup</cell><cell>0.069 ceramic lamp</cell></row><row><cell>0.055 small glass jar/vase</cell><cell>0.048 terra sigillata bowl/cup</cell></row><row><cell>0.054 jewelry</cell><cell>0.039 pottery cup/small bowl</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 :</head><label>3</label><figDesc>CFG has better perplexity than FG. Perplexity improves with larger K.</figDesc><table><row><cell>Model</cell><cell>10</cell><cell>15</cell><cell>20</cell><cell>25</cell><cell>30</cell></row><row><cell cols="6">FG 4.49 4.48 4.46 4.46 4.45</cell></row><row><cell cols="6">CFG 4.41 4.38 4.35 4.33 4.32</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2 :</head><label>2</label><figDesc>Room types specified by Allison<ref type="bibr" target="#b1">[2]</ref>. These differ slightly from traditional nomenclature using Latin names derived from literary sources.</figDesc><table><row><cell>ID N Sect.</cell><cell>Description</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 4 :</head><label>4</label><figDesc>The 30 houses in the data set vary in the number of rooms R and number of of objects recorded N . Houses in region VIII were excavated earliest, when records were not kept as rigorously as in modern excavations.</figDesc><table><row><cell>ID</cell><cell>R</cell><cell>N Location</cell><cell>Name</cell></row><row><cell>1</cell><cell cols="2">15 189 I 6,4</cell><cell>Casa del Sacello Iliaco</cell></row><row><cell>2</cell><cell>7</cell><cell>63 I 6,8-9</cell><cell>House I 6,8-9</cell></row><row><cell>3</cell><cell cols="2">12 275 I 6,11</cell><cell>Casa dei Quadretti Teatrali</cell></row><row><cell>4</cell><cell cols="2">12 125 I 6,15</cell><cell>Casa dei Ceii</cell></row><row><cell>5</cell><cell>16</cell><cell>67 I 6,13</cell><cell>Casa di Stallius Eros</cell></row><row><cell>6</cell><cell>13</cell><cell>99 I 7,7</cell><cell>Casa del Sacerdos Amandus</cell></row><row><cell>7</cell><cell cols="2">25 353 I 7,10-12</cell><cell>Casa dell'Efebo</cell></row><row><cell>8</cell><cell cols="2">20 112 I 7,19</cell><cell>House I 7,19</cell></row><row><cell>9</cell><cell cols="2">56 886 I 10,4</cell><cell>Casa del Menandro</cell></row><row><cell cols="3">10 15 522 I 10,7</cell><cell>Casa del Fabbro</cell></row><row><cell cols="3">11 16 164 I 10,8</cell><cell>House I 10,8</cell></row><row><cell cols="3">12 16 148 I 10,11</cell><cell>Casa degli Amanti</cell></row><row><cell cols="3">13 17 178 I 11,6</cell><cell>Casa della Venere in Bikini</cell></row><row><cell cols="3">14 18 122 III 2,1</cell><cell>Casa di Trebius Valens</cell></row><row><cell cols="3">15 52 748 IX 13,1-3</cell><cell>Casa di Julius Polybius</cell></row><row><cell cols="3">16 30 242 V 2,i</cell><cell>Casa delle Nozze d'Argento</cell></row><row><cell cols="3">17 17 145 V 4,a</cell><cell>Casa di M. Lucretius Fronto</cell></row><row><cell cols="3">18 16 176 VI 15,1</cell><cell>Casa dei Vettii</cell></row><row><cell cols="3">19 17 158 VI 15,5</cell><cell>House VI 15,5</cell></row><row><cell cols="3">20 13 158 VI 15,8</cell><cell>Casa del Principe di Napoli</cell></row><row><cell cols="3">21 20 187 VI 16,7</cell><cell>Casa degli Amorini Dorati</cell></row><row><cell cols="3">22 10 141 VI 16,15</cell><cell>Casa della Ara Massima</cell></row><row><cell cols="3">23 19 144 VI 16,26</cell><cell>House VI 16,26</cell></row><row><cell cols="4">24 23 120 VIII 2,14-16 House VIII 2,14-16</cell></row><row><cell cols="2">25 10</cell><cell>17 VIII 2,26</cell><cell>House VIII 2,26</cell></row><row><cell cols="2">26 11</cell><cell>61 VIII 2,28</cell><cell>House VIII 2,28</cell></row><row><cell cols="2">27 20</cell><cell cols="2">61 VIII 2,29-30 House VIII 2,29-30</cell></row><row><cell cols="2">28 20</cell><cell>71 VIII 2,34</cell><cell>House VIII 2,34</cell></row><row><cell cols="3">29 31 168 VIII,2,39</cell><cell>Casa di Giuseppe II</cell></row><row><cell cols="2">30 17</cell><cell>63 VIII 5,9</cell><cell>House VIII 5,9</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 5 :</head><label>5</label><figDesc>Objects most likely to occur with bronze casseruola, marginalized over 20 functional groups ("topics"): the first item associated with food preparation (found in kitchens with evidence of exposure to fire) is well down the list.</figDesc><table><row><cell>bronze casseruola</cell></row><row><cell>0.00036 door/chest/cupboard fitting</cell></row><row><cell>0.00035 glass bottle/flask/pyxis</cell></row><row><cell>0.00028 small glass bottle</cell></row><row><cell>0.00026 pottery jug</cell></row><row><cell>0.00024 bronze jug/jug fragment</cell></row><row><cell>0.00022 chest/cupboard fitting</cell></row><row><cell>0.00020 ceramic lamp</cell></row><row><cell>0.00018 jewelry</cell></row><row><cell>0.00016 pottery beaker/small vase</cell></row><row><cell>0.00015 coin</cell></row><row><cell>0.00013 pottery pot</cell></row><row><cell>...</cell></row><row><cell>0.00010 table/table fittings/table base</cell></row><row><cell>0.00010 pottery jar/vase</cell></row><row><cell>0.00010 bronze cooking pot/basin/pot/fragment</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 6 :</head><label>6</label><figDesc>Objects likely to occur with a forma di pasticceria are shown on the right, again showing no significant connection to food preparation.</figDesc><table><row><cell>silver vessel/forma di pasticceria</cell></row><row><cell>0.00008 jewelry</cell></row><row><cell>0.00004 silver cup/bowl/cup fragment</cell></row><row><cell>0.00004 chest/cupboard fitting</cell></row><row><cell>0.00004 silver patera/casseruola/plate</cell></row><row><cell>0.00003 casket fitting</cell></row><row><cell>0.00002 coin</cell></row><row><cell>0.00002 bronze jug/jug fragment</cell></row><row><cell>0.00002 door/chest/cupboard fitting</cell></row><row><cell>0.00002 bronze or silver spoon</cell></row><row><cell>0.00002 chest fitting</cell></row><row><cell>0.00001 box/casket</cell></row><row><cell>0.00001 part of coin hoard</cell></row><row><cell>0.00001 small glass bottle</cell></row><row><cell>0.00001 hair pin</cell></row><row><cell>0.00001 ceramic lamp</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 7 :</head><label>7</label><figDesc>The cubiculum is not a bedroom. Distributions of functional groups in common room types. /cupboard fitting, chest/cista, glass bottle/flask/pyxis, chest fitting, cupboard 0.083 coin, ceramic lamp, small glass bottle, architectural fitting, jewelry 0.077 pottery jug, ceramic lamp, table/table fittings/table base, terra sigillata bowl/cup, seashell/conch/snail shell Type 4 (cubiculum) 0.122 recess, built-in cupboard, stairway, niche, unidentified fixture/mound 0.116 shelving/mezzanine/suspension nails, recess, pottery amphora/amphoretta/hydria, cistern head, pottery pot 0.092 coin, ceramic lamp, small glass bottle, architectural fitting, jewelry 0.065 pottery jug, pottery amphora/amphoretta/hydria, pottery pot, pottery jar/vase, pottery plate/dish/tray Type 11 (exedra, oecus, triclinium) 0.111 door/chest/cupboard fitting, coin, ring, chest/ cupboard fitting, nail 0.109 recess, built-in cupboard, stairway, niche, unidentified fixture/mound 0.080 bed/couch fragment, door/chest/cupboard fitting, large sculpture/sculpture fragment, architectural door fitting, bed/couch 0.058 human skeleton, jewelry, part of coin hoard, bed/couch, bag</figDesc><table><row><cell cols="2">Type 3 (atrium)</cell><cell></cell></row><row><cell cols="3">0.279 pottery amphora/amphoretta/hydria, building</cell></row><row><cell>material,</cell><cell>stairway,</cell><cell>impluvium/compluvium,</cell></row><row><cell cols="2">puteal/puteal fragment</cell><cell></cell></row><row><cell>0.108 chest</cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The author is supported by a <rs type="grantName">Google Digital Humanities Research grant</rs>. <rs type="person">Eric Poehler</rs> suggested the data set. <rs type="person">Ross Scaife</rs> contributed to the development of the Pompeian Households database. We hope he would have liked this paper.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_PFj9nW2">
+					<orgName type="grant-name">Google Digital Humanities Research grant</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mixed membership stochastic blockmodels</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Airoldi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Blei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Fienberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Xing</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JMLR</title>
+		<imprint>
+			<biblScope unit="page" from="1981" to="2014" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Pompeian households: an analysis of the material culture</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Allison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>Cotsen Institute of Archaeology</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Latent Dirichlet allocation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Blei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jordan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JMLR</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Estimating likelihoods for topic models</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Buntine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asian Conference on Machine Learning</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Household and City Organization at Olynthus</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Cahill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Yale University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">An alternative model of room function from Grasshopper Pueblo, Arizona</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ciolek-Torello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Intrasite spatial analysis in archaeology</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Hietala</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="page" from="127" to="153" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Ancient Greek houses and households: chronological, regional and social diversity</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fiedler</surname></persName>
+		</author>
+		<editor>B. A. Ault and L. C. Nevett</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>University of Pennsylvania Press</publisher>
+			<biblScope unit="page" from="99" to="118" />
+		</imprint>
+	</monogr>
+	<note>Houses at Leukas in Akarnania</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">MALLET: A machine learning for language toolkit</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Mccallum</surname></persName>
+		</author>
+		<ptr target="http://mallet.cs.umass.edu" />
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Estimating a Dirichlet distribution</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Minka</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Inference of population structure using multilocus genotype data</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Pritchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stephens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Donnelly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">155</biblScope>
+			<biblScope unit="page" from="945" to="959" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Rethinking LDA: Why priors matter</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wallach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mimno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mccallum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">NIPS</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A study of smoothing methods for language models applied to ad hoc information retrieval</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Zhai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lafferty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SIGIR</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

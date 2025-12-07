@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="it">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">Foundation Le Corbusier in Paris</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2F40161A0702DD135B5B1E1E1280A63F</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The villa has been largely destroyed but was recorded in considerable detail in the 19th century: L.Fortunati, Relazione generale degli scavi e scoperte fatte lungo la via Latina (Rome, 1859), cf. Coarelli, Dintorni di Roma, pp. 138-40.  36. A.Carandini &amp; A.Ricci (eds), Settefinestre, una villa schiavistica nell 'Etruria  romana (Modena, 1985), vol. ii, for the pars fructuaria of Settefinestre; cf. N.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="it">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Architektur und Lebenform (Munich, 1987), with the review by P.Gros, Latomus 48, 1989, pp. 708-9; and M.Oehme, Die römische Villenwirtschaft. Untersuchungen zu den Agrarschriften Catos und Columellas und ihrer Darstellungen bei Niebuhr und Mommsen (Bonn, 1988). 66. Ackerman, The villa, p. 286. 67. Wallace-Hadrill, The social structure of the Roman house. 68. Cf.E.Bellamy &amp; T.Williamson, Property and landscape: a social history of landown-ership and the English countryside (London, 1987). 69. Thus N.Brockmeyer, Die villa rustica als Wirtschaftsform und die Ideologisierung der Landwirtschaft, Ancient society 6, 1975, pp. 227-8: "bekam die villa rustica im Rahmen der kaiserzeitlichen Socialordnung eine über ihre ökonomische Bedeutung hinausgehende systemstabilisierende Funktion". 70. Carandini &amp; Ricci, Settefinestre. 71. Livy, 2.5. 72. Livy, 34.44. 73. CIL VI 933=31208. 74. For the granary at Settefinestre, Carandini &amp; Ricci, Settefinestre, vol. ii, pp. 189-208; for some spectacular instances of enormously ramified storerooms in substructions, Coarelli, Dintorni di Roma, pp. 126, 45, 156. There is a vivid illustration of the complexity and importance of the storage function of villae throughout the discussion De instructo vel instrumento legato, Digest, 33.7. 75. L.Foxhall, Olive cultivation within Greek and Roman agriculture: the ancient economy revisited (Diss., Liverpool, 1990), pp. 348-51; cf. Columella 2.20.6 76. T.W.Gallant, Crisis and response: risk-buffering behaviour in Hellenistic Greek communities, Journal of Interdisciplinary History 19, 1989, pp. 393-413, on the connection between risk-buffering and accumulation by elites or states. 77. Rossiter, Roman farm buildings in Italy, pp. 18-21, 31. 78. The best case is Pliny, Ep. 6.31 (Centum Cellae): "cingitur viridissimis agris: imminet litora cuius in sinu fit cum maxime portus". 79. I owe this point to Ann Kuttner. 80. Granaries on imperial estates: the Horrea Nervae, CIL VI 8681; Castel Giubileo NSc. 1976, p. 224; Via Gabina, W.M.Widrig, Land use at the Via Gabina Villas, in Ancient Roman villa gardens, ed. E.B.MacDougall (Washington DC, 1987). In general see Rossiter, Roman farm buildings in Italy, Ch. 6. 81. Aristotle, Oec. 1.1394b 31-3. 82. J.Nollé, Nundinas instituere et habere (Hildesheim, 1982); J.M.Frayn, Markets and fairs in Roman Italy (Oxford, 1993), pp. 121-3. 83. Varro, 1.2.14. 84. Pliny, Ep. 3.19; 5.14; 7.30; 9.15, 36-7; 10.8; cf. J.R.Patterson, Crisis: what crisis? Rural change and urban development in imperial Appennine Italy, PBSR 55, 1987. 85. Misurare la terra, pp. 150-1 "CN. POM. M. LIC. COS." Given the troubles of the 50s, the first sensational consulship of the two dynasts might be thought the more likely moment for commemoration; the threats of Sertorius and Spartacus were now satisfactorily laid to rest. 86. Cf.Purcell, Wine and wealth in ancient Italy, pp. 18-19. 87. N.Purcell, The city of Rome and its people in the late republic, in CAH 2 , vol. ix (Cambridge, 1994). 88. E.g. Misurare la terra, p. 91. NOTES 183</p><p>89. The dichotomy between "recreational" and "utilitarian" in Roman engineering is in some ways parallel to that between "sterile" and "practical" in Roman agriculture.</p><p>In fact the advanced technology of Roman hydraulics-and the same can be said of agricultural processing techniques-straddles the divide: it is expensive and learned and spectacular as well as being useful and functional, but it also bridges the gap between town and country. Vats and tanks are the common paraphernalia of the uban officina and the villa; hydraulic wizardry is the sign of the privileged city and the prestigious country estate.</p><p>For a splendid example of show hydraulics in a setting of pastio villatica, we may note A.M.McCann, The Roman port and fishery of Cosa (Princeton, NJ, 1987), pp. 98-128 (the Spring House at the Portus Cosanus); this is also the context of the famous epigram (Anth. Pal. 9.418) on the waterwheel, not the paradoxical connecting of industrial banality and high poetry that it can seem to us: cf. also Strabo, 12.3.30 (King Mithridates). For a parallel in English landscape management of the 18th century, Kitz, Pains Hill Park, pp. 51-2, 111-17. 90. Donlan, Homeric temenos, pp. 129-45; cf. also C.Parain, La Méditerranée: les hommes et leurs travaux (Paris, 1936), pp. 56-9. 91. Purcell, Tomb and suburb. 92. P.Zanker, Die Villa als Vorbild des späten pompejanischen Wohngeschmacks, JdI 94, 1979, pp. 460-523. 93. Strabo, 5.3.5; Pliny, NH 3.70. 94. Cf. Cato, Agr. 4. 95. Ackerman, The villa, pp. 9, 12, makes the link with the town define the villa. 96. N.Purcell, Town in country and country in town, in Ancient Roman villa gardens, ed. E.B.MacDougall (Washington DC, 1987b), pp. 185-203. 97. Cic. Sext. Rosc. 132. 98. Petr. Sat. 53. 99. W.Jongman, The Economy and Society of Pompeii (Amsterdam, 1988).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>10</head><p>The idea of the city and the excavations at Pompeii</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Martin Goalen</head><p>O what a great adventure of our times that we discover not just another ancient monument but a city. <ref type="bibr" target="#b17">1</ref> Scippione Maffei, 1748</p><p>Introduction "The ancients", Moses Finley tells us, "were firm in their view that civilized life was thinkable only in and because of cities." To the ancients a city "must be more than a mere conglomeration of people; there are necessary conditions of architecture and amenity". <ref type="bibr" target="#b18">2</ref> The discovery and excavation of the two buried ancient cities of Herculaneum and Pompeii in the 18th century offered, for the first time since antiquity, a glimpse into just those "conditions of architecture and amenity" referred to by Finley-that is to say, into the physical structure of the ancient city, <ref type="bibr" target="#b19">3</ref> with its walls, streets, tombs, public and private buildings. It is all the more surprising therefore that it took half a century after the identification of Pompeii in 1763 (digging had been in progress since 1748), <ref type="bibr" target="#b20">4</ref> for Pompeii to be published as a city in François Mazois's (1783-1826) <ref type="bibr" target="#b21">5</ref> magnificent Les ruines de Pompéi, published from 1812 onwards. <ref type="bibr">6</ref> At Pompeii, wrote the authors of a work claiming 7 to be the first in English to describe the ruins (Sir William Gell and John Gandy's Pompeiana, of 1817-19), "in the mind of the liberal antiquary the loneliness of the ruins may be animated by learned recollection". It is a sense of that "civilized life…thinkable only in and because of cities", noted by Finley, that Mazois, Gell and Gandy seek to recreate. "Animation" of the ruins by "learned recollection" is suggested, for instance, by the frontispiece to Pompeiana (Fig. <ref type="figure" target="#fig_5">10</ref>.1), "wholly compiled from paintings and bronzes found at Pompeii". <ref type="bibr">8</ref> An image is created through the combination of the artefacts of everyday life, the chairs, the tables, the lamps, the paintings, the marbles, with "pavements and distant buildings". 9 Images from different sources are composed, rather in the manner of 20th century collage, to create a new composite image. The second volume of Mazois's work, Habitations (published in 1824), has a similarly composed frontispiece (Fig. <ref type="figure" target="#fig_5">10</ref>.2):</p><p>The disposition of the door, the inscription, the mosaic threshold can be seen in several dwellings. The Pilasters and the capitals belong to house no.27, <ref type="bibr">[10]</ref> the entablature and the stucco which decorate it, the paintings which ornament the interior frieze, the portico at the end and several other details are taken from various buildings. The fountain can be seen in house no.46, called L'Actéon; <ref type="bibr">[11]</ref> the motif of the garden which completes the tableau was given to me by a painting existing in the same place; the two herms are kept at the Musée des Études at Naples; in short all the elements of this composition are antique, and the arrangement in which I offer them gives an exact view of the entry into one of the principal houses of Pompeii. 12 The tradition of compositions and vignettes drawn from the elements of Pompeii continued. In 1851, for instance, Jules Bouchet (1799-1860) published a book of such Compositions antiques freely modelled on Pompeii. It is the making, the transmission, and the absorption of such images of ancient city life into the modern world that is the subject of this essay. These images combine, on the one hand, "the figure reading a volume, the chair upon which she sits, the footstool…manuscripts at her feet…marble table", 13 with, on the other hand, Pausanius' "government offices, …gymnasium, …market-place, …water descending to a fountain" 14 -linking the world of the individual with that of the community, the microcosm represented by the house with the macrocosm represented by the city. <ref type="bibr">15</ref> Vitruvius "To the ancients", writes Moses Finley, "the urban underpinning of civilization" 16 was self-evident. When one turns to the only ancient exposition of the discipline of architecture that has survived, Vitruvius' De architectura, it is indeed the idea of the building of a city that underpins the structure of the book. For Vitruvius the art of building is the art of building the city-his exposition proceeds from the choice of site (1.4), to the building of the city walls (1.5), to the laying out of the broad streets and the alleys (1.6.1), and continues with the division into building plots:</p><p>After apportioning the alleys and settling the main streets the choice of sites for the convenience and common use of the citizens has to be explained; for sacred buildings, the forum and the other public places.</p><p>(1.7.1) <ref type="bibr">17</ref> After the public buildings, he moves to the private ones and then to a discussion (an opinionated one, it will be recalled: 7.5.3-4) of wall-paintings, showing for instance, "the battles of Troy and the wanderings of Ulysses over the countryside" (7.5.2). In other words, the work of Vitruvius' architect ranged over every aspect of the city-from the choice (and defence) of the site to landscape painting in the cubiculum of a private house.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Alberti and Palladio</head><p>Of the ancient works on architecture that we know 18 to have been written, the sole survival of Vitruvius' De architectura into the Renaissance gave that work an extraordinary, perhaps undeserved, influence. The idea, though, that architecture is structured as a discipline by a hierarchy of tasks involved in the building of a city is one that remained pivotal. The two key architectural treatises of the quattrocento and the cinquecento, those of Leon Battista Alberti (1404-72) and Andrea Palladio (1508-80), both depend upon it. Alberti's De re aedificatoria 19 reveals a critical study of Vitruvius:</p><p>For I grieved that so many works of such brilliant writers had been destroyed by the hostility of time and of man, and that almost the sole survivor from this vast shipwreck is Vitruvius, an author of unquestioned experience, though one whose writings have been so corrupted by time that there are many omissions and many shortcomings. (6.1) Alberti's treatise sets out to provide what Vitruvius lacks. The result, abstract and analytical compared to Vitruvius, has as its starting point patterns of association in the family and in society:</p><p>In the beginning, men sought a place of rest in some region safe from danger; having found a place both suitable and agreeable, they settled down and took possession of the site. Not wishing to have all their household and private affairs conducted in the same place, they set aside one space for sleeping, another for the hearth, and allocated other spaces for different uses. After this [my emphasis] men began to consider…shelter from the sun and rain. (1.2) For Alberti the art of building consists of six things: "(1) locality, (2) area [the site], (3) compartition, (4) wall, (5) roof, and (6) openings" (1.2). In this sequence "compartition", the division into public and private, is the more fundamental operation than the provision of shelter. It is the primacy of the social operation of architecture that defines it, for Alberti, as the building of the city-and analogously the house:</p><p>If (as the philosophers maintain) the city is like some large house, and the house some large city, cannot the various parts of the house…be considered miniature buildings? (1.9) <ref type="bibr">20</ref> Both Alberti and Palladio acknowledge dual sources for their work: Vitruvius and the ancient ruins. <ref type="bibr">21</ref> Palladio in turn is deeply indebted to Alberti, <ref type="bibr">22</ref> but what distinguishes Palladio's Quattro libri is its dependence on the visual image. The aim of the Quattro libri is, Palladio tells us: to publish the designs of those [ancient] edifices, (in collecting which, I have employed so much time, and exposed myself to so many dangers)… and…those rules which I have observed…that they who shall read these my books, may be able to make use of whatever may be good therein…, <ref type="bibr">23</ref> When, as he must in a complete presentation of architecture through the context of the city, Palladio turns (in book II) to the description and illustration of building for individuals, the town houses and country villas, he tells us: as we have but very few examples from the ancients, of which we can make use, I shall insert the plans and elevations of many fabrics I have erected…[as well as] the designs of ancient houses, in the manner that Vitruvius shews us they were made. <ref type="bibr">24</ref> At this critical point in his book, then, Palladio has no ancient houses to illustrate. Instead he must fall back, first, on his attempts to reconstruct, from Vitruvius' written description, what an ancient house might have looked like, then presenting images of houses that he himself had built. It is perhaps not surprising that there is a resemblance between Palladio's version of the ancient house and contemporary work. Vitruvius' ancient house is reconstructed in the classicizing language of Palladio's own practice; past and present are elided in a passion to represent the ancient city. François Mazois clearly understood this aspect of Palladio:</p><p>The descriptions which Vitruvius and Varro…have given of the atrium become extremely clear once one has seen ancient houses, but before any had been discovered it was difficult to understand these authors. However, Palladio had guessed the form of the atrium, and applied it to modern buildings so ingeniously, that it must be regarded in some ways as a new invention. <ref type="bibr">25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mazois</head><p>After 1748-or more importantly perhaps, when the excavations at Pompeii had been adequately published-such misprision was no longer possible. Excavations reached their first peak during the French occupation of Naples in the period between 1806 and 1815, <ref type="bibr">26</ref> and it was as a result of this work that Mazois's book, presenting the city as a whole, became possible.</p><p>The earlier publication of Herculaneum, the Antichità d'Ercolano (8 vols, 1757-92), had, like the early excavations themselves, focused on the movable objects, the paintings, sculptures, bronzes, candelabra (all this, of course, having its influence: Ferdinando Bologna has described the volumes as "models for the very modern production of ornaments and tools."). <ref type="bibr">27</ref> In contrast to the impact of the 18th century discovery and measurement of ancient Greek buildings which led, at first, only to the construction of delicately scaled garden temples, in the manner of the Hephaisteion, the Tower of the Winds or the Arch of Hadrian, 28 the discovery of Herculaneum and Pompeii created a fascination for their objects and interior decoration; motifs were simply grafted onto existing types. <ref type="bibr">29</ref> (The study of Greek architecture was of course to develop through the 19th century; by 1830 and Schinkel's Altes Museum we see Greek architecture so thoroughly absorbed and interpreted that it is becomes, as Palladio's ancient house, almost re-invented.) <ref type="bibr">30</ref> Mazois's aim in publishing Les ruines…is clear. It is to replace partial with complete publication: Les monuments de Pompéi ne sont encore connus que par l'ouvrage de l'Académie de Naples sur les mosaïques et les peintures…aussi les savants, les artistes, les amateurs, attendent-ils avec impatience, depuis près de cinquante ans, un ouvrage exact et complet sur les antiquites de cette ville…. <ref type="bibr">31</ref> Les plans sont tout réduits sur une même échelle, ainsi que les elevations et les coupes…en un mot j'ai cherché a ne rien omettre de ce qui peut aider a expliquer clairment chacun des edifices, et servir a les comparer entre eux. <ref type="bibr">32</ref> And as we have seen (above, p. 186) Mazois is aware, too, of the importance of Pompeii in transforming knowledge of the ancient house (and hence of the fabric of the city). He placed his study of the ruins of Pompeii in the context of thoughts about the relation of the discipline of architecture to the city and to the house, a context that links Vitruvius, Alberti, and Palladio. The manner of Mazois's presentation makes these connections clear; the first volume describes the walls, the gates, the roads that lead to them (and the tombs that line them); the second volume, the houses; the third volume, secular public buildings; the fourth, temples (and theatres). The city is presented to us in a Vitruvian sequence; Mazois's division into volumes closely parallels that of Palladio's Quattro Libri (book II, houses; book III, fora and basilicas; book IV, temples). Mazois, like Vitruvius, describes the ancient city through the whole range of its elements, from the walls and streets (Fig. <ref type="figure" target="#fig_5">10</ref>.3) to the buildings, both public and private, and then, like Vitruvius, to detail of painted decoration (Fig. <ref type="figure" target="#fig_5">10</ref>.4):</p><p>Les ruines de Pompéi permettent de remplacer désormais les conjectures par des certitudes, et les restaurations hasardées des artistes modernes par le portrait fidèle des monuments demeurés presque intacts jusque dans les parties les plus fugitives de leurs decorations brillantes. 33  And so in discussing, for example, the House of Sallust, Mazois' shows the way that, in the pergola garden, the painted walls with their painted plants, painted birds, and painted fountain contribute to the charm of the whole (Fig 10. Les parois du mur, qui entoure de deux côtés ce délicieux réduit, sont peintes avec une goût exquis…la decoration…rapelle cette piece de la maison de Pline en Toscane: "ou l'on voyait des oiseaux perchés sur des ramaux verdoyants et au-dessous une petite fontaine dont l'eau tombait dans un bassin avec un agréable 'murmur'." <ref type="bibr">34</ref> The same attention to the indissoluble effect of architecture and decoration is evident when Mazois describes the peristyle of the house with the rooms that surround it. The group must, he says, be, "un appartement secret, consacré au plaisir et a l'amour" 35 with its: Cabinets: dans l'un d'eux existe encore une peinture qui indique assez la destination de ces boudoirs; on y voit Mars enchaîné dans les bras de Vénus, tandis que l'amour joue en riant avec les armes terribles du dieu de combats. <ref type="bibr">[36]</ref> … Cette decoration est d'un goût délicieux; les ornements ôtent au fond noir, ce qu'a de trop lugubre cette colour dont on fit choix, sans doute, a fin de donner plus d'éclat au tient et aux vêtements des femmes admises dans ce volupteux séjour… Le tableau au fond de la cour représente… Actéon découvrant Diane au bain, et…le même personage dévoré par ses chiens. Ce sujet semble avoir été choisi, et place dans l'endroit le plus apparent pour avertir tout indiscret qui eût tenté de pénétrer les mystères de ce lieu des châtiments inévitables qui l'attendraient. <ref type="bibr">37</ref> Mazois returned finally to Paris in 1820 (where he built little, this little however including the Passages Choiseul and Saucède); he died in 1826. The remainder of the century saw a continuous stream of studies and reconstructions from the students of the Villa Medici 38 -but none of this work, though, goes beyond Mazois in conception. Perhaps inevitably, due to the particular requirements of the Envois, 39 the concentration was on the details of the orders, painted decoration, or monumental groups of buildings, such as the forum <ref type="bibr">40</ref> or the theatre district, 41 but not with the city as a whole. Not until the turn of the century did pensionnaires concern themselves with the study of a complete 42 town with, most notably, Tony Garnier's study of Tusculum of 1903 and Jean Hulot's reconstruction of Selinus of 1904-1906. <ref type="bibr">43</ref> Of prime importance for the 20th century is the work of Tony Garnier.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tony Garnier</head><p>Tony Garnier (1869-1948) seems to us now to stand between two worlds-the world of the great French academic system of architectural teaching and practice, represented by the École des Beaux-Arts in Paris and the Villa Medici in Rome-and the world of the beginning of what we now call Modern architecture. Garnier's time as pensionnaire at the Villa Medici, between 1900 and 1904, precisely marks this transition. <ref type="bibr">44</ref> In the first year of his tenure, in addition to the required (but according to the academy, inadequate) 45 study of an ancient monument (in his case the Tabularium) Garnier submitted drawings of an Industrial City invented for a site near Lyons ("a daub of pencil marks", reported the academy). <ref type="bibr">46</ref> Garnier's final envoi, too, was an urban study-a restoration of the town of Tusculum (which for Garnier had the advantage of very few remains to constrain him). <ref type="bibr">47</ref> That restoration (Fig. <ref type="figure" target="#fig_5">10</ref>.6) clearly borrowed from Pompeii, where Garnier's fellow pensionnaire, Chifflot, had made restoration drawings of the House of the Centenary in the previous year. 48  Following his return to his home town of Lyons in 1904, a further enlarged and revised version of the Cité industrielle reached publication in 1917, <ref type="bibr">50</ref> this publication now being augmented by built work carried out in Lyons, presented uniformly as if part of the development of the earlier proposals. The house and studio, of 1909-10, that Garnier had built for himself at SaintRambert, is included in the plates (Fig. <ref type="figure" target="#fig_5">10</ref>.8), 51 a house that, without columns or classical detail, is an abstraction of a Pompeian house. Garnier's atelier is as symmetrically related to its atrium as, say, the tablinum of the House of the Faun to its atrium and peristyle, and the house is photographed (plates 121 and 122 of Une cité industrielle) with all the attention to ways in which a sense of light and greenery suffuses from atrium and garden that so delighted Mazois at the House of Sallust. A half-size nude statue of Madame Garnier facing the atrium seems to play the same rôle in suggesting the intimacy of domestic life as does the painting of Mars and Venus in Mazois's description of the peristyle at the House of Sallust (p. 189 above). In the 1917 publication, the industrial and public elements, too, are supplemented by examples from Garnier's practice in Lyon; but the real point here is not the separate elements, but that all elements are presented together as part of a total organization-the visual equivalent of a social organization-and there is indeed a social as well as a cultural programme in the work. Garnier proposes the inscription of passages from Zola's Travail on the walls of his "Chamber of Assemblies" (Travail was first published Garnier was searching for a topic for his work at the Villa Medici). <ref type="bibr" target="#b1">52</ref> Anthony Vidler has discussed this social programme in the catalogue of the 1990 exhibition of Garnier's work at the Centre Pompidou <ref type="bibr" target="#b2">53</ref> but my concern here is to note that Garnier presents the city as an organic whole, a collective work of art-proceeding, in a way reminiscent of Vitruvius, from the establishment of the settlement on its site, to the various types of public buildings: the assembly halls, the sports buildings, the schools, the factories, each finding a place within a structure articulated by streets and alleys, with individual houses, like Garnier's own, offering at once a retreat from, and by analogy, a connection with, the organism as a whole.</p><p>Garnier's period at the Villa Medici had been a turbulent one. The inscription on his 1901 drawing of the Tabularium, "Ainsi que toutes les architectures reposant sur des principes faux l'architecture antique fut une erreur. La vérité seule est belle", <ref type="bibr" target="#b3">54</ref> is indicative (and duly enraged the academy). Garnier's pugnaciously critical attitude to antiquity released him from its sway. What he did take from antiquity became his own.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Le Corbusier</head><p>Garnier's work was widely transmitted to the architectural world through the most influential architectural text of the 20th century, Le Corbusier's Vers une architecture of 1923, which presented, with approving comments, plans and perspectives of the housing areas of the Cité. <ref type="bibr" target="#b4">55</ref> Le Corbusier had met Tony Garnier in Lyons in 1907 and tells us: He had won the "Grand Prix d'Architecture" and it was from Rome that he sent his project the "ville industrielle". This man discerned the approach of a new architecture based on social phenomena. His plans show great sophistication. They stand at the end of a hundred years of architectural evolution in France. <ref type="bibr" target="#b6">56</ref> Four years after that meeting, Le Corbusier was himself in Pompeii, <ref type="bibr" target="#b7">57</ref> and responding in a way that is close to the abstracted interpretation of the atrium house that Garnier created at Saint-Rambert. Le Corbusier describes his experience of the House of the Silver Wedding thus: And then you are in the atrium; four columns (four cylinders) shoot upwards towards the shade of the roof…but at the far end is the brilliance of the garden seen through the peristyle which spreads out this light with a large gesture, distributes it and accentuates it, stretching widely from left to right… Our elements are walls…. The walls are in full brilliant light or in half shade or in full shadow…your symphony is made…. Have respect for walls. The Pompeian did not cut up his wallspaces. He was devoted to wall spaces and loved light… The impression of light is extended outside by cylinders (I hardly like to say columns, a worn out word) 58  Designed by Le Corbusier, and incorporating his own version of a Cité industrielle, the pavilion itself was in the form of a prototypical apartment dwelling, arranged round a hanging garden. Within the pavilion is presented a diorama of the city, of which the apartment blocks-Le Corbusier called them immeubles-villas (Fig. <ref type="figure" target="#fig_5">10</ref>.11)-were the elements, the insulae, of the city. As well as this presentation at the city scale were shown the paintings, rugs, furniture and equipment conforming to that new spirit, l'esprit nouveau, which Le Corbusier and his collaborators were exploring and promoting through their magazine-the final issue of which served as a catalogue for the pavillion. <ref type="bibr" target="#b11">60</ref> "We were not concerned with frivolities," wrote Le Corbusier; "we went from the everyday object to the urbanisation of great cities-an enormous undertaking." <ref type="bibr" target="#b12">61</ref> Within the pavilion, arranged around the atrium-like jardin suspendu, as in a Pompeian house, or Garnier's studio at Saint-Rambert, the visitor's mind was focused on the one hand, by means of the diorama, to the scale of the city of which the pavilion was a microcosm, and on the other to the scale of the objects of everyday life-most particularly to works of painting and sculpture (Fig. <ref type="figure" target="#fig_5">10</ref>.12):  Painting: We have placed on the wall-paintings of Picasso, Braque, Léger, Gris, Ozenfant, Jeanneret, and arranged sculptures by Lipchitz; easel paintings in frames and free standing sculpture, independent of the wall. We are not, at the moment, partisans of fresco painting… It is better that painting or sculpture is not made to order but is a direct product of the imagination. We want to create an architectural terrain made from matter, from light, and from proportion, in which works with high emotional potential are at ease. We detach painting and sculpture from the wall so that they are free to act with the charge that they contain. <ref type="bibr" target="#b13">62</ref> These "purist" paintings (as their authors christened them) presented an imaginative reflection of images of everyday and industrial life, surely the equivalent in the Pompeian house of paintings of "poultry, eggs, vegetables, fruit", <ref type="bibr" target="#b14">63</ref> "the battles of Troy and the wanderings of Ulysses over the countryside", or "Mars locked in the arms of Venus". This equivalence is not, of course, to be taken as an exact one; in what is for Le Corbusier a characteristic strategy of disengagement, or articulation, of elements, the wall and its modulation of light <ref type="bibr" target="#b15">64</ref> are separated from the figuration of representational painting. The continuum between the macrocosm of the city and the microcosm of the dwelling (and the imaginative world re-created through its decoration), so powerfully presented by Mazois, has been taken apart and reassembled. The desire for that continuum, though, remains. In the introduction to his Aspects of antiquity Moses Finley cites John Jones, in turn citing Fustel de Coulanges: "Rien dans les temps moderne ne leur [Gréce et Rome] ressemble. Riens dans l'avenir ne pourra leur ressembler". <ref type="bibr" target="#b16">65</ref> The responses, in the modern world, to the ruins of Pompeii that I have discussed may show resemblances to the ancient city but, to echo Mazois's comment on Palladio's atria, each "must be regarded in some way as a new invention". One might say that it is when most thoroughly and critically transformed, in the work of a Le Corbusier or a Garnier, that responses to the ancient city have had most resonance. The Nachleben of the ancient world does not flow simply as a stream.</p><p>hitectes Français au XIX e siècle (Paris, 1980), pp. 291-2. F &amp; J.B. Piranesi, Antiquités de Pompeia, 2 vols, (Paris, 1804), might be said to herald Mazois's work but, compared to Mazois, is neither complete nor systematic; there is no text. 6. Vol. i, Voie, tombeaux, murailles et porte de la ville (1812); vol. ii, Habitations (1824). The work was completed posthumously, vol. iii, (1829); and vol. iv (1838). 7. W.Gell &amp; J.P.Gandy, Pompeiana (London, 1817-1819), pp. ix-x: "Pompeii was begun upon in 1748; and it may at first excite our surprise that from this date to the present day, no work has appeared in the English language upon the subject of its domestic antiquities, except a few pages by Sir William Hamilton.". 8. Ibid., p. xviii. The passage continues: "The figure reading a volume, the chair upon which she sits, the footstool and scrinium, or capsa, for manuscripts at her feet. The marble table, and implements for writing; the pavement and distant building, are all from the same source." 9. Ibid., p. xviii. 10. The reader is referred to a plan at the end of the work for the numbering of the houses. In fact the numbering in the general plan at the end of vol. iv, by H.Roux ainé, 1837, does not correspond to the numbers in this passage; no. 46, for instance, is not the House of Sallust!. 11. I.e. The House of Sallust (VI.2.4). 12. F.Mazois, Les ruines de Pompéi, 4 vols, (Paris, 1812-38), vol. ii, p. 35: "Cette planche, qui sert de frontispiece a la seconde partie, représente l'entrée d'une maison antique. La disposition de la porte, et l'inscription en mosaïque placée sur le seuil, se remarquent dans plusieurs habitations. Les pilastres et leurs chapiteaux appartiennent a la maison n°.27; l'entablement et les stucs qui lui le décorent, les peintures qui ornent la frise intérieure, le portique du fond, et plusieurs autres details, ont été pris de divers edifices. La fontaine se voit dans la maison n°.46, dite d'Actéon; le motif du jardin qui fait le fond du tableau m'a été fourni par une peinture existante dans le même lieu; les deux termes sont conserves dans le Musée des Études a Naples; enfin tous les elements de cette composition sont antiques; et l'arrangement dans lequel je les offre donne une idée exacte de l'entrée d'une des maisons principales de Pompéi." There is a similar composition at the heading to the Chapter, Essai sur les habitations des anciens Romains, vol. ii, p. 3, described by Mazois as a "Museum compose de fragments et d'objets antiques du cabinet de la Reine, existant au palais Royale de Naples avant 1815". vol. ii, p. 102. 13. Gell &amp; Gandy, Pompeiana, p. xviii. 14. Pausanius, 10.4.1. It was, of course, the absence of these elements that prevented Panopeus from being considered a city; cf. Finley, The ancient city, pp. 3-4. 15. Palladio, Quattro Libri 2.12: "the city is as it were but a great house, and, on the contrary, a…house a little city." 16. Finley, The ancient city, p. 3. 17. English translations are taken from Frank Granger's translation in the Loeb edition (1931). 18. E.g. from Vitruvius himself: 7.11-14, preface. 19. Written in the mid 15th century, first printed 1486; quotations are taken from the most recent English translation by J.Rykwert, N.Leach &amp; R.Tavernor: L.B.Alberti, Leon Battista Alberti: on the art of building in ten books (Cambridge, Mass. &amp; London 1988).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 10 . 2</head><label>102</label><figDesc>Figure 10.2 Mazois, Ruines de Pompéi, frontispiece.</figDesc><graphic coords="6,96.06,48.96,250.08,360.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 10 . 3</head><label>103</label><figDesc>Figure 10.3 Mazois, Ruines de Pompéi, detail of plan.</figDesc><graphic coords="11,90.84,48.96,250.56,307.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 10 . 4</head><label>104</label><figDesc>Figure 10.4 Mazois, Ruines de Pompéi, House of Sallust, plan.</figDesc><graphic coords="11,59.40,382.08,313.44,101.76" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>4 &amp; 5):</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 10 . 5</head><label>105</label><figDesc>Figure 10.5 Mazois, Ruines de Pompéi, House of Sallust, section.</figDesc><graphic coords="12,75.24,48.96,281.76,289.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 10</head><label>10</label><figDesc>Figure 10.6 Tony Garnier, Tusculum. Study of ancient cities by the pensionnaires of the Villa Medici was, as we have seen, part of a continuing trend by the turn of the century (and was to continue with studies of Delos, 1910, and Priene, 1911) 49 but Garnier, in his final envoi, went beyond the study and restoration of the ancient city and pre sented again, in a revised and enlarged and form, his Cité industrielle (Fig. 10.7).</figDesc><graphic coords="14,59.40,370.08,313.44,198.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 10 . 7</head><label>107</label><figDesc>Figure 10.7 Tony Gar nier, Cité industrielle.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 10 . 8</head><label>108</label><figDesc>Figure 10.8 Tony Garnier, house in th e Cité industrielle.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 10 . 9</head><label>109</label><figDesc>Figure 10.9 Le Corbusier, House of Sallust. Dessin extrait de l'oeuvre complete, © DACS 1995. Taken from Tony Garnier: l'oeuvre complete (Paris, 1989, p. 19).</figDesc><graphic coords="17,71.40,48.96,289.44,455.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><figDesc>Pavillon de l'Esprit Nouveau Le Corbusier conducted much of his research, in architecture, in painting, and in what he called the aesthetics of modern life, through the pages of the review L'Esprit Nouveau, produced in Paris between 1920 and 1925. The parti pris of the review (from June 1922, Le Corbusier 59 and the painter Amédée Ozenfant were directors) was summarized in a tiny exhibition pavilion, the Pavillon de l'Esprit Nouveau in the Paris Exposition des Arts Décoratifs of 1925 (Fig. 10.10).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10.10 Le Corbusier, Pavilion de l'esprit nouveau L2(8).1-3, © DACS CS 1995.</figDesc><graphic coords="18,59.40,259.02,313.44,249.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10.11 Le Corbusier, immeubles-villas, Pavilion de l'esprit nouveau, 12(8)1-19, © DACS 1995.</figDesc><graphic coords="19,59.40,210.96,313.44,193.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10.12 Le Corbusier, Pavilion de l'esprit nouveau (interior) L2(8)l-l5, © DACS 1995.</figDesc><graphic coords="20,59.40,48.96,313.44,246.96" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements Figures 10.6, 10.7 and 10.8 were taken from <rs type="person">Tony Garnier</rs>. L'oeuvre complete, Paris: Centre Georges Pompidou, 1989. Figures 10.9, 10.10, 10.11 and 10.12 were taken from <rs type="person">Le Corbusier</rs> and <rs type="person">Pierre Jeanneret</rs>. The complete architectural works. Volume 1, 1910-1929, London: Thames and Hudson, 1964, but are the original property of the <rs type="funder">Foundation Le Corbusier in Paris</rs>. Notes</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">the normal term is simply praedium, which does not even discriminate between town and country. The word praetorium for villa is an interesting development</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Note</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Buck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="9" to="14" />
+			<pubPlace>Wiesbaden</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Agriculture and agricultural practice in Roman law but it does not reflect on the question of production</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The villa: form and ideology of country houses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Ackerman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="9" to="34" />
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The villas of the ancients illustrated</title>
+		<author>
+			<persName><surname>Castell</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Römische und Romanische Paläste: eine architekturgeschichtliche Untersuchung, 3rd edn (Böhlau, 1969)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Mckay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Swoboda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><forename type="middle">J</forename><surname>Percival</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Houses, villas and palaces in the Roman world</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Rostovtseff</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London; Oxford; London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1957">1987. 1957. 1976</date>
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+	<note>Note also Rostvotzeff&apos;s Type One The social and economic history of the Roman empire, 2nd edn The Roman villa: an historical introduction , develops the idea of &quot;urban influence which he sees as functioning in inverse proportion to the extent to which sites were &quot;primarily working establishments&quot;. On the actual preponderance of mixed sites in the area of Rome itself, Misurare la terra</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>White</surname></persName>
+		</author>
+		<title level="m">Roman farming</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<biblScope unit="page" from="438" to="439" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Johannowsky</surname></persName>
+		</author>
+		<title level="m">Le ville romane dell&apos;età imperiale (Itinerari turistico-culturali in Campania 3)</title>
+		<meeting><address><addrLine>Naples</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="13" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Le attività agricole degli abitanti di Pompei e gli attrezzi agricoli ritrovati all&apos;interno della città</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kolendo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opus</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="111" to="124" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The Roman villa</title>
+		<author>
+			<persName><forename type="first">Percival</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="14" to="15" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">3-Kühn XIV 17-18. Cf.Boscoreale &quot;Stazione</title>
+		<author>
+			<persName><forename type="first">Antid</forename><forename type="middle">I</forename><surname>Galen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J.J.Rossiter, Roman farm buildings in Italy (BAR Int. Ser</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="12" to="14" />
+			<date type="published" when="1978">1978</date>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Vitruvius 6.6.1-2. For Greek precursors of the Italian villa, note the luxury prison of Demetrius Poliorcetes in the lush plain below Apamaea, with its walks and paradeisos</title>
+		<imprint>
+			<biblScope unit="page">50</biblScope>
+			<pubPlace>Plutarch, Dem</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Od</forename><surname>Homer</surname></persName>
+		</author>
+		<imprint>
+			<date>1.190, 11.187, 24.205, 336</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Via Tiberina)-villa rustica, NSc</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Felletti Maj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Misurare la terra</title>
+		<imprint>
+			<biblScope unit="page" from="124" to="126" />
+			<date type="published" when="1955">1955</date>
+			<pubPlace>Roma (</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Compare the luxury villa maritima at Barbariga in Istria whose grand section was explored in 1901; the large-scale and monumental oilpressery was only discovered in 1953-4. See R.Matijasic, Roman rural architecture in the territory of Colonia Iulia Pola</title>
+	</analytic>
+	<monogr>
+		<title level="j">AJA</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="57" to="59" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+		<title level="m">The social structure of the Roman house PBSR 56</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page" from="44" to="50" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">returned to the question of units of exploitation in Roman agriculture and here distinguished it from the patterns of owner-residence. He might have regarded the ideological investigations of the present essay as equally clearly distinct from the economic questions. For the move towards more holistic interpretations of villae</title>
+		<author>
+			<persName><surname>Finley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J.J.Rossiter</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">449</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note>Ancient slavery and modem ideology Some recent books on Roman villae JRA</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Carandini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Settefinestre</forename><surname>Ricci</surname></persName>
+		</author>
+		<editor>i, cf. Purcell, review of Carandini &amp; Ricci</editor>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Villa ville village: la ville antique et l&apos;organisation de l&apos;espace rurale Annales (ESC) 38</title>
+		<author>
+			<persName><surname>Ph</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Leveau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page">923</biblScope>
+		</imprint>
+	</monogr>
+	<note>Mielsch, Die römische Villa</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The passage continues: &quot;by excavating and leaving everything in place the city would become an unequalled museum</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maffei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Tre lettere del Signor Marchese Scipione Maffei (Verona, 1748), cited in F.Bologna</title>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page">85</biblScope>
+		</imprint>
+	</monogr>
+	<note>Rediscovering Pompeii The rediscovery of Herculaneum and Pompeii in the artistic culture of Europe in the eighteenth century</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The ancient city: from Fustel de Coulanges to Max Weber and beyond</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Finley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Economy and society in ancient Greece</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Shaw</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Saller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">The ambiguity of the word city seems appropriate here and I shall use it throughout even though, mostly, it is indeed the physical structure, the &quot;town</title>
+		<author>
+			<persName><surname>Ibid</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>draws the distinction between &quot;&apos;town&apos; in the narrow sense and &apos;citystate&apos; in a political sense that I shall be discussing</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A summary of the history of excavation at Pompeii is given in</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C C</forename><surname>Corti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Herculanum et Pompéi dans les récits des voyageurs Français du XVIIIe siècle</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Grell</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London; Naples; Naples; Naples</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1951">1951. 1972. 1982</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="212" to="219" />
+		</imprint>
+	</monogr>
+	<note>The destruction and resurrection of Pompeii and Herculaneum The basic source is Pompeianarum antiquitatum historia Bibliografia di Pompei, Ercolano e Stabia, 2nd edn has a useful table showing excavation and publication in the 18th century</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m">There is a necrology Notice sur M.Mazois by Artaud in the posthumous vol. iv of Les ruines des Pompéi (1837), and biographical notes in Pompéi: travaux et envois des arc</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

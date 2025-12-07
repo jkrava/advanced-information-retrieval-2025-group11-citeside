@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ARCHAEOLOGICAL INVESTIGATION ON THE FOUNTAINS IN POMPEII AND CREATING VIRTUAL ENVIRONMENTS</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Vincenza</forename><surname>Iorio</surname></persName>
+							<email>vincenzaiorio@libero.it</email>
+							<affiliation key="aff0">
+								<orgName type="institution">Japan Institute of Paleological Studies</orgName>
+								<address>
+									<addrLine>80045 Via Crapolla II Nr.17</addrLine>
+									<settlement>Pompei (NA) Italy</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Satoshi</forename><surname>Sakai</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department" key="dep1">Doshisha Univ., Dept. of Literature</orgName>
+								<orgName type="department" key="dep2">Fac. of History</orgName>
+								<address>
+									<postCode>602-8580</postCode>
+									<settlement>Karasuma Imadegawa Kamigyo</settlement>
+									<region>Kyoto</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Hirofumi</forename><surname>Chikatsu</surname></persName>
+							<email>-chikatsu@g.dendai.ac.jp</email>
+							<affiliation key="aff2">
+								<orgName type="department">Dept. of Civil and Environmental Engineering</orgName>
+								<orgName type="institution">Tokyo Denki Univ</orgName>
+								<address>
+									<postCode>350-0394</postCode>
+									<settlement>Hatoyama Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tatsuya</forename><surname>Ohdake</surname></persName>
+							<email>ohdake@g.dendai.ac.jp</email>
+							<affiliation key="aff2">
+								<orgName type="department">Dept. of Civil and Environmental Engineering</orgName>
+								<orgName type="institution">Tokyo Denki Univ</orgName>
+								<address>
+									<postCode>350-0394</postCode>
+									<settlement>Hatoyama Saitama</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ARCHAEOLOGICAL INVESTIGATION ON THE FOUNTAINS IN POMPEII AND CREATING VIRTUAL ENVIRONMENTS</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">11ECF1F81E59AE82F2401426A5A3E8CF</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Archaeology</term>
+					<term>Pompeii</term>
+					<term>Mosaic</term>
+					<term>Fountains</term>
+					<term>Consumer Grade Digital Camera</term>
+					<term>3D Modelling</term>
+					<term>Visualization</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The archaeological site of Pompeii is surely one of the best known areas of Roman world, and many mosaic fountains were found in some elegant houses. Generally, it seemed that mosaic fountains which lay out in the gardens of the houses, shows one of the decorations, but the investigation for the mosaic fountains by archaeologists gave us many possibilities to known many aspects of daily Roman life. For example, the mosaic fountains had two functions: they were not only the decoration of gardens but also little sacellum, namely a shrine with a religious function. Therefore, splendid and brilliant mosaic fountains were produced using shining effect as a sacellum by the Roman craftsmen. On the contrary, it is also important issue to know the geometrical features of mosaic fountains which give valuable information for studying culture in those days such as sculptural technique, art, aesthetic sense and so on. In order to understand religious meaning and structural features of the mosaic fountains, 3D modelling and visualization is an efficient method. However, the most difficult issue for the archaeologists in an archaeological project is surly the graphic campaign, acquisition of geometrical information such as size, length and shape for the archaeological objects. In these circumstances, collaboration among the professional of different disciplines is absolutely necessary, and in order to realize these relationship, archaeological and photogrammetric investigations for the mosaic fountain in Pompeii were performed in cooperation with archaeologist and photogrammetrist.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">INTRODUCTION</head><p>The archaeological site of Pompeii is surely one of the best known areas of Roman world, and many mosaic fountains were found in some elegant houses. Some years ago, we have begun a project about mosaic fountains in Pompeii <ref type="bibr">(Iorio, in press)</ref> with following parts: 1) Ancient bibliography; 2) Research of ancient photos; 3) Research of ancient drawings; 4) Photo campaign; 5) Graphic campaign; 6) Final publication of the research. Generally we use very traditional methods to draw, that is to say metre, pencil, eraser and naturally hands. Therefore, the most difficult part of this project is surly the graphic campaign, because drawing a mosaic fountain has many difficulties. On the contrary, a convenient 3D measurement method using consumer grade digital camera is enormously expected with appearance of the low cost and high-resolution consumer grade digital cameras. Indeed, developing low-cost photogrammetric system have been ranked as one of the important issues during last decade in the ISPRS WG regarding Cultural Heritage; WG V/5 (World Cultural Heritage) for 1996-2000, WG V/4 (Image Analysis and Spatial Information Systems for Applications in Cultural Heritage) for 2000-2004, WG V/2 (Cultural Heritage Documentation) for <ref type="bibr">[2004]</ref><ref type="bibr">[2005]</ref><ref type="bibr">[2006]</ref><ref type="bibr">[2007]</ref><ref type="bibr">[2008]</ref>. Furthermore, establishing cooperative relations with related disciplines is also the important issue in the ISPRS WG regarding Cultural Heritage and cooperation is indispensable in archaeological investigations. In these circumstances, archaeological and photogrammetric investigations were performed in cooperation with archaeologist and photogrammetrist in this paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">MOSAIC FOUNTAIN IN POMPEII</head><p>Pompeii is the best site to study the mosaic fountains because there are about twenty mosaic fountains. The archaeological research in Pompeii gives us many opportunities for the knowledge of Roman world and the study of ancient mosaic fountains in this town also gives us many opportunities to know water technology and handicrafts of a typical Roman town in the first century A.D.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Mosaic Tesserae</head><p>The ancient Greeks and Romans used mosaics for floor but in some case we can see mosaics on the walls. The first mosaics in Italy are in South Italy and they belong to III or II century B.C. and they were made by little stone; ancient Greeks called them lithostroda. The tesserae of first mosaics were black and white but, generally from the I century B.C., they were coloured <ref type="bibr" target="#b8">(Pernice 1938)</ref>. For mosaic tesserae, Greek and Roman craftsmen used stones but from the first century B.C., they began to use glass tesserae. An other important aspect of Greek and Roman mosaics is the size of tesserae. Generally from the I century B.C. until the I century A.D. The mosaic tesserae are very little because in this period Greek and Roman craftsman were specialized to cut stones.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Portrayed Divinities on Mosaic Fountains</head><p>Usually the archaeologists call mosaic fountains, nimphaei, because Nimphae were divinities of rivers, lakes, springs, that is to say water. The importance of water in the mosaic fountain is testified by many factors. The first factor is the colour. In fact tree colours are often present in the mosaic fountain, the azure, the blue and the green and they are colours which remind us to the rivers, the sea, etc.. The reference to water is testified also by the divinities, animals and plants portrayed on mosaic fountains. In fact many time on mosaic fountains some divinities are portrayed like Neptunus, the king of the rivers, lakes, sea etc. Oceanus, Nereides, Venus with Cupidus, her little son, etc. Among the animals, we must remember gees, ducks, swans, dolphins, fishes and among the plants, the reeds. Another reference to the sea is the presence of many kinds of shells; generally they are put on the limits of mosaic fountains and they have the function of a frame; in other cases, the shells delimit a space for a decoration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3">Gardens in the Roman Houses</head><p>Usually in the Roman houses the mosaic fountains were in the gardens, in the open air, in contact with the sky, so the azure tesserae remind to the sky. So we have written, Venus was portrayed in mosaic fountains, but we must remember another aspect of this divinity; in fact Venus was also the divinity of the gardens and in Athens there was a sacred area, Oi Kepoi, that is to say "The Gardens", where Aphrodites, the Greek Venus, was venerated like Aphrodites en tois Kepois, that is to say "Aphrodites in the Gardens". So we can say, the mosaic fountains had two function: aesthetic function and religious function. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4">House of Big Fountain</head><p>"House of Big Fountain" (Figure <ref type="figure" target="#fig_0">1</ref>) lies near the Forum, the most important square in a Roman town, in the North-West area of ancient Pompeii. It is a good example of mosaic fountain in the Roman Age (La Rocca -de Vos -de Vos, 1994). The first phase of the "House of the Big Fountain" was built during Republican Roman Age; in fact the façade is built, in opus quadratum, by large stones. This house was subsequently transformed and in the last phase, a beautiful mosaic fountain was built in the west side of the garden (Figure <ref type="figure">2</ref>). The place of the fountain wasn't accidental, but it was well considered. In fact the fountain is in the garden, leant against the west closing wall of the garden; in that position, all the guests of the owner of the house could see it when they arrived.</p><p>Fgure 2. Mosaic Fountain</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5">Characteristics of the Mosaic Fountains</head><p>The archaeologist divide the mosaic fountains in many categories and this mosaic fountain belongs to aedicula, a Latin word meaning "little temple", because its shape is like a little Greek temple. So we have written, this fountain is a good example of mosaic fountain of Roman Age; in fact it has many characteristic of the mosaic fountains. Figure 5. Oceanus The first characteristic is the glass coloured tesserae and in this fountain we can admire "the triumph of the colours" (Figure <ref type="figure" target="#fig_1">3</ref>). Admiring this fountain, we can notice that the azure and the green are the predominant colours (Figure <ref type="figure" target="#fig_1">3</ref><ref type="figure">4</ref>). The religious aspect of this fountain is testified by the presence of Oceanus (Figure <ref type="figure">5</ref>). This divinity, not causally, is portrayed above a little rectangular covered lead space from where the water came out; so Oceanus gave kindly the water, symbol of life and joy. Let's notice that the colour of the tesserae in the background is the blue. On the upper part of the fountain, we can admire two very elegant white swans (Figure <ref type="figure">4</ref>); the birds are portrayed while they soar in the blue sky. Their position on the fountain is symmetric because the symmetry was a very important role in Greek and Roman architecture and decoration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.2">Decorations:</head><p>The presence of the swans in this decoration is very important because in the second-half of I century A. D., when probably the fountain was built, the swans are portrayed also in the painting and in the paintings of ancient Pompeii, we have many examples. Not only swans are portrayed in this fountain but also the gees (Figure <ref type="figure">6</ref>). The gees are portrayed lower, almost in the central zone of the fountain. They don't swim, may be we expect, but they are on their paws; but the bleu colour of the tesserae, in the background, remind us to water. So we have written, the shells are another very important factor for Roman mosaic fountain. This fountain has two kind of shells, the first is on the middle and on the upper part of the fountain (Figures <ref type="figure" target="#fig_1">3</ref><ref type="figure">4</ref><ref type="figure">5</ref><ref type="figure">6</ref><ref type="figure" target="#fig_3">7</ref>) and the second in on the low part (Figure <ref type="figure">8</ref>). The second kind of shell, the murex, was very important in the Roman Age, because, like the Phoenicians, the Romans used the murex to make the purple, a very expansive product that the Romans used to have the famous "purple red". The shells of murex form a line and upper there is a beautiful decoration with glass blue tesserae.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.3">Statues:</head><p>When this fountain was excavated, the archaeologists found in the basin a little bronze statue representing Cupidus, with a dolphin; nowadays this statue is in the National Archaeological Museum of Naples. We aren't amazed because Cupidus is Venus's son and Venus is one of the most important divinities representing on the mosaic fountains. This fountain is surely very elegant because not only mosaic tesserae decorate it, but in the low part, there are some marble slabs, a marble the basin, a little marble staircase and two marble mask for tragedy (Figure <ref type="figure">9</ref>). We can understand the presence of this mask if we remember the masterpieces of ancient Roman writers, like Petronius. This writer describes the dinners of the ancient Romans and so we know during the dinner they could watch a theatrical performances. Probably the owner of the "House of Big Fountain" had a dinner in the garden, in the open space, so the Romans loved and he watch a theatrical performances.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.4">Pumice stone:</head><p>Finally, the last characteristic of this fountain is the presence of pumice stone in the low part (Figure <ref type="figure">8</ref>). The pumice stone was used for decoration from the I century B.C. until the first years of II century A.D.. The Romans used pumice stone to make an impression of a cavern where often there was a spring.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">3DIVISION</head><p>A convenient 3D measurement method using consumer grade digital camera is enormously expected in various application fields with appearance of the low cost and high-resolution Figure 6. Gees &amp; Blue Tesserates Figure 8. Shell on the Low Part of the Fountain (a) Left Mask (b) Right Mask Figure <ref type="figure">9</ref>. Two marble mask on the Fountain consumer grade digital cameras, and there are many software for digital photogrammetry on the market in Japan. In these circumstances, many performance evaluations for consumer grade digital cameras have been investigated from the view point of digital Photogrammetry <ref type="bibr" target="#b2">(Fraser, 1997;</ref><ref type="bibr" target="#b5">Kunii et al., 2001</ref><ref type="bibr" target="#b7">, Noma, et al., 2002;</ref><ref type="bibr" target="#b3">Habib, et al., 2003)</ref>, and it has been concluded that consumer grade digital cameras are expected to become useful tool for convenient digital photogrammetry <ref type="bibr" target="#b5">(Kunii &amp; Chikatsu 2001</ref>). Furthermore,"3DiVision" under the key words; 3Dimension, Digital image and Visualization has been designed to perform convenient 3D measurement using consumer grade digital cameras <ref type="bibr" target="#b0">(Chikatsu &amp; Kunii 2002)</ref>. However, there are some issues for practical 3D measurements in many photogrammetric software including 3DiVision. One is surveying of Ground Control Points (GCPs) for camera calibration, and the other is interior orientation procedure which is implemented beforehand using test sheet or test target. Theses restrict conditions should be removed in ubiquitous digital photogrammetry using consumer grade digital cameras. In order to remove these restrict conditions and to promote a convenient digital photogrammetry using consumer grade digital camera, 3DiVision was improved using triplet images. Figure <ref type="figure" target="#fig_4">10</ref> shows the concept of the improved 3Division (Ver.2), and it was concluded that 3DiVision Ver.2 is expected to contribute the various close range application fields since interior and exterior orientation parameters are calibrated simultaneously without any GCPs on object space <ref type="bibr">(Chikatsu &amp; Ohdake 2006)</ref>. Furthermore, the most difficult part on the project regarding the fountains in Pompei was the graphic campaign, namely drawing the mosaic fountains, and it was realized that collaboration among the professional of different disciplines is absolutely necessary. In these circumstances, archaeological and photogrammetric investigations for the mosaic fountain and sculptures in Pompeii were performed in cooperation with archaeologist and photogrammetrist using 3DiVision Ver.2. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">ARCHAEOLOGICAL 3D MODELING</head><p>In order to investigate the mosaic fountains and statues using 3DiVision Ver.2, triplet images for the mosaic fountain and complex high relief sculptures were taken respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Mosaic Fountain</head><p>The mosaic fountain (Figure <ref type="figure">2</ref>) lay out in the garden of the House of the Big Fountain. This house lies near the Forum, the most important square in a Roman town, in the North-West area of ancient Pompeii. Figure <ref type="figure" target="#fig_0">11</ref> shows ortho image and Figure <ref type="figure" target="#fig_0">12</ref> shows contour map with 5cm interval.</p><p>On the contrary, Figure <ref type="figure" target="#fig_1">13</ref> shows range images, and Figure <ref type="figure" target="#fig_0">14</ref>,15 shows horizontal and vertical cross sections for the place where are shown in each figure. Figure 14. Horizontal Cross Section X P 1 (0,0,0) P 2 (D,0,0) P 3 (0,Y 3 .0) D Y A1 A3 A2 A1' A3' A2' A1 A3 A2 A1' A3' A2' (c) A1-A1' (c) A1-A1' Figure 11. Ortho Image Figure 12. Contour Map Figure 15. Vertical Cross Section</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Geometrical Features</head><p>Figure <ref type="figure" target="#fig_0">16</ref> shows horizontal cross section for A3-A3', and range images with a perfect circle 1.5ｍ in diameter restrictively. It can be seen from the horizontal cross section for Figure <ref type="figure" target="#fig_0">16</ref> (a), (b) that the fountain was produced cylindrically with perfect circle. Therefore, it can be said from this point that the Roman craftsmen were expert on sculptural technique. On the contrary, nevertheless it seems that the roof parts shows roundly (for example Figure <ref type="figure" target="#fig_1">3</ref>.), the roof part of the fountain shows linearity, doesn't show circle (Figure <ref type="figure" target="#fig_0">16</ref> (c)). From these results, it may be said that 3 dimensional illusionism was already fashionable among the Roman craftsmen.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3">3D Modelling</head><p>Recently, 3 dimentional visualization has been receiving more attention as a useful method to understand engineering phenomenon intuitively, or to find out important elements that we can't detect in usual simulation. Furthermore, visualization under virtual environment is efficient method from a view point that people can appreciate or experience the archaeological objects or historical space through the computer.</p><p>With this motive, 3D animation for the mosaic fountain and sculptures were performed.</p><p>Figure <ref type="figure" target="#fig_3">17</ref> shows triplet images and TIN models for the high relief sculptures which decollate the fountain. TIN model were generated after camera calibration, and 3D texture modelling were performed using texture which were taken by consumer grade digital cameras. Figure 16. Geometrical Features (c) Vertical Range Image (b) Horizontal Range Image 7cm 7cm</p><p>(a) Cross Section for A3-A3'</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">CONCLUSION</head><p>3 dimentional visualization is efficient method to understand the culture in those days intuitively. However, the most difficult issue for the archaeologists in an archaeological project is surly the graphic campaign, acquisition of geometrical information such as size, length and shape for the archaeological objects. On the contrary, a convenient 3D measurement method using consumer grade digital camera is enormously expected with appearance of the low cost and high-resolution amateur digital cameras.</p><p>In these circumstances, archaeological and photogrammetric investigations for the mosaic fountain in Pompeii were performed in cooperation with archaeologist and photogrammetrist.</p><p>As the results, it can be concluded that the mosaic fountains in Romen period were not only decoration of the gardens but also little sacellum from the view point of archaeological investigation. Similarly, it can be said that Roman craftsmen had high level skill in producing fountain, and 3 dimensional illusionism was already fashionable among the Roman craftsmen from the view point of geometric investigation using photogrammetric software 3DiVision. Furthermore, it is verified that all the details of mosaic fountain and the colours of tesserae which were obtained by digital photogrammetry using 3Division aren't altered. Consequently, it is concluded that collaboration among the professional of different disciplines is absolutely necessary, and the 3DiVision Ver.2 is expected to become useful software in the various photogrammetric application fields using consumer grade digital cameras. There is issue, however, for further work. This problem is development more simple and easy photogrammetric software, or more improvement of 3Division Ver.2 so that everyone can use in any situation without special technique.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. House of Big Fountain</figDesc><graphic coords="2,61.86,551.16,222.18,147.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The Triumph of the Colours</figDesc><graphic coords="2,327.84,600.60,197.52,131.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure</head><figDesc>Figure 4. Elegant White Swans 2.5.1 Colours:The first characteristic is the glass coloured tesserae and in this fountain we can admire "the triumph of the colours" (Figure3). Admiring this fountain, we can notice that the azure and the green are the predominant colours (Figure3-4). The religious aspect of this fountain is testified by the presence of Oceanus (Figure5). This divinity, not causally, is portrayed above a little rectangular covered lead space from where the water came out; so Oceanus gave kindly the water, symbol of life and joy. Let's notice that the colour of the tesserae in the background is the blue. On the upper part of the fountain, we can admire two very elegant white swans (Figure4); the birds are portrayed while they soar in the blue sky. Their position on the fountain is symmetric because the symmetry was a very important role in Greek and Roman architecture and decoration.</figDesc><graphic coords="3,204.72,133.50,77.52,84.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Shells on the Upper Part of the Figure 5</figDesc><graphic coords="3,61.80,552.90,219.84,74.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10. Concept of Improved 3DiVision</figDesc><graphic coords="4,303.18,516.18,89.92,130.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure</head><figDesc>Figure 13. Range Images</figDesc><graphic coords="4,393.18,511.20,131.85,216.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>Figure 17. 3D modelling of Sculptures</figDesc><graphic coords="5,341.94,598.68,168.72,117.00" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Performance Evaluation of Recent High Resolution Amateur digital cameras and Application to Modeling of Historical Structure, International Archives of Photogrammetry and Remote Sensing</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chikatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kunii</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">XXXIV</biblScope>
+			<biblScope unit="page" from="337" to="341" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ubiquitous Digital Photogrammetry by Consumer Grade Digital Camera, International Archives of the Photogrammetry</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chikatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tatsuya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Remote Sensing and Spatial Information Sciences</title>
+		<idno type="ISSN">1682-1750</idno>
+		<imprint>
+			<biblScope unit="volume">XXXVI</biblScope>
+			<date type="published" when="2006">2006</date>
+			<publisher>CD-Rom</publisher>
+		</imprint>
+	</monogr>
+	<note>PART</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Digital camera self-calibration</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Fraser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ISPRS Journal of Photogrammetry and Remote Sensing</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="149" to="159" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Automatic Calibration of Low-Cost Digital Cameras</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Habib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morgan</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Optical Engineering</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="948" to="955" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">I ninfei ed i larari a mosaico nell&apos;Area Vesuviana, in Actes du X Colloquium International de la Association Internationale pour l&apos;Etude de la Mosaique Antique</title>
+		<author>
+			<persName><surname>Iorio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">press</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On the Application of 3 Million Consumer Pixel Camera to Digital Photogrammetry, Videometrics and Optical Methods for 3D Shape Measurement</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kunii</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chikatsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Proceeding of SPIE</title>
+		<imprint>
+			<biblScope unit="volume">4309</biblScope>
+			<biblScope unit="page" from="278" to="287" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m">La Rocca -de Vos -de Vos</title>
+		<meeting><address><addrLine>Pompei, Milano</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">New System of Digital Camera Calibration, DC-1000</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Noma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Otani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kochi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the ISPRS Commission V Symposium</title>
+		<meeting>the ISPRS Commission V Symposium</meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="54" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Pernice</surname></persName>
+		</author>
+		<title level="m">Pavimente und figürliche Mosaiken</title>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1938">1938</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

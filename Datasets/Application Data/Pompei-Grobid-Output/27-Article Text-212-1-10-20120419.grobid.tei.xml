@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of KwaZulu-Natal</orgName>
+								<address>
+									<addrLine>1 J Murray</addrLine>
+									<settlement>Durban</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">IX Unisa Classics Colloquium, &quot;Greeks, Romans, Africans&quot;</orgName>
+								<address>
+									<postCode>2008</postCode>
+									<settlement>October</settlement>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6AF5DEFDAE140F46F014A723F7AF6289</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:30+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A traveller to the battlefields of the Anglo-Zulu War in Northern KwaZulu-Natal will come across, at Isandlwana, a memorial to the Natal Carbineers, an infantry regiment that served on the side of the British during the war. 2</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The memorial is situated on the site where the Carbineers made their last stand in the Battle of Isandlwana, as well as where Lieutenant Colonel Durnford, commander of the No. 2 Column and one of the most experienced officers in the battle, is said to have fallen. Alongside the article a poem was included, composed in Latin and accompanied by an English translation by the poet, styled simply by his or her initials C. D., entitled: "IN REDITUM VOLUNTARIORUM MILITUM CARMEN ALCAICUM" in Latin and "An Alcaic Ode on the Return of the Volunteers" in English. <ref type="bibr">5</ref> This poem is composed in Alcaic metre supposedly invented by the Greek lyric poet Alcaeus of Mytilene, as the title suggests. The accompanying English translation of the Latin poem is a somewhat free translation of the Latin, but is perhaps rendered in this fashion to preserve its poetic metre. In the poem the end of the war is celebrated, as is the return of husbands, brothers and sons from the war as well as the bravery and valour which the Natal Carbineers were said to have demonstrated on the battlefield at Isandlwana. In the poem, a traveller passing by is addressed and asked to remember the sacrifice made by these men for their country during the war. Reading both of these poems begs the question: why did those commemorating the dead at the Battle of Isandlwana in 1879 choose to compare them to those who died at Thermopylae over two thousand years before? Since Homer's Iliad, war and poetry have shared a fraternal bond. Poetry often is used to express public, and private, sentiment during and after wartime. One of the most employed genres of poetry during wartime is the epitaph. This genre is, as Anne Carson (1999:73) rightly affirms, a genre of verse that profoundly concerns itself with "seeing what is not there" and it attempts to "insert a dead and vanished past into the living present". <ref type="bibr">6</ref> She also notes that, since at least from Homer onwards, an epitaph has been used as a way to alert someone passing by to stop and remark on it (Carson 1999:73). <ref type="bibr">7</ref> The Greco-Persian Wars of the 5 th Century BC also inspired many epitaphs, like other wars, and provided for Simonides, the "unofficial poet" of these wars, a subject for numerous lines of his poetry. <ref type="bibr">8</ref> Simonides was the most prolific composer of epitaphs in antiquity and in fact set the conventions of the genre (Carson 1999:73). He is attested to have composed poems or epigrams for all of the major battles of the Greco-Persian Wars: Plataea, Artemisium and Salamis. 9 It is his poems for Thermopylae, however, that won him the most fame in the minds of the West and perhaps more importantly won immediate fame for the Spartan dead. Herodotus records three epigrams, which he attributes to Simonides, for the dead at 5 This poem is reproduced in full in the Appendix.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>6</head><p>Presumably what Carson means by "seeing what is not there" is the fact that the epitaph stands, usually, in the place of the fallen, or the battle, and so allows the reader to "see" the battle, or fallen soldiers who were in the very same place previously by reading the poem.</p><p>7 Also see Iliad 7.81-91. 8 Simonides as a professional poet composed numerous poems for cities, athletes and rulers. While composing poems for the Persian Wars, it is not clear which were, if any, specifically commissioned. 9 For Plataea, see POxy 3965; see also Boedeker 1996:223-242. There are two possible poems ascribed to Simonides for the Battle of Artemisium see Podlecki 1968:262-266. For the Battle of Salamis, see Fr. 65 D quoted in Plutarch's de malignitate Herodoti.</p><p>Thermopylae. <ref type="bibr">10</ref> The first epigram was composed for all the Greeks who fell at Thermopylae; it reads: Muri£sin pot t´de triakos…aij ™m£conto ™k Peloponn£sou cili£dej tštorej.</p><p>Four thousand from the Peloponnese once here fought Against three hundred myriads.</p><p>Secondly, one specifically for the Spartans, quoted previously, and thirdly and finally, one for the seer Megistias, which reads as follows:</p><p>MnÁma tÒde kleino‹o Megist…a, Ón pote MÁdoi SperceiÕn potamÕn kte‹nan ¢meiy£menoi, m£ntioj, Öj tÒte KÁraj ™percomšnaj s£fa e"dëj oÙk oetlh Sp£rthj ¹gemÒna prolipe‹n.</p><p>Here is a memorial of famous Megistias, whom once the Medes Killed, having crossed the Spercheius river, A seer, who, knowing plainly that his doom was approaching, Did not dare to desert the leader of the Spartans.</p><p>Collectively these poems celebrate the loyalty, bravery and obedience that the Greeks demonstrated at the Battle of Thermopylae. However, it is Simonides' epigram for the Spartan dead in particular that has received the most attention by scholars and writers alike, becoming the epigram par excellence of the genre and has been described as demonstrating "edle Einfalt und stille Größe". 11 It is therefore no surprise that it was this epigram in particular, apart from the rest, which was used in commemorating the British and their dead at the Battle of Isandlwana.</p><p>Apart from these epigrams recorded by Herodotus, Diodorus Siculus also records an encomium, which he states Simonides wrote in praise of the Spartans' valour at Thermopylae.<ref type="foot" target="#foot_1">foot_1</ref> 10 Hdt. 7.228. For a discussion on whether all three epigrams are the work of Simonides or only the final one concerning Megistias, see Podlecki 1968:257-275. For the purposes of this article I have assumed single authorship. 11 Kytzler 2004:325 "noble simplicity and quiet greatness". Writers as varied as Cicero in antiquity, the German polymath Friedrich Schiller as well as more modern writers like Heinrich Böll and William Golding have all appropriated Simonides' epigram. Adolf Hitler himself appropriated the epigram into a German context. In Mein Kampf (1925) Hitler appeals to the Spartans' valour at Thermopylae in comparing them to the Germans who fought in the Great War. He writes: "Traveller, when you come to Germany, / Tell the Homeland that we lie here, true to / the Fatherland and faithful to our duty". Even in recent years, popular fiction writer Steven Pressfield has also adapted the epigram in his 1999 novel, Gates of Fire, as has Frank Miller in his 1998/9 graphic novel 300.</p><p>The poem reads as follows: tîn ™n QermopÚlaij qanÒntwn eÙkle¾j mn ¡ tÚca, kalÕj d' Ð pÒtmoj, bwmÕj d' Ð t£foj, prÕ gÒwn d mn©stij, Ð d' otoj oepainoj. ™nt£fion d toioàton oÜt' eÙrëj oÜq' Ð pandam£twr ¢maurèsei crÒnoj ¢ndrîn ¢gaqîn. Ð d shkÕj o"kštan eÙdox…an `Ell£doj e †leto. marture‹ d Lewn…daj Ð Sp£rtaj basileÚj, ¢ret©j mšgan leloipëj kÒsmon ¢šnaÒn te klšoj.</p><p>Of those who perished at Thermopylae All glorious is the fortune, fair the doom; Their grave's an altar, ceaseless memory's theirs Instead of lamentation, and their fate Is chant of praise. Such winding-sheet as this Nor mould nor all-consuming time shall waste. The sepulchre of valiant men has taken The fair renown of Hellas for its inmate. And witness is Leonidas, once king Of Sparta, who hath left behind a crown Of valour mighty and undying fame.</p><p>Diodorus interprets their stand at Thermopylae as an act of extreme self-sacrifice, having given up their own lives for the common salvation of the Greeks. <ref type="bibr">13</ref> Aided by this outpouring of poetry, one could easily conclude with Burn (1984:420-421) that the legend of Thermopylae was "not slow to be born". Simonides and his fellow Greeks, Herodotus and Diodorus, were not the only ones in antiquity to fuel the flames of the legend of Thermopylae. Similarly the Romans too, looked back to Thermopylae as an exemplum of courage and bravery. Aulus Gellius in his Noctes Atticae records that Cato the Elder in his work Origins, which we now possess only in fragments, made one of the earliest comparisons of a battle subsequent to the one at Thermopylae. He compares Leonidas and his three hundred Spartans to the Roman military tribune Caedicius and four hundred of his men. During the first Punic War, seeing that the Carthaginian general had advanced to a superior strategic point, and thus had exposed the Roman soldiers to attack, Caedicius approached the consul and offered himself and his four hundred men to advance against the enemy with the outcome of being slaughtered, but in so doing enabled the rest of the Roman army to move to a position of safety. According to Cato, all four hundred men fell except Caedicius, who although being severely wounded was recovered to safety by his fellow soldiers. According to Aulus Gellius, Cato made the comment that, unlike his Greek counterpart Leonidas, Caedicius received little glory for his deeds. He states that:</p><p>Leonidas Laco, qui simile apud Thermopylas fecit, propter eius virtutes omnis Graecia gloriam atque gratiam praecipuam claritudinis inclitissimae decoravere monumentis: signis, statius, elogiis, histories, aliisque rebus gratissimum id eius factum habuere; at tribuno militum parva laus pro factis relicta, qui idem fecerat atque rem serverat.</p><p>The Laconian Leonidas, who performed a like exploit at Thermopylae, because of his valour won unexampled glory and gratitude from all Greece, and was honoured with memorials of the highest distinction; they showed their appreciation of that deed of his by pictures, statues and honourary inscriptions, in their histories, and in other ways; but the tribune of the soldiers, who had done the same thing and saved an army, gained small glory for his deeds. <ref type="bibr">14</ref> Thus the British appropriation of Thermopylae and Simonides' epigram is not without precedents. In fact the Battle of Thermopylae has been "misappropriated" as recently as the Second World War, when Hermann Göring used the battle as a comparable model of the Nazi's battle for Stalingrad. <ref type="bibr">15</ref> A crucial fact that must also be kept in mind with regard to the use of Thermopylae as a model for those in the British colony during this period is the influence of Greece and Rome on Victorian Britain. The influence of the classical tradition on the Victorian era has been clearly demonstrated by scholars such as Norman Vance (2007:87-100). Vance has established the heritage of Greece and Rome on all areas of Victorian life; from politics and religion to even things as banal as the steam engine. One may surmise then that this influence was felt even in Britain's colonies. In fact, not only did the classical world in general influence this period, but Ian Macgregor-Morris argues, convincingly, that the second half of the 18 th century and the first half of the 19 th can be understood as the "Age of Leonidas" in Britain in particular, stating that it was during this period that "Leonidas and Thermopylae served as moral ideals [and] were seen to epitomise the often vaguely defined virtues of patriotism and liberty, virtues that were to play such a crucial role in the thought and politics of the period" (Macgregor-Morris 2000:11). And he goes on to state that, "at a time when the classical tradition was reaching its height in the public consciousness, Leonidas and Thermopylae represented the very qualities for which antiquity, and ancient Greece in particular, were being venerated" (Macgregor- Morris 2000:11). <ref type="bibr">16</ref> This provides perhaps one more motive for turning to Thermopylae as an exemplum for the Battle at Isandlwana. Closer reflection, however, on the appropriation of the Battle of 14 Aul. Gell. NA 3.7, trans. Rolfe 1961.   15   See Kytzler 2004:328-329 &amp; Hardwick 2003:1 for the relevance of this comparison in view of its context.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>16</head><p>In fact, other Classical references are also to be found in Anglo-Zulu War poetry. For example: H. B. Worth calls upon Melpomene, the muse of tragedy, to aid him in his poetical composition in Victoria Aut Gloria, and in another anonymous stanza, Virgil is referred to: The youths that Virgil celebrates, / And makes immortal by his song , / Did not much braver things than these … Both of the texts of these poems are quoted in Verdonck 2006:93-108.  Thermopylae as well as Simonides' epigram by the British in commemorating their own dead at Isandlwana proves to be problematic.</p><p>At Thermopylae a small Greek force, comprising of Thebans, Thespians and Spartans and led by Leonidas, the Spartan king, were willing to sacrifice themselves for the greater good of Greece. They fought in defence of their land against the expansionist Persian Empire and with the desire to live free from the tyrannical rule of the Great King. These Greeks held off the Persian king, Xerxes, and his far larger army for two days at the pass of Thermopylae, until finally being betrayed on the third day by Ephialtes and being overcome. All died except a few Thebans, who are said to have surrendered. It is one of the key encounters between the Persians and the Greeks in the Persian Wars, and yet unlike the battles of Marathon, Salamis and Plataea, Thermopylae was a defeat for the Greeks. Like Thermopylae, historians of the Battle of Isandlwana also remain undecided on the actual events of the battle, with many of the sources offering differing accounts. <ref type="bibr">17</ref> The basic account of events is as follows: on the 11 th of January 1879 British troops under the command of Lord Chelmsford entered Zululand to enforce an ultimatum made by Sir Bartle Frere in the previous month. This ultimatum had demanded the payment of fines, surrender of certain Zulu men to colonial authorities and, most importantly, the abolition of the Zulu military system. It was only a few days later, on the 22 nd of January, that these troops who had entered Zululand with high hopes of imperialist expansion, received a severe blow when their soldiers stationed at Isandlwana were thoroughly defeated at the hands of the Zulus. This Battle at Isandlwana proved to be a blemish on the "glory" of the British Empire. One similarity between the Greeks at Thermopylae and the British troops at Isandlwana was that they were both far outnumbered by their opponents who had far larger forces. But unlike Thermopylae, the British at Isandlwana had no natural geographical features that would aid their smaller numbers. Despite not having a narrow pass to manipulate to their advantage, the British did manage to back themselves up against the hill of Isandlwana, to prevent attack from the rear. What we can know for certain is that like the Greeks at Thermopylae, it was a defeat for the British and a decisive victory for the Zulus, unlike the other battles of the Anglo-Zulu war such as Rorke's Drift and Ulundi, in which the British demonstrated superior tactical skills and armament. <ref type="bibr">18</ref> But conversely to Thermopylae, it was the British fighting at Isandlwana who were the aggressors with imperialistic aims and instead it is the Zulus who fought to defend their freedom against the territory-grabbing British. A comparison between the Zulus and the Spartans in terms of their similarities as martial societies has been undertaken before; this comparison, however, is not in relation to the Battle of Thermopylae. <ref type="bibr">19</ref> However, if this comparison was extended to Isandlwana and Thermopylae, it would be a logical result to match the Zulus with the Spartans and make the British 17 See Morris 1965, Guy 1979 and Lock 2002. There is a dearth in literature (whether in English or Zulu) on the Anglo-Zulu War from a "Zulu perspective". See Cope 1981:41-50 for an explanation of this, and for a general survey of literature on the war up to 1980.</p><p>synonymous with the Persians. This brief description of the antagonists and defenders at both Thermopylae and Isandlwana hopefully demonstrates the problematic nature of this appropriation.</p><p>It must be noted that apart from the Battle at Isandlwana, the battle at Rorke's Drift, another major conflict during the Anglo-Zulu War, which occurred on the same day as the Battle of Isandlwana, approximately 10 kilometres west of Isandlwana, across the Buffalo River, has also been likened to Thermopylae in poetry. In another poem printed in the Cape Times on the 20 th of February 1879, an unnamed poet wrote:</p><p>For in that little fortress Five score at most held out, While twice two thousand Zulus Raised high their battle shout. 'Twas but a hundred heroes -Leonidas had three -Yet have they made of that stockade A new Thermopylae! Unlike the Battle of Isandlwana, the Battle of Rorke's Drift was a victory for the British and thus immediately a comparison with Thermopylae breaks down. It did however demonstrate the British troops' ability to hold out against a much larger force in a similar manner to those Greeks at the Anopaean path. Therefore the motif of "few against many" is appropriate to the comparison. At the mission station by Rorke's Drift, 139 British troops successfully defended themselves against a mass of some 4000 Zulu warriors. Due to large casualties, the Zulus began withdrawing after midnight, ending their attack completely sometime after 4 a.m. The battle was celebrated as a victory by the British and the Victoria Cross, which is the highest military decoration awarded to British forces for valour in warfare, was awarded to eleven of the men who took part in the defence at Rorke's Drift.</p><p>Another longer poem also purporting to compare Rorke's Drift to Thermopylae appeared in Britain in March of 1879. The poem in fact compares the Battle of Isandlwana to Thermopylae. Presumably because both battles were fought on the very same day and conflicting news reports were circulated, the poet confused the two battles. Written by Albert H. Bencke, the poem's title: Thermopylae BC 480. Rorke's Drift, Natal AD 1879 as well as its subtitle: "An Historical Parallel", immediately signals to the reader the intended comparison. In his preface to the poem, Bencke states his intentions:</p><p>The following lines were written on the first arrival of the news of destruction of a wing of the 24 th Regiment, when such expression as "disgraceful defeat", "tarnished honour", "humiliating disaster", were used by certain journals with most unseemly freedom.</p><p>It was to combat these expressions that these lines were written.</p><p><ref type="url" target="http://akroterion.journals.ac.za">http://akroterion.journals.ac.za</ref> </p><p>The poem is divided into two shorter poems, one on the Battle of Thermopylae consisting of eight quatrains and the second focusing on the events of the day of both battles: Isandlwana and Rorke's Drift. This poem, although originally nine stanzas also of four lines each, was altered by Bencke, who replaced stanza VII with two other quatrains. The first poem recalls that the "brave and free" Greeks under Leonidas held the pass at Thermopylae against the Persians. The size of the opposing forces is alluded to, with the Greeks being described as "the little band of heroes" and the Persians simply as "the mighty host" or again, "the mighty foe". The Greeks' unwillingness to flee from the battle, but rather to stay and fight until death is also recalled:</p><p>Nought remains except to die; / Yet the little band of heroes / One and all disdain to fly.</p><p>Stanza VI reports the positivist views held by most of the Battle of Thermopylae: Scanty is the Persian triumph, / Though, indeed, they win the pass … Despite the Persian victory at Thermopylae, post-battle propaganda viewed the defeat as a sort of victory, or at very least a spur for the Greeks onto later victory at Salamis. 20 This is also pointed out by Bencke in the poem:</p><p>Nor in vain was great example, / As the Persians found, I wis, / When it taught the Grecian people / How to win at Salamis. The final stanza of the "Thermopylae poem" demonstrates something of the mirage created for Sparta because of the Battle of Thermopylae, it reads: Many a fight have won the Spartans, / Battles great, by land and sea, / But their Maidens' boast was ever / How was lost Thermopylae.</p><p>The juxtaposition of "won" in the first line with "lost" in the last poignantly illustrates Thermopylae's importance in Sparta's military history.</p><p>Despite the title of the second poem: "Rorke's Drift AD 1879" the majority of the poem is spent reflecting on the defeat suffered by the British at the hands of the Zulus at Isandlwana. It begins by referring to the "woeful sad disaster" that the Battle of Isandlwana turned out to be for the British. The weather ("On a gloomy winter's evening") in Britain reflects the mood that the public must have felt upon hearing of the defeat. The implications of shame and honour that the defeat caused for the soldiers and the country are then appealed to in stanza II. Again, like in the "Thermopylae poem" the size of each of the armies is noted ("Twenty thousand savage foemen") and the Zulus are described to be, despite being "savage", trained and armed with European skill and weapon. <ref type="bibr">21</ref> Bencke aims to stress the point that only because of the "civilizing" aspect of European culture are these "barbarians" 20 Perhaps the English idiom "You may have won the battle, but you will not win the war" is most appropriate.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>21</head><p>The fact that the Zulus had large quantities of European firearms is attested to by historians of the Anglo-Zulu War, but that they were trained to use them is another matter. Greaves 2002:67 notes: "By the time of the British invasion the Zulu army possessed firearms in large numbers … but most Zulus were untrained and highly inaccurate …" able to win the battle. In stanza V, Bencke appeals to his reader to forbear their cry of "Shame" until they have heard of the noble stand made by the few troops at Rorke's Drift. Much is made in the poem of the loss of "colours" of the Queen's 24 th Regiment of Foot. This anecdote from the final stages of the Battle of Isandlwana has proved popular in subsequent retellings of the battle. The details are as follows: Lieutenants Melville and Coghill, mounted officers of the 24 th Regiment, in an attempt to save the Queen's Colours from the Zulus, escaped from the camp and made a heroic ride of about 5 miles to the Buffalo River. Both were able to cross the river but on the Natal bank were killed by the local Zulus. During the river crossing, with the river being in flood, the flag was inadvertently lost down the river, uncaptured by the Zulus, on whom the significance of capturing the colours was lost. They were subsequently retrieved after the battle, after which they were returned to Britain and now reside, displayed in Brecon Cathedral in Wales. Bencke's initial manuscript seems to have been written prior to the recovery of the flag. In his unedited text, he acknowledges that Lieutenants Melville and Coghill lost the Queen's Colour. However in the emended stanzas he writes: Rumour said they lost the colours, / Gold inwrought with fame of old, / But t'was false, alone there failed / Hands the colours to uphold.</p><p>He acknowledges the two soldiers' deaths in attempting to save the flag: E'en in death they yet preserved them, / Twain they died the flag to save.</p><p>Stanza eight provides the now well-worn motive for the soldiers' "heroic" deaths: Death they could not but foreknow / Yet to save their country's honour / Died, their faces to the foe.</p><p>Like at Thermopylae the soldiers resigned themselves to their impending deaths for honour's sake. The final stanza of the poem questions the notions of honour and shame in this battle, most probably in opposition to contemporary journalists' reports, and it appeals to the immortal glory that the soldiers have won for themselves by dying on their country's behalf: Yea so long as time may be / Purest glory shall illumine / "Twenty-fourth's" Thermopylae!</p><p>The poem attempts to salvage the reputation of the British soldiers' conduct at the Battle of Isandlwana. By appealing to the epic stand at Rorke's Drift after the defeat at Isandlwana, the public's attention was focused away from the shame of the defeat and onto the honour of the victory, no matter how small it was. Greaves (2002:178)  rightly concludes: "an inglorious defeat could be offset by a glorious victory".</p><p>The Battle of Thermopylae, Cartledge (2004:171) argues, was subsequently used by the Greeks as a "morale victory". And as Peter Green (1996:145) has argued, the defeat at Thermopylae in fact spurred Greece on to victory at the Battles of Salamis and Plataea. So in a similar way, the shame that the defeat at Isandlwana caused for the British, spurred them on to their ultimate victory at the last major battle of the Anglo-Zulu war: the Battle of Ulundi on the 4 th of July 1879. Jeff Guy  (1979:53-54) writes of the British responses to Isandlwana: "there was no debate over the fact that the Zulu had to be punished for daring to defend their independence so effectively". The only other similarity between the two groups of soldiers is that they both fought in obedience to their orders, the Spartans to their laws and the British under Chelmsford's command.</p><p>The British forces' sentiment towards the war at Isandlwana is perhaps akin to those of the Spartans at Thermopylae. For, judging by the tone of these poems, the British forces viewed fighting and dying for one's country as something noble. Lines in the inscription like the ones that state: "Falling To Dye The Earth / With Brave Men's Blood" glamourises men who die in battle on behalf of their country as brave.</p><p>And again, so too do the following lines of the poem printed in the Natal Witness:</p><p>Contemnit audax. Duxit in ardua Virtus repulsae nescia vel fugae, Lauroque ditavit future, Heu nimium juvenes fideles! Inter profundae laetitiae sonos, Sunt quas amarus flere iubet dolor, Optata non illas salutant Oscula, nec tenerae loqulae. But that man fears dishonour more than death, Whom freedom nurtures with sure trust in God; He goes unflinching through opposing troops, And blenches not at war's uplifted rod, Brave because true. So our too trustful lads, Valour, which knows not how to cringe or fly, Beckoned right on to danger and to fame, And left them all to suffer, some to die. Or again: Hinc homines procul Cedant profane. Sistite paullulum, Vos o viatores! Honore Ne careant patriae sepulcra. Nam sempiterna est gloria; posteris, Quum nostra dudum praeteriit dies, Narrabit Isandlwana nomen, Nobilium facinus viorum.</p><p>… Let no rude step profane These sacred precincts. Traveller, pause awhile; They who lie here died for their country's sake, Their memory shall enjoy their country's smile.</p><p>Self-sacrifice ne'er dies. And still when down The stream of time our record disappears, Will Isandlwana to our sons proclaim The noble exploits of our Carbineers.</p><p>These lines excerpted from the longer poem are addressed, like Simonides' epigram, to a traveller who would pass by the place where the fallen soldiers lie, and they express attitudes to war and death that would have been all too familiar in Spartan society. The tone of the poem is often exultant, despite acknowledging the defeat that the battle was. Praise is assigned to those who died, not for their victory in battle, but rather for the way they conducted themselves in defeat and for going to their deaths bravely. Despite the optimistic tone of the poem, however, the following lines acknowledge and mourn the losses felt on the side of the British. However, these losses are used to assign even more glory to the self-sacrifice the soldiers made on behalf of their country:</p><p>Inter profundae laetitiae sonos, Sunt quas amarus flere jubet dolor, Optata non illas salutant Oscula, nec tenerae loqulae.</p><p>Forget not how amidst yon notes of joy, Bleeds many a woman's silent aching heart, Whose lips no more one other's lips may meet, Nor to his ear love's tender words impart.</p><p>In discussing the poetry of often anonymous poets, on the periphery of the Victorian canon, who sought to commemorate the battles of Anglo-Zulu War in their verse, Verdonck (2006:98) states:</p><p>In adopting the idiom and the structure, then, both rhetorical and metaphorical, generally associated with the auctoritas of Greco-Roman antiquity and the chivalric fantasia of medieval times, these poems mean to position themselves (as minstrels, the medium of heroism) and the heroes of which they sing the praise (the very currency of these ancient narratives) on a historical continuum which works at bringing together the British empire and the mythical dominion of a past that is univocally perceived as heroic and venerable.</p><p>In other words, these poets are doing their very best to place the "heroes" and battles that they write about in a long and established tradition of glory and praise. The atmosphere that these poems create, and the language -often ornate, archaic and grandiloquent -within which this atmosphere is couched, creates a heroic credibility to the dismal outcome of events at Isandlwana for example, and justifies the very presence of the British in Natal and Zululand. In effect, as Verdonck (2006:98)  rightly concludes: "These poems, in short, want poetry, not history, in the Aristotelian sense".</p><p>Similar to the sentiments expressed by the British are the well-known laconic sayings such as the one attributed to a Spartan woman and mother, by Plutarch, in which the Spartan mother after having given her son a shield encourages him to either return with it or on it. <ref type="bibr">22</ref> The mother expects her child to either return victorious to Sparta, or if not, to have died in combat. In a similar way to Plutarch, Herodotus also illustrates these shared sentiments and attitudes by relaying the story of Aristodemus, one of the three hundred who escaped death on account of his blindness. Unlike a fellow-Spartan, Eurytus, who was also suffering with ophthalmia, but rejoined the three hundred to die by their sides, Aristodemus returned to Sparta, where, Herodotus tells us, he was disgraced and dishonoured. No Spartan gave him fire, or spoke to him except to label him a coward. <ref type="bibr">23</ref> In a similar story Herodotus tells of one Pantites, who by carrying a message to Thessaly, also did not die with Leonidas and his three hundred men. <ref type="bibr">24</ref> In shame, however, he committed suicide upon his return to Sparta. Xenophon traces the origins of this shame and honour culture to Sparta's legendary law-giver Lycurgus, stating that "Axion d toà LukoÚrgou kaˆ tÒde ¢gasqÁnai, tÕ katerg£sasqai ™n tÍ pÒlei aƒretèteron enai tÕn kalÕn q£naton ¢ntˆ toà a"scroà b…ou.</p><p>He caused his people to choose an honourable death in preference to a disgraceful life. <ref type="bibr">25</ref> The passage goes on to illustrate how Lycurgus achieved this feat: ™ke‹noj to…nun safîj pareskeÚase to‹j mn ¢gaqo‹j eÙdaimon…an, to‹j d kako‹j kakodaimon…an. ™n mn g¦r ta‹j ¥llaij pÒlesin, ÐpÒtan tij kakÕj gšnhtai, ™p…klhsin mÒnon oecei kakÕj enai, ¢gor£zei d ™n tù aÙtù Ð kakÕj t¢gaqù kaˆ k£qhtai kaˆ gumn£zetai, ™¦n boÚlhtai• ™n d tÍ Lakeda…moni p©j mn ¥n tij a"scunqe…h tÕn kakÕn sÚskhnon paralabe‹n, p©j d' ¨n ™n pala…smati suggumnast»n.</p><p>Clearly, what he did was to ensure that the brave should have happiness, and the coward misery. For in other states when a man proves a coward, the only consequence is that he is called a coward. He goes to the same market as the brave man, sits beside him, attends the same gymnasium, if he chooses. But in Lacedamon everyone would be ashamed to have a coward with him at the mess or to be matched with him in a wrestling bout. In summation then, Spartans were bound to their honour, which depended to a large degree on how the fellow-members of their society perceived them. The Victorian British were by no means a shame and honour society to the same extreme as that of the Spartan one, but in a similar way did place huge importance on an individual's standing in society, and so too in a similar way believed that death for the sake of one's country was a noble thing. <ref type="bibr">27</ref> The Chief Justice, Sir Henry Connor, is reported in the Natal Witness on the 9 th of August 1879 as insisting that to die fighting for England at Isandlwana was "as they knew from the days of their Latin Grammar, an honourable and a beautiful thing". <ref type="bibr">28</ref> And in the same vein, Sir Henry Bulwer, the Governor of Natal, is reported as saying:</p><p>We rejoice to know that when the danger of that fierce death came suddenly upon them, our men faced it bravely, and that they gave up their young lives gallantly and nobly, and that their death was a soldier's death, a death honourable to all men … [and] that they have done their duty right-well, and that they have worthily upheld the reputation of this Colony. <ref type="bibr">29</ref> These similarities, then, that remain between the Greeks fighting at the Battle of Thermopylae, and the British in the battles of the Anglo-Zulu War, particularly Isandlwana, are shown in the views held by each side with regard to war and death experienced in battle in the service of one's country. The differences between them, however, are numerous, and we must therefore conclude that the battles of the Anglo-Zulu War definitely do not present an African Thermopylae.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>27</head><p>This ideal was heavily criticized by another "war poet", Wilfred Owen in his poem on the First World War: Dulce et Decorum est published posthumously in 1920. In this poem, quoting wellknown lines from Horace's Odes 3.3.13, Owen states that, if seeing the horrors of war, and in his case the trench warfare of the First World War, then a person would not tell a child the "old lie" that dying for one's country is fitting and sweet.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 :</head><label>2</label><figDesc>Fig. 2: Inscription on Natal Carbineers Memorial, Isandlwana. Author's photo, 2009.</figDesc><graphic coords="2,113.28,169.08,368.76,481.68" type="vector_box" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Lac. 9.1, trans.Marchant 1968.  </figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>http://akroterion.journals.ac.za</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="12" xml:id="foot_1"><p>  Diod. Sic. 11.11.6, trans. Oldfather 1961.    http://akroterion.journals.ac.za</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="13" xml:id="foot_2"><p>  Diod. Sic. 11.11.1.    http://akroterion.journals.ac.za</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="18" xml:id="foot_3"><p>Despite it being a victory for the Zulus, they themselves considered it a Pyrrhic victory due to the large casualties they suffered. This was told to me by a guide at the battlefield.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="19" xml:id="foot_4"><p>  See Ferguson 1918:197-234.    http://akroterion.journals.ac.za</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_5"><p>Xen. Lac. 9.3-4, trans. Marchant 1968.    http://akroterion.journals.ac.za</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="28" xml:id="foot_6"><p>Apart from receiving a classical education at school, where authors like Herodotus were read, books like Richmal Mangnall's Historical and Miscellaneous Questions for the Use of Young People (1858) were available to children and covered topics ranging from Greek History (Thermopylae included) to Astronomy.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="29" xml:id="foot_7"><p>Natal Witness, 9 August 1879.http://akroterion.journals.ac.za</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>APPENDIX</head><p>Poem printed in the Natal Witness, 9 August 1879.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IN REDITUM VOLUNTARIORUM MILITUM CARMEN ALCAICUM.</head><p>Gaudete cives! Festus adest dies, Rursum refulsit, nubile dividens, Sol vester, et  Ah! Why recall to mind that fateful day (The sun himself turned sickening from the sight), When overwhelmed, not beaten, our brave band Yielded their lives in internecine flight.</p><p>None can forget the furious torrent force, The reckless courage of the Zulu host, Nor how a noble pair the colours saved, By their own death, nor grudged the fearful cost.</p><p>Where sleep the brave, the Cross reveals our hope; Those lofty guardian rocks rear high their heads, A lingering breeze sighs sweetly through the bents, The neighbouring bush a hallowing influence sheds With songs of bird. Let no rude step profane These sacred precincts. Traveller, pause-awhile; They who lie here died for their country's sake, Their memory shall enjoy their country's smile.</p><p>Self sacrifice ne'er dies. And still when down The stream of time our record disappears, Will Isandlwana to our sons proclaim The noble exploits of our Carbineers. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Economy of the Unlost: Reading Simonides of Keos with Paul Celan</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">What have the Spartans done for us? Sparta&apos;s contribution to Western civilization</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Cartledge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="164" to="179" />
+			<pubPlace>Greece &amp; Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The Zulu War in Zulu Perspective</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cope</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Theoria</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="42" to="50" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ferguson</surname></persName>
+		</author>
+		<title level="m">The Zulus and the Spartans: A Comparison of their Military Systems. Harvard African Studies</title>
+		<imprint>
+			<date type="published" when="1918">1918</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="197" to="234" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Rork&apos;s Drift</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Greaves</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Jonathan Ball</publisher>
+			<pubPlace>Johannesburg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The Greco-Persian Wars</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Green</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>California &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guy</surname></persName>
+		</author>
+		<title level="m">The Destruction of the Zulu Kingdom: the civil war in Zululand</title>
+		<meeting><address><addrLine>Cape Town</addrLine></address></meeting>
+		<imprint>
+			<publisher>Longman</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="1879" to="1884" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Reception Studies. Greece &amp; Rome</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hardwick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New Surveys in the Classics No. 33</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">A (</forename><surname>Hitler</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">James</forename><surname>Murphy</surname></persName>
+		</author>
+		<title level="m">2007. A Companion to the Classical Tradition</title>
+		<editor>
+			<persName><forename type="first">Mein</forename><surname>Kampf</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>London: Hutchinson &amp; Co</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Kallendorf</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell Publishing</publisher>
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ein Übersetzungsvergleich</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kytzler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Analecta Homini Universali Dicata</title>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Krisch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Lindner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Stuttgart</addrLine></address></meeting>
+		<imprint>
+			<publisher>Verlag Hans-Dieter Heinz</publisher>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page" from="324" to="332" />
+		</imprint>
+	</monogr>
+	<note>Wanderer, Kommst du ..</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Zulu victory: the epic of Isandlwana and the cover-up</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lock</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Greenhill Books</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">The Age of Leonidas</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Macgregor-Morris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Manchester</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Xenophon: Scripta minora</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Marchant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Bowerstock</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1968">1968</date>
+			<publisher>Heinemann</publisher>
+			<pubPlace>Cambridge, Mass. &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The washing of the spears: a history of the rise of the Zulu nation under Shaka and its fall in the Zulu War of 1879</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morris</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Oldfather</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Diodorus Siculus: Library of History</title>
+		<imprint>
+			<biblScope unit="volume">II</biblScope>
+			<date type="published" when="1961">1961</date>
+			<publisher>Heinemann</publisher>
+			<pubPlace>Cambridge, Mass. &amp; London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Podlecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Historia: Zeitschrift für Alte Geschichte</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="257" to="275" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rolfe</surname></persName>
+		</author>
+		<title level="m">1961. Aulus Gellius: The Attic Nights</title>
+		<meeting><address><addrLine>Cambridge, Mass. &amp; London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Heinemann</publisher>
+			<biblScope unit="volume">I</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Victorian</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Vance</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">A Companion to the Classical Tradition 87-100</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Kallendorf</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell</publisher>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Those Colours Saved For Better Days&quot;: History and Myth in the Poetry of the Battle of Isandlwana, Zululand, 1879. A New Historicist Reading</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Verdonck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Belgian Journal of English Language and Literatures</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="93" to="108" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

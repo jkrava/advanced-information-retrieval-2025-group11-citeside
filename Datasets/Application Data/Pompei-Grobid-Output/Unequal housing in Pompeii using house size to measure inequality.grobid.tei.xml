@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Unequal housing in Pompeii: using house size to measure inequality</title>
+				<funder ref="#_dpZRdFu #_ZtnDANc">
+					<orgName type="full">European Research Council</orgName>
+				</funder>
+				<funder ref="#_tHTkET2">
+					<orgName type="full">Governance and Space: Questioning the Foundations of the Republican Tradition</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Informa UK Limited</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2023-03-02">02 Mar 2023.</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Samuli</forename><surname>Simelius</surname></persName>
+							<email>samuli.simelius@helsinki.fi</email>
+							<idno type="ORCID">0000-0002-5410-7394</idno>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="department">Centre for European Studies</orgName>
+								<orgName type="institution">University of Helsinki</orgName>
+								<address>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="department">Centre for European Studies</orgName>
+								<orgName type="institution">University of Helsinki</orgName>
+								<address>
+									<addrLine>Siltavuorenpenger 1 A</addrLine>
+									<postCode>00014</postCode>
+									<settlement>Helsinki</settlement>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Samuli Simelius</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Unequal housing in Pompeii: using house size to measure inequality</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">World Archaeology</title>
+						<title level="j" type="abbrev">World Archaeology</title>
+						<idno type="ISSN">0043-8243</idno>
+						<idno type="eISSN">1470-1375</idno>
+						<imprint>
+							<publisher>Informa UK Limited</publisher>
+							<biblScope unit="volume">54</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="602" to="624"/>
+							<date type="published" when="2023-03-02">02 Mar 2023.</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CE1567EBA3A38A285135953525FB009F</idno>
+					<idno type="DOI">10.1080/00438243.2023.2172069</idno>
+					<note type="submission">Received 28 July 2022 Accepted 18 January 2023</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>House size</term>
+					<term>Pompeii</term>
+					<term>statistics</term>
+					<term>population</term>
+					<term>Gini coefficient</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>House size is often used as a tool to calculate wealth in ancient societies, and thus it is also a potential source for the study of inequality. The site of Pompeii, on the Bay of Naples in southern Italy, was first inhabited about 800 years before the eruption of Mount Vesuvius buried it 79 CE. The city provides one of the largest data sets of private architecture in the Roman world, and it has been utilized to calculate the level of inequality in a Roman urban setting. Nonetheless, to understand the inequality of the entire society of the city, these calculations need to be developed. This article uses quantitative and statistical methods, such as Gini coefficients, Lorenz Curves, and also simpler graphs and their interpretation to advance establish methods for exploring inequality through house and building size. A method is proposed for identifying the top economic elite in this urban setting, and the article develops the calculation of inequality further, to encompass even individuals who did not own buildings. As a result, excavated Pompeii's top economic elite is estimated to have comprised 50 to 100 households, with a high level of inequality evident in this ancient city during its final phase, the year 79 CE.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The size of privately owned land plots is a frequently applied indicator of wealth in archaeological scholarship. Although identifying the limits of plots from the archaeological record can often be tricky, there is one source that is relatively straightforward to analyze: private houses. Consequently, house size is often used as a wealth indicator in archaeology. This article examines how the urban housing data on ancient Roman Pompeii, datable just before the eruption of Vesuvius in 79 CE, can function as a source for the study of inequality.</p><p>The primary source material for this article is the recovered remains of Pompeian private architecture, and the focus here is on two methodological aspects: how house size can be used to recognize the economic elite of an urban environment, and how well housing reflects the general inequality of the entire population of a city. Methodologically, the study utilizes different types of quantitative and statistical analysis, such as Gini coefficients and Lorenz Curves, but also simpler graphs. The Gini coefficient is a measurement of the statistical scattering within a group -often used for income or wealth inequality -and the Lorenz curve is a graphical representation of the distribution of the scattering, where from the Gini coefficient can be calculated. In a Lorenz curve graph, the Gini coefficient is the ratio of the area (a in Figure <ref type="figure" target="#fig_11">12</ref>) between the line of equality (the straight line at 45 degrees from the lower left corner to the upper right corner of the graph) and the Lorenz curve over the entire area under the line of equality (a + b in Figure <ref type="figure" target="#fig_11">12</ref>). The formula is: Gini = a/(a + b). The values range between one and zero. A value of one indicates maximum inequality; for example, one person owning everything and the others none. Zero means total equality, where everybody has an equal amount. In this case, the Lorenz curve follows the line of equality.</p><p>Using house sizes as the basis of the Gini calculation is already a frequent practice in archaeology; in particular, scholars of the pre-Columbian Americas and the classical archaeology have adopted similar methods (e.g. <ref type="bibr">Smith, Kohler, and Feinman 2018, 26;</ref><ref type="bibr">Ober 2010, 258-259;</ref><ref type="bibr">2015, 89-90;</ref><ref type="bibr">de Callataÿ 2012, 66-67, 72-74;</ref><ref type="bibr">Kron 2014, 128-129)</ref>.</p><p>The amount of scholarship on Pompeian houses is overwhelming, but the study of Pompeian inequality has received surprisingly little attention <ref type="bibr">(Flohr 2017, 54-56)</ref>. There are numerous studies on the different strata of Pompeian society, yet observations on the connections between them and their interrelationships, particularly tensions -such as inequality -are often absent. One obvious reason for this is that connecting the houses to individual social groups has been difficult <ref type="bibr">(Simelius 2022b, 170-178)</ref>. While there are some rough estimations of Pompeian inequality, such as Geoffrey <ref type="bibr" target="#b17">Kron's (2014)</ref>, they are based on small samples, and the full potential of Pompeii's vast archaeological record has not been utilized from such a broader perspective until quite recently. Miko Flohr's chapter in the book The Economy of <ref type="bibr">Pompeii (2017)</ref> represents the first major attempt to use a large amount of Pompeian archaeological evidence to explore levels of inequity in the city.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Source material</head><p>Pompeii as an archaeological site is quite exceptional and provides material that is rarely available from other sites of the same era (around the 1 st century CE). Additionally, the city is famous for its well-preserved private dwellings, which provide an excellent and well-studied foundation for research. Perhaps even more importantly, the excavated area of Pompeii is comparatively largeabout three-quarters of the area inside the city walls -thus offering a body of source material that likely represents the entire city reasonably well <ref type="bibr">(Simelius 2022b, 1, 22-23)</ref>. I will limit exploration to areas inside the city walls and to the parts that are already excavated (Figure <ref type="figure" target="#fig_0">1</ref>). Thanks to Flohr's work this material is accessible in quantitative format, and this current article relies on his calculations and materials <ref type="bibr" target="#b8">(Flohr 2017</ref><ref type="bibr" target="#b9">(Flohr , 2018))</ref>.</p><p>There are several problems with using house size as a measurement of wealth and inequality: some already acknowledged by Flohr and several are mentioned by Westgate (2021, see also <ref type="bibr">Smith, Kohler, and Feinman 2018, 23;</ref><ref type="bibr">Kohler et al. 2018, 298-299)</ref>. Notably, the dwelling does not always correlate with the owner's wealth and the location of the house might be more important than its size. Building a house corresponding to the owner's wealth might be impossible in an urban environment, or might be discouraged by general attitudes. Archaeology, of course, is also partial and we may lack information about upper floors and movable items, clear house boundaries and other information lost prior to excavations that might have reflected additional value. Finally, it will always be an important question and a focus on how house data exclude those in society who did not own property, such as the enslaved and the poor.</p><p>Such issues might influence the results and potential problems need to be acknowledged but some at least are not major inhibitors when studying Pompeii. Building of large houses was very realizable: many had a ground plan of several hundred square meters (e.g. Figure <ref type="figure" target="#fig_1">2</ref>) and even some numbering in the thousands. The enlargement of existing houses might have occasionally been  impossible, and then wealth could be used for other means of display, such as house decoration <ref type="bibr">(Simelius 2022b, 144-150)</ref>. Concerns about the ostentatious display of private luxury in the Roman world do not seem to have filtered into Pompeian architecture, which competed with that of Hellenistic palaces <ref type="bibr">(Castrén 1975, 40;</ref><ref type="bibr">Zanker 1998, 35;</ref><ref type="bibr">Simelius 2022b, 3, 7)</ref>. The location of the house does not seem to have been of significance in the city and all types of houses are found around the city. There is, however, one area that attracted the upper echelon more than others did, the west and southwest edge of the city, which had a sea view (Figure <ref type="figure" target="#fig_2">3</ref>). Houses in this area were perhaps valued more than those in the other parts and they tended to be sizable houses thus ranking high in that regard too.</p><p>The size of private architecture as a proxy for wealth excludes not only movable artifacts, but also many other types of wealth and assets, such as properties outside the city, currency, loans, debts, and investments. These are often impossible to recognize from an archaeological or material dataset. Pompeii is considered a remarkably full archaeological record but partial preservation and survival means that the movables from houses cannot be reliably compared with each other. Excavations and looting before the beginning of the official excavations disturbed the archaeological record and documentation varies considerably across 200 years <ref type="bibr">(Allison 2004, 3-34;</ref><ref type="bibr">Simelius 2022b, 20-21)</ref>.</p><p>Despite the challenges, house size can be accepted as a sound indicator of wealth in the archaeological context <ref type="bibr">(Smith, Kohler, and Feinman 2018, 21-22)</ref>. At Pompeii where, as <ref type="bibr">Flohr (2017, 75-80;</ref><ref type="bibr">2019, 108-121)</ref> has shown, it correlates well with other indicators of wealth, such as several architectural and decorative elements. The atria (a large open hall near the entrance), gardens, peristyles (a colonnade surrounding a garden), and porticoes are all features assumed to reflect high economic status and these are barely present in the first five decimals (50%) of the houses reviewed by Flohr and instead concentrate in the last two decimals when the houses are divided from smallest to largest according to their size score 1 (Table <ref type="table" target="#tab_0">1</ref>).  Additionally, the presence of workshops -which were a relatively large investment for a household -also tips a property towards the large end. The workshops are considered to have produced goods for commercial purposes, although in some cases this has been questioned and it has been suggested that they were only for domestic needs, but the size of the workshops probably indicates a primarily commercial function (see <ref type="bibr">Simelius 2022b, 55-56, 195-199)</ref>. Consequently, workshops were more equally distributed throughout the different sized houses than the high end architectural features mentioned above because they provided tangible economic benefits.</p><p>Use of workshops and architectural features can lead, however, to quite circular arguments as they tend to be the largest rooms/spaces in Pompeian houses, and thus it is not surprising that they feature in the largest houses. Flohr reduced bias by including the number of rooms as well as house size and Flohr's datasets offer the possibility of comparing the presence of some decorative features with the size of the domestic units, namely evidence for framed pictures, statuary, and vermiculata floors. 2 The last-mentioned appear only almost wholly in the highest decimal of houses. Statuary is concentrated in the last two decimals. Framed pictures are additionally most common in the last two decimals, but they appear relatively more often in the sixth, seventh, and eighth decimals than statuary and vermiculata (Table <ref type="table" target="#tab_1">2</ref>). House size correlates well with these other signs of wealth.</p><p>In terms of upper floors, <ref type="bibr">Andrews (2006, 20-25, 26-28, 35, 37, 45-46, 219)</ref>, who has researched Herculaneum where upper floors were better preserved in destruction layers, estimates that about 23% of the total surface of Pompeian houses was in the upper floors; however, at Pompeii, a wide range of post-eruption disturbances have destroyed most of the remains of the upper levels. In response, I focus here on ground floors as wealth indicators. The question of upper floors also brings us to the problem of ownership. According to Roman law, the upper floors belonged to the building underneath them, and thus to its owner <ref type="bibr">(Viitanen and Ynnilä 2014, 150)</ref>. They are often considered to have been rented, and without a doubt other parts of the houses in Pompeii were also rented out. <ref type="bibr">Pirson (1997, 181)</ref> has identified about 450 possible rental units in Pompeii, although he notes that not all of them were necessarily rented. These 450 rental units are small, generally one or two room sections of a building complex, or upper floors, but some scholars suggest that even large houses could have been rented (see e.g. <ref type="bibr" target="#b24">Pirson 1997;</ref><ref type="bibr">Simelius 2022b, 183-184)</ref>. It is impossible, however, to determine exactly which units were rented, as the Pompeian archaeological record does not provide clear evidence to separate them from those used by the owner but it is possible to make different estimates of how property was divided, as demonstrated later in this paper, and to create different scenarios to accommodate variations on the number of possible rented units.</p><p>The small amount of the cases, where the property owner can be identified, suggests that the houses were mainly owned by a single owner <ref type="bibr">(Simelius 2022b, 178-193)</ref>, and consequently most of the housing units in Pompeii were likely owned by a single person, a pater familias -which as a legal term means a property owner and is not gender-specific. The pater familias controlled the entire familia, the unit including the other family members, other persons living in the house, and the property itself (on the term pater familias and the inhabitants of the Roman house see, <ref type="bibr">Saller 1999, 182-193;</ref><ref type="bibr">George 1997, 299-300)</ref>. However, co-ownership was also possible according to Roman law (e.g. <ref type="bibr">Riggsby 2010, 150-151)</ref>, and even likely in some cases of inheritance and commercial ownership. The spatial compositions of some Pompeian houses can be interpreted to suggest these types of divisions but firm conclusions are difficult to achieve.</p><p>House boundaries and walls are relatively easy to define but they might easily contain shared houses and multiple households as argued for Casa di Sirico (Figure <ref type="figure" target="#fig_3">4</ref>, see <ref type="bibr">Flohr 2017, 58-60)</ref>, or had shared gardens and architectural features as is perhaps the case of insula I,15 (Figure <ref type="figure" target="#fig_4">5</ref>). All of its units -except the small property composed of the three rooms opening at entrance I,15,5 -are connected with each other through doors. This might be one large complex, or three isolated buildings, or perhaps the large garden belongs to one of the housing units at the north end -but which one -or was it co-owned? Flohr supplements the number of rooms in his calculation of the house size <ref type="bibr" target="#b8">(Flohr 2017</ref><ref type="bibr">(Flohr , 56-58, 2019, 105-106), 105-106)</ref>. By combining the area and the number of rooms, Flohr's database (2018) offers a relative value for the house size, which he calls the score. I will refer to it as the F-score. It is calculated with the formula: 100 x [(room number/maximum number of rooms) + (plot size/maximum plot size)] <ref type="bibr">(Flohr 2017, 73 n. 46)</ref>. The F-score eliminates the problem that every space is treated equally if the rooms are merely counted. In dealing with house boundaries and units of ownership, Flohr (2018) presents two different sets, one for independent domestic units and one for independent buildings. The domestic unit set has 1017 independent housing units. It is the most numerous house dataset used in this investigation, meaning that its results are the most equal of the used datasets, because it has the most independently owned units. The independent building dataset has 564 units and is the smallest of the house datasets used here. It combines the spatially close architectural units of the domestic unit dataset, for instance the tabernae to house VII,1,25 (Figure <ref type="figure" target="#fig_3">4</ref>), creating large combinations called independent buildings.</p><p>In my work, I have integrated a third data set based on Schoonhoven's measurements of house areas in <ref type="bibr">Pompeii (2006, 195-203</ref>, see also <ref type="bibr">Simelius 2022a, 195 n. 134 and</ref><ref type="bibr">n. 2720)</ref>. I call this group the private complexes and it comprises 917 privately owned units. This is larger than Flohr's second dataset but in my study, it is the dataset that produces the maximum evidence of inequality. This is because Schoonhoven combined all of the units that are connected by a door, so for example, in this dataset Casa di Sirico would comprise both units, VII,1,25 and VII,1,47, as one structure (Figure <ref type="figure" target="#fig_3">4</ref>). This results in many large and conversely many very small units. Schoonhoven's data also excludes some areas of the excavated area of Pompeii (Regiones III, IV, insulae V,5 VI,17, VII,16, VIII,2, see Figure <ref type="figure" target="#fig_0">1</ref> for their locations) and it does not integrate architectural features like the F-score.</p><p>Finally, there is the issue of factoring in non-house owners. However, even if we think that the pater familias was the sole house owner, the property can also reflect the wealth of the other family members on some level and perhaps some other types of inhabitant as legal rights to property can be held through inheritance, or through divorce, when a dowry was returned to the wife or her family. I deal with the invisibility of non-house owners by creating two datasets to calculate the Gini coefficient, one comparing individuals and one households. The Gini coefficient of individuals estimates the inequality between everyone, including women, children, enslaved persons, people renting, and so on. The household Gini coefficient instead divides the population into households. In this case, it is the household that can be considered to have some legal property-owning rights pertaining to the house. It thus separates the enslaved from the household, as the possible property controlled by them was legally under the control of the person who owned the enslaved person <ref type="bibr">(Riggsby 2010, 101)</ref>. The Gini calculations of the households made in this article also include an estimate of households that did not own a house, which are not usually included in calculations that use house size as the proxy for inequality. The households that did not own a house receive a value of zero. In sum, by using several datasets that reflect different scenarios of ownership, it is possible to produce several reasonable estimates of inequality based on the house size data. These estimates then create a range of values that define the scope of inequality in ancient Pompeii.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The proportion of Pompeian elite households</head><p>In The Dawn of Everything: A New History of Humanity <ref type="bibr">Graeber and Wengrow (2021, 74)</ref> introduce a thought experiment suggesting that for an outside observer both a society where everybody is similar and a society where everybody is totally different would appear equally 'egalitarian'. This is a hypothetical case, as no such examples can be found, yet it offers a good starting point to examine how the size of lodgings might be a proxy for recognizing the equality or inequality of a society. Pompeii would fit into the second category, as every house is more-or-less of different size (see e.g. Figure <ref type="figure" target="#fig_1">2</ref>), and thus for the outside observer the city and its housing might appear to signal an equal society, where every individual expresses themselves differently.</p><p>However, even excluding all of the other evidence on Pompeian and Roman society that presents a picture of inequality (e.g. literary and material sources about enslavement, and the hierarchical structure of society, where family background and wealth played an important defining role in status), and only focusing on relative house size, evidence suggests an unequal community. Any comprehensive listing of private building sizes in Pompeii that includes both the largest houses and the smaller dwellings aptly demonstrates that there is a huge gap between the two extremes. This is easily visible on the graphs that rank the houses according their size (e.g. <ref type="bibr">Flohr 2017, 73;</ref><ref type="bibr">Simelius 2022b, 27)</ref>. The basic trend is always of exponential growth towards the larger house sizes. Figure <ref type="figure" target="#fig_5">6</ref> illustrates the Pompeian domestic units from smallest to largest according to their F-score. The curve indicates steep inequality. The houses on the right end of the graph are tens or even a hundred times larger than the dwellings on the left side of the graph. The right side also features multiple rooms compared to the left: 263 houses on the left side had only one or two rooms, whereas in the hundred last houses on the right the number of rooms ranges from 23 to 78. Consequently, the curve can be additionally utilized as a rough indicator to determine the ratio of Pompeian elite houses amongst the total number of domestic units. This obviously does not offer a clear line of demarcation, and one might expect that in many societies the border is blurry and flexible. The exponential curve begins somewhere after 85% of all domestic units (the brown line, unit I,13,2). Yet, identifying the exact break point is always very subjective, and we can only estimate it roughly. In this case, it is approximately between the 85% line and the 95% line (the brown line, unit VII,2,1-2). Consequently, a reasonable assumption would be to estimate that about 10% (the red line, unit VII,16,1) of Pompeian domestic units were clearly larger than rest, if they are arranged by the F-score.</p><p>In Figure <ref type="figure" target="#fig_6">7</ref> the domestic units are arranged according to their plot size (excluding the number of rooms), and here the exponential curve starts a bit later, between 90% and 95% of the houses (brown lines). Although the plot division of Schoonhoven is different from Flohr's, the pattern of the graph based on her data is similar, and there the curving can also be estimated to start between 90% and 95% (Figure <ref type="figure" target="#fig_7">8</ref>). Therefore, the definition of the economic elite according to the plot size is somewhat stricter than when the number of rooms is included in the calculation. <ref type="bibr" target="#b8">Flohr (2017)</ref> has already noted the general flexibility of using the number of rooms as a system to measure house size.</p><p>It is very likely, however, that the same person owned several of these domestic units, and therefore the number of economic elites portrayed here is probably slightly high. If we change our perspective from domestic units to independent buildings (Flohr's database 2018, excluding the public buildings), where several spatially related units are counted as one building, the graph (Figure <ref type="figure" target="#fig_8">9</ref>) still looks essentially same with an exponential curve at the end. The beginning of the curve is again somewhere between 90% and 95% (brown lines), or perhaps even between 90% and 92.5% (red line). Even if the percentage (90) is roughly same, the number is much smaller than for domestic units, where it is slightly over 100, while here it is a little under 60. Consequently, approximating by house size, the number of Pompeian economic elite households in the excavated area is somewhere between 60 and 100. As it is likely that some of the buildings were owned by the same person, perhaps the estimate should be 50-100. This range still offers plenty of flexibility to assess the scale of the economic elite, which are unlikely to have been a clearly defined group.</p><p>Examining the remaining lowest 85% of Pompeian domestic units (Figure <ref type="figure" target="#fig_9">10</ref>), the data does not provide the same sharp curve evident in the entire set. Instead, there are three more-or-less linear growth lines, marked with red (solid, dashed, and doted). This does not imply a state of equality as, for example, the difference between the two ends of the dashed line, units VI,3,24 and 1,4,9, are: Fscore 9.45; number of rooms 11; area 139 m 2 . Even so, these numbers are small compared to the extremes of the top 15%, units I,13,2 and I,4,5-6/25/28, where the difference between the F-score is 63.12, the number of rooms is 46, and the area is 1956 m 2 . One can only imagine what level of wealth was invested in the top house, I,4,5-6/25/28, as it was likely several hundred times more than house I,13,2. In the lower 85%, several owners likely invested much more in their houses compared to others, but the difference is low compared the top end.</p><p>Figure <ref type="figure" target="#fig_9">10</ref> shows three different groups where the house size is relatively equally divided inside the groups, as all of them have the same average and median F-score. For the dotted line both are 16, the dashed line 8, and the solid line 2. If we exclude the solid line, which mostly consist of  <ref type="bibr">Schoonhoven's list (2006, 195-203</ref>, see also <ref type="bibr">Simelius 2022b, 195 n. 134 and</ref><ref type="bibr">n. 2720)</ref>.</p><p>tabernae, a type of residence that is often considered to have been rented, and calculate the dotted and dashed line together, the average and median are still the same for the group: 10. For the top 15%, the average is 32 and median 27. The lower 85% of Pompeian house owners were by no means equal, but the division of property in the lower groups seems to be a bit more even than in the top 15%. If there were upper floors, the distribution among the smaller houses would likely have been  even more equal, as <ref type="bibr">Andrew's (2006, 105, 108)</ref> study indicates that the smallest units in Herculaneum had more upper floors than the second smallest.</p><p>Although any comparison between the Roman Empire -let alone only Pompeii -and the modern world is hazardous and full of pitfalls, the pattern of Figures <ref type="figure" target="#fig_5">6</ref><ref type="figure" target="#fig_6">7</ref><ref type="figure" target="#fig_7">8</ref><ref type="figure" target="#fig_8">9</ref>is reminiscent of a graph made by Branko Milanovic that represents the percentage of absolute gain in real per capita income received by global income level . In Milanovic's graph the top 15% also dominates the chart, collecting the major share of the gains, and the difference between the distribution is much smaller in the lower 85% compared to the top 15%. Milanovic sees that the economic summit can be controlled only by the existence of a strong middle class, and that the upper class achieves more power by controlling access to top education and intermarrying amongst other persons of the upper class. On the other hand, there is always a possibility to rise to the upper class, although this opportunity is often exaggerated by the lower classes. In politics, according to Milanovic the direction is towards populism and plutocracy, where the rich control the political process by suppressing the vote of the poor and creating a false consciousness for low economic groups moving attention away from economic and social problems to matters of religion, abortion, and migration <ref type="bibr" target="#b18">(Milanovic 2016</ref><ref type="bibr">(Milanovic , 24-30, 192-211, 2019, 18, 56-66), 18, 56-66)</ref>.</p><p>Many of the characteristics listed above were similar throughout the Roman World. The middle class was weak or perhaps non-existent: the population between the rich and poor did not seem to form a single consistent group in Pompeii <ref type="bibr">(Simelius 2022b, 6-9, 220-221)</ref>. As there was no public education -although education could occur in public places (García y García 2004, 57-85), it was not public in the modern sense -schooling was controlled by those who could afford it. The sociopolitical elite of Pompeii seems to have been well connected with each other by marriage and other social ties although new members could rise into this group <ref type="bibr">(Castrén 1975, 92-98, 103-107, 118-121;</ref><ref type="bibr">Mouritsen 1988, 122-124)</ref>. The politics of small Roman cities such as Pompeii was regulated by the rules that guaranteed the success of the upper class: candidacy to political offices and positions were open only to citizens -also excluding those who were freed from enslavement. Some professions might also be excluded from candidacy, and there was a minimum wealth requirement -perhaps 100000 sesterces. Furthermore, the costs of the maintaining the offices, including sponsoring public buildings and organized games, were paid -at least partly -by the magistrates themselves <ref type="bibr">(Castrén 1975, 62-66;</ref><ref type="bibr">Mouritsen 1988, 28-30, 123)</ref>. While the media opportunities to promote false consciousness in lower economic groups were far more limited, we might imagine public games and events in Pompeii were a useful diversion away from the reality of inequity and economic problems. <ref type="bibr" target="#b17">Kron (2014)</ref>, <ref type="bibr">Flohr (2017, 74-76)</ref> and <ref type="bibr" target="#b15">Kohler et al. (2017</ref><ref type="bibr" target="#b16">Kohler et al. ( , 2018) )</ref> have all used building size to calculate Gini coefficients for Pompeii. Kohler's group did not limit their study to Pompeii, but also examined several other settlements around the globe. They proposed that the level of inequality -as calculated on the basis of dwelling size -increased over the time period of 9000 BC to 100 CE, at least in the Afro-Eurasia. Their study even suggested that wealth in Pompeii was more equally distributed than in the modern United States of America or China.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measuring the inequality of society</head><p>Kohler's study used a sample of 78 dwellings from Pompeii <ref type="bibr" target="#b15">(Kohler et al. 2017</ref>, Suppl. Table <ref type="table" target="#tab_1">S2</ref>), but no data was provided on which houses were selected for the sample, making it difficult to estimate its comprehensiveness. However, the sample size matches <ref type="bibr">Wallace-Hadrill's (1994, 67-68)</ref> sample of Regio I (for location of Regio I, Figure <ref type="figure" target="#fig_0">1</ref>), so it may be the same; this unfortunately makes it slightly unreliable, as different areas in Pompeii have dissimilarly sized house compared to the range of the entire city <ref type="bibr">(Simelius 2022b, 21-23)</ref>. The representativeness of the sample is a minor problem compared to the matter that the Gini coefficient is based only on the dwellings of Pompeii, and therefore it only measures the inequality/equality of property owners. As outlined above, this excludes a large number of non-owners and thus the result is only an estimate of the inequality in the property owning classes in Pompeii.</p><p>If we take a low estimate of how many people lived in the excavated area of Pompeii (calculation based on <ref type="bibr">Flohr 2017, 62-63)</ref> and compare it to the amount of domestic units, the vast majority of people will have zero as their property size value. Figure <ref type="figure" target="#fig_10">11</ref> demonstrates that property owning was distributed very unequally, even if the population is estimated at the lower end of the scale. Naturally, the level of inequality increases as population increases but the number of houses remains the same.</p><p>The non-owning group is almost invisible in the Pompeian archaeological record, and it is not possible to evaluate their number with the same precision as the building owners. Thus, for an estimate of the number of non-owning people, we must rely on academic approximations of Pompeii's population. I propose four different estimates to minimal and maximal Gini values using <ref type="bibr" target="#b8">Flohr's (2017)</ref> estimations of population (low 7500 and high 13,500) 3 and Massimo Osanna's (2018) approximation of 30,000, based on a newly found inscription 4 and on the basis of the same inscription, I also propose a lower population estimate of 16,500. 5  Despite the multiple studies of Roman demography, it is not easy to find estimates of what percent of the population was free, and what the proportion of adults and children may have been (for problems with the estimates, e.g. <ref type="bibr">Scheidel 2007, 38-50</ref>). Yet, both are needed, if we assume that the inscription refers to the number of free adults in Pompeii. There are mean calculations of fertility in the Roman world, which usually estimate around six children per one woman <ref type="bibr">(Séguy 2019, 27-28;</ref><ref type="bibr">Scheidel 2007, 41)</ref>. However, if we consider age structure, this does not mean that families had six children all the time. Surviving Egyptian census records from the Roman period (12-259 CE) provide information from which some very rough estimates can be made -although the data is problematic. The proportion of children under age 15 varies somewhere between 25% and 35% <ref type="bibr">(Bagnall and Frier 1994, 75-110;</ref><ref type="bibr">Scheidel 2001, 118-178)</ref>. The data from Egypt -because of the spatial and temporal differences -cannot be as straightforwardly compared with that of Pompeii, but <ref type="bibr">Hin's (2013, 288)</ref> estimate of the number of people under 18 of Italians with sui iuris status is also in this range. In my new population estimate, I calculate the number of children is 1.5 for each free women. Earlier scholarship has also proposed several estimates of the number of enslaved people when counting the entire population of Roman Italy. From <ref type="bibr">Scheidel's (2005, 66-67)</ref> estimates, I have approximated that it could be 0.4 times the citizen/free families population. This might be perhaps a little high (see e.g. <ref type="bibr">Hin 2013, 292-296)</ref>, but it includes other non-buildingowning people.</p><p>As the task at hand is to evaluate private architecture as an indicator of inequality, I am limiting examination to the excavated parts of Pompeii; this naturally would have a lower population than the entire city. As <ref type="bibr" target="#b23">Osanna's (2018)</ref> data does not include an estimate of households, I have calculated it, from the assumption that there were 6840 free male citizens. I have estimated, that the (free) adult female population is equal to the male population and used the 1.5 number of children per woman. These factors allow us to calculate the proportion of the rest of the population and the number of households according to that estimate. In all calculations, the number of nonowning families/households is quite complex to estimate, as it is likely that many of this group were living alone, but there were also likely some families, and therefore I have just divided their number by two. I have further decided to also divide the rest of the households by two, as it is likely that several generations lived in the same household. Together with Flohr's and Schoonhoven's data on dwellings, it is now possible to calculate Gini coefficients that also include the people/households that did not own private buildings in Pompeii.</p><p>Table <ref type="table" target="#tab_2">3</ref> presents different Gini coefficients for Pompeii, calculated according to owning private architecture. The range is from 0.72 to 0.98. The closest to equal is counted according to Flohr's minimum estimation of population, where the population is divided into households and where the architecture is divided into domestic units (Figure <ref type="figure" target="#fig_11">12</ref>). The most unequal is Osanna's estimate, where all persons are counted (Figure <ref type="figure" target="#fig_2">13</ref>); the result is the same whatever method of distribution of private architecture one uses. Although one can note some variation, the new more moderate population estimate does not produce values that are very far from Osanna's (Figure <ref type="figure" target="#fig_3">14</ref>). This means that if the population is estimated to be on the higher end of the spectrum, as the newly found inscription indicates, the amount of private property is low compared to the population and thus results in high Gini values. Additionally, a comparison of Flohr's private buildings with Schoonhoven's plot sizes is remarkably similar -many of the values are equal -even though the sets were produced by very different means. This shows that, if the property division favors large units, including the room number does not actually greatly influence the results.</p><p>Household values demonstrate more variation than those counting all individuals (Figures 12-15, Table <ref type="table" target="#tab_2">3</ref>). The household results made based on domestic units are different than those produced on the basis of private buildings and complexes. The domestic unit scenario is one where a relatively low number of people are renting or living in houses owned by other families. The private buildings scenario is one where plenty of property is rented, when the private complexes demonstrate divisions into many units, but there is plenty of variation between their sizes (2-5730 m 2 ). This would thus suggest a lower number of independent units for rental than the private buildings dataset, but more people cohabitating -some likely in rentals -in the same complex, which was owned by one person. Nonetheless, looking at the Gini values that include all individuals, the differences between all three groups are relatively small, and all suggest high inequality. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Cumulative share of size score Cumulative share of households Figure 13. Lorenz curve of Osanna's population estimate, according to private persons and the distribution of private complexes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The very high inequality values for Pompeii might seem exaggerated, but it is not an unlikely scenario. The inscription cited in this article paints a picture of a person with enormous wealthoffering feasts and gladiatorial shows and that they provided charity for the poor and those suffering from famine.</p><p>Comparison of house sizes suggests significant wealth disparity in excavated Pompeii. The economic elite are argued to have consisted of about 50 to 100 households, who owned at least an equal amount of the largest houses. The elite had at least 40-50% share of all 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Cumulative share of size score Cumulative share of households Figure 14. Lorenz curve of the new population estimate, according to private persons and the distribution of private buildings. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Cumulative share of size score Cumulative share of households Figure 15. Lorenz curve of Flohr's maximum population estimate, according to households and the distribution of private buildings.</p><p>private architecture. If estimates of the population that did not own private buildings is added, the distribution of wealth becomes even more polarized: the Gini coefficient of the households is between 0.72 and 0.92. This is higher than previous calculations (0.54-0.62) that did not factor in non-owners <ref type="bibr">(Kron 2014, 129;</ref><ref type="bibr">Flohr 2017, 75;</ref><ref type="bibr">Kohler et al. 2017, suppl. 1, p. 6)</ref>. When changing the perspective from households to individuals, inequality is even more drastically evident; the Gini values are over 0.90 for all calculations. However, these calculations are based only on house size, and calculating the values according to other wealth or income factors might provide different results. All of the Gini coefficients in this article are far from the calculations based on income in the Roman world (0.42-0.44), and also many based on the landowners in Roman Egypt (0.43-0.52) during the early 3 rd and 4 th century CE, however, some landowning estimates of the early 4 th century and early 6 th century come closer (0.62-0.64), and in the mid-4 th century are with the range reported here (0.82-0.86) <ref type="bibr">(Duncan-Jones 1990, 138-141;</ref><ref type="bibr">Scheidel and Friesen 2009, 86-88)</ref>.</p><p>Although, these are from within the Roman Empire, they are from a different location and time, and they are not calculated from the house architecture. Together, however, they complement the results here which reveal an extreme picture of polarized wealth and privilege as seen through the lens of urban dwellings, architecture and space.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Notes</head><p>1. The size score is a combination of the house area and room number, which is explained in detail later in this section as a name F-score. 2. Here mosaic tesserae are small and laid in asymmetric patterns that highlight the subject of the mosaics. 3. <ref type="bibr">Flohr's (2017, 63-64)</ref> estimates of the population are based on the buildings that he has classified in his database. Every building that he has identified as a taberna is estimated to have had a maximum of four inhabitants and a minimum of three, and furthermore a quarter of the tabernae are considered to not have been inhabited at all in the calculation of the minimum amount of inhabitants, while every unit classified as an apartment has a maximum of five and minimum of two inhabitants, houses twelve and eight, and the group called 'other' eight and four. 4. The inscription is from a monumental tomb outside the Stabian Gate (Figure <ref type="figure" target="#fig_0">1</ref>) dated to just before the eruption. The tomb lacks a name, however, the person was wealthy and influential, organizing banquets and games and making philanthropic donations <ref type="bibr">(Osanna 2018, 311-315, 320-322)</ref>. The inscription mentions a toga virilis celebration offered to Pompeians. The toga virilis rite focused on the masculine realm and the male members of the household were in the central role. There were 456 triclinium-groups (∏-shaped dining couch groups), and each of them had places for 15 people providing 6840 positions for this occasion. Osanna argues this is the number of adult males in Pompeii. 5. Osanna's estimate is high compared to previous ones (Cfr. <ref type="bibr">Flohr 2017, 53-54)</ref>, and the inscription can possibly be read differently depending on the interpretation of the word homines. The Italian translation in Osanna's article has uomini but English persons. The first suggests males, when the second would also include other genders; homines can be translated in both ways. Yet, if the inscriber -or whoever ordered the inscription -wanted to clearly refer to only males, there were other options, such as viros. Although the toga virilis rite centers around the male members of family, it was also an important occasion for the entire household to participate in <ref type="bibr">(Harrill 2002, 255-266;</ref><ref type="bibr" target="#b5">Dolansky 2008</ref>) and we know of several powerful women from ancient Pompeii <ref type="bibr">(Savunen 1997, 50-51, 56-58, 78-79)</ref> and several paintings with women shown banqueting with men <ref type="bibr">(Dunbabin 2003, 52-68)</ref>. Consequently, we cannot assume the number of inhabitants calculated on the basis of the triclinia refers only to the male population.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Map of Pompeii showing the unexcavated areas (grey). Pompeii is divided into nine regions. The city blocks are called insulae and are individually numbered. Additionally, each door in a block has its own number (or letter), and thus, for example, the address of the Casa di Sirico is VII,1,25/47 [Regio number, insula number, door number(s)]. The locations of the public buildings are marked on the map, as they are excluded from the datasets used in this study. The buildings around the forum are usually considered to be public.</figDesc><graphic coords="4,76.08,52.88,383.52,211.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure2. Insula IX,1 (see location in Figure1), showing its division into individual houses, defined so that one property is formed by all spaces that are connected to each other by doors.</figDesc><graphic coords="4,117.52,354.54,300.60,252.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. The location of the upper class house complexes. The houses are identified on the basis of their architecture and decoration (see Simelius 2022b, 18-19, 217 Figure 8.1. In addition to the houses of the three top economic groups shown in Figure 8.1, I have added to this map the Casa del Criptoportico (I,6,2), the Casa del Moralista (III,4,3), and the houses of Regiones VI,17, VII,16, and VIII,2 that had a terrace, as their architecture and decoration suggest that they were owned by the wealthiest Pompeians).</figDesc><graphic coords="5,117.58,52.90,300.48,165.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. The Casa di Sirico (see location on Figure1), divided into two domestic units (VII,1,25 and VII,1,47). The tabernae were often a single room with a wide opening onto the street, likely functioning as a shop (on the identification and function of tabernae see e.g.Simelius 2022b, 199).</figDesc><graphic coords="9,117.52,52.87,300.60,222.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. The insula I,15 with different types of lines (solid, dashed, dots) indicating the possible units that can be separated from each other.</figDesc><graphic coords="10,137.48,52.84,260.64,320.88" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6 .</head><label>6</label><figDesc>Figure6. Pompeian domestic units arranged from lowest to highest according to F-score. Red line (Unit VII,16,1) is 90%, brown lines are 85% (I,13,2) and 95% (VIII,2,1-2). N = 1017. Data fromFlohr's database (2018), where there is a rank-size chart that enables a detailed examination of each unit.</figDesc><graphic coords="11,76.03,406.19,383.64,198.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7 .</head><label>7</label><figDesc>Figure 7. Pompeian domestic units arranged according to their plot size, from smallest to largest. Red line (unit III,4,2-3) is at 92.5%, brown lines are at 90% (V,2,15-16) and 95% (VII,1,40-43). N = 1017. Data from Flohr's database (2018).</figDesc><graphic coords="12,76.03,391.19,383.64,213.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 8 .</head><label>8</label><figDesc>Figure 8. Pompeian private complexes arranged according to their plot size, from smallest to largest. The red line (house VI,15,4-5/24-25) is at 92.5%; the brown lines are at 90% (VII,13,3-4/17-18/20-21) and 95% (IX,1,20/30). N = 918. Data fromSchoonhoven's list (2006, 195-203, see alsoSimelius 2022b, 195 n. 134 and n. 2720).</figDesc><graphic coords="13,76.08,52.87,383.52,271.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figure 9 .</head><label>9</label><figDesc>Figure 9. Pompeian private buildings arranged according to their F-score. Red line (building VII,2,N) is at 92.5%, brown lines are at 90% (VII,7,A) and 95% (VII,6,E). N = 564. Data from Flohr's database (2018).</figDesc><graphic coords="14,76.03,52.85,383.64,211.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figure 10 .</head><label>10</label><figDesc>Figure 10. Lowest 85% of Pompeian domestic units according to F-score from lowest to highest. N = 863. Data from Flohr's database (2018).</figDesc><graphic coords="14,76.03,317.88,383.64,190.20" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Figure 11 .</head><label>11</label><figDesc>Figure 11. Distribution of domestic units according to their score, including the minimal estimate of persons not owning domestic units, in the excavated area of Pompeii. N = 5500. Domestic unit data from Flohr's database (2018).</figDesc><graphic coords="16,76.03,369.23,383.64,235.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>Figure 12 .</head><label>12</label><figDesc>Figure 12. Lorenz curve of Flohr's minimum population estimate, according to households and the distribution of domestic units.</figDesc><graphic coords="19,117.52,52.86,300.60,186.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Pompeian houses compared according to the number of atria, peristyles, porticoes, gardens, and workshops incorporated into them. The houses are arranged in decimals according to their size score: 1. decimal are the lowest and 10. decimal the highest. Data from Flohr's database (2018): Rank-size charts.</figDesc><table><row><cell>Workshops</cell><cell>% of</cell><cell>% units</cell><cell>0% 0%</cell><cell>1.45% 0.98%</cell><cell>4.35% 2.95%</cell><cell>10.14% 6.88%</cell><cell>13.04% 8.85%</cell><cell>15.94% 9.83%</cell><cell>13.04% 8.85%</cell><cell>14.49% 9.83%</cell><cell>14.49% 9.83%</cell><cell>13.04% 7.87%</cell><cell>6.59%</cell></row><row><cell></cell><cell>Amount/</cell><cell>units</cell><cell>0/0</cell><cell>1/1</cell><cell>3/3</cell><cell>7/7</cell><cell>9/9</cell><cell>11/10</cell><cell>9/9</cell><cell>10/10</cell><cell>10/10</cell><cell>9/8</cell><cell>69/67</cell></row><row><cell>Gardens</cell><cell>% of</cell><cell>% units</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0.66% 1.97%</cell><cell>0.99% 2.95%</cell><cell>2.98% 8.85%</cell><cell>10.26% 29.5%</cell><cell>19.87% 57.03%</cell><cell>27.81% 78.66%</cell><cell>37.42% 85.55%</cell><cell>26.45%</cell></row><row><cell></cell><cell>Amount/</cell><cell>units</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>2/2</cell><cell>3/3</cell><cell>9/9</cell><cell>31/31</cell><cell>60/58</cell><cell>84/80</cell><cell>113/87</cell><cell>302/269</cell></row><row><cell>Porticoes</cell><cell>% of</cell><cell>% units</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>2.48% 2.95%</cell><cell>7.44% 8.85%</cell><cell>24.79% 29.5%</cell><cell>38.02% 44.25%</cell><cell>27.27% 30.48%</cell><cell>11.6%</cell></row><row><cell></cell><cell>Amount/</cell><cell>units</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>3/3</cell><cell>9/9</cell><cell>30/30</cell><cell>46/45</cell><cell>33/31</cell><cell>121/118</cell></row><row><cell>Peristyles</cell><cell>% of</cell><cell>% units</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>7.09% 8.85%</cell><cell>11.81% 14.75%</cell><cell>22.83% 28.52%</cell><cell>58.27% 62.93%</cell><cell>11.5%</cell></row><row><cell></cell><cell>Amount/</cell><cell>units</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>9/9</cell><cell>15/15</cell><cell>29/29</cell><cell>74/64</cell><cell>127/117</cell></row><row><cell>Atria</cell><cell>% of</cell><cell>% units</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>0% 0%</cell><cell>3.02% 12.78%</cell><cell>12.09% 51.13%</cell><cell>15.58% 64.9%</cell><cell>19.07% 80.63%</cell><cell>20.7% 84.56%</cell><cell>29.53% 94.4%</cell><cell>38.84%</cell></row><row><cell></cell><cell>Amount/</cell><cell>units</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>13/13</cell><cell>52/52</cell><cell>67/66</cell><cell>82/82</cell><cell>89/86</cell><cell>127/96</cell><cell>430/395</cell></row><row><cell></cell><cell></cell><cell>Decile</cell><cell>1.</cell><cell>2.</cell><cell>3.</cell><cell>4.</cell><cell>5.</cell><cell>6.</cell><cell>7.</cell><cell>8.</cell><cell>9.</cell><cell>10.</cell><cell>Total</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Pompeian houses compared according to the number of framed pictures, vermiculata floors, and statuary found in them. The houses are arranged in decimals according to their size score: 1. decimal are the lowest and 10. decimal the highest. Data from Flohr's database (2018): Rank-size charts.</figDesc><table><row><cell></cell><cell>% of units</cell><cell>0%</cell><cell>0%</cell><cell>0%</cell><cell>0.98%</cell><cell>0%</cell><cell>0.98%</cell><cell>4.92%</cell><cell>1.97%</cell><cell>8.85%</cell><cell>19.67%</cell><cell>3.74%</cell></row><row><cell>Statuary</cell><cell>%</cell><cell>0%</cell><cell>0%</cell><cell>0%</cell><cell>0.9%</cell><cell>0%</cell><cell>2.7%</cell><cell>6.31%</cell><cell>3.6%</cell><cell>16.22%</cell><cell>70.27%</cell></row><row><cell></cell><cell>Amount/ units</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>1/1</cell><cell>0/0</cell><cell>3/1</cell><cell>7/5</cell><cell>4/2</cell><cell>18/9</cell><cell>78/20</cell><cell>111/38</cell></row><row><cell></cell><cell>% of units</cell><cell>0%</cell><cell>0%</cell><cell>0.98%</cell><cell>0%</cell><cell>0%</cell><cell>0%</cell><cell>0.98%</cell><cell>1.97%</cell><cell>0.98%</cell><cell>10.82%</cell><cell>1.57%</cell></row><row><cell>Vermiculata</cell><cell>%</cell><cell>0%</cell><cell>0%</cell><cell>3.7%</cell><cell>0%</cell><cell>0%</cell><cell>0%</cell><cell>7.41%</cell><cell>7.41%</cell><cell>3.7%</cell><cell>77.78%</cell></row><row><cell></cell><cell>Amount/ units</cell><cell>0/0</cell><cell>0/0</cell><cell>1/1</cell><cell>0/0</cell><cell>0/0</cell><cell>0/0</cell><cell>2/1</cell><cell>2/2</cell><cell>1/1</cell><cell>21/11</cell><cell>27/16</cell></row><row><cell></cell><cell>% of units</cell><cell>0%</cell><cell>0.98%</cell><cell>0.98%</cell><cell>1.97%</cell><cell>2.95%</cell><cell>11.8%</cell><cell>23.6%</cell><cell>33.43%</cell><cell>52.11%</cell><cell>66.86%</cell><cell>19.47%</cell></row><row><cell>Framed pictures</cell><cell>%</cell><cell>0%</cell><cell>0.23%</cell><cell>0.23%</cell><cell>0.45%</cell><cell>0.91%</cell><cell>3.18%</cell><cell>7.5%</cell><cell>11.82%</cell><cell>25.23%</cell><cell>50.45%</cell></row><row><cell></cell><cell>Amount/ units</cell><cell>0/0</cell><cell>1/1</cell><cell>1/1</cell><cell>2/2</cell><cell>4/3</cell><cell>14/12</cell><cell>33/24</cell><cell>52/34</cell><cell>111/53</cell><cell>222/68</cell><cell>440/198</cell></row><row><cell></cell><cell>Decile</cell><cell>1.</cell><cell>2.</cell><cell>3.</cell><cell>4.</cell><cell>5.</cell><cell>6.</cell><cell>7.</cell><cell>8.</cell><cell>9.</cell><cell>10.</cell><cell>Total</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Gini coefficients calculated with different population estimates and property distributions. The proportion of excavated area population for Osanna's and new estimates, calculated according to Flohr's maximum estimate.</figDesc><table><row><cell>Gini coefficient</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>Many thanks to <rs type="person">Kaius Tuori</rs>, <rs type="person">Antonio Lopez Garcia</rs>, <rs type="person">Juhana Heikonen</rs>, <rs type="person">Anna-Maria Wilskman</rs>, <rs type="person">Vesa Heikkinen</rs> and <rs type="person">Pyry Koskinen</rs>, my fellow members of the project Law, Governance and Space: Questioning the Foundations of the Republican Tradition, for providing help and support. Additionally, a huge thank to <rs type="person">Miko Flohr</rs> for his work, data, and help with it. I am also grateful to <rs type="person">Ray Laurence</rs> and <rs type="person">Ville Vuolanto</rs>, who helped me with my questions. Thanks to <rs type="person">Christopher TenWolde</rs> for proofreading and guiding my text towards proper English. The remaining mistakes are my own.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>The project is funded by the <rs type="funder">European Research Council</rs> under the European Union's <rs type="programName">Horizon 2020 research and innovation program</rs> (grant agreement No <rs type="grantNumber">771874</rs>).</p></div>
+<div><head>Notes on contributor</head><p>Samuli Simelius is a teacher of ancient cultures in the <rs type="institution">University of Helsinki, Finland</rs>, and a post-doctoral researcher in the project <rs type="projectName">Law</rs>, <rs type="funder">Governance and Space: Questioning the Foundations of the Republican Tradition</rs> (funded by the <rs type="funder">European Research Council</rs>). He has recently published a book <rs type="person">Pompeian Peristyle Gardens (Routledge</rs>, <rs type="grantNumber">2022</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_dpZRdFu">
+					<idno type="grant-number">771874</idno>
+					<orgName type="program" subtype="full">Horizon 2020 research and innovation program</orgName>
+				</org>
+				<org type="funded-project" xml:id="_tHTkET2">
+					<orgName type="project" subtype="full">Law</orgName>
+				</org>
+				<org type="funding" xml:id="_ZtnDANc">
+					<idno type="grant-number">2022</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure statement</head><p>No potential conflict of interest was reported by the author(s).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Pompeian Households: An Analysis of the Material Culture</title>
+		<author>
+			<persName><forename type="first">Penelope</forename><surname>Allison</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Los Angeles</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Cotsen Institute of Archaeology University of California</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The Use and Development of Upper Floors in Houses at Herculaneum</title>
+		<author>
+			<persName><forename type="first">James</forename><surname>Andrews</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Reading</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Doctoral dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cambridge Studies in Population</title>
+		<author>
+			<persName><forename type="first">Roger</forename><surname>Bagnall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bruce</forename><surname>Frier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economy and Society in Past Time</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<date type="published" when="1994">1994</date>
+			<publisher>Cambrdige University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>The Demography of Roman Egypt</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<author>
+			<persName><forename type="first">Paavo</forename><surname>Castrén</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ordo Populusque Pompeianus. Polity and Society in Roman Pompeii</title>
+		<meeting><address><addrLine>Roma</addrLine></address></meeting>
+		<imprint>
+			<publisher>Bardi</publisher>
+			<date type="published" when="1975">1975</date>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Le retour (quantifié) du &apos;miracle grec</title>
+		<author>
+			<persName><surname>De Callataÿ</surname></persName>
+		</author>
+		<author>
+			<persName><surname>François</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stephanèphoros. De l&apos;économie antique à l&apos;Asie mineure. Hommages à Raymond Descat</title>
+		<editor>
+			<persName><forename type="first">Koray</forename><surname>Konuk</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="63" to="76" />
+			<date type="published" when="2012">2012</date>
+			<publisher>Ausonius</publisher>
+			<pubPlace>Bordeaux</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Mémoires</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Togam Virilem Sumere: Coming of Age in the Roman World</title>
+		<author>
+			<persName><forename type="first">Fanny</forename><surname>Dolansky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roman Dress and the Fabrics of Roman Culture</title>
+		<editor>
+			<persName><forename type="first">Jonathan</forename><surname>Edmondson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Alison</forename><surname>Keith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Phoenix</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Toronto Press</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="47" to="70" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">Katherine</forename><surname>Dunbabin</surname></persName>
+		</author>
+		<title level="m">The Roman Banquet: Images of Conviviality</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambrdige University Press</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Structure and Scale in the Roman Economy</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Duncan-Jones</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Cambrdige University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Quantifying Pompeii: Population, Inequality, and the Urban Economy</title>
+		<author>
+			<persName><forename type="first">Miko</forename><surname>Flohr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Economy of Pompeii</title>
+		<editor>
+			<persName><forename type="first">Miko</forename><surname>Flohr</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andrew</forename><surname>Wilson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="page" from="53" to="84" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Artisans and Markets: The Economics of Roman Domestic Decoration</title>
+		<author>
+			<persName><forename type="first">Miko</forename><surname>Flohr</surname></persName>
+		</author>
+		<idno type="DOI">10.3764/aja.123.1.0101</idno>
+		<ptr target="http://www.mikoflohr.org/pompeii/Flohr" />
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">123</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="101" to="125" />
+			<date type="published" when="2018">2018. 2019</date>
+			<publisher>Miko</publisher>
+		</imprint>
+	</monogr>
+	<note>Database of Pompeian Houses</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Alunni, maestri e scuole a Pompei. L&apos;infanzia, la giovinezza e la cultura in epoca romana</title>
+		<author>
+			<persName><forename type="first">Laurentino</forename><surname>García Y García</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Collezione archeologica</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2004">2004</date>
+			<publisher>Bardi</publisher>
+			<pubPlace>Roma</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Repopualting the Roman House</title>
+		<author>
+			<persName><forename type="first">Michele</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Roman Family in Italy: Status, Sentiment, Space</title>
+		<editor>
+			<persName><forename type="first">Beryl</forename><surname>Rawson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Paul</forename><surname>Weaver</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Canberra</addrLine></address></meeting>
+		<imprint>
+			<publisher>Clarendon Press</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="299" to="319" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<author>
+			<persName><forename type="first">David</forename><surname>Graeber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">David</forename><surname>Wengrow</surname></persName>
+		</author>
+		<title level="m">The Dawn of Everything: A New History of Humanity</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Straus and Giroux</publisher>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Coming of Age and Putting on Christ: The Toga Virilis Ceremony, Its Paraenesis, and Paul&apos;s Interpretation of Baptism in Galatians</title>
+		<author>
+			<persName><forename type="first">Albert</forename><surname>Harrill</surname></persName>
+		</author>
+		<idno type="DOI">10.1163/156853602320249473</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Novum Testamentum</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="252" to="277" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The Demography of Roman Italy: Population Dynamics in an Ancient Conquest Society, 201 BCE-14 CE</title>
+		<author>
+			<persName><forename type="first">Saskia</forename><surname>Hin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Cambrdige University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Greater Post-Neolithic Wealth Disparities in Eurasia than in North America and Mesoamerica</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Bogaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Feinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alleen</forename><surname>Betzenhauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Matthew</forename><surname>Pailes</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature24646</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">551</biblScope>
+			<biblScope unit="page" from="619" to="622" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Deep Inequality: Summary and Conclusions</title>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amy</forename><surname>Bogaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alleen</forename><surname>Betzenhauser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Feinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rahul</forename><surname>Oka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ten Thousand Years of Inequality: The Archaeology of Wealth Differences edited byTimothy</title>
+		<meeting><address><addrLine>Kohler, Michale, Smith</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tuscon: University of Arizona Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="289" to="317" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Comparative Evidence and the Reconstruction of the Ancient Economy: Greco-Roman Housing and the Level and Distribution of Wealth and Income</title>
+		<author>
+			<persName><forename type="first">Geoffrey</forename><surname>Kron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pragmateiai: Collana Di Studi per La Storia Economica</title>
+		<editor>
+			<persName><forename type="first">François</forename><surname>De</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Callataÿ</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Bari</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edipuglia</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="page" from="123" to="146" />
+		</imprint>
+	</monogr>
+	<note>Quantifying the Greco-Roman Economy and Beyond Sociale e Amministrativa Del Mondo Antico 27</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Global Inequality: A New Approach for the Age of Globalization</title>
+		<author>
+			<persName><forename type="first">Branko</forename><surname>Milanovic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<publisher>The Belknap Press of Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Capitalism, Alone: The Future of the System that Rules the World</title>
+		<author>
+			<persName><forename type="first">Branko</forename><surname>Milanovic</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">2019</date>
+			<publisher>The Belknap Press of Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Elections, Magistrates and Municipal Élite: Studies in Pompeian Epigraphy</title>
+		<author>
+			<persName><forename type="first">Henrik</forename><surname>Mouritsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roma: L&apos;Erma di Bretschneider</title>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 15</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Wealthy Hellas</title>
+		<author>
+			<persName><forename type="first">Josiah</forename><surname>Ober</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the American Philological Association</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="241" to="286" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">The Rise and Fall of Classical Greece. The Princeton History of the Ancient World</title>
+		<author>
+			<persName><forename type="first">Josiah</forename><surname>Ober</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Games, Banquets, Handouts, and the Population of Pompeii as Deduced from a New Tomb Inscription</title>
+		<author>
+			<persName><forename type="first">Massimo</forename><surname>Osanna</surname></persName>
+		</author>
+		<idno type="DOI">10.1017/S1047759418001460</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Roman Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="310" to="322" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Rented Accommodation at Pompeii: The Evidence of the Insula Arriana Pollina VI.6</title>
+		<author>
+			<persName><forename type="first">Felix</forename><surname>Pirson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Domestic Space in the Roman World: Pompeii and Beyond</title>
+		<editor>
+			<persName><forename type="first">Ray</forename><surname>Laurence</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Andrew</forename><surname>Wallace-Hadrill</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="165" to="181" />
+		</imprint>
+	</monogr>
+	<note>Portsmouth: Journal of Roman Archaeology</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">Roman Law and the Legal World of the Romans</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Riggsby</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Pater Familias, Mater Familias, and the Gendered Semantics of the Roman Household</title>
+		<author>
+			<persName><forename type="first">Richard</forename><surname>Saller</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/449430</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Classical Philology</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="182" to="197" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Women in the Urban Texture of Pompeii</title>
+		<author>
+			<persName><forename type="first">Liisa</forename><surname>Savunen</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Dissertation of University of Helsinki</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Scheidel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Death on the Nile: Disease and the Demography of Roman Egypt</title>
+		<meeting><address><addrLine>Leiden</addrLine></address></meeting>
+		<imprint>
+			<publisher>Brill</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 228</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Human Mobility in Roman Italy, II: The Slave Population</title>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Scheidel</surname></persName>
+		</author>
+		<idno type="DOI">10.3815/000000005784016270</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Roman Studies</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="64" to="79" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Demography</title>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Scheidel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Cambridge Economic History of the Greco-Roman World</title>
+		<editor>
+			<persName><forename type="first">Walter</forename><surname>Scheidel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Ian</forename><surname>Morris</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Richard</forename><surname>Saller</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambrdige University Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="38" to="86" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Size of the Economy and the Distribution of Income in the Roman Empire</title>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Scheidel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Steven</forename><surname>Friesen</surname></persName>
+		</author>
+		<idno type="DOI">10.3815/007543509789745223</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Roman Studies</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="61" to="91" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Metrology and Meaning in Pompeii: The Urban Arrangement of Regio VI. Studi Della Soprintendenza Archeologica Di Pompei 20</title>
+		<author>
+			<persName><forename type="first">Astrid</forename><surname>Schoonhoven</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Roma: L&apos;Erma di Bretschneider</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Current Trends in Roman Demography and Empirical Approaches to the Dynamics of the Limes Populations</title>
+		<author>
+			<persName><forename type="first">Isabelle</forename><surname>Séguy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Finding the Limits of the Limes: Modelling Demography, Economy and Transport on the Edge of the Roman Empire</title>
+		<editor>
+			<persName><forename type="first">Philip</forename><surname>Verhagen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Jamie</forename><surname>Joyce</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Mark</forename><surname>Groenhuijzen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cham</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2019">2019</date>
+			<biblScope unit="page" from="23" to="41" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Online Appendix</title>
+		<author>
+			<persName><forename type="first">Samuli</forename><surname>Simelius</surname></persName>
+		</author>
+		<ptr target="https://s3-eu-west-1.amazonaws.com/s3-euw1-ap-pe-ws4-cws-documents.ri-prod/9780367649951/OnlineAppendix.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Pompeian Peristyle Gardens</title>
+		<title level="s">Studies in Roman Space and Urbanism</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2022">2022</date>
+			<biblScope unit="volume">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">2022b. Pompeian Peristyle Gardens</title>
+		<author>
+			<persName><forename type="first">Samuli</forename><surname>Simelius</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Studies in Roman Space and Urbanism</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<publisher>Routledge</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Studying Inequality&apos;s Deep Past</title>
+		<author>
+			<persName><forename type="first">Michael</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Timothy</forename><surname>Kohler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gary</forename><surname>Feinman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ten Thousand Years of Inequality: The Archaeology of Wealth Differences</title>
+		<editor>
+			<persName><forename type="first">Timothy</forename><surname>Kohler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Michael</forename><surname>Smith</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Tuscon: University of Arizona Press</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="3" to="38" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Patrons and Clients in Roman Pompeii -Social Control in the Cityscape and City Blocks?</title>
+		<author>
+			<persName><forename type="first">Eeva-Maria</forename><surname>Viitanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ynnilä</forename><surname>Heini</surname></persName>
+		</author>
+		<idno>25.-28.4.2012</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Sounds like Theory. XII Nordic Theoretical Archaeology Group Meeting in Oulu</title>
+		<editor>
+			<persName><forename type="first">Janne</forename><surname>Ikäheimo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Anna-Kaisa</forename><surname>Salmi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Tiina</forename><surname>Äikäs</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<publisher>Archaeological Society of Finland</publisher>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="141" to="155" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Houses and Society in Pompeii and Herculaneum</title>
+		<author>
+			<persName><forename type="first">Andrew</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Housing and Inequality in Ancient Greece</title>
+		<author>
+			<persName><forename type="first">Ruth</forename><surname>Westgate</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Archaeology of Inequality: Tracing the Archaeological Record</title>
+		<title level="s">The Institute for European and Mediterranean Archaeology Distinguished Monograph Series</title>
+		<editor>
+			<persName><forename type="first">Orlando</forename><surname>Cerasuolo</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Albany</addrLine></address></meeting>
+		<imprint>
+			<publisher>State University of New York Press</publisher>
+			<date type="published" when="2021">2021</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="211" to="234" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Pompeii: Public and Private Life</title>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Zanker</surname></persName>
+		</author>
+		<editor>Lucas Schneider Deborah</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Translated by</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

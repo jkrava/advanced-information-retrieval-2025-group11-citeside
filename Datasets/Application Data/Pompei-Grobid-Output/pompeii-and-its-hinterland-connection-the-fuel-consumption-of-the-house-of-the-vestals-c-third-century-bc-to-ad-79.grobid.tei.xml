@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Pompeii and its Hinterland Connection: The Fuel Consumption of the House of the Vestals (&lt;i&gt;c&lt;/i&gt;. Third Century BC to AD 79)</title>
+				<funder ref="#_ZMJ4FJR">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Cambridge University Press (CUP)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014">2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Robyn</forename><surname>Veal</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution" key="instit1">McDonald Institute for Archaeological Research</orgName>
+								<orgName type="institution" key="instit2">University of Cambridge</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Archaeology</orgName>
+								<orgName type="institution">University of Sydney</orgName>
+								<address>
+									<country key="AU">Australia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Pompeii and its Hinterland Connection: The Fuel Consumption of the House of the Vestals (&lt;i&gt;c&lt;/i&gt;. Third Century BC to AD 79)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">European Journal of Archaeology</title>
+						<title level="j" type="abbrev">Eur. j. archaeol.</title>
+						<idno type="ISSN">1461-9571</idno>
+						<idno type="eISSN">1741-2722</idno>
+						<imprint>
+							<publisher>Cambridge University Press (CUP)</publisher>
+							<biblScope unit="volume">17</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="27" to="44"/>
+							<date type="published" when="2014" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">A990B12A26AA513EE5ED4A0AB07F7254</idno>
+					<idno type="DOI">10.1179/1461957113y.0000000043</idno>
+					<note type="submission">received 13 August 2012, accepted 4 July 2013, revised 27 June 2013</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Classical archaeology</term>
+					<term>Pompeii</term>
+					<term>ancient economy</term>
+					<term>environment</term>
+					<term>bio-archaeological recovery</term>
+					<term>charcoal analysis</term>
+					<term>dry sieving</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Bio-archaeological studies can contribute significantly to understanding the economic interactions between cities and their hinterland. In Pompeii, where research has often been intramurally focussed, analysis of biological remains is often confined to bones and macro-botanicals consumed as foodstuffs. Charcoal, if collected, often remains unexamined, and yet this material is key to understanding the fuel economy of a city. This study has two goals: first, to describe an efficient method for charcoal sampling and analysis in a dense urban environment using only dry-sieved charcoals above 5 mm; and, second, in doing so, to demonstrate the dependent relationship between Pompeii and its hinterland for the provision of fuel in a case study from the House of the Vestals. A pilot study of 25 contexts from six 'rooms' and 750 charcoal fragments was followed by an extended study of 62 contexts over 14 rooms (a total of 1579 charcoal fragments). The extended results identified only two further (minor) taxa (represented by only three fragments). The most important wood identified was beech ( Fagus sylvatica), which constituted 50-75 per cent of the fuel supply, depending on the time period. Beech grows preferentially above about 900 m in central and southern Italy. Pompeii lies at 30 m altitude with the nearest mountain areas at least 15 km away. The study suggests that a methodology that relies on collection of charcoal from routine dry sieving (5 mm grid), in soils where this is possible, can provide robust results in a cost effective manner in an urban setting.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The city of Pompeii, which lies 50 km south of the Italian city of Naples, was buried by ash during the Vesuvian eruption of AD 79. In the last twenty years, comprehensive multidisciplinary excavations have commenced below the AD 79 horizon. Some of these have included publication of bioarchaeological remains <ref type="bibr" target="#b23">(Fulford &amp; Wallace-Hadrill, 1999;</ref><ref type="bibr">Auricchio, 2001: 172-73;</ref><ref type="bibr" target="#b13">Ciarallo &amp; De Carolis, 2001;</ref><ref type="bibr" target="#b43">Murphy et al., 2012)</ref>. Of the limited archaeological studies of charcoal in Pompeii, <ref type="bibr" target="#b9">Castelletti (1984)</ref> examined a small charcoal assemblage from one context in the archaic period. <ref type="bibr" target="#b30">Jashemski (2002)</ref> found small quantities of charcoal in garden soils (but these were not identified). More recently, as part of a tomb study near Porta Nocera <ref type="bibr" target="#b53">(van Andringa &amp; Lepetz, 2007)</ref>, macro plant remains associated with burial, cremation, and subsequent ritual have been reported <ref type="bibr">(Matterne &amp; Derreumaux, 2008)</ref>, as well as the charcoals <ref type="bibr" target="#b14">(Coubray, 2012)</ref>. The Anglo-American Project in Pompeii (AAPP) (Universities of Bradford and Stanford, and later, the University of Oxford), completed excavation of an entire insula of the city (Regione VI insula 1) from 1995 to 2006. The excavation of the House of the Vestals was finalized in 2000. In the House, as in the rest of the insula, near complete recovery of all artefacts and ecofacts was carried out by a team of around 100 staff, students and specialists in twelve 5-week seasons. Excavation on this scale has produced a large amount of material, including charcoal remains.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BACKGROUND History and landscape</head><p>Pompeii is located near the Tyrrhenian Sea on the mouth of the river Sarno, in the fertile Campanian plain (Figure <ref type="figure" target="#fig_0">1</ref>). Trace remains of the early Iron Age Italic peoples have been found and evidence for both Greek and Etruscan influence exists for the period from the eighth to the sixth centuries BC, culminating in the construction of the city walls. In the fourth century, an Italic people identified as the 'Samnites' who originated from the Apennines, descended from the mountains, gradually dominating the cities of the plain, including Pompeii <ref type="bibr">(Wallace-Hadrill, 1998: 21)</ref>. Rome began her ascendancy over the next couple of centuries and gradually took over the Italian peninsula. The city of Pompeii was besieged by the Roman general Sulla in the first century BC, and became a Roman colony in 80 BC. The coast was considerably further inland than today <ref type="bibr">(Mastroroberto, 1990: 10)</ref>, and probably less than 1 km from the city of Pompeii <ref type="bibr" target="#b45">(Pescatore et al., 2001)</ref>. The Campanian plain is low-lying, with some parts below sea level, and thus areas around the Sarno were prone to flooding. Pompeii is set on the only landform of any height (at 30 m altitude), on a small, ancient lava plateau <ref type="bibr">(Stefani, 1990: 11)</ref>. Ecologically, the Mediterranean climate consists of hot dry summers and mild winters, although microclimate variation is considerable <ref type="bibr">(Grove &amp; Rackham, 2001: 24-25, 57)</ref>. From pollen studies in areas a little distant, including Lake Avernus <ref type="bibr">(Grüger et al., 2002: 240-73)</ref>, the Bay of Naples <ref type="bibr" target="#b1">(Allevato et al., 2010)</ref>, the Bay of Salerno <ref type="bibr">(Ermolli &amp; di Pasquale, 2002: 211-19;</ref><ref type="bibr" target="#b15">Di Donato et al., 2008)</ref>, and a small local study <ref type="bibr">(Dimbleby &amp; Grüger, 2002: 181-216)</ref>, the historic arboreal and agricultural conditions may be reconstructed. Cold climate trees that typically exist at lower altitudes in northern Europe were restricted to the mountainous areas delineating the Campanian plain, i.e. Mt. Vesuvius (volcanic soil), the central Apennine range and the Lattari Mountains (both calcareous). Examples of such taxa include Abies alba (alpine fir, or silver fir), above 1000 m, and Fagus sylvatica (beech), from about 800 to 1000 m <ref type="bibr">(Pignatti, 2003: 112)</ref>. These three taxa are now reasonably rare in the mountain areas surrounding the plain due to anthropogenic pressures <ref type="bibr">(Grove &amp; Rackham, 2001: 159;</ref><ref type="bibr">Ciarallo, 2002: 174)</ref>. European Larix sp. (larch) does not occur naturally in Southern Italy, and Picea sp. (spruce), while being present in much earlier time periods (c. 14,000 BC), had disappeared by the classical period. The mid-montane altitudes, 400-800 m, were thought to have been dominated by mixed deciduous forests of Quercus spp. (oak), Castanea sativa (chestnut), Fraxinus sp. (ash), Ulmus spp. (elms), Acer spp. (maples), and members of the closely related Corylaceae Family: Carpinus spp. (hornbeams), Ostrya carpinifolia (hop hornbeam) and Corylus avellana (hazel).</p><p>Evergreen oak was also present. Riverine species such as types of Alnus spp. (alder), and members of the Saliceae family-Salix spp. (willow) and Populus spp. (poplar)-in ancient times would have commonly spread along the river flats, wherever agriculture did not occupy the fertile soil of Campania Felix. On the lower montane areas, and woodland margins, more degraded forms of forest may also have occurred, i.e. macchia <ref type="bibr">(Foss et al., 2002: 66)</ref>. Taxa from this environment include Erica arborea (tree heather), Arbutus unedo (strawberry tree), Pistacia spp. (pistachio), and, close by on the coast, various types of Pinus spp. (pine) and Cupressus sempervirens (cypress). Some macchia species such as Pistacia spp. and Arbutus spp. were also grown for commercial and medicinal use (as attested in the ancient sources, in particular, Pliny the Elder's Natural History), and were likely cultivated to some extent in city gardens and orchards.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Land use and wood supply</head><p>Regional archaeological records indicate the presence of 'rural' Roman villa farm settlements (at AD 79) on average as frequently as every 400 m and occasionally only 90 m apart. Maps produced by the Superintendency of Pompeii documenting this density of settlement can be viewed at the Antiquario di Boscoreale (the Boscoreale Museum near Pompeii), but have unfortunately not been formally published. The ancient Roman agronomist writers also attest to intensive cultivation of the fertile plain, for example Strabo (Geography V.4.3) tells us Campanian soils supported four crop rotations per year. Wood for fuel could have been obtained from local gardens and orchards, potentially from the Sarno Plain and from the mountains nearby. Little formal evidence for the fuel supply, either historic or archaeological, is yet attested.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Depositional environment of the House of the Vestals</head><p>Figure <ref type="figure" target="#fig_1">2</ref> shows a plan of the location of the House of the Vestals within the city. The House's development is discussed in a number of publications <ref type="bibr" target="#b31">(Jones &amp; Robinson, 2004</ref><ref type="bibr">, 2005a</ref><ref type="bibr" target="#b33">, 2005b</ref><ref type="bibr" target="#b34">, 2006)</ref>. The first signs of habitation occur in the late fourth century BC. Between the fourth and second centuries BC, a small house of a few rooms developed on the via Consolare side of the insula. A (primary) foundation deposit (c. 200 BC) was sealed around the time of the commencement of the later house in an area under the southeast edge of the atrium. (This charcoal is to be reported separately.) In the second century BC, the House of the Vestals was extended across the insula, and in the first century, after the Sullan siege and subsequent Roman political takeover in 80 BC, all buildings were combined to form one luxury dwelling with two peristyles and even a small swimming pool in the Augustan period. Following the eruption of Vesuvius and burial in pumice and ash, the area was left dormant. Bourbon excavations in the eighteenth century caused disturbance to some parts of VI.1, and trampling by tourists and excavators alike has also occurred.</p><p>While cooking activities are the primary means by which charcoal would have been introduced into the Roman archaeological record in a domestic environment, also to be considered are heating of rooms and/or water for bathing suite; possibly building activities <ref type="bibr" target="#b2">(Anderson, 1999)</ref>; ritual or industrial activities (often associated with domestic structures); reuse of burnt charcoal for sanitation or garden fertilization (which might have been site sourced, or externally sourced); and major fire events (although there is no evidence for this in the House of the Vestals). The charcoal data that were obtainable were mostly from undifferentiated secondary fills, especially from the kitchen areas, but none of these were true primary deposits. Individual deposits represent the average wood use of a limited area over the given time period each context represents (according to standard ceramic typologies and coins in this period). Secondary deposits provide the greatest likelihood of evidencing 'average' fuel use. It is a difficulty in some charcoal studies that primary contexts are privileged (which attest to the last, or last few, burn events), and that they conflate results for primary and secondary contexts, and/or employ several different recovery and sampling methods in one study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Overview of data collection</head><p>In a dense urban environment such as Pompeii, archaeological priorities of defining standing remains, usually by 'room', and analysing ceramics and coins and other artefacts, dominate collection strategies for environmental remains. The associated archaeological practices differ somewhat from prehistoric site excavations, where flotation of standard soil samples forms the kernel of recovery of bio-archaeological remains (either on a randomized, systematic basis, or by way of selection of contexts of interestor, potentially, both). The AAPP recovery strategy aimed at near total recovery of all remains, in that all excavated soils were dry-sieved to recover artefacts and ecofacts above the sieve size (5-mm grid). Additionally, from all excavated contexts, an un-sieved sample of soil was processed by flotation (a 20-l sub-sample, i.e. two 'buckets,' or less, if the context was smaller). This meant that specialists had at their disposal the dry-sieved (above 5 mm) remains, and the floated (above 500 microns) remains for every single context (some 5000 contexts in total for the House of the Vestals). Far more material was recovered than could be analysed. For the purposes of this study, a small informal investigation was carried out comparing the results of the two recovery methods. Initial comparisons of taxon diversity from flotation and taxon diversity from excavation/dry sieving, for charcoal from the same contexts, showed a loss of diversity from flotation. Taxa recovered from flotation were invariably the major hardwoods (which better survive the mechanical stresses involved). This result is at odds with the most commonly accepted beliefs about recovery approaches for charcoal. In general, flotation is accepted, mostly unquestioningly, as being a superior collection method <ref type="bibr">(Wagner, 1988: 19)</ref>. Conditions for charcoal collection will depend substantially on the soil matrix. Dry sieving, while being the quickest and least costly method, is not suitable for wet soils or those containing much clay (like many UK depositional environments, for instance). Examination of the dry-sieved charcoals only is reported here. The approach aimed to optimize cost/benefit, while ensuring the adequacy of the subsampling strategy adopted.</p><p>In this study, a total of sixty-two different 'contexts' were examined in the extended study (cf. <ref type="bibr">Keepax, 1988: 45 and</ref><ref type="bibr">Asouti, 2001: 96)</ref> who recommend a minimum of twenty-five to fifty contexts). Excavated contexts in a dense urban environment can vary in volume greatly, compared with the usual consistency of floated soils in pre-and proto-historic sites that are typically a fixed quantity of 20-50 l. However, this difference is not a drawback, provided a range of context types and volumes are examined. Flotation of a fixed volume of soil is less representative than sieving all excavated soils, although it does enable the collection of much smaller fragments. New research, however, suggests that bias (by way of over-representation, of oak in particular), is greatly observed in the 1-2 mm fraction, and even to a degree in the 2-4 mm fraction <ref type="bibr" target="#b11">(Chrzavzez et al., 2011)</ref>. <ref type="bibr" target="#b4">Asouti and Austin (2005)</ref> (and others) recommend sampling, especially middens or other secondary refuse deposits, to obtain the most suitable data. In Pompeii, no true refuse dump was found at the House of the Vestals (or indeed in any of the other sites currently being examined within the city).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sub-sampling: choosing the number of fragments to examine in a context</head><p>Charcoal is a fragile ecofact, which fragments on initial excavation or flotation, and continues to fragment at each stage of handling. Potentially, the time to examine the assemblage continually increases as the number of fragments increase (and their average size decreases), so limiting identification to a suitable sub-sample of charcoal from contexts with a lot of charcoal is an important aspect of cost consideration. Ranges of optimum fragment counts from a low of about 100 to a high of about 400 fragments are recommended per context (or period) (see, for example, <ref type="bibr">Keepax, 1988: 120-24;</ref><ref type="bibr">Chabal et al., 1999: 66;</ref><ref type="bibr">Asouti, 2001: 96)</ref>. Most of the Pompeian contexts contained around 30-50 fragments. This meant that to obtain significant results, analysed contexts were grouped by century, and around 250 fragments per century were examined in both the preliminary and extended studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Identification</head><p>Standard works on wood structure and relevant wood atlases were used in identification <ref type="bibr" target="#b51">(Schweingrüber, 1990;</ref><ref type="bibr" target="#b24">Gale &amp; Cutler, 2000;</ref><ref type="bibr" target="#b28">Hather, 2000;</ref><ref type="bibr" target="#b50">Schoch et al., 2004)</ref>. Nomenclature follows <ref type="bibr" target="#b47">Pignatti (2003)</ref>, and the International Plants Names Index (IPNI). It should be noted that identification of Mediterranean woods using northern European atlases (of the same taxa) is occasionally difficult due to climatic differences. Collection and charring of local modern reference material is therefore of importance. The modern reference collections of the University of Bradford and University College London were consulted and augmented mostly with woods from Pompeii's ancient and modern cities and mountain areas surrounding the Campanian plain.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data recording, quantification, and possible bias</head><p>Measuring weights of charcoal, or counting fragment numbers, are the two main modes of quantification in charcoal analysis. For this study, fragment count was adopted as it is more convenient and time effective. Percentage frequency analysis (PFA) was carried out after eliminating counts for indeterminate fragments (those charcoals which could not be identified due to poor visibility of cellular structures) <ref type="bibr">(Asouti, 2001: 139)</ref>. All indeterminate fragments were dicotyledons. PFA suffers from the limitation that if the percentage of one taxon alters, then so too do all others, and so data are not independently represented. Results can additionally suffer from taphonomic bias, which may or may not be consistent through the contexts.</p><p>Here, contexts are grouped and analysed on a holistic basis by centuries, thus nonsystemic errors of bias in individual samples will tend to be averaged out.</p><p>There was no evidence of significant faunal bioturbation, but post-depositional root penetration and inorganic salt crystal deposition were significant in some contexts. Both cause weakening of charcoal fragments, reducing the likelihood of identification.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pilot study</head><p>A preliminary study of 750 fragments was made of the House of the Vestals charcoal <ref type="bibr">(Veal, 2004;</ref><ref type="bibr">Veal &amp; Thompson, 2008)</ref>. In this study, contexts that contained from three to about eighty (average thiry) fragments were examined <ref type="bibr">(Veal &amp; Thompson, 2008: 293)</ref>, and these were mostly associated with the identified kitchen/service areas of the house. Later, a further service area located in a different part of the house (AA130) was added, giving a total of six 'rooms' in the house. From each 'room' four or five contexts were chosen through time, based on spot dates and excavation records (and discussions with director, Damian Robinson) so as to provide in the final analysis the examination of twenty-five contexts in total from the second century BC to AD 79 (the pilot study did not include third century BC material). Figure <ref type="figure" target="#fig_3">3</ref> shows the rooms at AD 79 from which the initial samples were taken.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Extended study</head><p>For the extended study, the scope of the pilot study was widened to increase the spatial coverage (Figure <ref type="figure" target="#fig_2">4</ref>). For this area, a total of 1579 fragments were analysed. A small quantity of data for the third century BC also became available for this study.</p><p>Only two new taxa were identified, Fraxinus sp. (one fragment) and Rhamnus/ Phillyrea sp. (two fragments), following the significant extension of data. Overall, the major diachronic results were unchanged.</p><p>Table <ref type="table" target="#tab_1">1</ref> provides a summary of the results.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REMARKS ON IDENTIFICATION</head><p>Of the Fagaceae family, the fragments are either Quercus sp. or Fagus sylvatica, with no Castanea sativa, Mill. Chestnut was possibly used as wood for construction in ancient times, or as a food tree predominantly, and its calorific potential is low by comparison with the other Fagaceae, and so its lack of presence as a fuel wood is not necessarily surprising. Chestnut has been reported in greater quantities in the late Roman period from the northern slopes of Vesuvius <ref type="bibr" target="#b0">(Allevato et al., 2012)</ref>, mostly as building timber. Most Quercus fragments could be identified as being either deciduous or evergreen. Fragments identified to the Corylaceae subfamily will be one of the other identified taxa: Carpinus (either C. betula or C. orientalis: hornbeam or oriental hornbeam), Corylus avellana (hazel), or Ostrya carpinifolia (hop hornbeam). The Acer (maple) observed consists of three or more species: Acer campestre (field maple), Acer opalus/obtusatum (Italian maple) and the Acer pseudoplatanus type. The latter two types are mostly montane <ref type="bibr">(Pignatti, 2003: 67-71)</ref>.</p><p>Within the large family of Rosaceae, identification rests at a number of levels of refinement: (a) the Maloideae subfamily; (b) occasionally more precise identifications allow identification of Prunus spp. (a restricted group of the Prunoideae subfamily); and (c) within the subfamily Rosoideae, identification is possible to Rosa spp. Prunus spp. include cherries, plums, almonds and peach, but many of these were only just being introduced into Roman cultivation in the period; most Prunus fragments are likely P. avium L. (wild and cultivated, cherry) in the earlier centuries, with P. dulcis, P. persica, and P. armenaica probably appearing more often in the late first century BC into the first century AD. The later appearance of a greater variety of cultivated Prunus spp. agrees with both the carpology and charcoal results from the Porta Nocera Tomb (Matterne &amp; <ref type="bibr" target="#b40">Derreumaux, 2008;</ref><ref type="bibr" target="#b14">Coubray, 2012)</ref>, and broadly with the carpology results from the House of the Surgeon <ref type="bibr" target="#b42">(Murphy, 2010;</ref><ref type="bibr" target="#b43">Murphy et al., 2012)</ref>. The Maloideae subfamily includes fruits such as pear or apple, but also other taxa such as hawthorn and whitebeam or the service tree (sorb). Those identified only to the family level of Rosaceae are fragments with poor preservation characteristics, which could not be confidently resolved to a lower level.  Small quantities of a range of woods that may also be considered food and/or medicinal plants (according to the ancient texts, in particular Pliny the Elder's Natural History) were observed. These include Vitis vinifera, and of the Pinus spp. (pine) possibly P. pinea (the stone pine that produces edible nuts), but some fragments are also one or more of the montane types, possibly P. nigra or P. mugo. There were a few fragments identified only as Conifer, and some of the high alpine fir Abies alba. The category of Rhamnus/Phillyrea covers a range of wood types from small macchia plants with some medicinal uses to bigger trees of wood suitable for fuel, but there were few of these fragments.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Detailed diachronic results of the House of Vestals</head><p>Some key features emerge from these results. Sufficient data for the site appear to have been analysed in terms of sampling theory, since no new taxa were found for the last 25 per cent of fragments examined. Results grouped by wood type are shown in Figure <ref type="figure" target="#fig_4">5</ref>. One taxon dominates time, namely Fagus sylvatica (beech), and beech diminishes with time. It is in fact found in virtually all of the contexts and the falling quantity of beech is coeval with an increase in a group of secondary fuel woods comprising oaks, maples, and hornbeams. There is an increase in diversity through time, especially after the Sullan siege and subsequent colonization, which followed Pompeii's subjugation in 80 BC (during the Social Wars). This trend is mostly characterized by an increase in fruit and nut types. The data for the third century BC are limited to only fourteen successfully identified fragments and so cannot be considered representative for this century, and are omitted from the results graph.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Diversity through time</head><p>Table <ref type="table" target="#tab_2">2</ref> summarizes diversity for the House of the Vestals. These taxon counts are minima only, because they include families, subfamilies, and genera that represent two or more possibilities. Diversity counts have excluded those figures for Quercus (indist.), Fagaceae and Corylaceae, because these higher order identifications reflect taxa already counted. Maloideae, Rosaceae, and Coniferales are conversely always counted because these groupings  represent so many different possible taxa. limitation is assumed to be consistent across time in order to comment on the data, and this is not strictly a valid assumption. For example, in one period, the genus Acer may reflect two possible species types, while in another it may reflect three or more.</p><p>Ignoring the third century BC results, since fragment count is low, diversity increases only mildly from the second century BC to the first century BC, and increases at a higher rate moving from the first century BC to the first century AD. The larger jump may be as a result of the Sullan colonization early in the first century BC, leading to proscription of local élite property, and settlement by Roman veterans with subsequent planting of a greater variety of especially Prunus types, more local grapevines, and hazelnuts. Equally, the extant Samnite population might have been responsible for this change, since acculturation meant adoption of cultural mores in both directions. The decrease in beech over time is interesting in that it may be interpreted in one of two ways. On the one hand, pressure on the beech supply caused a diminution of beech forest at more accessible levels, and perhaps the available beech at mid-montane levels was replaced by other deciduous types, such as the oaks, hornbeams, and maples (which increase in presence over time). As fuel, these wood types together do not differ significantly in heat value.</p><p>In contrast, the beech supply may not necessarily have been under pressure. With the increasing integration of the Roman empire, the Roman habit of introducing and experimenting with foreign plants (in particular food trees) was combined with a desire to maximize use of all available resources (as recommended by ancient writers such as Cato). This may have led to the increased use of fruit and nut woods as kindling, simply because they were available and close by. In the case of the wealthy House of the Vestals such wood could potentially have been available in the garden of the property.</p><p>A combination of both factors may have been in operation; however, pollen data for the period show no protracted deterioration in beech quantities <ref type="bibr" target="#b16">(Dimbleby &amp; Grüger, 2002;</ref><ref type="bibr" target="#b21">Ermolli &amp; di Pasquale, 2002;</ref><ref type="bibr" target="#b27">Grüger et al., 2002;</ref><ref type="bibr" target="#b15">Di Donato et al., 2008;</ref><ref type="bibr" target="#b1">Allevato et al., 2010)</ref>, although pollen studies from in and around Pompeii exhibit serious difficulties with data representativeness, and, in general, trends in longer-scale pollen studies are difficult to correlate with shortterm charcoal studies. The most reliable pollen studies-from the Bay of Naples or Salento-are some distance away. There are difficulties of over-and underrepresentation in pollen, as there are in charcoal analysis. Scale and scope differences usually mean that a period of several hundred years in a charcoal study equate to only a thin line on a long-term pollen study. Nevertheless, the wood types identified in the charcoal do not significantly differ from the pollen studies of the region.</p><p>The woods found represent a wide variety of habitats, from the plain to the upper mountain areas, demonstrating a clear interaction between the city and its hinterland. Nearly all are high heat value woods. Marginal and shrub taxa exist in only very small quantities, suggesting their inclusion is incidental. Beech, which grew at an altitude just below the alpine conifers (and sometimes mixed with them) was, and is, the highest growing hardwood in Italy <ref type="bibr">(Pignatti, 1997: 225)</ref>. Beech is a dense wood (0.73 g/cm 3 ) <ref type="bibr" target="#b25">(Giachi et al., 2003)</ref>, and has a high calorific value. Beech is generally a slow-growing tree but can sometimes be coppiced on a short rotation and has more commonly been pollarded at longer intervals <ref type="bibr" target="#b26">(Grove &amp; Rackham, 2001:</ref> Some of the fuel wood was collected from fallen branches, as attested by the presence of pre-depositional hyphae.</p><p>Beech requires high altitude for optimum growth in southern Italy. Photosynthesis is optimized between 1200 and 1500 m in the current climate <ref type="bibr">(Pignatti, 1997: 487-90)</ref>. Consequently, its dominance in the charcoal assemblage at the House of the Vestals provokes several questions about the source of the wood. The city is located on the Campanian plain at an altitude of only 30 m, some distance from any mountains. The climate of the Mediterranean region two thousand years ago is widely considered to have been similar in temperature to today, or perhaps even slightly warmer, although many conflicting data exist <ref type="bibr" target="#b36">(Lamb, 1977</ref><ref type="bibr" target="#b37">(Lamb, , 1995;;</ref><ref type="bibr" target="#b19">Dragoni, 1998;</ref><ref type="bibr" target="#b48">Reale &amp; Dirmeyer, 2000;</ref><ref type="bibr" target="#b49">Reale &amp; Shukla, 2000)</ref>. Fluctuations even within the 400-year period under question have been noted <ref type="bibr" target="#b29">(Jalut et al., 2000;</ref><ref type="bibr" target="#b38">Magny et al., 2002;</ref><ref type="bibr" target="#b8">Büntgen et al., 2011;</ref><ref type="bibr" target="#b41">McCormick et al., 2012)</ref>. However, these studies provide a wide view geographically, and acknowledge that microclimates may vary considerably from the 'average'. While in this instance it is especially difficult to separate out anthropogenic changes from small climactic variations, it is very unlikely that beech grew in profusion on the plain since it prefers altitude and good drainage, and the Sarno plain was very boggy. Pollen evidence suggests the wood was plentiful in the classical period <ref type="bibr" target="#b26">(Grove &amp; Rackham, 2001)</ref>, and, if this were the case, it can be inferred that growth conditions were good and beech-dominated forests may have been extensive at high altitudes.</p><p>The first reported charcoal study in Pompeii, and the only one to fully identify the wood types adequately, was by <ref type="bibr">Castelletti (1984: 354)</ref>, who examined 200 fragments of charcoal. These were identified as beech, and further noted to be of large dimensions, and possibly 'collected nearby'. Castelletti interpreted this as being wood prepared as charcoal fuel. Subsequent interpretations of this report have extended his observations well past the reported results and led to the promulgation of the idea of a 'sacred beech grove' growing in the sixth-century city (e.g. <ref type="bibr" target="#b7">Bonghi Jovino, 1984)</ref>. This is an implausible interpretation given the ecological requirements of beech, whose optimal growth zone is above 900 m, compared to Pompeii's location at near sea level, and also because the cutting of larger branches or small trunks for making charcoal would seem at odds with a religious use.</p><p>Beech may well have been present on Vesuvius at higher altitudes, although it is more likely that the most fertile and accessible areas were occupied with vines, olives, and orchards, since these were likely higher monetary-value crops than wood. This is yet to be proven, however, and we cannot assume standard modern market forces existed in the ancient world. Beech prefers weakly acidic soils, so the calcareous Lattari Mountains (to the south) and the Apennines (to the east), could have supplied fuel to the city. These areas are respectively 15 and 25 km distant, the latter representing about a day's journey. Wood and/or wood charcoal fuel could have been transported by oxen and cart or mule train, down the mountain to the main road, or to the Sarno River. From there it could have been transported to the city, either along the riverside road, or perhaps on the river itself on a seasonal basis.</p><p>The secondary fuel woods (oaks, maples, hornbeams) may have been similarly harvested from slightly lower areas in the mid-montane reaches, but these woods would also have been available to some extent on the plain and in the city. The nature and volume of the fruit and nut woods suggest these were likely cuttings used as kindling, and they may have been locally available from gardens and orchards inside the city walls, or from more distant areas of the lower mountain areas where orchards grew. Being a wealthy household, the House of the Vestals may have owned land in the mountains, sending their own slaves to collect wood and/or make charcoal, and transport the fuel to the city. It is also possible that a more developed wood and charcoal market existed, as it did in Rome <ref type="bibr">(Diosono, 2008a</ref><ref type="bibr">(Diosono, , 2008b))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>This study of urban fuel use in a wealthy household in Pompeii suggests a strong link between the city and its hinterland mountains, providing a more outward-looking view of one part of Pompeii's economy. It demonstrates that sampling of available charcoals, of 5 mm or more in length, from dry-sieved soils can be a cost-effective manner to view the wood fuel supply in a dense urban environment. It is acknowledged that dry sieving cannot be carried out at all sites. Excavators finding only a few fragments of charcoal per context often believe that they do not have much charcoal and thus do not collect it. However, even this small amount of data, synthesized over many contexts provides useful results. Charcoal may be collected like any other artefact, and not necessarily reserved for specialist collection by flotation. Combining data from individual contexts, into centuries for reporting purposes overcomes the difficulties of small data quantities from individual contexts. This is a valid strategy: firstly, because it is based on truly systematic and holistic data collection, and secondly because changes in the environment from which fuel is derived are unlikely to be able to be detected in much shorter periods. In the case of the House of the Vestals, a distinctive pattern of fuel consumption has been observed that correlates with the increasing complexity of social and economic activity that developed in Pompeii, especially after the Roman colonization in 80 BC. A vertical supply arrangement (by villa owners from their own forest supply areas) could have existed, and/or a more general market supply. In either case, wood and wood charcoal fuel were transported over considerable distances. Inferred labour and transport costs suggest the fuel economy was an important part of the overall economy of the city.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>BIOGRAPHICAL NOTE</head><p>Robyn Veal researches ancient environmental economics, and is at present focussed on timber and fuel. Related areas of interest include landscape archaeology, climate, and topography, and ancient science and technology. She completed her doctorate in archaeology at Sydney on the fuel economy of Pompeii. She held the Ralegh Radford Rome Fellowship at the British School at Rome (2011-2012) and is currently the McDonald Institute for Archaeological Research Anniversary Fellow (2012-2015), at the University of Cambridge. Her current major project is entitled 'Forest exploitation and sustainability in province and empire', which comparing the fuel consumption of Rome and central Italy with that of Londinium and southern Romano-Britain in the Imperial period. She is also an honorary research affiliate at the Department of Archaeology, University of Sydney and she works with a number of international excavation teams. Address: McDonald Institute for Archaeological Research, University of Cambridge, Downing Street, Cambridge, CB2 3ER, UK. [email: rjv33@cam.ac.uk] Pompéi et ses connexions vers l'arrière-pays: la consommation de combustible dans la Maison des Vestales, env. 3e siècle av. J.C. jusqu'en 79 ap. J.C. Les études bioarchéologiques peuvent contribuer considérablement à la compréhension des interactions économiques entre les villes et leur arrière-pays. À Pompéi, où la recherche s'est surtout concentrée sur le site intra-muros, l'analyse des restes biologiques est souvent limitée aux denrées alimentaires consommées comme les os et les résidus macrobotaniques. Dans la plupart des cas le charbon, s'il est ramassé, n'est pas examiné, bien que cette matière est la clé pour comprendre comment une ville organise son approvisionnement en et sa consommation de combustible. Cette étude poursuit deux buts: d'abord, décrire une méthode efficace d'échantillonnage et d'analyse de charbon dans un environnement urbain dense en n'utilisant que du charbon de taille supérieure à 5 mm obtenu par tamisage par voie sèche, et ensuite, montrer de cette façon les relations de dépendance entre Pompéi et son arrière-pays pour l'approvisionnement en combustible dans une étude de cas de la Maison des Vestales. Une étude-pilote de 25 contextes provenant de 6 'chambres' et de 750 morceaux de charbon fût suivi d'une étude approfondie de 62 contextes de 14 'chambres' (un total de 1579 morceaux de charbon). Les résultats étendus n'identifiaient que 2 autres taxons (insignifiants) (représentés par seulement trois morceaux). Le plus important parmi le bois identifié était le hêtre (Fagus sylvatica), qui représentait entre 50 à 75% de l'alimentation en combustible, selon la période considérée. Les hêtres poussent de préférence au-dessus de 900 m dans le centre et le sud de l'Italie. Pompéi est situé à 30 m d'altitude; les régions montagneuses les plus proches se trouvent à une distance d'au moins 15 km. L'étude suggère qu'une méthodologie qui se fonde sur la collection de charbon provenant de tamisage sec effectué couramment (tamis de 5 mm), dans des sols où ceci est possible, peut apporter des résultats fiables à peu de frais, dans un milieu urbain. Translation by Isabelle Gerges. Mots-clés: archéologie classique, Pompéi, économie ancienne, environnement, récupération bioarchéologique, analyse de charbon, tamisage par voie sèche Pompeji und seine Verbindung mit dem Hinterland: Brennmaterialverbrauch des Hauses der Vestalinnen, ca. 3. Jh. v. Chr. bis 79 n. Chr. Bioarchäologische Studien können wesentlich zum Verständnis des ökonomischen Wechselspiels zwischen Städten und ihrem Hinterland beitragen. In Pompeji, wo der Fokus der Forschung oft auf den intramuralen Bereichen gelegen hat, beschränkt sich die Analyse biologischer Hinterlassenschaften oft auf Knochen und botanische Makroreste als Spuren konsumierter Nahrung. Holzkohle verbleit, wenn sie überhaupt gesammelt wird, oft nicht untersucht, wenngleich dieses Material einen Schlüssel zum Verständnis der Brennmaterialökonomie einer Stadt birgt. Diese Studie hat zwei Ziele: einerseits eine</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Location of Pompeii Shaded terrain map from SRTM3 elevation data by 'Morn the Gorn', available at http://en. mobile.wikipedia.org/wiki/File:Vesuvius_SRTM3.png [accessed March, 2013]</figDesc><graphic coords="3,135.33,64.86,228.25,178.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Plan of the location of the House of the Vestals. After AAPP archive, courtesy D. Robinson</figDesc><graphic coords="4,60.60,64.86,372.13,261.24" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 4 .</head><label>4</label><figDesc>Figure 4. Final areas used in charcoal analysis, House of the Vestals (1579 fragments). After AAPP base plan, courtesy D. Robinson</figDesc><graphic coords="8,96.04,416.41,301.43,200.86" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Areas selected for charcoal analysis in the pilot study, House of the Vestals (750 fragments). After AAPP archive, courtesy D. Robinson</figDesc><graphic coords="8,96.04,64.86,301.43,205.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5 .</head><label>5</label><figDesc>Figure 5. Diachronic results for the House of the Vestals (woods grouped by importance, third century BC data omitted due to low fragment count).</figDesc><graphic coords="10,83.96,64.86,325.62,209.99" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1</head><label>1</label><figDesc>Summary of results.</figDesc><table><row><cell>Taxon name</cell><cell>Count reconciliation</cell><cell>Taxon per cent of total (excluding indet.)</cell><cell>3 BC count</cell><cell>2 BC count</cell><cell>1 BC count</cell><cell>1 AD count</cell></row><row><cell>Fagus sylvatica</cell><cell>815</cell><cell>62.5</cell><cell>1</cell><cell>283</cell><cell>395</cell><cell>136</cell></row><row><cell>Quercus (decid.)</cell><cell>42</cell><cell>3.2</cell><cell>0</cell><cell>14</cell><cell>17</cell><cell>11</cell></row><row><cell>Quercus (evergr.)</cell><cell>87</cell><cell>6.7</cell><cell>1</cell><cell>20</cell><cell>29</cell><cell>37</cell></row><row><cell>Quercus (indist.)</cell><cell>4</cell><cell>0.3</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>4</cell></row><row><cell>Fagaceae</cell><cell>5</cell><cell>0.4</cell><cell>0</cell><cell>1</cell><cell>3</cell><cell>1</cell></row><row><cell>Ostrya carpinifolia</cell><cell>5</cell><cell>0.4</cell><cell>0</cell><cell>3</cell><cell>0</cell><cell>2</cell></row><row><cell>Carpinus spp.</cell><cell>163</cell><cell>12.5</cell><cell>0</cell><cell>26</cell><cell>109</cell><cell>28</cell></row><row><cell>Corylus avellana</cell><cell>37</cell><cell>2.8</cell><cell>0</cell><cell>0</cell><cell>14</cell><cell>23</cell></row><row><cell>Corylaceae</cell><cell>14</cell><cell>1.1</cell><cell>0</cell><cell>0</cell><cell>5</cell><cell>9</cell></row><row><cell>Prunus sp</cell><cell>9</cell><cell>0.7</cell><cell>0</cell><cell>2</cell><cell>0</cell><cell>7</cell></row><row><cell>spp. Rhamnus/Phillyrea</cell><cell>2</cell><cell>0.2</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>1</cell></row><row><cell>Maloideae</cell><cell>20</cell><cell>1.5</cell><cell>12</cell><cell>0</cell><cell>2</cell><cell>6</cell></row><row><cell>Rosaceae</cell><cell>3</cell><cell>0.2</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>3</cell></row><row><cell>Vitis vinifera</cell><cell>7</cell><cell>0.5</cell><cell>0</cell><cell>0</cell><cell>2</cell><cell>5</cell></row><row><cell>Acer spp.</cell><cell>78</cell><cell>6.0</cell><cell>0</cell><cell>7</cell><cell>21</cell><cell>50</cell></row><row><cell>Fraxinus sp.</cell><cell>1</cell><cell>0.1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1</cell></row><row><cell>Pinus spp.</cell><cell>6</cell><cell>0.5</cell><cell>0</cell><cell>0</cell><cell>1</cell><cell>5</cell></row><row><cell>Abies alba</cell><cell>3</cell><cell>0.2</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>0</cell></row><row><cell>Coniferale</cell><cell>3</cell><cell>0.2</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>2</cell></row><row><cell>Indeterminate</cell><cell>275</cell><cell></cell><cell>4</cell><cell>59</cell><cell>107</cell><cell>105</cell></row><row><cell>Totals</cell><cell>1579</cell><cell>100.0</cell><cell>18</cell><cell>417</cell><cell>708</cell><cell>436</cell></row><row><cell>Average per cent</cell><cell>17.4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>indeterminate</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>% Indeterminate/</cell><cell></cell><cell></cell><cell>22.2</cell><cell>14.1</cell><cell>15.1</cell><cell>24.1</cell></row><row><cell>Century</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 2</head><label>2</label><figDesc>Diversity patterns.</figDesc><table><row><cell></cell><cell>Total diversity third century BC to AD79</cell><cell>Third century BC count</cell><cell>Second century BC count</cell><cell>First century BC count</cell><cell>First century AD count</cell></row><row><cell>House of</cell><cell>16</cell><cell>(3)*</cell><cell>9</cell><cell>10</cell><cell>15</cell></row><row><cell>Vestals</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>*This count is based on a low number of fragments and is thus not interpretively valid.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>European Journal of Archaeology 17 (1) 2014 https://doi.org/10.1179/1461957113Y.0000000043 Published online by Cambridge University Press</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>https://doi.org/10.1179/1461957113Y.0000000043 Published online by Cambridge University Press</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The author thanks staff and students of the Anglo-American Project in Pompeii. Special thanks also to the <rs type="institution">Superintendency of Pompeii</rs>, in particular the staff of the environmental laboratory: <rs type="person">Annamaria Ciarallo</rs>, <rs type="person">Ernesto de Carolis</rs>, <rs type="person">Antonio Stampone</rs> and <rs type="person">Luigi Buffone. Access</rs> to the UCL and Bradford charcoal reference collections was graciously provided by <rs type="person">Dorian Fuller</rs> and <rs type="person">Jill Thompson</rs>. <rs type="person">Phillip Austin</rs>, <rs type="person">Jill Thompson</rs>, and <rs type="person">Sylvie Coubray</rs> provided useful discussions on early identifications. Dana Challinor's insightful comments and discussion of her own work in progress at Pompeii were much appreciated. The fieldwork was completed with the aid of a <rs type="grantName">Greenwell Foundation Grant</rs> (<rs type="affiliation">Department of Archaeology, University of Sydney</rs>). Parts of this manuscript were prepared at the <rs type="institution">British School at Rome</rs>. The three anonymous reviewers and the editor are also thanked for their helpful suggestions.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ZMJ4FJR">
+					<orgName type="grant-name">Greenwell Foundation Grant</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Persistence of the Cultural Landscape in Campania (Southern Italy) before the AD 472 Vesuvius Eruption: Archaeoenvironmental Data</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Allevato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buonincontro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vairo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pecci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yoneda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>De Simone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aoyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Angelelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matsuyama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takeuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Di</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Archaeological Science</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="399" to="406" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Pollen-Wood Analysis at the Neapolis Harbour Site (1st-3rd Century AD, Southern Italy) and its Archaeobotanical Implications</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Allevato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Russo Ermolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Boetto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Di Pasquale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Archaeological Science</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="2365" to="2375" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AAPP 1999 Supervisor&apos;s Report: AA</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Bradford</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Department of Archaeological Sciences, University of Bradford</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Charcoal Analysis from Çatalhöyük and Pinarbarsi, Two Neolithic Sites in the Konya Plain, South-Central Anatolia, Turkey. Unpublished PhD thesis</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Asouti</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Archaeology, University College London</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Reconstructing Woodland Vegetation and its Exploitation by Past Societies, based on the Analysis and Interpretation of Archaeological Wood Charcoal Macro-Remains</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Asouti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Austin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">La Casa di Giulio Polibio</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Auricchio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Giornale di Scavo</title>
+		<meeting><address><addrLine>Tokio</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1966">2001. 1966. 1978</date>
+		</imprint>
+		<respStmt>
+			<orgName>Centro Studi Arti Figurative Università di Tokio</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Ricerche a Pompei: L&apos;Insula 5 della Regio VI dalle Origini al 79 d.C. Roma: L&apos;Erma di Bretschneider</title>
+		<author>
+			<persName><forename type="first">Bonghi</forename><surname>Jovino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<author>
+			<persName><forename type="first">U</forename><surname>Büntgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nicolussi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mccormick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Frank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Trouet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Herzig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K.-U</forename><surname>Heussner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Luterbacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Esper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">2500 Years of European Climate Variability and Human Susceptibility</title>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">331</biblScope>
+			<biblScope unit="page" from="578" to="582" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ricerche a Pompei l&apos;Insula 5 della Regio VI dalle Origini al 79 d.C. (campagne di scavo</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Castelletti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Roma: L&apos;Erma di Bretschneider</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">Bonghi</forename><surname>Jovino</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1976">1984. 1976-1979</date>
+			<biblScope unit="page" from="352" to="355" />
+		</imprint>
+	</monogr>
+	<note>Annalisi dei Legni</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chabal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fabre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-F</forename><surname>Terral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Théry-Parisot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">L&apos;Anthracologie</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Bourquin-Mignot</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J.-E</forename><surname>Brochier</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Chabal Eds</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">La</forename><surname>Botanique</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="43" to="104" />
+			<date type="published" when="1999">1999</date>
+			<publisher>Errance</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Differential Preservation of Anthracological Material and Mechanical Properties of Wood Charcoal, an Experimental Approach of Fragmentation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chrzavzez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Thèry-Parisot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J.-F</forename><surname>Terral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ducom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Fiorucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">th International Meeting of Charcoal Analysis. The Charcoal as Cultural and Biological Heritage. València: Saguntum</title>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Badal</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Y</forename><surname>Carriòn</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><surname>Grau</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="29" to="30" />
+		</imprint>
+		<respStmt>
+			<orgName>Papeles del Laboratorio de Arqueología de València, Department de Prehistòria i Arqueologia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Colture e Habitat del Territorio Vesuviano nel 79 d.C. Rivista di Studi Pompeiani</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ciarallo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="167" to="176" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ciarallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Carolis</surname></persName>
+		</author>
+		<title level="m">La Casa di Giulio Polibio. Studi Interdisciplinari</title>
+		<meeting><address><addrLine>Tokio</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+		<respStmt>
+			<orgName>Centro Studi Arti Figurative Università Di Tokio</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">S</forename><surname>Coubray</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mourir à Pompéi. Fouille d&apos;un quartier funéraire de la nécropole romaine de Porta Nocera</title>
+		<editor>
+			<persName><forename type="first">W</forename><surname>Van Andringa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Duday</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">S</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Rome</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2012. 2003-2007</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1433" to="1449" />
+		</imprint>
+	</monogr>
+	<note>Combustibles, modes opératoires des bûchers et rituels. L&apos;analyse anthracologique</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Coupled Atmospheric and Marine Palaeoclimatic Reconstruction for the Last 35ka in the Sele Plain -Gulf of Salerno Area (Southern Italy)</title>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Donato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Russo-Ermolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scarano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cheddadi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quaternary International</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="146" to="157" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Dimbleby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grüger</surname></persName>
+		</author>
+		<title level="m">Pollen Analysis of Soil Samples from the A.D. 79 Level</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Jashemski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Meyer Eds</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Pompeii, Oplontis, and Boscoreale; Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="181" to="216" />
+		</imprint>
+	</monogr>
+	<note>The Natural History of Pompeii</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Il Commercio del Legname sul Fiume Tevere</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Diosono</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mercator placidissimus. The Tiber Valley in Antiquity. New Research in the Upper and Middle River Valley</title>
+		<editor>
+			<persName><forename type="first">H</forename><surname>Patterson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Roma</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edizioni Quasar di Severino Tognon srl</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="251" to="283" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Diosono</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<publisher>Edizioni Quasar</publisher>
+			<pubPlace>Roma</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Il Legno. Produzione e Commercio</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Some Considerations on Climatic Changes, Water Resources and Water Needs in the Italian Region South of 43°N</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dragoni</surname></persName>
+		</author>
+		<editor>A. Issar &amp; Brown eds</editor>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Environment and Society in Times of Climate Change</title>
+		<author>
+			<persName><surname>Water</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Kluwer Academic</publisher>
+			<biblScope unit="page" from="241" to="272" />
+			<pubPlace>Dordrecht</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Vegetation Dynamics of South-western Italy in the Last 28kyr Inferred from Pollen Analysis of a Tyrrhenian Sea Core</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Ermolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Di Pasquale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vegetation History and Archaeobotany</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="211" to="219" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Paleosols of the Pompeii Area</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Foss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Timpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Ammons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Natural History of Pompeii</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Jashemski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Meyer Eds</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="65" to="79" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Towards a History of Pre-Roman Pompeii: Excavations Beneath the House of Amarantus (I.9.11-12)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fulford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers of the British School at Rome</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="37" to="145" />
+			<date type="published" when="1995">1999. 1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Plants in Archaeology. Identification Manual of Vegetative Plant Materials used in Europe and the Southern Mediterranean to c. 1500</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cutler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Westbury Publishing and Royal Botanic Gardens</publisher>
+			<pubPlace>Kew</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The Utilisation of Different Timbers and the Probable Geographical Area which Supplied Them</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Giachi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lazzeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mariotti Lippi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Maccioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Paci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Wood of &quot;C&quot; and &quot;F&quot; Roman Ships Found in the Ancient Harbour of Pisa</title>
+		<meeting><address><addrLine>Tuscany, Italy</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="269" to="283" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Grove</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rackham</surname></persName>
+		</author>
+		<title level="m">The Nature of Mediterranean Europe. An Ecological History</title>
+		<meeting><address><addrLine>New Haven and London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Yale University Press</publisher>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Environmental Changes in and around Lake Avernus in Greek and Roman Times: A Study of the Plant and Animal Remains Preserved in the Lake&apos;s Sediments</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Grüger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thulin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Alefs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Welter-Schultes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">The Natural History of Pompeii</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Jashemski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Meyer Eds</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="240" to="273" />
+			<date type="published" when="2002">2002</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">The Identification of the Northern European Woods. A Guide for Archaeologists and Conservators</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Hather</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Archetype Publications Ltd</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Holocene Climatic Changes in the Western Mediterranean, from south-east France to south-east Spain</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Jalut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Amat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bonnet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gauquelin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fontugne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Paleogeography, Paleoclimatology, Palaeoecology</publisher>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="255" to="290" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The Archaeological, Literacy, and Epigraphical Evidence</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Jashemski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Vesuvian Sites Before A.D. 79</title>
+		<title level="s">The Natural History of Pompeii</title>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Jashemski</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Meyer Eds</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="6" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The Making of an Elite House: The House of the Vestals at Pompeii</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Roman Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="107" to="130" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Structural Development of the House of the Vestals</title>
+		<title level="s">VI.i.6-</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Guzzo</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Guidobaldi Eds. Nuove Ricerche Archeologiche A Pompei Ed Ercolano</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Napoli</addrLine></address></meeting>
+		<imprint>
+			<publisher>Electa</publisher>
+			<date type="published" when="2002-11-30">2005. Roma 28-30 Novembre 2002</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="257" to="269" />
+		</imprint>
+	</monogr>
+	<note>Atti del Convegno Internazionale th ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Water, Wealth, and Social Status at Pompeii: The House of the Vestals in the First Century</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="695" to="710" />
+			<date type="published" when="2005">2005b.</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The Development of Inequality in Pompeii: The Evidence from the Northern end of Insula VI.i</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Robinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Acta of the XVIth International Congress of Classical Archaeology</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Mattusch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Donohue</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Bauer Eds</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Harvard; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Oxbow Books</publisher>
+			<date type="published" when="2003">2006. August 2003</date>
+			<biblScope unit="page" from="498" to="502" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Charcoal Analysis with Particular Reference to Archaeological Sites in Britain</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Keepax</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of London</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished PhD thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Lamb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Climate. Present, Past and Future</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="1977">1977</date>
+			<publisher>Methuen</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Lamb</surname></persName>
+		</author>
+		<title level="m">Climate History and the Modern World</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Magny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Miramont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Sivan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Assessment of the Impact of Climate and Anthropogenic Factors on Holocene Mediterranean Vegetation in Europe on the Basis of Palaeohydrological Records</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="page" from="47" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Il Mare e la Costa</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mastroroberto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Uomo e Ambiente nel Territorio Vesuviano. Pompei: Marius Edizioni</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Stefani</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page" from="10" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">A Franco-Italian Investigation of Funerary Rituals in the Roman World</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Derreumaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Plant Part: A Preliminary Report. Vegetation History and Archaeobotany</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="105" to="112" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Les Rites et la Mort à Pompéi</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Climate Change during and after the Roman Empire: Reconstructing the Past from Scientific and Historical Evidence</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mccormick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Büntgen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Cane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Huybers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Litt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Manning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Mayewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F M</forename><surname>More</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nicolussi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Tegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Interdisciplinary History</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="169" to="220" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Pompeii, a Changing City: The Archaeobotanical Assemblage of Regione VI, insula I. Unpublished PhD thesis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Murphy</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+		<respStmt>
+			<orgName>Institute of Archaeology, University College London</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Roman Food Refuse: Urban Archaeobotany in Pompeii</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Murphy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Q</forename><surname>Fuller</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Regio VI, Insula</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title/>
+		<idno type="DOI">10.1007/s00334-012-0385-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Vegetation History and Archaeobotany</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Holocene Coastal Environments near Pompeii before the A. D. 79 Eruption of Mount Vesuvius</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pescatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Senatore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Capretto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lerro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Italy. Quaternary Research</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="77" to="85" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pignatti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">I Boschi d&apos;Italia. Sinecologia e Biodiversità</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Unione Tipografico-Editrice Torinese</publisher>
+			<pubPlace>Torino</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pignatti</surname></persName>
+		</author>
+		<title level="m">Flora d&apos;Italia</title>
+		<meeting><address><addrLine>Bologna</addrLine></address></meeting>
+		<imprint>
+			<publisher>Edagricole</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<author>
+			<persName><forename type="first">O</forename><surname>Reale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Dirmeyer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Modelling the Effects of Vegetation on Mediterranean Climate During the Roman Classical Period: Part I. Climate History and Model Sensitivity</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="163" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Modelling the Effects of Vegetation on Mediterranean Climate During the Roman Classical Period: Part II</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Reale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shukla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Model Simulation. Global and Planetary Change</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="185" to="214" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">W</forename><surname>Schoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Heller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Schweingrüber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kienast</surname></persName>
+		</author>
+		<title level="m">Wood Anatomy of Central European Species</title>
+		<imprint>
+			<date type="published" when="2004">2004. 2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">Anatomie europaischer Holzer</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Schweingrüber</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Verlag Paul Haupt</publisher>
+			<pubPlace>Bern</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Uomo e Ambiente nel Territorio Vesuviano</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stefani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Marius Edizioni</publisher>
+			<pubPlace>Pompei</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">&amp;curcol=sea_cd-AIA C_1164&gt;. Veal, R. 2004. Pre-Roman and Roman Wood Fuel Supply to Pompeii</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Andringa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lepetz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename></persName>
+		</author>
+		<ptr target="&lt;http://www.fastionline.org/micro_view.php?fst_cd=AIAC_806" />
+	</analytic>
+	<monogr>
+		<title level="m">eds. Charcoals From the Past: Cultural and Palaeoenvironmental Implications. Proceedings of the Third International Meeting of Anthracology</title>
+		<title level="s">Nuove Ricerche Archeologiche nella Necropoli di Porta Nocera. Fasti Online</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Fiorentino</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Magri</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cavallino -Lecce (Italy; Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Archaeopress</publisher>
+			<date type="published" when="2004-07-01">2007. December 2007. 2008. June 28th-July 1st 2004</date>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="287" to="298" />
+		</imprint>
+		<respStmt>
+			<orgName>Department of Archaeology, University of Sydney. Veal,</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished Honours thesis Fuel Supplies for Pompeii. Pre-Roman and Roman Charcoals of the Casa delle Vestali</note>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Comparability among Recovery Techniques</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Wagner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analytical Methods and Cultural Interpretations of Archaeological Plant Remains</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Hastorf</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">S Current</forename><surname>Popper Eds</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Paleoethnobotany</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="17" to="35" />
+			<date type="published" when="1988">1988</date>
+			<publisher>University of Chicago Press</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Storia della Città</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wallace-Hadrill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sotto I Lapilli. Studi nella Regio I di Pompei</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Berry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Milano</addrLine></address></meeting>
+		<imprint>
+			<publisher>Electa</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">Einer Pilotstudie von 25 Kontexten aus sechs &apos;Räumen&apos; und 750 Holzkohlefragmenten folgte die erweiterte Studie von 62 Kontexten aus 14 &apos;Räumen&apos; und insgesamt 1579 Holzkohlefragmenten. Die erweiterten Ergebnisse identifizierten in geringem Maße zwei zusätzliche Taxa, die durch nur drei Fragmente repräsentiert waren. Das wichtigste Holz konnte dagegen als das der Rotbuche (Fagus sylvatica) identifiziert werden, dasabhängig von der Epoche -50-75 % des Brennmaterialbedarfs ausmachte. Die Rotbuche wächst bevorzugt oberhalb von etwa 900 m in Zentral-und Süditalien, Pompeji liegt dagegen auf 30 m ü. NN mit einer Mindestentfernung zu den nächsten Bergen von mindestens 15 km Die Studie zeigt, dass in Böden mit entsprechender Erhaltung eine Methode, die auf der Aufsammlung von Holzkohlen aus dem standardmäßigen Trockensieben mit einer Korngröße von 5 mm basiert, auf kostengünstige Weise in einem Städtischen Umfeld stabile Ergebnisse zeitigen kann</title>
+		<imprint>
+			<pubPlace>Holzkohlenanalyse, Trockensieben</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Methode für die Sammlung und Analyse von Holzkohle in einer dichten urbanen Umgebung mittels trocken gesiebter Fragmente über 5 mm Größe zu beschreiben und andererseits auf diesem Wege das Abhängigkeitsverhältnis zwischen Pompeji und seinem Hinterland für die Brennstoffversorgung am Fallbeispiel des Hauses der Vestalinnen nachzuvollziehen Translation by Heiner Schwarzberg. Stichworte: Klassische Archäologie, Pompeji, frühe Ökonomie, Umwelt, bioarchäologische Bergung</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

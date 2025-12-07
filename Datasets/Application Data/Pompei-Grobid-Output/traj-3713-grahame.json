@@ -1,0 +1,1198 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Towards a Theory of Roman Urbanism: Beyond Economics and Ideal-Types",
+    "authors": [
+      "M Grahame"
+    ],
+    "doi": "10.16995/trac1996_151_162",
+    "hash": "15F52B76D47398FB26C6C387D78E7B38",
+    "publication_date": "1997-04-11",
+    "publication_year": 1997,
+    "publisher": "Open Library of the Humanities",
+    "journal": "Theoretical Roman Archaeology Journal",
+    "abstract": []
+  },
+  "body_text": [
+    {
+      "id": "p_15a6d5de",
+      "text": "In a recent article C. R. Whittaker asked the question, ' Do theories ofthe ancient city matter? ' (1995). The question is certainly reasonable and was prompted by the confusion that currently pervades the study of ancient urbanism as to which of the myri ad of theories produced to explain it is the best. As is now well known, the current turmoil stems from Finley's (1977) assertion that ancient and modern forms of urbanism were qualitatively different. To highlight the distinction between them, Finley adopted the Weberian opposition between the 'producer' and the 'consumer ' city. The producer city derives its living through econom ic production and enterprise and is deemed to be characteristic of European urbani sm from the Medieval period onwards, However, in the ancient world, the city was instead a 'consumer' of rural surpluses, which it extracted directly from the countryside through having a legal claim to them, Finley arg ued that Weber 's 'consumer city' ideal -type better explained the economic function of the ancient city than the 'modernising' perspective advocated by scholars such as Rostovtzeff.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "' (1995)",
+          "offset_start": 97,
+          "offset_end": 105
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "Finley's (1977)",
+          "offset_start": 360,
+          "offset_end": 375
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_adcaf3cf",
+      "text": "Even so, the 'consumer city' model is not without its difficulties. The most notable of these is the view that commodity production was largel y irrelevant to ancient urbanism, In opposing this premise a number of sc holars have pointed to the archaeological eviden ce, especially that found in Roman c ities, for ancient urban production, For instance, Pucci (1983) and Morel (1981) have show n that, beginning in the second century Be, an increase in the production of fine Italian pottery for export coincided with a major phase of urban development. Similarly, others have discussed the social and political importance of ' urban industries ' and urban-based commercial activities (e,g. Andreae 1974;Moeller 1976; although now see Jongman 1988;Wacher 1974), In light of this research, it is more difficult to argue that production and commerce were not significant to the ancient urban economy, As a consequence of this, a debate has ensued as to whether the consumer city model is perhaps not too pessimistic about the level of economic activity in ancient cities. As part of thi s debate a number of alternatives have been proposed that are supposed to agree more readily with the evidence, Amongst these are Engels's (1990) 'service city' model, Hopkins ' (1980) view of the city as a 'processor' of rural surpluses and the concept advocated by Leveau, Goudineau and Wacher of the city as 'organi ser' of the country side (Leveau & Goudineau 1983;Wacher 1974).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Pucci (1983)",
+          "offset_start": 354,
+          "offset_end": 366
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "Morel (1981)",
+          "offset_start": 371,
+          "offset_end": 383
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "Andreae 1974;",
+          "offset_start": 691,
+          "offset_end": 704
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "Moeller 1976",
+          "offset_start": 704,
+          "offset_end": 716
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Jongman 1988;",
+          "offset_start": 735,
+          "offset_end": 748
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Wacher 1974)",
+          "offset_start": 748,
+          "offset_end": 760
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "Engels's (1990)",
+          "offset_start": 1215,
+          "offset_end": 1230
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "' (1980)",
+          "offset_start": 1261,
+          "offset_end": 1269
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Leveau & Goudineau 1983;",
+          "offset_start": 1429,
+          "offset_end": 1454
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Wacher 1974",
+          "offset_start": 1454,
+          "offset_end": 1465
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_8653bbf9",
+      "text": "These theories have been recently debated at some length (Frier 1991;Whittaker 1990Whittaker ,1995) and wi II not be pursued further here. The important point is that there are specific problems with each of them and hence the confusion noted at the outset. Nevertheless, Whittaker still maintains that the ' consumer city' model is preferable to any of the alternatives, whatever difficulties there mi ght be with it. This though is hardly satisfactory and has even prompted some to consider whether it is in fact better to disregard urban theory altogether (e.g. Rihill & Wilson) 991). However, this position can hardly be construed as adequate either. So, how should we proceed?",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Frier 1991;",
+          "offset_start": 57,
+          "offset_end": 69
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "Whittaker 1990",
+          "offset_start": 69,
+          "offset_end": 83
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "Whittaker ,1995",
+          "offset_start": 83,
+          "offset_end": 98
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_a829cc71",
+      "text": "We can begin by noting that a peculiarity of the contemporary debate is that categories such as 'consumer city' and ' producer city' were developed by nineteenth and early twentieth century sociology to explain the economic function of the city rather than to produce a general theory of the c ity itself. The concern of sociologists was to account for the rise of capitalism and Whittaker reminds us that Weber's distinction between the 'consumer' and 'producer' cities needs to be understood as relating to this issue (1995 : 11). If so, what has transpired is that a theory that seeks to understand the economic function of a city, has been habitually taken for a theory of the city itself.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1995 : 11)",
+          "offset_start": 520,
+          "offset_end": 531
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_3f340c72",
+      "text": "It follows that we can therefore criticise 'economic' theories of the ancient city because they do not offer us a theory of the city itself, they only provide a way of understanding its economic function. But, why should this be a problem ? Surely the city's function defines its nature? However, we run into difficulty with this kind of reasoning if we ask how the economic function of the ancient city was related to its existence as a physical entity composed of streets, buildings and houses. Itis actually extremely difficult to beg in with any economic theory of the ancient city and then use it to explain its physical structure. In the case of Roman urbanism, it is difficult to understand from the variou s models why it took the form it did. For instance, using the 'consumer city' model , how do we explain the grid pattern of streets characteristic of most Roman cities? Was it really necessary for the streets to be laid out in this way for the city to extract rural surpluses? These questions cannot be answered by reference to the ideal-type, because such models divorce function from form, with the result that 'the city' is nothing more than an abstract concept without any reference to physical reality.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_038ed25c",
+      "text": "An objection to this criticism might be that the physical structure of the city is primarily a 'cultural' and not an 'economic' phenomenon. Hence the failure of economic models to explain the physical form of the ancient city is not problematic because physical form is not related to economic function . If such a line of reasoning were to be pursued, it would soon run into a logical difficulty. This is that economic theories of ancient urbanism conceptualise the urban form as the location for economic activity rather than as the au/come of that activity. Studies of economic activity in Roman cities have habitually focused on the manufacture and exchange of 'commodities' such as pottery, metalwork and textiles . Yet objects usually seen to be 'cultural': wall-paintings, mosaics, sculpture, engraved gems , jewellery, bronze and silverware tableware are also the end products of productive processes. Why then are these not also seen as 'evidence' for economic activity? Furthermore, following this line of reasoning, the very fabric of the city itself: its streets and buildings must also have been the outcome of economic activity. From this point of view, the test of any economic theory must be whether it can account for these physical features, and so the above criticism still holds.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b6188114",
+      "text": "If the entire city was the product of economic activity, it follows that it mu st have been the coll ective outcome of the actions of a large number of individuals and this raises another problem with economic models of ancient urbanism, namely, that they deny human agency. The concept of human agency is central to the social theory advocated by Anthony Giddens (1979Giddens ( ,1981Giddens ( ,1984) ) and so it is worth pausing to consider what the term ' agency' actually means . According to Giddens, one of the central problems with social theory as it was developed in the nineteenth and early twentieth centuries was that human beings were often viewed as 'cultural dopes', simply acting out 'roles ' prescribed for them by society. Instead , Giddens has argued that human beings are knowledgeable about the conditions in which they live and are able to act creatively, in relation to their own in-terests, to transform those conditions if necessary. Human beings are therefore 'agents' because they are capable of 'producing effects' even if those effects are not wholly intended.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Giddens (1979",
+          "offset_start": 356,
+          "offset_end": 369
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "Giddens ( ,1981",
+          "offset_start": 369,
+          "offset_end": 384
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Giddens ( ,1984) )",
+          "offset_start": 384,
+          "offset_end": 402
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_94731a6c",
+      "text": "Ideal-types are too mechanistic to permit agency since they assume that all individuals behaved in such a way so as to produce the effects predicted by the model. They do not allow for the fact that there may have been those who did not behave according to the underlying economic rationale of the model. In addition, economic models do not explain what motivated individuals to behave in the way described by them, nor do they explain how individuals came to learn the appropriate behaviours in the first place. Instead, the creative actions of individuals are simply subsumed into the prescriptions of the model with the effect that we lose sight of them. Indeed, according to the economic models it is 'the city' that 'consumed,' 'provided services,' 'processed' or 'organised' and not the individuals who lived within it.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_43a967f8",
+      "text": "However, urbanism is obviously a human creation. It can only exist, in and through, the actions of individuals. To deny human agency is clearly unsatisfactory and not just for the reasons discussed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_0f482103",
+      "text": "There is an even more fundamental problem with ideal-types in that they do not address the question of why it is that human beings created urban environments in the first place. We know that societies can function without it and economic theories neither account for why ancient society needed cities, nor what effect cities had on society. Yet, there must have been a relationship between the urban form and society, and this is obviously what we need to understand.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_3dcc91a2",
+      "text": "These criticisms of the use of ideal-types account for the difficulty in employing them effectively to explain the ancient city. However, to react against theory altogether is simply not plausible either. The argument here is that the problem is not in the use of theory, but rather thekindof theory that has been employed . This paper seeks to address the problems with theories of ancient urbanism by exploring an alternative theory of the city which draws on contemporary sociology, rather than economics . The focus here will be on understanding Roman urbanism specifically, although the general theory outlined below should be applicable to urbanism everywhere.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_6cb4e4df",
+      "text": "Part of the problem of understanding ancient urbanism is that the wrong question has been asked at the outset. The question of how the ancient city functioned in the economy notably neglects , but also depends on, the more fundamental question of: 'What is urbanism?'. Indeed, as Laurence has recently pointed out, the debate around the Weberian model of the 'consumer city' has been based on agreement or disagreement with the propositions of the argument; no theoretical debate about the nature of urbanism has been forthcoming (1994: 133). In fact, scholars have consistently ignored the writings of urban sociologists with the effect that criticisms levelled at Weber's work by them have gone largely unnoticed (e.g. Saunders 1986:28-38). This might be due to the misguided belief that because the ancient city is not I ike the modern city, the thoughts of urban sociology are largely inâ€¢elevant to understanding it. This argument is, of course, circular because it depends on accepting at the outset that the two are qualitatively different. However, what is it that makes both ancient and modern urbanism 'urban' in the first place?",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1994: 133)",
+          "offset_start": 530,
+          "offset_end": 541
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Saunders 1986:28-38)",
+          "offset_start": 721,
+          "offset_end": 741
+        }
+      ],
+      "head_section": "The City as Social Process"
+    },
+    {
+      "id": "p_0f98cf8b",
+      "text": "We can begin with the fact that the city is a physical entity irrespective of whether it is ancient or modern. It is one aspect of the created environment both past and present. This observation raises the questions of, ' created by whom?' and 'for what purpose?'. The urban theorists David Harvey (1973) andManuel CasteJls (1977) have answered these questions by arguing that the city is produced by, and for, the society that inhabits it. This idea has its origins in Henri Lefebvre's (1991) seminal work The Production of Space in which abstract, social space and concrete material space were connected for the first time. For Lefebvre urbanism was a process whereby spatial forms were produced and transformed by society. A town or city is inhabited by a socially differentiated population with conflicting attitudes and interests. Social discord can neither be avoided, nor resolved by mobility, since everyone inhabits the 'same space'. The only solution is to manipulate the physical fabric of the urban form in order to try to resolve tensions . Consequently, the urban form reflects and embodies the conflicts inherent in society. What characterises urbanism, then, is the continual restructuring of space. This means that the urban form is not static, but instead exists in a dynamic relationship with the society that creates it. It follows, then, that to understand what a city is, we have to grasp the historically specific social processes through which spatial forms are created and transformed. This position obviously overcomes the above criticism of economic models of ancient urbanism in that the physical form of the city can be explained as a direct outcome of social and cultural processes.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Harvey (1973) and",
+          "offset_start": 291,
+          "offset_end": 308
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Manuel CasteJls (1977)",
+          "offset_start": 308,
+          "offset_end": 330
+        }
+      ],
+      "head_section": "The City as Social Process"
+    },
+    {
+      "id": "p_64c5ba85",
+      "text": "While it is certainly logical to suggest that the physical fabric of the city is the outcome of social and cultural processes, such a position is not entirely satisfactory. The difficulty with this approach is that the arrow of causality clearly points in one direction only : it is society that determines the use and thereby the form of space. This makes society a metaphysical, a priori, necessity that somehow 'creates' the city in its own image. If we were to leave matters here, we would be little better off than we were with economic theories of urbanism . While the city may very well be the 'product' of society, it is also the very place in which society comes into being and is transformed . An alternative tradition in urban sociology stresses this aspect of urbanism and sees it as more than just the coagulation of people and buildings. It has been argued that urbanism is also a 'way of life'. Louis Wirth (J 938) explores urbanism from this perspective and points out that urbanism is more than just a concentration of people, it creates a particular type of society. Individuals are brought into close proximity without necessarily being overly familiar with one another. Because most contacts between those who live in cities are generally fleeting, bonds between individuals tend to be much weaker than in smaller settlements. In addition, urban inhabitants tend to be more mobile: people are involved in a greater range of different activities and situations. The 'pace of life' is consequently' faster'.",
+      "coords": [],
+      "refs": [],
+      "head_section": "The City as a Way of Life"
+    },
+    {
+      "id": "p_48740f12",
+      "text": "Wirth concluded that this made city life highly impersonal. However, Claude Fischer (1982) has reacted against this pessimisti c view of city life. In contrast to the habitual lament, which sees modern urbanism as having destroyed traditional communities, Fischer's research shows that large concentrations of people permit the formation of extensive social networks and institutions that simply could not have existed without the conditions created by urbanism. Urbanism, then, enables and supports a qualitatively different range of social relations to non-urban society. From this point of view, society is as much a product of urbanism as urbanism is the product of society.",
+      "coords": [],
+      "refs": [],
+      "head_section": "The City as a Way of Life"
+    },
+    {
+      "id": "p_15775e4b",
+      "text": "It seems therefore that urbanism is both a social process and a way of life at one and the same time. Do we have any grounds for uniting these two contrasting traditions in urban sociology? The answer is that we do in the shape of theories of practice, of which Giddens' (J 979, 1981, (984) social theory, mentioned earlier, is an example. The thrust of Giddens' theory is that although social institutions are the product of human action they are also simultaneously the medium for that action. Ifwe accept this, then it seems reasonable to argue that we can see urbanism as being both the location for, and the outcome of, human action.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_285e8b11",
+      "text": "However, one problem with Giddens' theory is that it pays scant regard to the material conditions of existence and their importance in the construction and reproduction of social institutions (Barrett 1988:9). Indeed they appear to be created and sustained in an isotropic landscape, rather than in the material world. Nevertheless, Bourdieu's theory of practice does deal precisely with how the material world can be seen both as the objectification of social practices as well as the very medium within which they take place. Interestingly, from our point of view here, the house assumes a particular prominence in Bourdieu's writings. The physical structure of the house is seen by Bourdieu as the outcome of the application of classi ficatory schemes that dictate how space within the house is to be arranged. However, at the same time, through the physical separation of objects, persons and practices contained within it, the house continuously reinstalls those same schemes back into indi viduals (1977:89).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_847b9342",
+      "text": "Bourdieu's discussion of the house can be taken as a paradigm for the relationship between human action and architecture more generally. I have argued elsewhere in some detail (Grahame 1995 : I I -48) that the erection of an architectural boundary does more than just delimit an arena for activity, it effects 'who' is available to participate in that activity. It enables some individuals to be excluded while simultaneously including others. It is through differential patterns of inclusion and exclusion that social differences, and thereby inequalities (since difference necessarily implies inequality) are set up and sustained. Complex patterns of architectural boundaries produce spaces that are more readily accessible than others, creating greater or lesser opportunities to include and exclude. It is difficult to exclude from highly accessible spaces and to include in less accessible ones. This can be an advantage or a disadvantage depending upon whether one is seeking or trying to avoid social interaction. Nevertheless, individuals do have a certain degree of freedom to engage with, or avoid, social interaction by entering, or avoiding those spaces within which others are more likely to be found. It is this choice of association that underlies the features of urban life identified by Wirth and Fischer.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Grahame 1995",
+          "offset_start": 176,
+          "offset_end": 189
+        }
+      ],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_3b23309e",
+      "text": "On the other hand, the very rigidity and durability of architectural boundaries continually restrict the movement of individuals. Architecture also channels and directs movement, making individuals visible when they may not wish to be and invisible when perhaps they want contact with others. Architectural boundaries can thus be deployed as effective instruments of control. Indeed, this aspect of architecture is central to Foucault's thesis on the evolution of 'disciplinary' institutions (e.g. 1979). A city is consequently both a means to freedom as well as being an instrument of control at one and the same time. Indeed, this dualism has been seen as fundamental to understanding the built environment (Markus 1993). A more intense pattern of architectural divisions allows individuals more freedom to negotiate their social identities and positions, but at the same time also controls their actions with greater efficacy.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Markus 1993)",
+          "offset_start": 709,
+          "offset_end": 722
+        }
+      ],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_2dbe3346",
+      "text": "If spatial forms and human social action are so intimately intertwined, then it, follows that any transformation of those spatial forms, through the erection or demolition of boundaries, will necessarily effect how social interaction takes place. This may permit the formation of new social networks, while simultaneously curtailing others. Social networks are never equal, some individuals gain more out of them than others. Those who benefit from them therefore have a vested interest in maintaining and extending them. At this point the concept of agency becomes important. It is because humans are knowledgeable about the conditions of their existence that they will have an understanding -even if it is only at the intuitive, non-discursive, level-of how architectural boundaries help set up and maintain social inequalities. The manipulation of architectural boundaries is consequently a way of achieving social domination. Of course, spatial transformation can also be an instrument with which to resist domination. For instance, Rapoport (1977) has suggested that the formation of 'ghettos' in cities may not be an entirely negative phenomenon when considered as the act.ive use of space by individuals, who identify with one another, to assert. a collective identity. Since the city is simultaneously an instrument of domination and a mechanism for resistance, its physical fabric must be seen as the outcome of an on-going social discourse resulting in a continual 'pressure' to restructure space and this, as we saw above, is essential to the definition of urbanism .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Rapoport (1977)",
+          "offset_start": 1037,
+          "offset_end": 1052
+        }
+      ],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_342916df",
+      "text": "However, those wishing to restructure urban space do not always begin with a vacant site, but with pre-existing spatial forms that constrain what can be done, not just physically, but also socially as well. Because a physical transformation necessarily implies a social transformation, it cannot be enacted except through existing social networks. In other words, there may be considerable social resistance to any change and this may mean that the restructuring of space may be more limited than, or qualitatively different to, that desired. Furthermore, the restructuring of urban space can be seen to entail a certain 'risk', since it may have unforeseen and unintended outcomes that may result in a significant social restructuring, which, in turn, may generate pressure for a further restructuring of space.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_ad873b16",
+      "text": "The thesis here is that urban form and urban society are locked together in a continuous, dynamic relationship . The urban form generates and supports a particular kind of society, while at the same time, this society continually struggles to realise itself in space by grinding against the physical constraints offered by the relative permanence of architectural boundaries. Urbanism, then, is not a universal 'object' about which we may have a 'theory', rather it is the dynamic relationship that individuals have with certain material conditions of existence. Urbanism is therefore defined as a particular form of social and physical existence. This is an important point, because it means that urbanism can be legitimately distinguished from other settlement types. One of the important features of urbanism is that it enables social relationships to be constructed which transcend traditional forms of association like kinship. However, architecture does reinforce kinship bonds, as ethnographic studies of traditional houses and villages have often demonstrated (e.g. Donley-Reid 1990;Douglas 1972;Kus & Raharijaona 1990;Levi-Strauss 1963;Tambiah 1969), so it is not, therefore, a generic property of architectural boundaries that they will inevitably facilitate the fragmentation ofkin-based social structures. Furthermore, 'traditional' house and settlement forms may be interpreted as culturally specific ways of classifying and ordering the world (Parker Pearson & Richards 1994). The underlying desire for order tends to make their spatial forms fairly static. However, urbanism, as we have seen, has dynamic spatial forms that are subject to continual restructuring. Consequently, villages, hamlets, palaces, kraals and villas are not urban for these reasons. However, it is not clear where urbanism 'begins'; it 'fades in' over time and space and it will be a matter of grasping the historically particular relationship between people and their material conditions as to whether we wish to label a given settlement type 'urban'.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Donley-Reid 1990;",
+          "offset_start": 1074,
+          "offset_end": 1091
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Douglas 1972;",
+          "offset_start": 1091,
+          "offset_end": 1104
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Kus & Raharijaona 1990;",
+          "offset_start": 1104,
+          "offset_end": 1127
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "Levi-Strauss 1963;",
+          "offset_start": 1127,
+          "offset_end": 1145
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "Tambiah 1969",
+          "offset_start": 1145,
+          "offset_end": 1157
+        }
+      ],
+      "head_section": "Urbanism as Social Existence"
+    },
+    {
+      "id": "p_80813309",
+      "text": "So much for a discussion of urbanism generally, but what was Roman urbanism specifically? Itshould be apparent that what made Roman urbanism 'Roman' was the particular way in which inhabitants of the Roman city created and transformed their urban space and how, in turn, those spatial forms helped constitute and sustain society. It is this relationship that will define the nature of Roman urbanism. Clearly we cannot grasp the content of this relationship without examining a particular instance of Roman urbanism. Here, I would like to briefly consider one such instance, namely the city of Pompeii (figure 1) in order to show the relevance of the ideas outlined above. The purpose is not to try and provide an exhaustive account of Pompeian space. Indeed, we might wonder just how reliable conclusions drawn from one example will be? Certainly, a more in-depth understanding of Roman urbanism will require a more detailed study of numerous cases. However, the high level of preservation at Pompeii does provide us with an unparalleled opportunity with which to begin to explore the reflexive relationship between the physicality of the Roman urban form and the society that produced and dwelt within it.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_fd1cd0bc",
+      "text": "Firstly, there is plenty of evidence from Pompeii to suggest that space was continually restructured as a resu It of the action of different social and cultural pressures. But, what were these 'pressures'? Zanker (1988) has made a particularly valuable contribution in this respect precisely because he has related the physical shape of the city to social and cultural changes throughout its history. The thrust of Zanker's thesis is that the 'townscape' (Stadtbild) of Pompeii reflects changes in the attitudes and interests of the city's population through time. Zanker argues that in the Samnite city of the second century BC there was little concern for civic pride, with only piecemeal construction of some Greek-style buildings for leisure and entertainment around the old forum. Instead, the city's leading families consumed their wealth in the form of expensive town-houses that were strongly influenced by Hellenistic prototypes. Along with the founding of the Roman colony in 80 BC, came the Roman 'civic ideology' . This inevitably brought about a change of emphasis that resulted in the construction of new public buildings and further development of the forum area. The concern for civic pride intensified further from the Augustan period onwards as the leading families of Pompeii vied with one another to show their allegiance to the emperor and the imperial order. This manifested itself in the construction of buildings in the forum that specifically honoured the emperor and the imperial family. Maiuri (1942) has similarly explained alterations to Pompei an houses in terms of changing social pressures. He has identified a process whereby large properties were split into smaller ones, with 'flats' installed in upper stories and 'shops' in front rooms. For Maiuri this signified the 'invasion ' of a class of 'new men ' , whose wealth was based on commerce and who drove the traditional patrician families out of their houses. However, Wallace-Had rill (1994: 119-42) has argued strongly against this view. Instead , he argues that the locating of shops in a 'patrician' dwelling reflects a Roman cultural ambivalence towards the world of production and commerce. Elite social sensibilities meant that production and commerce could not be embraced, but yet, on the other hand, they were a ready source of profit. If Zanker is right and public space increasingly became the focus for elite social competition, then the pressure to accumulate wealth, in order to compete more successfully, is perfectly understandable.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "Zanker (1988)",
+          "offset_start": 206,
+          "offset_end": 219
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Wallace-Had rill (1994: 119-42)",
+          "offset_start": 1957,
+          "offset_end": 1988
+        }
+      ],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_19c880a9",
+      "text": "The above research clearly shows how social processes were responsible for the creation and transformation of spatial forms in Pompeii and, as we have seen, understanding these is crucial to comprehending what made Roman urbanism, 'Roman'. However, we also know that such processes have no reality outside the daily routines of social life. The way in which social life proceeded would have, in turn, been conditioned and supported by the very physical fabric of the city itself. What effect, then, did urban space have on the 'way of life' in Pompeii? Laurence (1994Laurence ( :88-103, 1995)), for instance, has shown how the number of doorways in a street affected the level of activity within it. By establishing a ratio between the length of a street and the number of doorways, he has been able to demonstrate that there was more activity in some parts of the city than in others. Most notably the streets with the highest levels of activity were those which provided routes through Pompeii or into the forum . This, Laurence suggests, indicates that the street system conditioned interaction between the inhabitants of Pompeii and visitors to the city by keeping visitors away from those areas where the inhabitants resided . From this, we can conclude that the street system helped create and sustain a categorical distinction between those normally resident in the city and those who visited it. This, in turn, suggests the formation of a cjvic identity that bonded the inhabitants of Pompeii together as a single community and so helped sustain the civic pride identified by Zanker.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Laurence (1994",
+          "offset_start": 553,
+          "offset_end": 567
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Laurence ( :88-103, 1995))",
+          "offset_start": 567,
+          "offset_end": 593
+        }
+      ],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_c707bfbc",
+      "text": "On the other hand, this community was internally differentiated; something which is revealed through the complex pattern of architectural boundaries found in Pompeii (figure 2). These architectural boundaries functioned to differentiate households from one another and to separate householders from one another within each household. This degree of separation would have generally created weaker bonds between individuals and so lower levels of familiarity. At the same time, such an intensive segmentation of space would have provided a range of settings that would have enabled individuals to have been routinely involved in many different activities and situations . This, as we have seen, is symptomatic of urbanism as a way of life.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_834ea8d2",
+      "text": "The particular form of social existence supported by Pompei an spatial segmentation may be understood from research done on the social function of Roman houses (Clarke 1991; Dwyer 1991 ; Grahame 1995; Wallace-Hadrill 1988, 1994). What is signific ant is that Pompeian houses vary considerably in size, shape and spatial layout. Indeed, the orthodox view that there was a 'typical' Roman house needs to be treated with some scepticism. Houses of varying sizes suggests social inequality and this is in agreement with our understanding of Roman urban life as centred on social competition. Roman houses functioned to support this competitive process through their role in sustaining relations of patronage and clientage. Wallace-Hadri II (1988,1994 :3-61), in particular, has shown how the architecture and decoration of the house was used to help regulate how deeply individuals of different social rank could penetrate its fabric. This enabled the male head of the Roman household to vary how accessible he was to others, being more intimate with his social equals and more distant with those considered socially inferior. The house, in this way, helped generate and reinforce social distinctions.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1988,1994 :3-61)",
+          "offset_start": 736,
+          "offset_end": 753
+        }
+      ],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_a5697058",
+      "text": "In more general terms, I have argued that space was differentiated in Pompeian houses so as to induce patterns of social interaction that enabled social hierarchies to be constructed and maintained within each household (Grahame 1995: 129-66). Larger houses (i .e. those wi th more spaces) were therefore ' instruments' that enabled a more extensive range of social positions to be created and so generated more power for the individual at the head of the network. This power came through having direct control over a large number of individuals who were not only a source of wealth and labour, but also a visual symbol of social standing (Wallace-Hadrill 1994: 117). Being powerful and being seen to be powerful made an individual 'worth knowing' and so generated a range of social connections that went beyond the household . Nevertheless, power was clearly anchored in the house and household. The more substantial this base, the more effectively an individual could have competed in the public arena. Consequently, rather than replacing private luxury, we might suspect that the emergence of a civic identity in Pompeii actually stimulated it, since large and expensive houses were a direct source and expression of social power. The accumulation of wealth and power they permitted, allowed for increasingly more extravagant public benefactions, which , in turn, reinforced the ideology of civic pride. Success in the public sphere further reinforced the building and decoration of private houses, as individuals vied for the social power that made them more effective in public life. Private luxury and public munificence were consequently locked in an ongoing cycle of mutual reinforcement.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Grahame 1995: 129-66)",
+          "offset_start": 220,
+          "offset_end": 242
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wallace-Hadrill 1994: 117)",
+          "offset_start": 639,
+          "offset_end": 666
+        }
+      ],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_c2fb0674",
+      "text": "If Pompeii is representative, social competition in the Roman city, at least in Italy, was consequently played out in two separate, but related arenas : the private space of the house and the public spaces of the city. The two were linked, as Laurence (1995: 122-32) has usefully pointed out, through a daily cycle of activities which switched the main centres of social competition from private to public and back again . The presence of two arenas for social competition blurred the distinction between public and private space and public and private life. This is one ofthe most important features that made Roman urbanism peculiarly 'Roman'. The 'blurring' of public and private, however, arose because of the way the physical fabric of the city helped engender certain patterns of social interaction. The contrast with Greek urbanism, for instance, is instructive. Although possessing civic institutions and public buildings similar to those found in the Roman city, the houses of Greek cities (e.g. Olynthos) were, by contrast, relatively small units of a standard size (Jameson 1990). This indicates that the distinction between public and private was more sharply drawn in the Greek city. Houses were places of retreat and seclusion, not loci of extensive social networks. Furthermore, the Greek city supported a society with a less unequal distribution of wealth and power. Both Greek and Roman cities were certainly urban, but they were the locus for, and engendered, different forms of social existence. The comparisons could be multiplied if we were to contrast Roman urbanism with Medieval, Early Modern or Modern urbanism , but there is not the space here to do so. However, it should be apparent how we can employ the general approach to urbanism developed in this paper to arrive at a more specific understanding of Roman urbanism.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Laurence (1995: 122-32",
+          "offset_start": 243,
+          "offset_end": 265
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Jameson 1990",
+          "offset_start": 1076,
+          "offset_end": 1089
+        }
+      ],
+      "head_section": "Towards a Theory of Roman Urbanism: Pompeii as an Example"
+    },
+    {
+      "id": "p_3883312b",
+      "text": "This paper began by asking if theories of Roman urbanism matter. The answer is clearly that they do, but what should be apparent is that all theories are not equally appropriate. Theories are structured sets of generalised assumptions about reality and there is a need to be critical of them in order to establish their validity. The economic models of ancient urbanism discussed at the outset assume a number of things and these, when considered critically, cannot be sustained . In attempting to arrive at a theory of Roman urbanism the methodological procedure for those who advocate the use of economic models has been to utilise the available material to attempt to validate One model or another. Because the surviving evidence is obviously capable of sustaining more than one model, the result is uncertainty.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusions"
+    },
+    {
+      "id": "p_8562805c",
+      "text": "Methodologically, this type of analytical procedure is unidirectional in that an abstract theory is ' applied' to the evidence. Instead, I have advocated a critically reflexive approach to urbanism that attempts to conceptualise the relationship between human society and architectural boundaries. Rather than simply using the physical remains of the city to 'prove', 'disprove' , or even ' modity' this theory, the theory itself provides a framework of understanding that permits us to interpret the physical structure of the city. By examining the layout of Pompeii it was possible to begin to grasp the nature of the relationship between space and society in the Roman city. This exercise did not provide an empirical validation of the framework and indeed it could not. Similarly, if we were to examine a series of Roman cities and were to find that they each supported qualitatively different social networks, this would not invalidate the framework either. On the contrary, the framework would provide the theoretical basis for assimilating a whole series of different results. In contrast, economic models cannot cope with difference, since they are supposed to be ideal-types: close approximations to ' reality' and empirical analysis is supposed to improve and not decrease their descriptive power.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusions"
+    },
+    {
+      "id": "p_a01e5f81",
+      "text": "It should be clear from this paper that, if we wish to make sense of Roman urbanism, we need a radical change of direction . Economic theories of ancient urbanism do not provide us with a useful way of conceptualising and interpreting the phenomenon that was Roman urbanism. I would consequently argue that we need to dispense with such theories. No amount of empirical work will ever demonstrate which model is the most appropriate and certainly no amount of revision could ever address the criticisms levelled at them earlier in this paper. I have outlined an alternative approach that tries to relate urban space and society reflexively by drawing on social theory. The framework so generated enables us to create an understanding of Roman urbanism by engaging directly with, and interpreting, the surviving evidence for it. In this sense, the 'theory' of urbanism offered here is not a theory a/urbanism itself; rather it is a theory of how to arrive at an understanding of it.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusions"
+    },
+    {
+      "id": "p_367ddb53",
+      "text": "I should like to thank the TRAC 96 committee for inviting me to submit this article for publication and express my appreci ation to the anonymous referee for his/her comments on an earlier draft of this paper. Needless to say any errors or omissions remain my own.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgements"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Figure 1 .",
+      "type": "figure",
+      "desc": "Figure 1. Ground plan of Pompeii (from Raper 1977, figâ€¢ 1)",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Figure 2 .",
+      "type": "figure",
+      "desc": "Figure 2. Ground plan of region VI, Pompeii (from van der Poel 1987)",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "81c35d95",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 2.0,
+          "y": 455.39,
+          "width": -6.59,
+          "height": 70.6
+        }
+      ]
+    },
+    {
+      "id": "07644f72",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 456.14,
+          "width": -3.42,
+          "height": 72.94
+        }
+      ]
+    },
+    {
+      "id": "3dc7e22e",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": -69.94,
+          "width": -6.2,
+          "height": 76.78
+        }
+      ]
+    },
+    {
+      "id": "6d8130c9",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 5.0,
+          "y": 455.85,
+          "width": -2.95,
+          "height": 73.51
+        }
+      ]
+    },
+    {
+      "id": "ff59ef71",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 7.0,
+          "y": 455.86,
+          "width": -2.97,
+          "height": 73.48
+        }
+      ]
+    },
+    {
+      "id": "4a2f8446",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 9.0,
+          "y": 454.86,
+          "width": -1.32,
+          "height": 75.47
+        }
+      ]
+    },
+    {
+      "id": "42d9e7a0",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 9.0,
+          "y": -71.2,
+          "width": -5.94,
+          "height": 79.31
+        }
+      ]
+    },
+    {
+      "id": "4cc84578",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 11.0,
+          "y": -72.25,
+          "width": -5.68,
+          "height": 85.28
+        }
+      ]
+    },
+    {
+      "id": "cc40ee39",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 11.0,
+          "y": 453.79,
+          "width": 0.44,
+          "height": 77.6
+        }
+      ]
+    },
+    {
+      "id": "17df5da3",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 13.0,
+          "y": 454.45,
+          "width": -0.65,
+          "height": 76.28
+        }
+      ]
+    },
+    {
+      "id": "d707d6ba",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 13.0,
+          "y": -71.6,
+          "width": -5.86,
+          "height": 80.12
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "authors": "J Andreae",
+      "journal": "Les Affaires de Monsieur Jucundus . Rome: Collection de L' Ecole Francai se de Rome",
+      "publication_date": "1974",
+      "year": 1974,
+      "volume": "19"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Fields of discourse. Reconstituting a social archaeology",
+      "authors": "1 Barrett",
+      "journal": "Critique of Anthropology",
+      "publication_date": "1988",
+      "year": 1988,
+      "volume": "7",
+      "issue": "3",
+      "page_start": "5",
+      "page_end": "16"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Outline of a Theory of Practice",
+      "authors": "P Bourdieu",
+      "publisher": "Edward Arnold",
+      "publication_date": "1977",
+      "year": 1977
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "The Houses of Roman Italy 100 BC -AD250: Ritual, Space and Decoration",
+      "authors": "1 Clarke",
+      "publisher": "Un iversi ty of California Press",
+      "publication_date": "1991",
+      "year": 1991
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "A structuring structure: the Swahili house",
+      "authors": "L Donley-Reid",
+      "publisher": "Cambridge Univ. Press",
+      "publication_date": "1990",
+      "year": 1990,
+      "page_start": "114",
+      "page_end": "126"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Symbolic orders in the use of domestic space",
+      "authors": "M Douglas",
+      "editors": "J. Ucko, R. Tringham and G. W. Dimbleby",
+      "publisher": "Duckworth",
+      "publication_date": "1972",
+      "year": 1972,
+      "page_start": "51",
+      "page_end": "72"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "The Pompeian atrium house in theory and practice",
+      "authors": "E Dw Yer",
+      "publisher": "The University of Michigan Press",
+      "publication_date": "1991",
+      "year": 1991,
+      "page_start": "25",
+      "page_end": "48",
+      "notes": "In Roman Art in the Private Sphere (ed. E. K. Gazda"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "authors": "D Engels",
+      "publisher": "Uni versity of Chicago Press",
+      "publication_date": "1990",
+      "year": 1990
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "The ancient city: from Fustel de Coulanges to Max Weber and beyond",
+      "authors": "M Finley",
+      "journal": "Comparative Studies in History and Society",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "29",
+      "page_start": "305",
+      "page_end": "327"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Central Problems in Social Theory: Action, Structure and Contradiction in Social Analysis",
+      "authors": "A Giddens",
+      "publisher": "MacMillan",
+      "publication_date": "1979",
+      "year": 1979
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "A Contemporary Critique of Historical Materialism",
+      "authors": "A Giddens",
+      "publisher": "MacMillan",
+      "publication_date": "1981",
+      "year": 1981
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "The Constitution of Society: Outline of the Theory of Structuration",
+      "authors": "A Giddens",
+      "publisher": "Polity Press",
+      "publication_date": "1984",
+      "year": 1984
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "The Houses of Pompeii: Space and Social Interaction",
+      "authors": "M Grahame",
+      "publication_date": "1995",
+      "year": 1995,
+      "notes": "Unpublished Ph.D. thesis"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Social lustice and the City",
+      "authors": "D Harvey",
+      "publisher": "Edward Arnold",
+      "publication_date": "1973",
+      "year": 1973
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Taxes and trade in the Roman empire",
+      "authors": "K Hopkins",
+      "journal": "lournal of Roman Studies",
+      "publication_date": "1980",
+      "year": 1980,
+      "volume": "70",
+      "page_start": "101",
+      "page_end": "125"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Domestic space in the Greek city-state",
+      "authors": "M Jameson",
+      "editors": "S Kent",
+      "publisher": "Cambridge University Press",
+      "publication_date": "1990",
+      "year": 1990,
+      "page_start": "92",
+      "page_end": "113"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "authors": "W Jongman",
+      "journal": "The Economy and Society of Pompeii",
+      "publisher": "Gieben",
+      "publication_date": "1988",
+      "year": 1988
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Domestic space and the tenacity of tradition among some Betsileo of Madagascar",
+      "authors": [
+        "S Kus",
+        "V Raharijaona"
+      ],
+      "publication_date": "1990",
+      "year": 1990,
+      "page_start": "21",
+      "page_end": "33"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Roman Pompeii: Space and Society",
+      "authors": "R Laurence",
+      "publisher": "Routledge",
+      "publication_date": "1994",
+      "year": 1994
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "The organization of space in Pompeii",
+      "authors": [
+        "R Laurence",
+        "K Cornell",
+        ") Lomas"
+      ],
+      "publisher": "UCL Press",
+      "publication_date": "1995",
+      "year": 1995,
+      "page_start": "63",
+      "page_end": "78"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "The Production of Space",
+      "authors": "H Lefebvre",
+      "publisher": "Blackwell",
+      "publication_date": "1991",
+      "year": 1991
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "La ville antique, \"ville de consommation",
+      "authors": [
+        "P Leveau",
+        "C Goudineau"
+      ],
+      "journal": "Etudes rurales",
+      "publication_date": "1983",
+      "year": 1983,
+      "page_start": "275",
+      "page_end": "289"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Structural Anthropology. London: A lien Lane",
+      "authors": "Levi-Strauss",
+      "publication_date": "1963",
+      "year": 1963
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "L'ultima fase edilizia di Pompei. Rome: !talia Romana: Campania Romana 11",
+      "authors": "A Maiuri",
+      "publication_date": "1942",
+      "year": 1942
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Buildings and Power: Freedom and Control in the Origin of Modern Building Types",
+      "authors": "T Markus",
+      "publisher": "Routledge",
+      "publication_date": "1993",
+      "year": 1993
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The Wool Trade of Ancient Pompeii",
+      "authors": "W Moeller",
+      "editors": "E Brill",
+      "publication_date": "1976",
+      "year": 1976
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "La produzione della ceramica campana: as petti economici e sociali",
+      "authors": "J Morel",
+      "editors": [
+        "A Giardina",
+        "A Schiavone"
+      ],
+      "publisher": "Rome: Laterza",
+      "publication_date": "1981",
+      "year": 1981,
+      "page_start": "8",
+      "page_end": "98"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "I 994. Architecture and Order: Approaches to Social Space",
+      "editors": [
+        "Parker Pearson",
+        "C Richards"
+      ]
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Pottery and trade in the Roman period",
+      "authors": [
+        "G Pucci",
+        "P Garnsey",
+        "K Hopkins",
+        "C Whittaker"
+      ],
+      "publisher": "University of California Press",
+      "publication_date": "1983",
+      "year": 1983,
+      "page_start": "105",
+      "page_end": "117"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Corpus Topographicum Pompeianum lIlA",
+      "editors": "Poel, H. B. van der",
+      "publisher": "University of Texas Press",
+      "publication_date": "1987",
+      "year": 1987
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "The analysis of the urban structure of Pompeii: a sociological examination of land use (semi-micro)",
+      "authors": "R Raper",
+      "editors": "D Clarke",
+      "publisher": "Academic Press",
+      "publication_date": "1977",
+      "year": 1977,
+      "page_start": "189",
+      "page_end": "221"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Human Aspects of Urban Form: Towards a Man-Environment Approach to Urban Form and Design",
+      "authors": "A Rapoport",
+      "publisher": "Pergamon Press",
+      "publication_date": "1977",
+      "year": 1977
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Modelling settlement structures in ancient Greece",
+      "authors": [
+        "T Rihill",
+        "A Wilson"
+      ],
+      "editors": [
+        "A Rich",
+        "Wallace-Hadriil"
+      ],
+      "publisher": "Routledge",
+      "publication_date": "1991",
+      "year": 1991,
+      "page_start": "59",
+      "page_end": "95"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Social Theory and the Urban Question",
+      "authors": "P Saunders",
+      "publisher": "Hutchinson",
+      "publication_date": "1986",
+      "year": 1986
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Animals are good to think and good to prohibit",
+      "authors": "S Tambiah",
+      "journal": "Ethnology",
+      "publication_date": "1969",
+      "year": 1969,
+      "volume": "8",
+      "page_start": "423",
+      "page_end": "459"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "The Towns of Roman Britain",
+      "authors": "Wacher",
+      "publisher": "Batsford",
+      "publication_date": "1974",
+      "year": 1974,
+      "volume": "1"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "The social structure of the Roman house",
+      "authors": "A Wallace-Hadrill",
+      "journal": "Papers of the British School at Rome",
+      "publication_date": "1988",
+      "year": 1988,
+      "volume": "56",
+      "page_start": "43",
+      "page_end": "97"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Houses and Society in Pompeii and Herculaneum",
+      "authors": "A Wallace-Hadrill",
+      "publisher": "Princeton University Press",
+      "publication_date": "1994",
+      "year": 1994
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "The consumer city revisited: the viscus and the city",
+      "authors": "C Whittaker",
+      "journal": "journal of Roman Archaeology",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "3",
+      "page_start": "110",
+      "page_end": "118"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Do theories of the ancient city matter?",
+      "authors": "C Whittaker",
+      "editors": "T.1. Cornell and K. Lomas",
+      "publisher": "UCL Press",
+      "publication_date": "1995",
+      "year": 1995,
+      "page_start": "9",
+      "page_end": "26"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Urbanism as a way of life",
+      "authors": "L Wirth",
+      "journal": "American lournal of Sociology",
+      "publication_date": "1938",
+      "year": 1938,
+      "volume": "44",
+      "page_start": "1",
+      "page_end": "24"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Pompeji. Stadbilder als Spiegel von Gesellschaft und Herrschast~form",
+      "authors": "P Zanker",
+      "journal": "Heft",
+      "publisher": "Von Zabern",
+      "publication_date": "1988",
+      "year": 1988,
+      "volume": "9",
+      "notes": "Trierer Winckelmanns programme"
+    }
+  ]
+}

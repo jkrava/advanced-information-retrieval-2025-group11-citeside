@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">CITIES IN EVOLUTION DIACHRONIC TRANSFORMATIONS OF URBAN AND RURAL SETTLEMENTS Proceedings of the VIII AACCP symposium, Volume I VIII AACCP (Architecture, Archaeology and Contemporary City Planning) symposium, Özyeğin University, Istanbul, April 26 th May 2 nd 26 2021</title>
+				<funder>
+					<orgName type="full">Özyeğin University, Faculty of Architecture and Design, Dynamic Research on Urban Morphology-DRUM laboratory</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Alessandro</forename><surname>Camiz</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Zeynep</forename><surname>Ceylanlı</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Özge</forename><surname>Özkuvancı</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elias</forename><surname>Per</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Cornell</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giorgio</forename><surname>Verdiani</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Liisa</forename><surname>Seppänen</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Le</forename><surname>Cordon Bleu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Federica</forename><surname>Maietti</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Louai</forename><surname>Al Hussein</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pekerler</forename><surname>İnşaat</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alessandra</forename><surname>Ricci</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marco</forename><forename type="middle">Giorgio</forename><surname>Bevilacqua</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><forename type="middle">Pietro</forename><surname>Latini</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pablo</forename><surname>Rodríguez-Navarro</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>ARUCAD</roleName><forename type="first">Latife</forename><surname>Summerer</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marcello</forename><surname>Balzani</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elena</forename><surname>Konstantinidou</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ivor</forename><surname>Samuels</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paolo</forename><surname>Carafa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Antonella</forename><surname>Greco</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Massimo</forename><surname>Angrilli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Università</forename><surname>Degli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Annunzio</forename><surname>Chieti-Pescara</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giovanni</forename><surname>Fusco</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Martin</forename><surname>Ebert</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Anna</forename><surname>Irene</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Del</forename><surname>Monaco</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Emma</forename><surname>Harutyunyan</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Florian</forename><surname>Nepravishta</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alessandra</forename><surname>Capuano</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Raimundo</forename><surname>Bambó</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mirjana</forename><surname>Roter-Blagojevic</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Małgorzata</forename><surname>Hanzl</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Museen</roleName><forename type="first">Wolfgang</forename><forename type="middle">H</forename><surname>Börner</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Stadt</forename><surname>Wien</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Darko</forename><surname>Reba</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nicola</forename><surname>Santopuoli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Murat</forename><surname>Sahin</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>ARUCAD</roleName><forename type="first">Marko</forename><surname>Kiessel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Danica</forename><surname>Stankovic</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pier</forename><forename type="middle">Federico</forename><surname>Caliari</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giuseppe</forename><surname>Strappa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">"</forename><surname>Sapienza</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paolo</forename><surname>Carlotti</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giuseppe</forename><forename type="middle">C</forename><surname>Arcidiacono</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Renato</forename><surname>Capozzi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Francesca</forename><forename type="middle">Romana</forename><surname>Stasolla</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Gothenburg</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">University of Turku</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">University of Gothenburg</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Liisa Seppänen</orgName>
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="institution">University of Turku</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Zeynep Ceylanlı</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff8">
+								<orgName type="institution" key="instit1">Zeren Önsel Atala</orgName>
+								<orgName type="institution" key="instit2">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff9">
+								<orgName type="department">After the Damages International Academy</orgName>
+								<orgName type="institution">University of Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff10">
+								<orgName type="department" key="dep1">Manlio Montuori</orgName>
+								<orgName type="department" key="dep2">After the Damages International Academy</orgName>
+								<orgName type="institution">University of Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff11">
+								<orgName type="department" key="dep1">Fabiana Raco</orgName>
+								<orgName type="department" key="dep2">After the Damages International Academy</orgName>
+								<orgName type="institution">University of Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff12">
+								<orgName type="department" key="dep1">Claudia Pescosolido</orgName>
+								<orgName type="department" key="dep2">After the Damages International Academy</orgName>
+								<orgName type="institution">University of Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff13">
+								<orgName type="department">Ezgi Çiçek</orgName>
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Pelin Günay</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff14">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Özge Özkuvancı</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff15">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Pelin Arslan</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff16">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff17">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff18">
+								<orgName type="institution" key="instit1">Trakya Grup Cam San. Tic. Ltd. Şti</orgName>
+								<orgName type="institution" key="instit2">Koç University</orgName>
+								<address>
+									<addrLine>Turkey Brenda Scheer</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff19">
+								<orgName type="institution">University of Utah</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff20">
+								<orgName type="institution">Università di Pisa</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff21">
+								<orgName type="institution" key="instit1">Mosè Ricci</orgName>
+								<orgName type="institution" key="instit2">University of Trento</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff22">
+								<orgName type="institution">Jiangsu University</orgName>
+								<address>
+									<addrLine>PRC Andreas Georgopoulos</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff23">
+								<orgName type="institution" key="instit1">National Technical University of Athens</orgName>
+								<orgName type="institution" key="instit2">NTUA</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff24">
+								<orgName type="department">Wowo Ding</orgName>
+								<orgName type="institution">Univesitat Politècnica de València</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff25">
+								<orgName type="institution" key="instit1">Nanjing University</orgName>
+								<orgName type="institution" key="instit2">PRC Livia Bevilacqua, &quot;Sapienza&quot;</orgName>
+								<orgName type="institution" key="instit3">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff26">
+								<orgName type="institution">Arkin University of Creative Arts and Design</orgName>
+								<address>
+									<country key="CY">Cyprus</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff27">
+								<orgName type="institution" key="instit1">Luca Zavagno</orgName>
+								<orgName type="institution" key="instit2">Bilkent University</orgName>
+								<address>
+									<addrLine>Turkey Müge Şevketoğlu</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff28">
+								<orgName type="institution">Cyprus International University</orgName>
+								<address>
+									<country key="CY">Cyprus</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff29">
+								<orgName type="institution">Università degli Studi di Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff30">
+								<orgName type="institution" key="instit1">Marko Rukavina</orgName>
+								<orgName type="institution" key="instit2">University of Zagreb</orgName>
+								<address>
+									<country key="HR">Croatia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff31">
+								<orgName type="institution" key="instit1">Teresa Colletta</orgName>
+								<orgName type="institution" key="instit2">University of Studies of Naples &quot;Federico II&quot;</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff32">
+								<orgName type="institution" key="instit1">National Technical University of Athens</orgName>
+								<orgName type="institution" key="instit2">NTUA</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff33">
+								<orgName type="institution" key="instit1">Nicola Marzot</orgName>
+								<orgName type="institution" key="instit2">Università degli Studi di Ferrara</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff34">
+								<orgName type="institution" key="instit1">Banu Manav</orgName>
+								<orgName type="institution" key="instit2">Kadir Has University</orgName>
+								<address>
+									<addrLine>Turkey Marco Trisciuoglio</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff35">
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff36">
+								<orgName type="institution">University of Birmingham</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff37">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff38">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff39">
+								<orgName type="department">Tengbom Architects</orgName>
+								<orgName type="institution">Anna Wyn-Jones Frank</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff40">
+								<orgName type="department">Ruxandra-Iulia Stoica</orgName>
+								<orgName type="institution" key="instit1">Orazio Carpenzano, &quot;Sapienza&quot;</orgName>
+								<orgName type="institution" key="instit2">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff41">
+								<orgName type="department">Tolga Ünlü</orgName>
+								<orgName type="institution">The University of Edinburgh</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff42">
+								<orgName type="institution">Çukurova University</orgName>
+								<address>
+									<settlement>Italy Olimpia Niglio</settlement>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff43">
+								<orgName type="institution">Hokkaido University</orgName>
+								<address>
+									<addrLine>Japan Matt Bell</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff44">
+								<orgName type="institution">University of Maryland</orgName>
+								<address>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff45">
+								<orgName type="institution">Université Côte d&apos;Azur</orgName>
+								<address>
+									<country key="FR">France</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff46">
+								<orgName type="institution">Norwegian University of Life Sciences</orgName>
+								<address>
+									<settlement>Norway Mauro Volpiano</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff47">
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff48">
+								<orgName type="department">Gaetano Ginex</orgName>
+								<orgName type="institution" key="instit1">Sofie Kirt Strandbygaard</orgName>
+								<orgName type="institution" key="instit2">Technical University of Denmark</orgName>
+								<address>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff49">
+								<orgName type="institution">Mediterranean University of Reggio Calabria</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff50">
+								<orgName type="institution" key="instit1">Michael Barke</orgName>
+								<orgName type="institution" key="instit2">Northumbria University</orgName>
+								<address>
+									<settlement>Newcastle upon Tyne</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff51">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff52">
+								<orgName type="department">Jan Gadeyne</orgName>
+								<orgName type="institution">National University of Architecture and Construction of Armenia</orgName>
+								<address>
+									<country key="AM">Armenia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff53">
+								<orgName type="institution">Temple University Rome</orgName>
+								<address>
+									<addrLine>Per Elias Cornell</addrLine>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff54">
+								<orgName type="institution">University of Gothenburg</orgName>
+								<address>
+									<country key="SE">Sweden</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff55">
+								<orgName type="department">Liisa Seppänen</orgName>
+								<orgName type="institution">University of Florence</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff56">
+								<orgName type="institution">University of Turku</orgName>
+								<address>
+									<country key="FI">Finland</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff57">
+								<orgName type="institution" key="instit1">Orhan Hacıhasanoğlu</orgName>
+								<orgName type="institution" key="instit2">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Sinan Burat</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff58">
+								<orgName type="institution">Mersin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff59">
+								<orgName type="institution">Polytechnic University of Tirana</orgName>
+								<address>
+									<country key="AL">Albania</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff60">
+								<orgName type="department">Alper Ünlü</orgName>
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff61">
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff62">
+								<orgName type="department">Burak Asiliskender</orgName>
+								<orgName type="institution">Universidad de Zaragoza</orgName>
+								<address>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff63">
+								<orgName type="institution">Abdullah Gul University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff64">
+								<orgName type="institution">University of Belgrade</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff65">
+								<orgName type="institution">Lodz University of Technology</orgName>
+								<address>
+									<addrLine>Poland Roberta Spallone</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff66">
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff67">
+								<orgName type="institution" key="instit1">Ornella Iuorio</orgName>
+								<orgName type="institution" key="instit2">University of Leeds</orgName>
+								<address>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff68">
+								<orgName type="laboratory">Austria Nadia Charalambous</orgName>
+								<orgName type="institution" key="instit1">Özlem Altınkaya Genel</orgName>
+								<orgName type="institution" key="instit2">Hanze University of Applied Sciences</orgName>
+								<address>
+									<settlement>Groningen</settlement>
+									<country key="NL">The Netherlands</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff69">
+								<orgName type="institution">University of Cyprus</orgName>
+								<address>
+									<addrLine>Cyprus Ayşe Sema Kubat</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff70">
+								<orgName type="institution" key="instit1">Istanbul Technical University</orgName>
+								<orgName type="institution" key="instit2">University of Novi Sad</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff71">
+								<orgName type="institution" key="instit1">Aslıhan Ünlü</orgName>
+								<orgName type="institution" key="instit2">Özyeğin University</orgName>
+								<address>
+									<addrLine>Turkey Anda Scupin</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff72">
+								<orgName type="institution">Universitatea Tehnica de Constructii Bucuresti</orgName>
+								<address>
+									<country key="RO">Romania</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff73">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff74">
+								<orgName type="department">Éva Lovra</orgName>
+								<orgName type="institution">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff75">
+								<orgName type="institution">University of Debrecen</orgName>
+								<address>
+									<country key="HU">Hungary</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff76">
+								<orgName type="institution" key="instit1">Özlem Köprülü Bağbancı</orgName>
+								<orgName type="institution" key="instit2">Uludağ University</orgName>
+								<orgName type="institution" key="instit3">Arkin University of Creative Arts and Design</orgName>
+								<address>
+									<addrLine>Cyprus Marco Cadinu</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff77">
+								<orgName type="institution">University of Cagliari</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff78">
+								<orgName type="institution" key="instit1">Hülya Turgut</orgName>
+								<orgName type="institution" key="instit2">Özyeğin University</orgName>
+								<address>
+									<country key="TR">Turkey</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff79">
+								<orgName type="institution">University of Nis</orgName>
+								<address>
+									<country key="RS">Serbia</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff80">
+								<orgName type="department">Tomasz Bradecki</orgName>
+								<orgName type="laboratory">Research Center for Anatolian Civilizations (ANAMED)</orgName>
+								<orgName type="institution" key="instit1">Sercan Sağlam</orgName>
+								<orgName type="institution" key="instit2">Koç University</orgName>
+								<address>
+									<addrLine>Turkey Nir Buras Classic Planning</addrLine>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff81">
+								<orgName type="institution">Silesian University of Technology</orgName>
+								<address>
+									<addrLine>Poland Matteo Ieva</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff82">
+								<orgName type="institution">Politecnico di Bari</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff83">
+								<orgName type="institution">Politecnico di Torino</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff84">
+								<orgName type="institution">Thomas Greene Rankin</orgName>
+								<address>
+									<region>California Polytechnic</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff85">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff86">
+								<orgName type="institution">Sapienza&quot; University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff87">
+								<orgName type="institution">Università Mediterranea di Reggio Calabria</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff88">
+								<orgName type="institution">University of Studies of Naples &quot;Federico II&quot;</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff89">
+								<orgName type="institution">Gjergj Islami. Polytechnic University of Tirana</orgName>
+								<address>
+									<country key="AL">Albania</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff90">
+								<orgName type="institution">University of Rome</orgName>
+								<address>
+									<country key="IT">Italy</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff91">
+								<orgName type="department">Excavation project</orgName>
+								<orgName type="laboratory">No&apos;man M.H. Bayaty</orgName>
+								<orgName type="institution" key="instit1">Konstantinos Tziampasis</orgName>
+								<orgName type="institution" key="instit2">Roman Villa of Loutraki (Corinth)</orgName>
+								<address>
+									<country key="GR">Greece</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff92">
+								<orgName type="institution">Tishk International University</orgName>
+								<address>
+									<addrLine>Iraq Şebnem Hoşkara</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff93">
+								<orgName type="institution">Eastern Mediterranean University</orgName>
+								<address>
+									<country key="CY">Cyprus</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff94">
+								<orgName type="institution" key="instit1">Nevter Zafer Cömert</orgName>
+								<orgName type="institution" key="instit2">Eastern Mediterranean University</orgName>
+								<address>
+									<country key="CY">Cyprus</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">CITIES IN EVOLUTION DIACHRONIC TRANSFORMATIONS OF URBAN AND RURAL SETTLEMENTS Proceedings of the VIII AACCP symposium, Volume I VIII AACCP (Architecture, Archaeology and Contemporary City Planning) symposium, Özyeğin University, Istanbul, April 26 th May 2 nd 26 2021</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7F82845BAE8EFB15AF224C04531F8DEC</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:31+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>After the Damages International Academy, Italy</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>All the papers in this volume were double peer-reviewed by the symposium's scientific committee.</p><p>The editors of this volume decline all responsibilities for the images published in this volume, the authors are responsible for the images provided in their paper.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Table of Contents Exploring the ever changing urban form with a Distributed Virtual Conference Environment (DVCE) Alessandro Camiz Zeynep Ceylanlı Özge Özkuvancı AACCP 2021 CALL FOR PAPERS Design, Aesthetics, Built Environment and the Question of Time. Sketching a program Per Elias Cornell Anan Wyn-Jones Frank Discovering the Mediterranean. Itineraries of travellers between eighteenth and twentieth centuries in Abruzzo region Massimo Angrilli Valentina Ciuffreda Network strategy for culture-based development and revitalization of rural areas in Abruzzo Laura Vivola Claudia Genitti Raffaello Fico Territorial sections: a tool for the landscape morphological reading and modeling. The experience of Castelvecchio Calvisio Workshop 2020 Giulia Bertola Fabrizio Natta Francesca Ronco Post seismic typological transformation of three mediaeval houses, Castelvecchio Calvisio (AQ). Alessandro Camiz Giulia Bertola Özge Özkuvancı Online summer school in Castelvecchio 2021 Darko Reba Olivera Markovic Fabrizio Natta A Digital Humanities Project: Photogrammetry of Ertokus Caravanserai and Incir Han Nur Erdemci Güzden Varinlioğlu Digital survey as a base for the recovery of Mezzana settlement, Tuscany: a multidisciplinary reconstruction activity Giovanni Anzani Riccardo Sinni Baghdad Unesco heritage site. Memory of Places. New design museum and cultural center 108 Riccardo Renzi Between past and present: Aqua Virgo through the time 120 Maria Elisa Amadasi The Equisolar Axis in Urban Morphology: Pompeii, the Solstices and Sunlight Irradiation 132 Ilaria Cristofaro A hypothesis for the redevelopment of the Archaeological Park of Agrigento Fabio Guarrera Mirco Cannella Painted landscapes from another age: what the Vasari's frescoes in Palazzo Vecchio, Florence, tell about urban fortifications Giulia Emilio Giorgio Verdiani The Castle of Cerretaccio. Studies for the material history and conservation. Michele Coppola Ambra Maramai Explicit Restoration Vidal Gómez Martínez Life-Saving Stations on Black Sea Coast of Istanbul as a Coastal Heritage: Threats and Potentials Mustafa Tahir Ocak Zeynep İnan Ocak The Equisolar Axis in Urban Morphology: Pompeii, the Solstices and Sunlight Irradiation Ilaria Cristofaro Università degli Studi della Campania Luigi Vanvitelli ilaria.cristofaro@unicampania.it Keywords: Foundation Rituals, Urban planning, Sun</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Abstract</head><p>The morphology of urban form is here approached with the critical tools of skyscape archaeology, within a broader discourse on the relationship between the natural and the built environment. The case study presented is the streets network of Pompeii: its north-east/south-west axes are oriented according to the solstices, in a secundum caelum no-cardinal direction <ref type="bibr" target="#b2">(Cristofaro and Silani, 2020)</ref>. According to Henrich Nissen (1869)'s foundation day theory, Pompeii was founded on the day of summer solstice. This hypothesis is reviewed in the context of later studies on archeoastronomy and urbanism. In parallel, this precise choice of orientation may be interpreted through the lens of Gaetano Vinaccia's equisolar theory, being the sun an important microclimatic factor. The solstitial urban grid is explored through the equalisation of sunlight among all the four sides of building blocks for an annual equilibrate solar irradiation <ref type="bibr">(Vinaccia, 1939: 210-215)</ref>. Beyond Nissen's foundation day theory, the role of solstices at Pompeii might be also read according to Vinaccia's solar irradiation theory for temperate climate. This would bring to consider a logical, rational, and functional idea of city, also related with the observation and integration of the sky, where the religious and ritual aspects of setting boundaries and diving space according to cosmological principles seems not in contradiction but in complementary dichotomy. In Pompeii foundation, urban pattern and morphology may be read as part of an environmental design related to orientation rules for a rationalised sun exposure, as well as the result of a foundation ritual act.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Rationale and Methodology</head><p>This contribution is placed within a wider research investigating urban morphology and orientation in ancient Campania between the 8th and the 3rd cent. BC 1 , focusing here on Pompeii urban morphology. In particular the urban grids on the ancient Campanian plain seems to follow a specific pattern <ref type="bibr" target="#b11">(Rescigno and Senatore 2009)</ref> to be further investigated in the context of astronomical orientations. Within the method of skyscape archaeology, here the discourse will be drawn from the archaeological evidence and the literary sources available. On the topic of ancient land division, the writing of the Gromatici Veteres are a unique corpus of information: the gromatic writers lived in the Imperial period, even though the original theory of space division can be dated back of six centuries at least, reaching on Etruscan or Italic planning where no or little sources are available <ref type="bibr">(Prosdocimi 2009:719)</ref>. However, there are problems of interpretation in the Gromatici Veteres corpus including the complex stratigraphy in the transmission of the manuscripts and the very technical terms used to be also considered.</p><p>A distinction between the secundum caelum or secundum natura orientation can be traced depending if the urban planning reflected the sky directions or the geomorphological terrain specificity <ref type="bibr" target="#b1">(Cataldi 2004;</ref><ref type="bibr">Rosada 1991:90-92)</ref>. Often, this dichotomy is not in contrast, even though an urban plan can be read as the result of a prevailing rationale. In the context of secundum caelum procedures, it is possible to distinguish between cardinal 2 and no-cardinal orientation, being the latter more complex to be recognised, since "east" might have been considered as "any position of the sun rising", thus changing across the year <ref type="bibr">(Prosdocimi 2009:725)</ref>. Moreover, the arc of the sun rising depends on the latitude and considerations over large territories should take in account such difference <ref type="bibr">(Rosada 2010:90)</ref>. In the 19th century, a relationship between the position of the rising sun aligned with the urban main street and the foundation day was proposed by Henrich <ref type="bibr">Nissen (1869: 167)</ref>: he is considered the father of archaeoastronomy and, since his analysis on Pompeii, he was inspired to elaborate his work on the templum regarding the orientation of 1 The doctoral project is carried out at Capys Laboratory at Università degli Studi della Campania Luigi Vanvitelli under the coordination of Prof. Carlo Rescigno, with the collaboration of Dr. Michele Silani, Dr. Frank Prendergast, and Dr. Georg Zotti. To them I wish to express my sincere gratitude, as well as to the Archaeological Park of Pompeii for enabling the present research to be carried out. 2 For finding cardinal directions using the sun and a centred gnomon within a circle, the shadow of the pole could be marked before and after midday (Vitr. De Arch. 1.6.6).</p><p>ancient temples and towns in Italian peninsula and the Mediterranean area. His theoretical framework has been subjected to some critiques, notably by Joell Le <ref type="bibr" target="#b3">Gall (1975)</ref> in his paper Les Romains et l'Orientation Solaire. Moreover, for urban grid where a secundum caelum orientation is evinced, a different interpretation should be explored in accordance to a solar irradiation rationale: in the context of "planning for the sun" climatic urbanism of the 19th-20th century, Pompeii can be read through the lens of Gaetano Vinaccia's equisolar orientation.</p><p>Starting for the results previously achieved <ref type="bibr" target="#b2">(Cristofaro and Silani 2020)</ref>, the scope here is to explore the rational below the urban morphology of Pompeii and its no-cardinal secundum caelum solstitial orientation. This urban layout can be date back at least in the Hellenistic period, but it might have been traced already in the Archaic period if continuity in orientation between the pappamonte foundations and the later buildings is assumed. Thus, from the last research results <ref type="bibr" target="#b2">(Cristofaro and Silani 2020)</ref>, it was emphasised that the main urban axes of Pompeii (fig. <ref type="figure">1</ref>) are oriented according to a solstitial diagonalcirca 60°/240°, especially fitting for Via delle Terme (fig. <ref type="figure" target="#fig_0">2</ref>). Nissen also mentioned the Apollo temple temenos transverse axis pointing at the sun rising at summer solstice, even though from recent cartographical vectoral representations the two orientations differ of circa 5°. Instead, it was pointed out that the orientation of the Archaic Doric Temple to be oriented according to the other solstitial diagonalcirca 120°/300° azimuthwith a more precise correspondence with summer solstice sunset <ref type="bibr">(Nissen 1906:280-81;</ref><ref type="bibr" target="#b2">Cristofaro and Silani 2020)</ref>. Nissen stated that the axis of the temple, "corresponds with the azimuth of the sunset on the day of foundation" <ref type="bibr">(Nissen 1906:281)</ref>. The intentionality of this solar pattern of orientations is emphasised by the dual presence of two solstitial diagonals, one drawn by the urban grid and the other by the Doric Temple axis at the Foro Greco<ref type="foot" target="#foot_0">foot_0</ref> . The presence of the heroon at the latter gives a further evidence of the importance of this place in the foundation ritual of the town. In a gaussian statistical frame, the dual presence of two independent solstitial diagonalsthe Doric temple and urban gridgives a probability that this set up is due to chance of 0.2% <ref type="bibr" target="#b2">(Cristofaro and Silani 2020)</ref>. To progressively unfold the research, the following question to dealt with is to interpret such results without falling into an anachronistic bias. The investigation will explore Nissen's "foundation day theory" versus Gaetano Vinaccia's "solar irradiation" theory for interpreting the solstitial orientation put in light in Pompeii, in a dialectic between ritual and functional. To divide between the two spheres, religious and practical, would be misleading causing an unrealistic interpretation; instead, this is an attempt to show the possible complexity of meanings behind a secundum caelum urban orientation by trying to integrate the two rationales.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Henrich Nissen's Foundation Day Theory</head><p>Skyscape archaeology in urbanism has dealt with measurement of the orientationazimuthof the main axis of orthogonal ancient cities, especially in the context of Roman colonies. In archeoastronomical studies, some scholars have hypothesised that the main east-west axis of the cityoften called decumanus even though this is a modern attribution of the agrarian axis applied to the urban axis<ref type="foot" target="#foot_1">foot_1</ref> was related to the day of foundation as marked by the sun position aligned on the local horizon. Hyginus stated that the discipline of tracing boundaries derived from the sky (Hyg. Grom. Cons. Lim. 166, 1-6 L.). For Frontinus, multi mobilem solis ortum et occasum secuti uariarunt hanc rationem. sic uti[que] effectum est, ut decimani spectarent ex qua parte sol eo tempore, quo mensura acta est, oriebatur, "many have followed the variable rising and setting of the sun and altered this principle. Indeed, they have arranged so that the decumani faced from the part (of the heavens) where the sun was rising at the time when the survey was carried out" (Front. De limit. 31, 4-7 L. = 11, 37-39 C.). Thus, in recent scholarship urban orientation in space have been used to determine the ritual time of the foundation act. Some coincidences have been hypothesised as evinced by the position of the sun risingor settingat the horizon: the foundation day of the city might have corresponded to a special festivity or anniversary, such as the founder or emperor birthday <ref type="bibr">(Le Gall 1975:307, n. 2)</ref>. This flow of idea can be traced back to the work by Henrich Nissen (1869: 166) at the end of the nineteenth century. It is necessary to remember that the parameters for the choice of the day of foundation is not known in ancient sources: therefore, a primary issue to be considered is the Natalis Urbis question. Specifically, there is a need to clarify which act in founding of a city was considered important to be celebrated as foundation anniversary. It is probable that Rome has been used as a model for Roman colonial planning (Piras 2013:303)<ref type="foot" target="#foot_2">foot_2</ref> . Arthur M. Eckstein argued that in colonies the marking of the perimeter with the plough was the ritual act related to the factual foundation, as evinced from Roman coinage <ref type="bibr" target="#b3">(Eckstein 1979)</ref>. Only for few Roman colonies their days of foundation is known. Among these, Amelia C. <ref type="bibr" target="#b17">Sparavigna (2020)</ref> tested the orientation of Brindisium with the orientation of the sun at the day of the historical reported anniversary, founding a good match. However, she suggested that calendric synchronisation with the Roman calendar is difficult and her result might have been caused by a confirmation bias.</p><p>In his paper Les Romains et l <ref type="bibr">'Orientation Solaire, Joell Le Gall (1975)</ref> pointed out some problems with Nissen's workflow and the secundum caelum no-cardinal orientation. Le Gall argued that a precise passage from Hyginus is usually cited but out of context, suggesting a different meaning than Nissen's interpretation. The passage states that surveyor sighted the rising sun to orient themselves with the ferramentum, the Roman surveyor instrument. The passage from Hyginus stated that Quid ergo? Posita auspicaliter groma, ipso forte conditore praesente, proximum vero ortum comprehenderunt, et in utramque partem limites emiserunt, quibus kardo in horam sextam not convenerit, «What takes place then? When the groma had been positioned after the taking of the auspices, perhaps in the presence of the very founder himself, they sighted the next sunrise, and established limites in both directions; but in this system the kardo did not tally with the sixth hour (i.e. did not face due south)» (Hyg. Grom. Cons. Lim. 170, 5-8 L. = 136, 19-1 C.). However, within its context, Hyginus is instead criticising surveyors who acted in this way because, according to the agrimensor, this was not the correct method from a theoretical perspective. Following the apparent rising position of the sun can be misleading since the celestial body rises on the horizon in a different position according to day of the year. Only at the equinox the sun may rise due east, but even this statement can be contradicted by the presence of mountains and hills on the horizon, as later discussed. Nevertheless, Le Gall stated that this is an advantageous factor, since the delimitation can be traced any day of the year (Le Gall 1975:307). As a final point in Hyginus' passage, there is the problem of the magnitude mundi, the size of the Earth (Hyg. <ref type="bibr">Grom. Cons. Lim. 170,</ref><ref type="bibr">[3]</ref><ref type="bibr">[4]</ref><ref type="bibr">[5]</ref><ref type="bibr">[6]</ref><ref type="bibr">[7]</ref><ref type="bibr">[8]</ref>. Hyginus stated that it is impossible to know the precise point of the sun setting or rising if there is a mountain in front of the ferramentum, since the sun is shining beyond the mountain, even though the latter casts shadow on the point of surveying. Although inconvenient under some theoretical prescriptions, it is possible that the sun might have been used in some occasions as a direct target to be sight aligning the two plum lines of the groma. If the survey was done at sunrise or sunset on a relatively flat horizon (less than 3°), the disk of the sun would have been easier to watch due to the reddish shade typical of the twilight, even though the 0.5° diameter of the disk would not have appeared at all as a punctiform target. It is also possible that the sun shadow was used for such survey with a vertical pole or gnomon: when the sun is low on the horizon, the shadow is the longest possible enhancing the correct marking of boundaries on the ground. Finally, the infinite distance of the sun in respect to a site would allow parallel lines to be traced allowing multiple surveying on a site, even though they should be taken on the same moment by sighing the sun.</p><p>Going back to the critiques by Le Gall, he stated that, if "east" is regarded as the whole arc of the rising sun, the possibility that a solar position is found casually is 82%. This is caused by the fact that it is not possible to distinguish among what are called cardo and decumanus in Roman centuriation. There, he is referring to the possibility of inverse centuriation, such as in the case of ager Campanus. The rules ab oriente ad occasum, and ab meridiem ad septemtriones, can be reversed completely, with the cardo running from east to west. Aldo Prosdocimi dealt with this issue considering the late attribution of meaning of cardo as the hinge of the cosmos, that is the axis of rotation, acquiring major importance among the decumanus, the original line of division. According to Prosdocimi's theory, the etymology of line k/cardo would refer to «to cut» from Latin caro/carnis, since it was meant to cut the decumanus <ref type="bibr">(Prosdocimi 2009: 718-19</ref>). Inverse centuriations found in south of Italy might be attributed to such translation of meanings, even though other interpretations have been pointed out. According to Rosada, in its maximum deviation possible such inversion is so hyperbolic to nullify itself, by returning, factually, to the normal cardinal arrangement <ref type="bibr">(Rosada 1991:91)</ref>. Therefore, no exact method exists to distinguish among the two orthogonal axes from their original role. Thus, the fact that is a prerogative of the decumanus only to point at the risingor settingsun is also misleading. This leads Le Gall to schematise the arc of the horizon where an orientation axis might be theoretically found. If the fours arms of a crossthat is the typical schema of an orthogonal Roman urban gridare rotating causally in the 360° degrees of the horizon circle, there is just a little space left which does not fall within a solar rising position. He pointed out that the attribution of a foundation day after the alignment with the sun cannot be statistically significant. To answer such critique, a few groups of scholars have surveyed a consistent number of Roman town plans to put in light statistical trends against Le Gall's critiques. As a result, big scale data do not offer clear peaks in the statistical analysis, whereas single region case study tends to be more productive (Gonzaĺez-Garciá and Magli 2015). Moreover, Bradley Schaefer also suggested a useful workflow to prove any astronomical orientation after three conditions are satisfied, which were used to test the intentionality, or no-randomness, of Pompeii solstitial orientation <ref type="bibr" target="#b2">(Cristofaro and Silani 2020)</ref>.</p><p>To apply Nissen's "foundation day" theory starting from the spatiality of the urban grid, the two specular days when the sun rises are calculated, each symmetrical to the nearest solstitial position <ref type="bibr">(Rosada 1991:90)</ref>  <ref type="foot" target="#foot_3">6</ref> . Among the two dates, the day which embrace the most appropriate archaeological and anthropological evidence is usually proposed as the foundation day. Giulio De Petra (1869), in a review of Nissen's theory, questioned the possibility of calendric conversion. To express the exact the day of the Roman calendar from a modern calculation can be challenging. In her analysis, <ref type="bibr" target="#b17">Sparavigna (2020)</ref> suggested that only solstices, cross-quarters, and equinox days can be considered plausibly relevant in the solar orientation of Roman colonies, whereas the match between a Roman festivity and the sun position is unprovable. On the contrary, according to César Gonzaĺez-Garciá and Giulio <ref type="bibr" target="#b3">Magli (2015)</ref>, "the possibility of further deliberate orientations, for instance to the sun rising on certain days of the Roman festive calendar", or "an explicit reference or the date of birth of the town's founder" (p.1647) should be further studied for no-cardinal or nosolstitial solar positions. Even though, on a previous contribution, Magli rejected the hypothesis of the alignment with the founder birthday given the presence of a no-random distribution <ref type="bibr">(Magli 2008:68)</ref>. In summary, if solstices and equinox are inherent astronomical events, any other solar positions can be considered relevant only if historically contextualised. In Pompeii, the focus is on solstitial orientation, thus the position is inherent to the solar cycle beyond calendric reckoning. Local calendars form the 7 th -6 th century are not available in Pompeii, being the Tabula Capuana the first attestation of a local Etruscan ritual calendar from circa 470 BC in ancient Campania. Following Nissen's theory, it might be stated that the foundation day of Pompeii in the turning of the 7 th cent. and 6 th cent. was summer solstice, being the main streets oriented towards this celestial phenomenon. Summer solstice is one of the two points of reference in the year, for instance in Classical Greece it marked the beginning of the new year. In Pompeii, every year, the sun returned in the same solstitial position, possibly the day of foundation, marking the anniversary of the birth of the town. According to this hypothesis, the urban grid functioned as a solar calendar, where sighting in space directs orientation in time, with the renewal of the cycle of the sun reflecting a new year of life in Pompeii. However, this flow of idea might be compared to a more functional idea of city, where the sun was not only a calendric marker but a climatic factor for the sustainability of life in the town.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gaetano Vinaccia's Equisolar Orientation and Other Solar Irradiation Theories</head><p>Cities showing a solstitial orientation in their grid might be explored beyond ritual and calendric intentions. In Pompeii, if the Doric Temple assured the ritual configuration of space and the annual renewal with the solar return of the sun aligned with the temple axis, the choice of the solstitial orientation of streets remains unclear. It is possible to speculate that the urban morphology acted as a calendric devise for the whole community, indicating the circuit of the sun across the sky, together with marking the anniversary of the city. Many are ancient cities are oriented according to solstices, especially in Roman urbanism <ref type="bibr" target="#b16">(Sparavigna 2016</ref>): Ostia, Como, Verona, Acerrae, Herculaneum, Rimini, Vicenza, Augusta Bagiennorum, Augusta Praetoria Salassorum -Aosta, Norba, Roman colonies in Spain, and Augusta Raurica, Vesontio, and Aventicum in the north-west Alps. In some of these cases, the view on the horizon is partially obstructed by mountains, which do not allow the whole course of the sun from its rising and setting, to be fully visible. In Herculaneum the east-west grid is oriented as in Pompeii, turned clockwise from the geographical north of around 60°. However, the Mt. Somma-Vesuvius stands in that direction, even though the exact morphology of the volcano in pre-79 AD eruption can be only hypothesised, it now obstructs the view of the summer solstice rising sun. In Verona, similarly, the view of summer solstice rising sun is not visible in line with the grid due to the Pre-Alps, and a similar situation happens in Como. Therefore, it seems that the sight of the sun itself was not the prevailing aim, so that it might be necessary to overcome the idea of "observation", and in particular "astronomical observation", in antiquity towards a more integrated and participatory aspect of the role of the sun. Indeed, other interpretations related to a more functional and rationale idea of town might be explored. Solar irradiation was a fundamental factor in ancient urbanism. In the treatise by Vitruvius can be found a practical version of urban foundations, which has struck scholars for the absence of any citations of ritual in respect to his contemporary writers <ref type="bibr">(Piras 2013:306-7)</ref>. This functional idea of town might be traced back to ancient Greece, with Plato's ideal city and the solar passive house attributed to Socrates. In the course of centuries, utopian models of cities were schematised or built, often related to the sun as the ideological centre. After the industrial revolution, there was the need for healthier and more functional cities, as well as houses, hospitals, and schools. For instance, Ralph Knowles stated that "[t]he natural world appears to abound with examples of arrangements based in some measure on exposure to the sun…Our cities are non-directional. Our buildings are undifferentiated by orientation to the sun. They stand static, unresponsive to the rhythms of their surrounding" <ref type="bibr" target="#b4">(Knowles 1981)</ref>. The attention for a microclimatic arrangement was brought to focus in urbanism. As Victor Olgyay pointed out "[w]ith the development of techniques for measuring radiation and the accumulation of factual data, the approach to orientation was made on a calculative basis" <ref type="bibr">(Olgyay 2015:54)</ref>. Such data analysis brought to the formulation of many solar-orientation theories. Thus, Gaston Bardet started his essay exposing the unending debate on the topic, since «[l]es idées les plus confuses et les plus contradictoires règnent en matière d'ensolleiment» <ref type="bibr">(Bardet 1945:202)</ref>. For an historical overview of the many solutions proposed, the doctoral thesis by Maryleǹe Montavon is a very clear summary <ref type="bibr">(Montavon 2010:14-20)</ref>. Many were the advocators of cardinal directions; the solutions with diagonal orientations have been less and with more variegated arrangements. Diagonal directions in the urban fabric were also the favourite in ancient Mesopotamia <ref type="bibr">(Shepperson 2017:93-94)</ref>. There, " <ref type="bibr">[d]</ref>iagonal street grids are seen as the best solution for providing a balance between shading for streets and solar protection for building", especially in the hot-arid summer season <ref type="bibr">(Shepperson 2017:242)</ref>. Augustine Rey, Justin Pidoux, and Charles Barde, in La science des plans de ville, calculated the best urban orientation according to the calorific power of the sun suggesting the concept of the "heliothermic axis", combining insolation and temperature <ref type="bibr">(Rey, Barde, and Pidoux 1928:14-35)</ref>. The best fit for Paris was calculated for the south-east/north-west direction, with an azimuth of 19° <ref type="bibr">(Rey et al. 1928:22</ref>). Rey's et al. ideas found major impact and resonance in Le Corbusier's thinking. Solar insolation was applied in La Ville radieuse <ref type="bibr">(1930)</ref>, an urban project designed by Le Corbusier as an ideal form of a utopic city, with orthogonal and diagonal axes with an angle of 45°, ordered by the rhythm of the solar day according to the heliothermic axis. Among the many objectors of the heliothermic axis, Gaston <ref type="bibr">Bardet in 1943</ref> argued that the heliothermic factor is meaningless, since a temperature should me multiply by a mass and not by a duration <ref type="bibr">(Montavon 2010:23)</ref>. The equalisation of insolation and the right to the sun was one of the major topics of the work by the Neapolitan architect Gaetano <ref type="bibr">Vinaccia (1889</ref><ref type="bibr">Vinaccia ( -1971))</ref>. He disagreed strongly with Rey's et al. heliothermic axis: Vinaccia's calculation was applied on the four sides of a building, not only on the two longest ones. His aim was to rationalise sun exposure, especially as thermal factor <ref type="bibr">(Vinaccia 1939a:210-15)</ref>. Since the wester sides take the advantage of a higher diffuse temperature when the sun reaches them, the optimal deviation will be from the north towards the east, in a clockwise rotation in a way to align to the direction of the rising summer solstice <ref type="bibr">(Vinaccia 1939a:211-12</ref>) (fig. <ref type="figure">3</ref>). The characteristic of this planning is that the building façades are parallel to the direction of summer solstice sunrise and winter solstice sunset, and the others are orthogonal <ref type="bibr">(Vinaccia 1939b:201)</ref>. The main advantage is that the north façade, technically facing northwest, do receive sun every day a year, even at winter solstice, when the last ray of the sun penetrates the streets running parallel to the north façades ensuring a minimum insolation. Vinaccia's equisolar orientation was the only theory which took in consideration the solstices in urban planning. If this theory is applied to Pompeii, it can be noticed that not only the sun was seen rising parallel to the streets, but it also penetrated the urban grid, permeating and building the urban space. More than a calendric marker and sight target, it is possible to interpret the solstitial orientation of Pompeii through the lens of Vinaccia's equisolar orientation, hypothesising a rational idea of a city, where not only ritual but also functional aspects appear combined together in the choice of Pompeii secundum caelum no-cardinal orientation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Pompeii presents both secundum natura and secundum caelum orientations: the complex geomorphology of the plateau, with Via Stabiana following the contours of a natural canyon, results in a no-orthogonal layout with the east-west main axes reflecting the course of the sun at solstices. For the combination of these rationales, the urban morphology shows many orientations (fig. <ref type="figure">1</ref>), also due to the diachronical expansion and contraction of the town. Even though it is plausible to think that the direction of the main urban routes was traced in the Archaic period, not all scholar agrees due to the little evidence on the Archaic urban form. Thus, when to date the solstitial orientation remains unclear. In this paper, a review of possible interpretations related to Pompeii secundum caelum orientation are investigated. The practical and theoretical aspects of sighting the sun with the groma was considered after the writing of the Roman agrimensores. Henrich Nissen's theory on the correspondence between a spatial orientation and the time of foundation according to the sun position was investigated in the light of recent critiques. For instance, the exact act which marked the dies natalis in Roman colonies is not known: possibly, the ritual perimeter of the plough might have been considered the factual foundation event. Le Gall's critiques to Nissen's theory embraced the possibility of inverse centuriation, which would bring to a statistical analysis unprovable for a single case study with little historical context. For this reason, several urban grids orientation data have been compared by scholars to put in light statistically significant orientation patterns. The conversion from the sun daily position to local calendars can be challenging as well: only solstices, equinoxes and cross-quarters days can be regarded as inherent astronomical directions, whereas other days of the year should be historically contextualised before being considered as foundation days. In Pompeii, the co-presence of the Doric Temple and the urban grid suggests a no-casual interest for the solstices. An interpretation where ritual is the prevailing rationale would bring to think that the town was founded on summer solstice, with the annual renewal of the foundation with the sun return in axis with the streets. In combination, this interpretation can be integrated to a discourse embracing a more functional idea of town. Indeed, solar irradiation has been one of the main factors in urban planning since antiquity. Many irradiation theories were proposed in the last centuries, developing different solutions for different latitudes. Among urbanists, the Neapolitan architect Gaetano Vinaccia suggested that a city oriented according to the position of the sun at solstices was the preferable layout for guaranteeing the most equilibrate irradiation across seasons. For a city with the equisolar layout as Pompeii, the coldest north façade of a building was always illuminated, allowing the penetration of the sun in the streets even in the shortest day of the year, winter solstice. With observation of the basic movements of the sun across the year, Vinaccia's general intuitions might have been applied in ancient Campania urbanism. Therefore, the results previously achieved by Nissen on Pompeii urban orientation may be also integrated with Vinaccia's equisolar orientation. A middle way point might be position to for such preliminary investigation, putting in evidence that a stratification of meanings is necessary for interpreting the role of the solstices at Pompeii. Comparing and integrating the ritual and the functional, Nissen's foundation day theory and Vinaccia's equisolar orientation, a further understanding of the role of the sun in urban planning in ancient Campania might be achieved. Fig. 3. Gaetano Vinaccia's equisolar orientation for urban planning. Adapted by Ilaria Cristofaro after Vinaccia, 1939a: 214.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Summer solstice sun rising from Via delle Terme, Pompeii, h 5.50, 21 st June 2021. Photo by Ilaria Cristofaro.</figDesc><graphic coords="16,86.65,65.43,425.15,283.42" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="1,671.96,316.68,541.00,507.00" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="15,158.22,371.94,282.00,282.00" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_0"><p>The urban grid and Doric temple azimuth values, if converted into declination coordinates, have indeed the same value.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_1"><p>Due to the long historiography on the use of the terms cardo and decumanus in urban context, in this paper the same terminology is applied, although with the awareness of the inaccuracy of their usage.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_2"><p>Ovidio, Fasti, IV, 815-30; Varrone, De lingua latina, V, 143-147; Servio, Ad Aeneidem, 5, 755.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="6" xml:id="foot_3"><p>The calculation expressed in days from one solstice (summer or winter) would allow a transparent, not anachronistic data. Instead, the conversion of the day into local calendars would be already a form of interpretation.</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p><rs type="funder">Özyeğin University, Faculty of Architecture and Design, Dynamic Research on Urban Morphology-DRUM laboratory</rs>, Diachronic transformations of the built environment <ref type="url" target="https://labs.ozyegin.edu.tr/drum">https://labs.ozyegin.edu.tr/drum</ref> VIII AACCP (Architecture, Archaeology and Contemporary City Planning) Symposium CITIES IN EVOLUTION. DIACHRONIC TRANSFORMATIONS OF URBAN AND RURAL SETTLEMENTS Organized by the <rs type="affiliation">Dynamic Research on Urban Morphology-DRUM laboratory, Özyeğin University, Istanbul, Turkey</rs>, April 26th-May 2nd, 2021</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<listOrg type="infrastructure">
+				<org type="infrastructure">					<orgName type="extracted">/drum VIII AACCP (Architecture, Archaeology and Contemporary City Planning) Symposium CITIES IN EVOLUTION. DIACHRONIC TRANSFORMATIONS OF URBAN AND RURAL SETTLEMENTS</orgName>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p><ref type="url" target="https://aaccp2021.wordpress.com">https://aaccp2021.wordpress.com</ref> Hashtag for social networks: #aaccp2021 <ref type="url" target="https://www.facebook.com/aaccp21">https://www.facebook.com/aaccp21</ref> </p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Le Facteur Soleil En Urbanisme</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bardet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Technique et Architecture: Le Soleil</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="202" to="206" />
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Forma Quadrata Italiae. La Pianificazione Territoriale Dell&apos;Italia Romana</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cataldi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Atti e Memorie Dell&apos;Accademia Petrarca Di Lettere, Arti e Scienze LXV</title>
+		<imprint>
+			<biblScope unit="page" from="102" to="104" />
+			<date type="published" when="2003">2004. 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Approaching Skyscape Archaeology: A Note on Method and Fieldwork for the Case Study of Pompeii</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cristofaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Silani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GROMA</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Roman City Planning and Spatial Organization</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eckstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Le Gall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gonzaĺez-Garciá</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Magli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Archaeoastronomy and Ethnoastronomy</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Ruggles</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="1975">1979. 1975. 2015</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1643" to="1650" />
+		</imprint>
+	</monogr>
+	<note>Les Romains et l&apos;orientation Solaire Meĺanges de l&apos;ećole Francaise de Rome The Foundation Day of Roman Coloniae</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><surname>Knowles</surname></persName>
+		</author>
+		<title level="m">Sun Rhythm Form</title>
+		<meeting><address><addrLine>Cambridge</addrLine></address></meeting>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">On the Orientation of Roman Towns in Italy</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Magli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Journal of Archaeology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="63" to="71" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Optimisation of Urban Form by Evaluation of the Solar Potential</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Montavon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecole Polytechnique Federale</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Lausanne, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Orientationen: Studien Zur Geschichte Der Religion</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nissen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Das Templum: Antiquarische Untersuchungennel. Berlin: Weidmannsche buchhandlung</title>
+		<meeting><address><addrLine>Nissen, H; Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Weidmann</publisher>
+			<date type="published" when="1869">1869. 1906</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Design with Climate: Bioclimatic Approach to Architectural Regionalism</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Olgyay</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Riti e Miti Di Fondazione Nell&apos;Italia Antica. Moenia, Muri e Conditores Nella Tradizione Letteraria Latina</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>De Petra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mura di legno, mura di terra, mura di pietra: fortificazioni nel Mediterraneo antico, Atti del Convegno Internazionale</title>
+		<title level="s">Giornale Degli Scavi Di Pompei (Nuova Serie</title>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Bartoloni</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Michetti</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Roma</addrLine></address></meeting>
+		<imprint>
+			<publisher>Quasar</publisher>
+			<date type="published" when="1869">1869. 2013. Università di Roma, 7-9 maggio 2012</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="298" to="313" />
+		</imprint>
+	</monogr>
+	<note>Recensione Del Das Templum Scienze dell&apos;Antichità 19</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Decumanus &apos;Ab Oriente Ad Occasum&apos; e Cardo &apos;Ex Transverso Currens</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Prosdocimi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Etruria e Italia preromana. Studi in onore di Giovannangelo Camporeale</title>
+		<meeting><address><addrLine>Pisa-Roma</addrLine></address></meeting>
+		<imprint>
+			<publisher>Fabrizio Serra Editore</publisher>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="717" to="747" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Le Città Della Piana Campana Tra IV e III Sec. a.C.: Dati Storici e Topografici</title>
+		<author>
+			<persName><forename type="first">Carlo</forename><surname>Rescigno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Senatore</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Verso la città: Forme insediative in Lucania e nel mondo italico fra IV e III sec. a.C.. Atti del Convegno</title>
+		<editor>
+			<persName><forename type="first">M</forename><surname>Osanna</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Venosa; Potenza</addrLine></address></meeting>
+		<imprint>
+			<publisher>Osanna Edizioni</publisher>
+			<date type="published" when="2009">2009. 2009</date>
+			<biblScope unit="page" from="415" to="462" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">La Science Des Plans de Villes: Ses Applications a La Construction, a l&apos;extension, a l&apos;hygiène et a La Beauté Des Villes, Orientation Solaire Des Habitations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Rey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pidoux</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1928">1928</date>
+			<publisher>Dunod</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Rivista di Archeologia suppl</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rosada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Archeologia e astronomia: colloquio internazionale</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">Fano</forename><surname>Santi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Roma</addrLine></address></meeting>
+		<imprint>
+			<publisher>G. Bretschneider</publisher>
+			<date type="published" when="1989">1991. Venezia 3-6 maggio 1989</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="88" to="95" />
+		</imprint>
+	</monogr>
+	<note>Divisione Agraria, Orientamento e Suolo</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Arte (Mestiere?) Dell&apos;Agrimensor</title>
+		<author>
+			<persName><forename type="first">Guido</forename><surname>Rosada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Histria Antiqua</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="125" to="152" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Sunlight and Shade in the First Cities: A Sensory Archaeology of Early Iraq</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shepperson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017">2017</date>
+			<publisher>Vandenhoeck &amp; Ruprecht</publisher>
+			<pubPlace>Gottingen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Roman Towns Oriented to Sunrise and Sunset on Solstices</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Sparavigna</surname></persName>
+		</author>
+		<ptr target="https://ssrn.com/abstract=2777118" />
+		<imprint>
+			<date type="published" when="2016">2016</date>
+			<biblScope unit="page" from="1" to="6" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Brindisi e Il Suo Giorno Natale, Tra Cronologia Ed Astronomia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Sparavigna</surname></persName>
+		</author>
+		<idno type="DOI">10.5281/zenodo.4077381</idno>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vinaccia</surname></persName>
+		</author>
+		<title level="m">a) Il Corso Del Sole in Urbanistica Ed Edilizia</title>
+		<meeting><address><addrLine>Milano</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hoelpi</publisher>
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Il Problema Dell&apos;Orientamento Nell&apos;Urbanistica Dell&apos;Antica Roma. Roma: Istituto di Studi Romani. Fig. 1. Rose Diagram of Pompeii urban network after QGIS Line Direction Histogram Plugin by</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vinaccia</surname></persName>
+		</author>
+		<editor>H. Tveite</editor>
+		<imprint>
+			<date type="published" when="1939">1939b. 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

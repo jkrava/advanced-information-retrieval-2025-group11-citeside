@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Skills of the Spartans: Exploring Leadership in 300</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Tara</forename><forename type="middle">D</forename><surname>Gray</surname></persName>
+							<email>tara.d.gray@att.net</email>
+							<affiliation key="aff0">
+								<orgName type="department">Associate Professor Educational Administration and Human Resource Development</orgName>
+								<orgName type="institution">Texas A&amp;M University</orgName>
+								<address>
+									<addrLine>551 Harrington Office Building College Station</addrLine>
+									<settlement>Texas</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Graduate</forename><surname>Student</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Associate Professor Educational Administration and Human Resource Development</orgName>
+								<orgName type="institution">Texas A&amp;M University</orgName>
+								<address>
+									<addrLine>551 Harrington Office Building College Station</addrLine>
+									<settlement>Texas</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jamie</forename><surname>Callahan</surname></persName>
+							<email>jcallahan@tamu.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">Associate Professor Educational Administration and Human Resource Development</orgName>
+								<orgName type="institution">Texas A&amp;M University</orgName>
+								<address>
+									<addrLine>551 Harrington Office Building College Station</addrLine>
+									<settlement>Texas</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Skills of the Spartans: Exploring Leadership in 300</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5D36113A434F7F162C6B92C017F7B38D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2025-12-07T15:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Skills Approach leadership development suggests individuals can develop the skills, abilities, and behaviors needed to lead. However, it can be difficult to understand and apply these theoretical concepts. Movies provide a storytelling platform enabling learners to link theory to practice. This article uses 300 to explore skills-based leadership theories. 300 ( <ref type="formula">2007</ref>) is an adaptation of Frank Miller's novel depicting the Battle of Thermopylae (400 B.C.) between Greece and Persia. The movie tells the story of how King Leonidas led 300 Spartan warriors in battle against King Xerxes' army in defense of Spartan land, values, and freedom. We provide background on <ref type="bibr" target="#b4">Katz's (1955)</ref> and Mumford, Zacaro, Harding, Jacobs, and Fleishman (2000) skills approaches. Then we describe how theoretical concepts associated with these approaches can be found in the movie. Finally, we provide suggestions for experiential learning activities which serve to help participants link and apply theory to practice.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Skills of the Spartans: Exploring Leadership in 300</head><p>Be an example to your men, in your duty and in private life. Never spare yourself, and let the troops see that you don't in your endurance of fatigue and privation. Always be tactful and well mannered and teach you subordinates to be the same. Avoid excessive sharpness or harshness of voice, which usually indicates the man who has shortcomings of his own to hide. <ref type="bibr">(Field Marshall Erwin Rommel)</ref> Duty, Honor, Country: Those three hallowed words reverently dictate what you ought to be, what you can be, what you will be. They are your rallying points: to build courage when courage seems to fail; to regain faith when there seems to be little cause for faith; to create hope when hope becomes forlorn. (General Douglas MacArthur) Rommel and MacArthur are acknowledged as two of the most revered military leaders of the 20 th century. Their words above highlight the importance of duty in being a successful leader. As understood in the military, duty constitutes what you must 'do' -the tasks you perform and the skill with which you perform those tasks <ref type="bibr">(American Heritage Dictionary, 1985)</ref>. The foundation of leadership in the military rests on one's skills and abilities <ref type="bibr" target="#b7">(McAleer, 2003)</ref>. Leadership is frequently studied through the lens of the military, perhaps because the stakes of military leadership are measured in terms of life and death. Thus, a movie about the heroic leadership of one of history's most epic military battles presents a fertile ground for exploring skills-based leadership theories.</p><p>Released in 2007, the movie 300 is an adaptation of Frank Miller's fictional graphic novel depicting the Battle of Thermopylae which took place in 400 B.C. between Greece and Persia. The movie tells a vivid and graphic story of how King Leonidas leads 300 Spartan warriors through battle against King Xerxes' Persian army in defense of Spartan land, values, and freedom. The movie begins as a narration describing these Spartan virtues and the development of a boy, Leonidas, through Agogi, a Spartan custom which develops young boys into warriors. 300 reveals the skills and attributes young Leonidas learns which allow him to become a future warrior and King of the Spartans.</p><p>At its core, 300, like many other forms of popular culture, is a story. Stories record important events, help people make sense of complex situations, impart cultural values and beliefs, and provide opportunities to link theory and practice <ref type="bibr" target="#b2">(Collison &amp; Mackenzie, 1999;</ref><ref type="bibr" target="#b0">Callahan, Whitener, &amp; Sandlin, 2007)</ref>.</p><p>We suggest, then, that the stories shared through movies can be effective tools for teaching theoretical concepts such as leadership. In this article, we look specifically at two theories of skills-based leadership - <ref type="bibr" target="#b4">Katz's (1955)</ref> Three Skills Approach and <ref type="bibr">Mumford, Zacaro, Harding, Jacobs, and Fleishman's (2000)</ref> Skills Model. Because skills concepts are important to leadership, we use the movie 300 as a platform for participants to identify, relate, and apply these leadership concepts. The article concludes with suggestions on how to facilitate experiential learning activities linking and applying scenes from the movie to concepts of skills-based leadership.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Skills Approach</head><p>The skills approach to leadership can be considered one of the leader-focused theories that attempt "to describe leadership through the characteristics and behaviors of the leaders themselves" <ref type="bibr">(Callahan et al., 2007, p. 148)</ref>. Identifying effective skills has long been an approach to understanding and improving leadership <ref type="bibr" target="#b5">(Lord &amp; Hall, 2005)</ref>. Unlike the trait approach which preceded skillsbased approaches to leadership, the skills approach suggests that leadership skills and abilities can be learned and developed over time. This makes skills-based approaches particularly relevant for leadership development training and education programs.</p><p>Leaders should be aware of and understand the structural models and foundational concepts of leadership skill development so that they develop effective leadership skills, abilities, and behaviors <ref type="bibr" target="#b8">(Mumford, Marks, Connelly, Zaccaro, &amp; Reiter-Palmon, 2000)</ref>. In a recent study of a leadership development program, <ref type="bibr" target="#b3">Gilpin-Jackson and Bushe (2006)</ref> found that participants were more likely to learn and develop new knowledge, skills, and behaviors if they were able to both observe others using the new knowledge and skills and practice applying the knowledge and skills themselves. This is particularly important for leadership educators whose very work involves developing those skills and abilities in others. The movie 300 can be used to help demonstrate and apply the concepts in the skills approach. For the sake of simplicity and clarity, we will focus specifically on the constructs of two wellknown models, <ref type="bibr">Katz's (1955) Three Skill Approach and</ref><ref type="bibr">Mumford et al.'s (2000)</ref> Skills Model, as vehicles for exploring leadership skills within the movie.</p><p>One of the earliest skills based approaches to leadership is Katz's Three Skills approach <ref type="bibr" target="#b10">(Northouse, 2007)</ref>. Katz suggested leadership effectiveness is based on technical, human, and conceptual skills. Specifically, technical skill refers to one's knowledge and proficiency in a specific area. Human skill refers to one's ability to work with people, especially an understanding of and adapting to differences as well as creating a trusting relationship. Conceptual skill refers to one's ability to understand and relate concepts and ideas to the big picture, goals, and vision.</p><p>Mumford and his colleagues suggested effective leadership is based on competencies (knowledge and skills), individual attributes (motivation, personality, and cognitive ability), and leadership outcomes (performance). Specifically, "knowledge is the accumulation of information and the mental structures used to organize that information" <ref type="bibr">(Northouse, 2007, p. 47)</ref>, and is the ability to develop mental structures to learn and organize information. Cognitive ability refers to one's intelligence, reasoning skills, and memory skills as well as knowledge acquired throughout life, which influences improved problem-solving and reasoning skills as a result of this acquired knowledge. Motivation refers to one's desire to lead, ability to influence, and commitment to the organization. The Skills Model further suggests that one's career experiences and environments (e.g., access to education, technology, etc.) influence one's development of competencies and individual attributes <ref type="bibr" target="#b10">(Northouse, 2007)</ref>. These two skills-based approaches to leadership continue to inform leadership theories and models. For that reason, <ref type="bibr" target="#b4">Katz's (1955)</ref> and <ref type="bibr">Mumford's et al. (2000)</ref> concepts are important seminal approaches to understand the broader spectrum of skills-based approaches to leadership. Although the labels may change slightly and the skills listings may be expanded somewhat, newer approaches to skillsbased leadership still hold vestiges of these early attempts to define leadership through the skills of an individual. For example, <ref type="bibr" target="#b13">Sternberg (2003)</ref> proposed a new skills-based approach that included a synthesis of wisdom, intelligence, and creativity. These are roughly equivalent to <ref type="bibr" target="#b4">Katz's (1955)</ref> human, technical, and conceptual skills. For another example, <ref type="bibr" target="#b5">Lord and Hall (2005)</ref> include skills that equate to the knowledge, skills, cognitive ability, and personality components of Mumford's et al. Three Skills Model, and they add an identity component that somewhat extends the individual attributes component of the Three Skills Model.</p><p>In the pages that follow, we first graphically depict the connections between these two seminal approaches to skills-based leadership. Then, we describe the movie and the basic links between skills-based leadership and the screenplay. A detailed table is provided to make these links accessible as teaching notes for educators. Finally, we provide a table of proposed activities to make using this film to teach skills-based leadership as convenient as possible for educators.</p><p>Table 1: Comparison of Katz's (1955) and Mumford et al.'s (2000) leadership effectiveness and development models Katz's (1955)Three Skills Approach Mumford et al.'s (2000) Skills Model Model Construct Developed Abilities Model Construct Developed Abilities Technical Building knowledge and proficiency in an area. Competencies Knowledge.</p><p>Mental structures to organize information and knowledge.</p><p>Skills.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Human</head><p>Working with people, especially:</p><p>Understanding differences.</p><p>Adapting to differences.</p><p>Creating a trusting relationship.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Individual Attributes</head><p>Motivation, including:</p><p>-Desire to lead.</p><p>-Ability to influence others. -Commitment to the organization, goal, vision, etc.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Personality</head><p>Cognitive Abilities, including -Intelligence.</p><p>-Reasoning Skills.</p><p>-Memory, which improves problem solving and reasoning skills.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conceptual</head><p>Understand concepts and ideas.</p><p>Relate concepts and ideas to the vision, goal, big picture.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Leadership Outcomes</head><p>Performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Influences on Development</head><p>Environment (e.g., access to education, technology, etc.).</p><p>Career experiences. <ref type="bibr" target="#b10">(Northouse, 2007)</ref> Applying the Skills Approach to 300 <ref type="bibr" target="#b1">Callahan and Rosser (2007)</ref> note that, "Using [movies] is not a substitute for good teaching, facilitating, or training; it is not sufficient to pop a videotape or DVD into the machine and then leave the room for a few hours to catch up on other work" (p. 272). Incorporating movies into leadership education requires much thought and preparation. The first important step is to identify key linkages between the movie and the desired learning outcomes, including capturing specific scenes that relate to specific theoretical concepts. This section provides an overview of key elements of the story of 300 and how they relate to the concepts found in skills-based leadership approaches.</p><p>The movie begins with the narrator describing Spartan values. As a boy, Leonidas spars with an adult man while the narrator explains, "By the time he could stand, he was baptized in the fire of combat. Taught never to retreat; never to surrender. Taught that death on the battle field in service to Sparta is the greatest glory he could achieve in his life" <ref type="bibr">(Snyder, D., Miler, F.,</ref> Flores, C. J, Tull, T., Fay, W., &amp; Waisbren, B. (Producer), &amp; Snyder, Z (Director), 2007, Scene 1). It is evident boys are taught values and skills to succeed as a Spartan warrior and leader on the battlefield at a young age. At the age of seven, boys leave home for Agog -a custom "manufactured by 300 years of Spartan warrior society to create the finest soldiers the world has ever known" (Snyder et al., 2007, Scene 1). 300 focuses on King Leonidas' development and demonstration of leadership skills.</p><p>When the boy Leonidas leaves home for Agogi, he is placed into violent, harsh, and wild scenarios, including situations in which he is forced to fight to defend himself, to avoid starvation, to survive, to "return to his people a Spartan, or not at all" <ref type="bibr">(Snyder et al., 2007, Scene 1)</ref>. Adopting this vision, young Leonidas successfully defends himself against a wolf which was larger than him. However, it is not the act itself; it is the manner in which it was done. The environment was less than favorable because he was by himself, at night, in extreme cold with little clothing, and only a spear for defense. He had the cognitive ability to devise a plan and, because of his training in Agogi, he developed the technical skills and knowledge (competencies) to execute the plan. Young Leonidas intentionally becomes extremely observant and aware as he analyzes his surroundings, the situation, and the wolf's behaviors. He uses this information to position himself to help ensure accurate execution. This is a demonstration of <ref type="bibr" target="#b4">Katz's (1955)</ref> technical and conceptual skills as Leonidas analyzes the situation, draws conclusions, and uses his knowledge and abilities to make decisions and act in order to accomplish his goal -survival. According to <ref type="bibr">Mumford et al.'s (2000)</ref> model, Leonidas demonstrates his competencies and individual attributes, specifically knowledge, mental structures, and cognitive abilities. And, as a result, as exclaimed by the narrator, his performance is "perfect" <ref type="bibr" target="#b12">(Snyder et al., 2007</ref>, Scene 1).</p><p>The story fast forwards to King Leonidas sparring with his son -teaching him, "A Spartan's true friend is the warrior next to him. So, give respect and honor to him; and, it will be returned to you" <ref type="bibr" target="#b12">(Snyder et al., 2007</ref>, Scene 2). This is a representation of human skills and individual attributes through influencing others as he not only expresses his values of respect, honor, friendship, and supporting those whom you care about, but he is passing on these values to his son. The lesson is interrupted by a Persian messenger requesting King Leonidas to submit Sparta to Xerxes' Persian Empire. Offended by the messenger's behavior, King Leonidas rejects the request by kicking the messenger and his entourage into a pit where they fall to their death. It is not the act itself; it is the manner in which it was done. Leonidas, now king, once again intentionally becomes extremely aware of his situation and analyzes it before executing his rejection of the Persian entourage. Similar to his encounter with the wolf, he demonstrates his conceptual skills as well as his competencies and individual attributes through knowledge and cognitive abilities. As king, and as a Spartan, he is defending Sparta's values, beliefs, freedom, and reputation. Submitting to Xerxes could mean losing these which is his motivation (individual attributes) to execute his rejection.</p><p>Knowing Xerxes would eventually advance toward and attempt to conquer Sparta, King Leonidas presents a war strategy to the Ephors, holy men. Already bribed by Xerxes, the Ephors reject King Leonidas' strategy and instruct him that Sparta should not go to war. Yet, King Leonidas ignores their instructions, gathers 300 of Sparta's best soldiers, and marches towards the "Hot Gates," a narrow strip of land between the coastal cliffs and mountains of Thermopylae to battle Xerxes' army.</p><p>Before the Spartan soldiers march from Sparta, Leonidas notices that his captain recruited his own son and says him, "You are a good friend, but a better captain, there is none" <ref type="bibr">(Snyder et al., 2007, Scene 7)</ref>. Not only an expression of Leonidas' value of friendship and respect (human skills); but, it is also a representation of how much the captain respects and honors Leonidas and his mission.</p><p>Along the way, the 300 meet a formation of Arcadians, fellow Greeks, offering to join forces with Sparta to battle Xerxes. The Arcadian leader is shocked at the small size of King Leonidas' army. Leonidas asks a few members of the Arcadian army their profession to which their replies indicate the army is comprised of men from skilled labor and craft related occupations. Leonidas submits the same question to the Spartan army to which they reply in unison a battle cry indicating they are soldiers by trade or profession. By making the point that the Spartan army has more soldiers than the Arcadians, he eases the Arcadians' concerns about Sparta's small numbers. In doing so, he successfully influences them to join forces with Sparta, which is a representation of human skills as well as individual attributes through his ability to recognize differences and influence others.</p><p>Leonidas also demonstrates respect to the Spartan soldiers for their skills, abilities, and value, or human skills.</p><p>These skills are further represented during his interaction with Ephialtes, a disfigured Spartan following the Spartan army to the Hot Gates. Ephialtes eagerly and passionately offers his services and demonstrates his abilities to help Leonidas' men fight against the Persian army. Leonidas listens and observes Ephialtes, noticing that he cannot lift and hold his shield above his shoulder. Leonidas recognizes and respects Ephialtes for the skills he has with his spear, but, as a leader, Leonidas has to acknowledge Ephialtes does not have the complete set of skills to be a soldier. Nor does Leonidas simply reject Ephialtes; he provides feedback in a supportive manner as well as suggests Ephialtes can add value in other areas such as clearing the battle field, which is a task that still supports the goal of the army.</p><p>Leonidas fights not only along side the Spartan soldiers, but on the front line; an indication of leading by example as well as his confidence in his abilities to fight and survive. During the first battle, Leonidas confidently charges and displays the technical skills and problem-solving abilities (knowledge and individual attributes) learned during Agogi as he strikes his opponents without hesitation and with excellent execution and precision.</p><p>After the second battle, Xerxes offers Leonidas wealth, power, and conditional control over Greece in exchange for his surrender and submission. Rejecting Xerxes' offer, Leonidas declares his loyalty to Sparta, their values, and his vision.</p><p>Even after narrowly missing decapitation in the second battle, Leonidas continues to lead the Spartans through what appears to be another four battles in defense of Spartan freedom, land, and honor with very little casualties.</p><p>After what appears to be the sixth battle, the Arcadian army leader informs Leonidas that Xerxes' army is approaching from the rear of the Hot Gates, declares the battle is over, and advises him to retreat, surrender, or die. To which Leonidas responds, "Spartans never retreat, Spartans never surrender" <ref type="bibr">(Snyder et al., 2007, Scene 24)</ref>. Despite the Arcadian leader declaring the Arcadian army is leaving, Leonidas calls the Spartans to re-engage and continue with the battle. This is a representation of Leonidas' individual attributes as he continues to support Sparta's mission, vision, and motivation.</p><p>Leonidas also recognizes at this point that the next battle against Xerxes' army may be the last. He instructs one of his soldiers, Dilios, to return to Sparta with his final orders to the Spartan council; "You are to live out my final orders to the council…tell them my story…tell of victory" <ref type="bibr">(Snyder et al., 2007, Scene 25)</ref>.</p><p>Xerxes again offers Leonidas wealth, power, and continued reign over Sparta in exchange for his surrender and submission. Leonidas kneels, lays down his shield, removes his helmet, appearing as if he is surrendering. Yet, once again, he intentionally becomes more aware of his environment in preparation for execution. He removed his obstructive helmet, laid down his heavy shield, dropped his spear, and knelt. This caused Xerxes' and his army to think Leonidas was surrendering; furthermore, as the narrator explains, Leonidas' actions allowed him to steady his balance and focus his strength and eye sight to throw his spear and lacerate Xerxes from a long distance. Yet, again, he demonstrates his technical and conceptual skills in addition to competencies and individual attributes as he uses his knowledge and cognitive abilities to assess the situation, draw conclusions, make decisions, and successfully execute.</p><p>However, in combination with his instructions to Dilios, it is this scene that culminates Leonidas' human, technical, and conceptual skills as well as competencies and individual attributes as a leader. Conceptually, he knew this would be his final battle against Persia. As a result, the purpose of the battle was to show everyone that Xerxes can bleed like, and is just like, any other man. By doing so, it will put Sparta closer to winning the war against a man who considers himself a god king, immortal, and invincible. Leonidas had the vision, motivation, and cognitive skills to devise a plan as well as the personality and relationships to influence his soldiers to go along with his plan. He performed well.</p><p>Even as he himself is dying, Leonidas continues to demonstrate his human skills through expressing his respect and honor to those he leads, those he cares about.</p><p>A Spartan soldier dying on the battle field reaches for Leonidas saying, "It is an honor to die at your side." Severely injured himself, King Leonidas responds, "It is an honor to have lived at yours." <ref type="bibr">(Snyder et al., 2007, Scene 28)</ref> While Leonidas did not lead the Spartan soldiers in defeating Xerxes, he did lead them to victory through many battles with a fraction of the men in the Persian army. The Persian's loss in the final battle later allowed Sparta to win the war against Xerxes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tools for the Educator</head><p>While the previous section provided the first step for using movies in leadership education (i.e., an overview of how theory linked to practice in the movie), this section provides the second step. Here we provide concrete examples leadership educators can use to incorporate this movie into a leadership development program.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Application</head><p>First, we suggest that educators introduce and present the leadership approaches, including main theories, concepts, and models prior to using 300 as an experiential learning activity. This helps ensure the participants have sufficient awareness and information to recognize and apply the constructs and developed abilities of <ref type="bibr" target="#b4">Katz's (1955)</ref> and <ref type="bibr">Mumford et al.'s (2000)</ref> skills models while viewing the film.</p><p>The movie 300 can be viewed in entirety or by specific scenes in which the facilitator stops the movie to discuss Skills Approach concepts apparent in the film such as those referenced in Table <ref type="table" target="#tab_3">2</ref>. Because scenes 5, 6, 22, and 23 have nudity and sexual content, some facilitators may want to avoid these scenes. Table <ref type="table" target="#tab_7">3</ref> references additional recommendations to guide participants in identifying the developed abilities demonstrated by Leonidas, relating them to <ref type="bibr" target="#b4">Katz's (1955)</ref> and <ref type="bibr">Mumford et al.'s (2000)</ref> models, as well as facilitate discussion and application between the Skills Approach and 300. The 300 encounter an Arcadian formation offering to join forces.</p><p>Demonstration of Leonidas: Ability to ease the Arcadians' concerns about Sparta's small number.</p><p>Respect to the Spartan soldiers for their skills, abilities, and value.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>13</head><p>Ephialtes offers his services and demonstrates his abilities to help fight the Persian army.</p><p>Demonstration of Leonidas' ability to: Listen, observe, and respect abilities and differences. Identify and assess others' skills and abilities and determine if and where they best fit.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="14">-15</head><p>Sparta's first battles against Xerxes' armies.</p><p>Demonstration of Leonidas:</p><p>Leading by example Confidence in his abilities to fight and survive as well as his problem solving skills as he strikes without hesitation and with excellent execution and precision.</p><p>(Table <ref type="table" target="#tab_3">2</ref>. continued) (Table <ref type="table" target="#tab_3">2</ref>. continued)</p><p>Table 3: Suggested activities to help participants link 300 to the Skills Approach Activity Objective Materials Instructions 300 Handout Guides participants in identifying the concepts of the Skills Approach to Leadership, specifically constructs and developed abilities in Katz's (1955) and Mumford et al.'s (2000) models.</p><p>Sufficient copies of the 300 handout (see Figure <ref type="figure">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pens</head><p>Instruct participants to read the handout (see Figure . 1).</p><p>Ask them to write notes under each section as they identify scenes in the movie which match.</p><p>Watch 300 Allows participants to relate concepts of the Skills Approach to Leadership. 300 DVD DVD player and television or overhead projection system 300 Handout Play or instruct participants to watch the 300 movie in entirety or by specific scenes. Due to nudity and sexual content, facilitators may want to omit scenes 5, 6, 22, and 23. Small Group Discussion Allows participants to: Reflect upon and discuss their understanding of the Skills Approach to Leadership concepts, specifically constructs and developed abilities in Katz's (1955) and Mumford et al.'s (2000) models. Increase awareness of connections they may not be making between Skills Approach concepts and application. Develop a greater understanding of the Skills Approach to Leadership through perspectives of others in the small group. 300 Handout Flipchart and markers Organize participants into groups of 3-5 participants. Ask the participants to discuss: Findings identified on the 300 handout, including the model, construct, and developed ability as well as scene in which it was identified. Any shared or different findings and any agreements or disagreements. Instruct the participants to write on a flipchart the model, construct, and developed ability as well as scene in which it was identified. Mark those which were shared or different findings as well as any disagreements. Walk around to observe discussions in each small group, facilitating discussion of ideas, agreements, and disagreements as needed. (Table 3. continued) Assist the participants as needed.</p><p>Review the answers with the participants, corrected and moving cards/leaflets as needed.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2 (</head><label>2</label><figDesc>continued)</figDesc><table><row><cell>Katz's (1955) Three</cell><cell>Mumford et al.'s</cell><cell></cell><cell>Relating to 300</cell></row><row><cell>Skills Approach</cell><cell>(2000) Skills Model</cell><cell></cell><cell>Scenes</cell></row><row><cell>Model Construct • Developed Abilities</cell><cell>Model Construct • Developed Abilities</cell><cell>Scene (s)</cell><cell>Description</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2 (</head><label>2</label><figDesc>continued)</figDesc><table><row><cell>Katz's (1955) Three</cell><cell>Mumford et al.'s</cell><cell></cell><cell>Relating to 300</cell></row><row><cell>Skills Approach</cell><cell>(2000) Skills Model</cell><cell></cell><cell>Scenes</cell></row><row><cell>Model Construct • Developed Abilities</cell><cell>Model Construct • Developed Abilities</cell><cell>Scene (s)</cell><cell>Description</cell></row><row><cell></cell><cell>Individual Attributes</cell><cell></cell><cell>Xerxes makes a second proposition to</cell></row><row><cell></cell><cell>• Motivation,</cell><cell></cell><cell>Leonidas in exchange for his</cell></row><row><cell></cell><cell>including:</cell><cell></cell><cell>submission.</cell></row><row><cell></cell><cell>• Desire to lead • Ability to</cell><cell>17</cell><cell>Demonstration of Leonidas' dedication to Sparta, their values, and his army, and his vision.</cell></row><row><cell></cell><cell>influence</cell><cell></cell><cell></cell></row><row><cell></cell><cell>others</cell><cell></cell><cell>Dilios prevents Leonidas from being</cell></row><row><cell>Human • Working with people; • Understanding</cell><cell>• Commitmen t to the organization , goal, vision, etc.</cell><cell>19</cell><cell>decapitated. Demonstration of how those Leonidas leads are willing to protect him. Leonidas instructs Dilios to return to Sparta with his final orders.</cell></row><row><cell>differences • Adapting to</cell><cell>• Personality</cell><cell></cell><cell>Demonstration of Leonidas': Cognitive and reasoning skills as</cell></row><row><cell>differences • Creating a trusting relationship</cell><cell>• Cognitive Abilities, including • Intelligence • Reasoning skills • Memory,</cell><cell>25</cell><cell>he foresees the Spartan army losing a battle soon. Ability to assess a situation and strategize a contingency plan to help protect his vision and Spartan values; a plan which led to Sparta winning the war.</cell></row><row><cell></cell><cell>which improves problem solving and reasoning skills</cell><cell>28</cell><cell>A dying soldier and severally injured Leonidas express honor to each other. Demonstration of Leonidas' respect and honor for those he leads and cares about.</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 3 .</head><label>3</label><figDesc>(continued)    </figDesc><table><row><cell>Activity</cell><cell>Objective</cell><cell>Materials</cell><cell></cell><cell>Instructions</cell></row><row><cell></cell><cell>Allows participants to:</cell><cell></cell><cell cols="2">Ask a representative</cell></row><row><cell></cell><cell>Increase awareness of</cell><cell></cell><cell cols="2">from each small group</cell></row><row><cell></cell><cell>connections they may</cell><cell></cell><cell cols="2">to debrief their flipchart</cell></row><row><cell></cell><cell>not be making</cell><cell></cell><cell cols="2">and share highlights of</cell></row><row><cell>Large Group Discussion</cell><cell>between Skills Approach concepts and application. Develop a greater</cell><cell>300 Handout Whiteboard and dry erase markers or</cell><cell cols="2">their discussions, including the scene, model, construct, developed ability, as</cell></row><row><cell></cell><cell>understanding of the</cell><cell>flipchart and markers.</cell><cell cols="2">well as marked</cell></row><row><cell></cell><cell>Skills Approach to</cell><cell></cell><cell cols="2">similarities, differences,</cell></row><row><cell></cell><cell>Leadership through</cell><cell></cell><cell cols="2">and any disagreements.</cell></row><row><cell></cell><cell>perspectives of others</cell><cell></cell><cell cols="2">Facilitate discussion as</cell></row><row><cell></cell><cell>in the larger group.</cell><cell></cell><cell cols="2">needed.</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Shuffle the</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">cards/leaflets.</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">Randomly distribute to</cell></row><row><cell></cell><cell></cell><cell></cell><cell cols="2">participants.</cell></row><row><cell></cell><cell></cell><cell>Two (2) prepared flipcharts each titled, "Katz's (1955) Three Skill Approach" and "Mumford et al.'s (2000) Skills Model"</cell><cell cols="2">Inform the participants that each of them have either a scene description from the movie 300 and/or a developed ability.</cell></row><row><cell></cell><cell></cell><cell>and containing</cell><cell cols="2">Inform the participants</cell></row><row><cell>Scene to Construct Matching</cell><cell>Allows participants to further connect and/or confirm connections between concepts and application.</cell><cell>subheadings for the respective model constructs. Prepared cards or leaflets of some of the scene descriptions and developed abilities referenced in Table 2 (e.g., handwritten on note cards ore prepared in PowerPoint, cut out,</cell><cell>to:</cell><cell>Locate those who have a match to their card/leaflet. Tape the match(es) on the respective model flipchart under the construct to which the developed ability belongs.</cell></row><row><cell></cell><cell></cell><cell>and laminated).</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Downloaded from http://www.emerald.com/jole/article-pdf/7/2/79/10065029/v7_i2_ab6.pdf by guest on 06 December 2025</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Demonstration of Leonidas' learned skills, abilities, and behaviors, especially his ability to become highly aware of and assess a situation before executing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>2</head><p>King Leonidas teaching his son fighting skills and behaviors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">-3</head><p>A Persian messenger presents Leonidas with a proposition to submit to Xerxes.</p><p>Demonstration of Leonidas' ability to assess a situation before executing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>13</head><p>Ephialtes offers his services and demonstrates his abilities to help fight the Persian army.</p><p>Demonstration of Leonidas' ability to identify and assess others' skills and abilities and determine if they match those needed for success.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="14">-15</head><p>Sparta's first battles against Xerxes' armies.</p><p>Demonstration of Leonidas' confidence as well as technical and problem solving skills as he strikes without hesitation and with excellent execution and precision.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="18">-21</head><p>Even after Leonidas narrowly misses decapitation, he continues to lead the Spartans through another four battles with very little casualties compared to the Persian army.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="27">-28</head><p>Xerxes makes a third proposition to Leonidas in exchange for his submission.</p><p>Demonstration of Leonidas' ability to become extremely aware of and assess his situation in preparation for execution.</p><p>(Table <ref type="table">2</ref>. continued) </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">-3</head><p>A Persian messenger presents Leonidas with a proposition to submit to Xerxes.</p><p>Demonstration of Leonidas' ability to become extremely aware of and assess a situation in preparation for execution.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">and 7</head><p>Recognizing Xerxes would eventually advance toward Sparta, Leonidas presents a war strategy to the Ephors.</p><p>Despite the Ephors demanding Sparta should not go to war, Leonidas continues with his plan.</p><p>Demonstration of Leonidas' Ability to assess a situation and strategize a plan of action before executing. Dedication to protecting Spartan values.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="14">-15</head><p>Sparta's first battles against Xerxes' armies.</p><p>Demonstration of Leonidas' confidence as well as technical and problem solving skills as he strikes without hesitation and with excellent execution and precision.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="18">-21</head><p>Even after Leonidas nearly misses decapitation, he continues to lead the Spartans through another four battles with very little casualties compared to the Persian army. Demonstrates Leonidas' strong performance.</p><p>(Table <ref type="table">2</ref>. continued)  </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The art of creating leaders: Popular culture artifacts as pathways for development</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Callahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Whitener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sandlin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Developing Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="146" to="165" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Pop goes the program: Using popular culture artifacts to educate leaders</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Callahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Rosser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Developing Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="269" to="287" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The power of story in organizations</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Collison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mackenzie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Workplace Learning</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="38" to="40" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Leadership development training transfer: A case study of post-training determinants</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gilpin-Jackson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Bushe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Management Development</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="980" to="1004" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Skills of an effective administrator</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Harvard Business Review</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="42" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Identity, deep structure and the development of leadership skill</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Lord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Leadership Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="591" to="615" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Farewell speech to the United States Military Academy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Macarthur</surname></persName>
+		</author>
+		<ptr target="http://inspirationalspeakers.wordpress.com/2007/09/20/general-douglas-macarthur-thayer-award-acceptance-address/" />
+		<imprint>
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Leaders in transition: Advice from Colin Powell and other strategic thinkers</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mcaleer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Military Psychology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="309" to="322" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Development of leadership skills: Experience and timing</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mumford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Connelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Zaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reiter-Palmon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leadership Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="114" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Leadership skills for a changing world: Solving complex social problems</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Mumford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Zaccaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Jacobs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Fleishman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Leadership Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="35" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Leadership: Theory and practice</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Northouse</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Sage</publisher>
+			<pubPlace>Thousand Oaks, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Rommel</surname></persName>
+		</author>
+		<ptr target="http://www.military-quotes.com/erwin-rommel.htm" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Miler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Flores</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tull</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Fay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">(</forename><surname>Waisbren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">)</forename><surname>Producer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Snyder</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Warner Brothers Pictures</publisher>
+			<biblScope unit="page">300</biblScope>
+			<pubPlace>United States</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Motion picture</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">WICS: A model of leadership in organizations</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Sternberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Academy of Management Learning and Education</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="386" to="401" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
