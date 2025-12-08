@@ -44,7 +44,7 @@ referencing occurs?”
 
 ## Visual Depiction
 
-![HerBERT Architecture](HerBERT.png)
+![HerBERT Architecture](/Ressources/HerBERT.png)
 
 
 *Figure 1: Test and Application Flow*
