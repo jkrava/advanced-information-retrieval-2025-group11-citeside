@@ -4,15 +4,20 @@ import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from typing import List, Optional
+from collections import deque
 
 
 class ReferenceTreeBuilder:
     def __init__(self):
         self._tree = nx.DiGraph()
+        self._crawl_root = None
+        self._crawl_depth = None
+        self._reverse_depth = None
 
 ### GETTERS / SETTERS ###
-
     def addNode(self, node_id: str):
+        if (self._tree.has_node(str)):
+            self.warning(f"Adding node {node_id} not possible as it already exists")
         self._tree.add_node(node_id)
 
     def getEdges(self) -> List[tuple]:
@@ -30,7 +35,7 @@ class ReferenceTreeBuilder:
             self.warning(f"Adding edge from {edge[0]} to {edge[1]} not possible. {edge[0]} is not a node.")
         elif (not self._tree.has_node(edge[1])):
             self.warning(f"Adding edge from {edge[0]} to {edge[1]} not possible. {edge[1]} is not a node.")
-        elif self.checkIfCercular(edge[0], edge[1]):
+        elif self.checkIfCircular(edge[0], edge[1]):
             self.warning(f"Adding edge from {edge[0]} to {edge[1]} would create a cycle. Edge not added.")
         elif (len(edge) == 3 and
             isinstance(edge[0], str) and
@@ -72,9 +77,28 @@ class ReferenceTreeBuilder:
         def bg_block(r: int, g: int, b: int):
             return f"\x1b[48;2;{r};{g};{b}m  {reset}"
 
-        print("Nodes:")
+        print("\nLegend (color = depth):")
+        samples = [(-1.0, " (blue) reverse crawl depth"), (0.0, " (white) root"), (1.0, " (red) crawl depth")]
+        legend_parts = []
+        for val, label in samples:
+            r, g, b = self.rgbForCrawl(1, val)
+            block = bg_block(r, g, b)
+            legend_parts.append(f"{block} {label}")
+        print("  " + "   ".join(legend_parts))
+
+        print("\nNodes:")
         for n, data in self._tree.nodes(data=True):
-            print(f"  {n}: {data}")
+            if (self._crawl_root != None):
+                depth = data.get("depth")
+                r, g, b = 0, 0, 0
+                if depth < 0:
+                    r, g, b = self.rgbForCrawl(self._reverse_depth, depth)
+                else:
+                    r, g, b = self.rgbForCrawl(self._crawl_depth, depth)
+                color = fg_escape(r, g, b)
+                print(f"  {n}: depth={color}{depth}{reset}")
+            else:
+                print(f"  {n}: {data}")
 
         print("\nLegend (color = weight):")
         samples = [(-1.0, " -1 (blue) undefined"), (0.0, " 0 (green) non critical"), (1.0, " 1 (red) critical")]
@@ -88,13 +112,9 @@ class ReferenceTreeBuilder:
         print("\nEdges:")
         for u, v, data in self._tree.edges(data=True):
             weight = data.get("weight", -1)
-            try:
-                weight_f = float(weight)
-            except Exception:
-                weight_f = -1.0
-            r, g, b = self.rgbForWeight(weight_f)
+            r, g, b = self.rgbForWeight(weight)
             color = fg_escape(r, g, b)
-            print(f"  {u} -> {v}  weight={color}{weight_f:.3f}{reset}")
+            print(f"  {u} -> {v}  weight={color}{weight:.3f}{reset}")
 
     def plotTree(
             self,
@@ -105,14 +125,32 @@ class ReferenceTreeBuilder:
         pos = nx.circular_layout(self._tree, scale=2.0)
         #TODO: add more layout options if needed in the future
 
-        nx.draw_networkx_nodes(self._tree, pos, node_size=node_size, node_color="#88ccee")
+        if (self._crawl_root != None):
+            #"fdp"/"neato"/"sfdp"(faster version) seems to be the best, but "circo", "twopi", "dot" in this order should also be testet!
+            pos = nx.nx_pydot.graphviz_layout(self._tree, prog="neato", root=self._crawl_root)
+            nodelist = []
+            node_colors = []
+            for node, data in self._tree.nodes(data=True):
+                depth = data.get("depth", None)
+                if depth == None:
+                    raise ValueError("Depth could not be None for crawled Trees.")
+                if (depth < 0 and self._reverse_depth == None):
+                    continue
+                nodelist.append(node)
+                rgb = self.rgbForCrawl(self._crawl_depth, depth)
+                if (depth < 0 and self._reverse_depth != None):
+                    rgb = self.rgbForCrawl(self._reverse_depth, depth)
+                node_colors.append(self.rgbNorm(rgb))
+            nx.draw_networkx_nodes(self._tree, pos, node_size=node_size, node_color=node_colors, nodelist=nodelist)
+        else:
+            nx.draw_networkx_nodes(self._tree, pos, node_size=node_size, node_color="#88ccee")
         nx.draw_networkx_labels(self._tree, pos, font_size=9)
 
         edge_colors = []
         edge_widths = []
         for u, v, data in self._tree.edges(data=True):
             w = data.get("weight", -1.0)
-            edge_colors.append(self.rgbForWeightNorm(w))
+            edge_colors.append(self.rgbNorm(self.rgbForWeight(w)))
             try:
                 width = 1.0 + abs(float(w)) * 3.0
             except Exception:
@@ -140,7 +178,7 @@ class ReferenceTreeBuilder:
         cb.set_ticklabels(["0 (green) non critical", "0.5", "1 (red) critical"])
         cb.set_label("weight")
 
-        blue_color = self.rgbForWeightNorm(-1.0)
+        blue_color = self.rgbNorm(self.rgbForWeight(-1.0))
         blue_patch = mpl.patches.Patch(color=blue_color, label="-1 (blue) undefined")
         ax = plt.gca()
         ax.legend(handles=[blue_patch], loc="upper left", frameon=False, fontsize=9)
@@ -152,19 +190,16 @@ class ReferenceTreeBuilder:
         #TODO: implement a print method for the crawlTree
         pass
 
-    def plotCrawl(self, start_node: str, max_depth: int, filename: Optional[str] = None):
-        #TODO: implement a plot method for the crawlTree
-        pass
-
 ### IO ###
 
     def build(self):
+        meta = {"crawl_root": self._crawl_root, "crawl_depth": self._crawl_depth, "reverse_depth": self._reverse_depth}
         nodes = {n: dict(d) for n, d in self._tree.nodes(data=True)}
         edges = [
             {"source": u, "target": v, "attrs": dict(data)}
             for u, v, data in self._tree.edges(data=True)
         ]
-        return {"nodes": nodes, "edges": edges}
+        return {"meta": meta, "nodes": nodes, "edges": edges}
 
     def store(self, path: str):
         with open(path, "w", encoding="utf-8") as f:
@@ -174,20 +209,78 @@ class ReferenceTreeBuilder:
     def load(cls, path: str):
         with open(path, "r", encoding="utf-8") as f:
             data = json.load(f)
+        meta = data.get("meta", {})
         nodes_h = data.get("nodes").keys()
         nodes = [str(n) for n in nodes_h]
         edges_h = data.get("edges", [])
         edges = [(str(e["source"]), str(e["target"]), float(e["attrs"].get("weight", -1.0))) for e in edges_h]
         gb = cls()
         gb.create(nodes, edges)
+        gb._crawl_root = meta.get("crawl_root")
+        gb._crawl_depth = meta.get("crawl_depth")
+        gb._reverse_depth = meta.get("reverse_depth")
+        if (gb._crawl_root != None):
+            depths = {meta.get("crawl_root"): 0}
+            for node, attr in data.get('nodes', {}).items():
+                depths[node] = attr["depth"]
+            nx.set_node_attributes(gb._tree, depths, name="depth")
         return gb
 
 ### HELPERS ###
-    def crawlTree(self, start_node: str, max_depth: int):
-        #TODO: implement a tree crawl method which returns a build which can be stored and loaded
-        pass
+    def buildCrawlTree(self, start_node: str, max_depth: int, reverse_depth: Optional[int] = None):
+        if start_node not in self._tree:
+            raise ValueError(f"Start node {start_node} does not exist in the graph.")
 
-    def checkIfCercular(self, source_id: str, target_id: str):
+        visited = {start_node}
+        q = deque([start_node])
+        d = deque([0])
+        edges = []
+        depths = {start_node: 0}
+
+        while q:
+            node = q.popleft()
+            depth = d.popleft()
+            if depth >= max_depth:
+                continue
+            for nbr in self._tree.successors(node):
+                weight = self._tree[node][nbr].get("weight", -1.0)
+                edges.append((str(node), str(nbr), weight))
+                if nbr not in visited:
+                    visited.add(nbr)
+                    depths[nbr] = depth + 1
+                    q.append(nbr)
+                    d.append(depth + 1)
+
+        q = deque([start_node])
+        d = deque([0])
+        if (reverse_depth != None):
+            reverse_depth = -abs(reverse_depth)
+
+        while q and reverse_depth != None:
+            node = q.popleft()
+            depth = d.popleft()
+            if depth <= reverse_depth:
+                continue
+            for nbr in self._tree.predecessors(node):
+                weight = self._tree[nbr][node].get("weight", -1.0)
+                edges.append((str(nbr), str(node), weight))
+                if nbr not in visited:
+                    visited.add(nbr)
+                    depths[nbr] = depth - 1
+                    q.append(nbr)
+                    d.append(depth - 1)
+
+        tree = self.__class__()
+        tree.create(visited, edges)
+
+        tree._crawl_root = start_node
+        tree._crawl_depth = max_depth
+        tree._reverse_depth = reverse_depth
+
+        nx.set_node_attributes(tree._tree, depths, name="depth")
+        return tree
+
+    def checkIfCircular(self, source_id: str, target_id: str):
         if source_id == target_id or nx.has_path(self._tree, target_id, source_id):
             return True
         return False
@@ -198,33 +291,44 @@ class ReferenceTreeBuilder:
         prefix = "WARNING! "
         print(f"{yellow}{prefix}{msg}{reset}")
 
+    def interp(self, a: int, b: int, t: float) -> int:
+        #this interpolates the gradient from one color to another
+        return int(round(a + (b - a) * t))
+
+    def rgbForCrawl(self, depth: int, w: int):
+        w_h = float(w)/ float(abs(depth))
+        # -1 -> blue (0,0,255)
+        #  0 -> white (255,255,255)
+        #  1 -> red (255,0,0)
+        if w_h <= 0:
+            t = (w_h + 1.0) / 1.0  # 0-1
+            r = self.interp(0, 255, t)
+            g = self.interp(0, 255, t)
+            b = self.interp(255, 255, t)
+        else:
+            t = w_h / 1.0  # 0-1
+            r = self.interp(255, 255, t)
+            g = self.interp(255, 0, t)
+            b = self.interp(255, 0, t)
+        return r, g, b
+
     def rgbForWeight(self, w: float):
-
-        def interp(a: int, b: int, t: float) -> int:
-            return int(round(a + (b - a) * t))
-
-        try:
-            w = float(w)
-        except Exception:
-            w = -1.0
         w = max(-1.0, min(1.0, w))
         # -1 -> blue (0,0,255)
         #  0 -> green (0,255,0)
         #  1 -> red (255,0,0)
         if w <= 0:
-            # interpolate blue -> green for w in [-1,0]
             t = (w + 1.0) / 1.0  # 0-1
-            r = interp(0, 0, t)
-            g = interp(0, 255, t)
-            b = interp(255, 0, t)
+            r = self.interp(0, 0, t)
+            g = self.interp(0, 255, t)
+            b = self.interp(255, 0, t)
         else:
-            # interpolate green -> red for w in (0,1]
             t = w / 1.0  # 0-1
-            r = interp(0, 255, t)
-            g = interp(255, 0, t)
-            b = interp(0, 0, t)
+            r = self.interp(0, 255, t)
+            g = self.interp(255, 0, t)
+            b = self.interp(0, 0, t)
         return r, g, b
 
-    def rgbForWeightNorm(self, w: float):
-        r, g, b = self.rgbForWeight(w)
+    def rgbNorm(self, rgb):
+        r, g, b = rgb
         return (r / 255.0, g / 255.0, b / 255.0)

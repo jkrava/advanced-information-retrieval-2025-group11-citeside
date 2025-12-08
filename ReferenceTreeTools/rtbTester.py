@@ -8,6 +8,13 @@ EDGE_FREQUENCY = 1/4
 UNKNOWN_WEIGHT_FREQUENCY = 9/10
 RARENESS_EXP = 7
 
+CRAWL_NUMBER_NODES = 20
+CRAWL_CONECTION = 3
+CRAWL_DEPTH = 4
+REVERSE_DEPTH = 2
+CRAWL_ROOT = "5"
+
+
 
 def run():
     rtb = ReferenceTreeBuilder()
@@ -31,6 +38,30 @@ def run():
     print(f"Stored to {out_path}")
 
     gb_loaded = rtb.load(out_path)
+    gb_loaded.printTree()
+    gb_loaded.plotTree()
+
+    rtb_crawl = ReferenceTreeBuilder()
+    for i in range (CRAWL_NUMBER_NODES):
+        rtb_crawl.addNode(str(i))
+    for i in range(CRAWL_NUMBER_NODES):
+        for j in range(i + 1, i + 1 + CRAWL_CONECTION):
+            rtb_crawl.addEdge(str(i), str(j))
+    for edge in rtb_crawl.getEdges():
+        if random.random() < UNKNOWN_WEIGHT_FREQUENCY:
+            rtb_crawl.changeWeightOfEdge(edge[0], edge[1], random.random() ** RARENESS_EXP)
+
+    crawled = rtb_crawl.buildCrawlTree(CRAWL_ROOT, CRAWL_DEPTH, REVERSE_DEPTH)
+    crawled.printTree()
+    crawled.plotTree()
+
+    out_dir = os.path.join(os.path.dirname(__file__), "output")
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, "rtb_test.json")
+    crawled.store(out_path)
+    print(f"Stored to {out_path}")
+
+    gb_loaded = crawled.load(out_path)
     gb_loaded.printTree()
     gb_loaded.plotTree()
     return gb_loaded
