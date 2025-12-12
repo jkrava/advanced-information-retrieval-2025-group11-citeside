@@ -13,4 +13,7 @@ ipynb_checkpoints/
 
 *.zip
 *.gz
+*.parquet
 
+LoadedPapers/
+s2orc/

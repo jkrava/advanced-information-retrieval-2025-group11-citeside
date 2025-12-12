@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "2020.emnlp-demos.6": {},
+    "N19-1423": {},
+    "2022.semeval-1.79": {},
+    "D19-5024": {},
+    "W19-5034": {},
+    "2021.semeval-1.149": {},
+    "2020.acl-main.740": {},
+    "S17-2001": {},
+    "D17-1317": {}
+  },
+  "edges": [
+    {
+      "source": "N19-1423",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.semeval-1.79",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.semeval-1.79",
+      "target": "2021.semeval-1.149",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.semeval-1.79",
+      "target": "2020.acl-main.740",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.semeval-1.149",
+      "target": "D19-5024",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.semeval-1.149",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.semeval-1.149",
+      "target": "D17-1317",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.semeval-1.149",
+      "target": "2020.emnlp-demos.6",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.740",
+      "target": "W19-5034",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}

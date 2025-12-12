@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "D17-1239": {},
+    "2021.mrl-1.1": {},
+    "2021.repl4nlp-1.13": {},
+    "2020.emnlp-main.697": {},
+    "P18-1031": {},
+    "2020.emnlp-main.272": {}
+  },
+  "edges": [
+    {
+      "source": "2021.mrl-1.1",
+      "target": "2020.emnlp-main.697",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.mrl-1.1",
+      "target": "P18-1031",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.mrl-1.1",
+      "target": "2021.repl4nlp-1.13",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.mrl-1.1",
+      "target": "2020.emnlp-main.272",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.697",
+      "target": "D17-1239",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}
