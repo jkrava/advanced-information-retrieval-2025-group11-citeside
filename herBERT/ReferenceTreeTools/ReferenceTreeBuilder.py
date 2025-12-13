@@ -66,6 +66,9 @@ class ReferenceTreeBuilder:
         for edge in edges:
             self.addEdgeTuple(edge)
 
+    def getLeafs(self):
+        return [n for n, deg in self._tree.in_degree if deg == 0]
+
 ### VISUALIZATION ###
 
     def printTree(self):
