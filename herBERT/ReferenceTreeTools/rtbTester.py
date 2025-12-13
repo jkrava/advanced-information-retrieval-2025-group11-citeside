@@ -5,12 +5,12 @@ from herBERT.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
 
 NUMBER_NODES = 20
 EDGE_FREQUENCY = 1/4
-UNKNOWN_WEIGHT_FREQUENCY = 9/10
+UNKNOWN_WEIGHT_FREQUENCY = 10/10
 RARENESS_EXP = 7
 
 CRAWL_NUMBER_NODES = 20
 CRAWL_CONECTION = 3
-CRAWL_DEPTH = 4
+CRAWL_DEPTH = 5
 REVERSE_DEPTH = 2
 CRAWL_ROOT = "5"
 
@@ -28,7 +28,6 @@ def run():
         if random.random() < UNKNOWN_WEIGHT_FREQUENCY:
             rtb.changeWeightOfEdge(edge[0], edge[1], random.random() ** RARENESS_EXP)
 
-    rtb.runUsageValidationOnUndefined()
     built = rtb.build()
 
     # Persist and reload
@@ -39,8 +38,11 @@ def run():
     print(f"Stored to {out_path}")
 
     gb_loaded = rtb.load(out_path)
-    gb_loaded.printTree()
-    gb_loaded.plotTree()
+    #gb_loaded.printTree()
+    #gb_loaded.plotTree()
+
+
+
 
     rtb_crawl = ReferenceTreeBuilder()
     for i in range (CRAWL_NUMBER_NODES):
@@ -53,6 +55,12 @@ def run():
             rtb_crawl.changeWeightOfEdge(edge[0], edge[1], random.random() ** RARENESS_EXP)
 
     crawled = rtb_crawl.buildCrawlTree(CRAWL_ROOT, CRAWL_DEPTH, REVERSE_DEPTH)
+    crawled.printTree()
+    crawled.plotTree()
+
+    crawled.buildCombCritIndex()
+    crawled.printTree()
+    crawled.plotTree()
 
     out_dir = os.path.join(os.path.dirname(__file__), "output")
     os.makedirs(out_dir, exist_ok=True)
