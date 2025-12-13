@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "D18-1102": {},
+    "2021.tacl-1.5": {},
+    "P19-1627": {}
+  },
+  "edges": [
+    {
+      "source": "2021.tacl-1.5",
+      "target": "D18-1102",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.tacl-1.5",
+      "target": "P19-1627",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}

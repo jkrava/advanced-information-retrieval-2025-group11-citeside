@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "S16-1081": {},
+    "2020.emnlp-main.733": {},
+    "S17-2001": {},
+    "2022.naacl-main.311": {}
+  },
+  "edges": [
+    {
+      "source": "2022.naacl-main.311",
+      "target": "S16-1081",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.311",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.311",
+      "target": "2020.emnlp-main.733",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}

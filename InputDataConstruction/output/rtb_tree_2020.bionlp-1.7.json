@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "S18-1111": {},
+    "2020.bionlp-1.7": {}
+  },
+  "edges": [
+    {
+      "source": "2020.bionlp-1.7",
+      "target": "S18-1111",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}

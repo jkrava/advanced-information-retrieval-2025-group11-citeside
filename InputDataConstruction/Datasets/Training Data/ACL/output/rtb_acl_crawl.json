@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "crawl_root": "D19-1552",
+    "crawl_depth": 3,
+    "reverse_depth": -2
+  },
+  "nodes": {
+    "D19-1552": {
+      "depth": 0
+    },
+    "P17-1067": {
+      "depth": 1
+    }
+  },
+  "edges": [
+    {
+      "source": "D19-1552",
+      "target": "P17-1067",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}
