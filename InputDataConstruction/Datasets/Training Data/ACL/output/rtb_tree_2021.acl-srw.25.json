@@ -1,0 +1,487 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "D15-1084": {},
+    "P16-1085": {},
+    "N19-1128": {},
+    "P17-1080": {},
+    "N16-1026": {},
+    "P15-1173": {},
+    "D14-1110": {},
+    "D16-1174": {},
+    "D17-1041": {},
+    "2021.acl-srw.25": {},
+    "N16-1024": {},
+    "P14-1074": {},
+    "W19-5930": {},
+    "W18-5423": {},
+    "P19-1568": {},
+    "P17-1024": {},
+    "P16-1100": {},
+    "N18-1029": {},
+    "D18-1151": {},
+    "N15-1035": {},
+    "S17-2001": {},
+    "W16-2524": {},
+    "D19-1005": {},
+    "K17-1003": {},
+    "N19-1423": {},
+    "D17-1120": {},
+    "D19-1355": {},
+    "N19-1188": {},
+    "K16-1006": {},
+    "N15-1177": {},
+    "D14-1162": {},
+    "N19-1419": {},
+    "P19-1618": {},
+    "2020.acl-main.423": {},
+    "2020.emnlp-main.683": {},
+    "P16-1144": {},
+    "N18-1202": {},
+    "D17-1070": {},
+    "P19-1569": {},
+    "S15-2049": {},
+    "W18-5446": {},
+    "S15-1007": {}
+  },
+  "edges": [
+    {
+      "source": "P17-1080",
+      "target": "P16-1100",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "W19-5930",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "2020.emnlp-main.683",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "W16-2524",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "N19-1188",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "N18-1029",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "P19-1568",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "2020.acl-main.423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "P19-1569",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "D18-1151",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "S15-2049",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "D17-1041",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "D17-1120",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "P19-1618",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "W18-5423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-srw.25",
+      "target": "P14-1074",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "D17-1070",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "D15-1084",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "P16-1085",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "S15-1007",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "K16-1006",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "S15-2049",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "N18-1202",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "D16-1174",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "D17-1120",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1568",
+      "target": "N15-1035",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "D18-1151",
+      "target": "N16-1024",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "D18-1151",
+      "target": "K17-1003",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "D18-1151",
+      "target": "N16-1026",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "D18-1151",
+      "target": "P16-1144",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "D18-1151",
+      "target": "P17-1024",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N19-1423",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N19-1419",
+      "target": "P17-1080",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "D14-1110",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "N19-1419",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "P16-1085",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "P19-1569",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "S15-2049",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "N18-1202",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "D19-1005",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "N19-1128",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "P15-1173",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "N15-1177",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.423",
+      "target": "W18-5446",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "D19-1355",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "P16-1085",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "K16-1006",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "S15-2049",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "N18-1202",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.emnlp-main.683",
+      "target": "D17-1120",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "D14-1110",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "P16-1085",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "K16-1006",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "N18-1202",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "D17-1120",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1569",
+      "target": "P15-1173",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}
