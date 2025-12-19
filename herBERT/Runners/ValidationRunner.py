@@ -3,6 +3,7 @@ from herBERT.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
 from herBERT.UsageValidator.UsageValidator import UsageValidator
 
 def run():
+    UsageValidator.validate_usage( "", "", "")
     # Loading the Data
     jh = JsonHandler()
     jh.loadRefTrain()
@@ -28,6 +29,9 @@ def run():
             rtb.changeWeightOfEdge(u, v, weighter)
 
     rtb.plotTree()
+
+def testRun():
+
 
 
 

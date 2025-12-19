@@ -54,6 +54,8 @@ def run():
         if random.random() < UNKNOWN_WEIGHT_FREQUENCY:
             rtb_crawl.changeWeightOfEdge(edge[0], edge[1], random.random() ** RARENESS_EXP)
 
+    rtb_crawl.plotTree()
+
     crawled = rtb_crawl.buildCrawlTree(CRAWL_ROOT, CRAWL_DEPTH, REVERSE_DEPTH)
     crawled.printTree()
     crawled.plotTree()

@@ -1,14 +1,11 @@
-import random
+from herBERT.UsageValidator.ContentEntailment import ContentEntailment
 
 class UsageValidator:
-    @staticmethod
-    def validate_usage(fullText: str, refText: str, refTitle: str, snippet: str = None):
-        #TODO: Implement actual validation logic
-        # Problems:
-        # - how can we rank the root files critical score where we have no prior data
-        # - how do we check for information roots, we somehow need to check where some information is first mentioned and how
-        # valid this is
-        # - how can we forward this information search through our reference tree as it might be that the root splits to multiple sources
-        # maybe we just need a check that the information is present in the referenced file and then go deeper
-        # with this we could possibly backtrack to the root of each information and rank those roots by hand (for poc) and with this validate everything in between
-        return random.random() ** 7
+    def run(self, premise: str, hypothesis: str, threshold: float = 0.75):
+        return ContentEntailment.validate(premise, hypothesis, threshold)
+
+if __name__ == "__main__":
+    premise = "We evaluate the proposed method on three benchmark datasets and observe consistent improvements over baseline models in terms of average F1 score. However, these gains are statistically significant only for the largest dataset, and performance on smaller datasets varies depending on the random seed. No improvements are observed when the model is evaluated without the auxiliary loss."
+    hypothesis = "The paper demonstrates that the proposed method does not reliably outperform baseline approaches across multiple datasets."
+    label, prob, eq = UsageValidator.runIndexing(premise, hypothesis)
+    print("Label:", label, "Entailment prob:", prob, "Equivalent:", eq)
