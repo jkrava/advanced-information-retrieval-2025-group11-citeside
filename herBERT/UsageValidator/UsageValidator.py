@@ -9,7 +9,7 @@ class UsageValidator:
         self.content_entailment = ContentEntailment()
         self.reference_linker = ReferenceLinker()
 
-    def run(self, argument: str, paper_text: str, paper_refs: str, print_logs: bool = False):
+    def run(self, argument: str, paper_text: str, paper_refs, print_logs: bool = False):
 
         #Collect Snippets
         snippets = self.snippet_collector.match_argument(
@@ -19,8 +19,8 @@ class UsageValidator:
             min_score=0.55
         )
 
-        if not snippets:
-            return (None, None), -1.0
+        #if not snippets: #TODO: make prober return
+            #return (None, None), -1.0
 
         #Validate Snippet Usage
         for s in snippets:
@@ -32,8 +32,10 @@ class UsageValidator:
 
         #Extract Links
         for s in snippets:
+            #TODO: remove next line
+            linked_ref = self.reference_linker.link_references(s["chunk"], paper_refs)
             if s["valid"]:
-                linked_ref = self.reference_linker.link_reference(s["chunk"], paper_refs)
+                linked_ref = self.reference_linker.link_references(s["chunk"], paper_refs)
                 s["linked_ref"] = linked_ref
                 if not linked_ref:
                     s["valid"] = False
