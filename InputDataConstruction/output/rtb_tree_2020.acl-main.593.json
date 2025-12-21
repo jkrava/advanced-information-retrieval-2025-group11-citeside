@@ -1,0 +1,1340 @@
+{
+  "meta": {
+    "crawl_root": null,
+    "crawl_depth": null,
+    "reverse_depth": null
+  },
+  "nodes": {
+    "2022.nlp4convai-1.10": {},
+    "2022.acl-long.26": {},
+    "D15-1044": {},
+    "S15-1002": {},
+    "P16-1139": {},
+    "2022.naacl-main.84": {},
+    "N16-1170": {},
+    "2022.acl-short.36": {},
+    "D15-1075": {},
+    "2022.acl-long.80": {},
+    "2022.findings-acl.273": {},
+    "2021.emnlp-main.556": {},
+    "P17-1152": {},
+    "2022.acl-long.421": {},
+    "2022.findings-acl.189": {},
+    "2022.acl-long.197": {},
+    "2021.emnlp-main.45": {},
+    "2022.acl-long.1": {},
+    "D19-1110": {},
+    "P16-2022": {},
+    "2022.findings-naacl.196": {},
+    "2022.acl-short.34": {},
+    "2022.naacl-tutorials.3": {},
+    "P16-1162": {},
+    "2021.acl-short.57": {},
+    "2021.emnlp-main.425": {},
+    "2022.findings-acl.222": {},
+    "P15-1150": {},
+    "2022.findings-acl.275": {},
+    "2022.findings-naacl.10": {},
+    "2022.naacl-main.274": {},
+    "2022.bionlp-1.40": {},
+    "2022.findings-acl.283": {},
+    "2022.naacl-main.64": {},
+    "2022.findings-naacl.51": {},
+    "D16-1244": {},
+    "2022.acl-long.166": {},
+    "D16-1046": {},
+    "2021.tacl-1.84": {},
+    "2022.naacl-main.240": {},
+    "2022.naacl-main.290": {},
+    "2022.naacl-main.420": {},
+    "P17-1080": {},
+    "2022.findings-naacl.81": {},
+    "2022.acl-long.570": {},
+    "2022.acl-short.18": {},
+    "P16-1100": {},
+    "2022.acl-long.53": {},
+    "2022.acl-long.55": {},
+    "2021.emnlp-main.407": {},
+    "2022.tacl-1.34": {},
+    "S17-2001": {},
+    "2022.findings-naacl.168": {},
+    "2022.acl-long.358": {},
+    "2021.naacl-main.185": {},
+    "D16-1159": {},
+    "2022.findings-naacl.18": {},
+    "D18-1153": {},
+    "2021.ranlp-1.16": {},
+    "N19-1423": {},
+    "2022.findings-naacl.187": {},
+    "2020.acl-main.593": {},
+    "2022.tacl-1.41": {},
+    "2022.findings-acl.234": {},
+    "2021.sustainlp-1.15": {},
+    "2022.findings-naacl.25": {},
+    "2021.naacl-main.162": {},
+    "P15-1011": {},
+    "2022.naacl-main.313": {},
+    "S18-2023": {},
+    "2022.acl-demo.9": {},
+    "2021.acl-long.16": {},
+    "N18-1108": {},
+    "P17-1106": {},
+    "2022.acl-long.451": {},
+    "P14-5010": {},
+    "D14-1162": {},
+    "S14-2001": {},
+    "2022.bigscience-1.7": {},
+    "P19-1580": {},
+    "2022.findings-acl.8": {},
+    "2022.acl-short.47": {},
+    "2022.naacl-main.260": {},
+    "D19-1224": {},
+    "2022.acl-long.130": {},
+    "2021.emnlp-main.672": {},
+    "2021.emnlp-main.308": {},
+    "2022.findings-acl.124": {},
+    "2021.findings-emnlp.347": {},
+    "2022.naacl-main.279": {},
+    "2022.naacl-main.402": {},
+    "2021.emnlp-main.713": {},
+    "2021.emnlp-main.406": {},
+    "2022.naacl-main.32": {},
+    "2022.findings-acl.53": {},
+    "N18-1101": {},
+    "2022.acl-long.158": {}
+  },
+  "edges": [
+    {
+      "source": "2022.nlp4convai-1.10",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.nlp4convai-1.10",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.26",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.84",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.84",
+      "target": "P19-1580",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.36",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.36",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.80",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.273",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.556",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.556",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "P16-1139",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "P15-1011",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "S15-1002",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "P16-2022",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "D15-1044",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "P15-1150",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1152",
+      "target": "N16-1170",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.421",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.421",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.421",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.189",
+      "target": "2021.acl-long.16",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.189",
+      "target": "2021.naacl-main.162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.197",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.197",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.45",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.45",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.1",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.1",
+      "target": "2021.naacl-main.162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.1",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.1",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.196",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.34",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.34",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.34",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.34",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-tutorials.3",
+      "target": "2022.acl-long.570",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-short.57",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.425",
+      "target": "P14-5010",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.425",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.222",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.275",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.275",
+      "target": "2021.emnlp-main.425",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.10",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.274",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.274",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.274",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.274",
+      "target": "P19-1580",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.274",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.bionlp-1.40",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.283",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.64",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.51",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.51",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.166",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.166",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.166",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.166",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.166",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.tacl-1.84",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.240",
+      "target": "2021.acl-long.16",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.240",
+      "target": "2021.naacl-main.162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.290",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.290",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.290",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.290",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.420",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.420",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P17-1080",
+      "target": "P16-1100",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.81",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.81",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.570",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.570",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.18",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.18",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.18",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.53",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.55",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.407",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.tacl-1.34",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.tacl-1.34",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.tacl-1.34",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.168",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.168",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.168",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.168",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.358",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.358",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.naacl-main.185",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.naacl-main.185",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.18",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.ranlp-1.16",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.ranlp-1.16",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.ranlp-1.16",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N19-1423",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.187",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.187",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.187",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.187",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.187",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "D19-1224",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "D19-1110",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "D18-1153",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "P19-1580",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2020.acl-main.593",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.tacl-1.41",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.tacl-1.41",
+      "target": "2021.emnlp-main.407",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.234",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.234",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.234",
+      "target": "2021.emnlp-main.672",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.sustainlp-1.15",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.sustainlp-1.15",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.25",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-naacl.25",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.naacl-main.162",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.naacl-main.162",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.313",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-demo.9",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-demo.9",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-long.16",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.acl-long.16",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.451",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.451",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.bigscience-1.7",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "P17-1080",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "P17-1106",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "N18-1108",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "P14-5010",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "P16-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "P19-1580",
+      "target": "D16-1159",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.8",
+      "target": "2021.emnlp-main.407",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.47",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-short.47",
+      "target": "2021.acl-short.57",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.260",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.260",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.260",
+      "target": "2021.emnlp-main.407",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.130",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.130",
+      "target": "P19-1580",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.672",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.672",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.672",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.308",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.124",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.124",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.findings-emnlp.347",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.279",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.279",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.279",
+      "target": "N18-1101",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.402",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.402",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.713",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.713",
+      "target": "S18-2023",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.713",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.713",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.406",
+      "target": "S17-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.406",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2021.emnlp-main.406",
+      "target": "2020.acl-main.593",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.naacl-main.32",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.53",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.findings-acl.53",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "D15-1075",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "P16-1139",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "P17-1152",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "S14-2001",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "D16-1046",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "P16-2022",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "D16-1244",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "D14-1162",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "N18-1101",
+      "target": "N16-1170",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.158",
+      "target": "N19-1423",
+      "attrs": {
+        "weight": -1.0
+      }
+    },
+    {
+      "source": "2022.acl-long.158",
+      "target": "2021.naacl-main.185",
+      "attrs": {
+        "weight": -1.0
+      }
+    }
+  ]
+}

@@ -30,7 +30,7 @@ import xml.etree.ElementTree as ET
 #    }
 # ----------------------------------------------------------------------------------------------------------------------------------------
 
-DATA_DIR = Path("..")
+DATA_DIR = Path("C:/Users/User/Desktop/Julian/Uni/WS 25/AIR/herBERT/Datasets/Training Data/ACL")
 CORPUS_PATH = DATA_DIR / "acl_corpus_grobid_full_text.80k.v9_22.tar.gz"
 BIB_PATH = DATA_DIR /"acl_corpus_bibs.80k.v9_22.tar.gz"
 META_DATA_PARQUET = DATA_DIR / "acl-publication-info.74k.parquet"
