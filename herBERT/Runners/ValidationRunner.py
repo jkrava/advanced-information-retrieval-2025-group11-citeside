@@ -12,8 +12,8 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
     for s in successors:
         refs.append({
             "paper_id": s,
-            "authors": data.getAuthors(),
-            "year": data.getYear()
+            "authors": data.getAuthors(s),
+            "year": data.getYear(s)
         })
 
     return refs
@@ -22,7 +22,8 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
-    jh.loadRefTrain()
+    #jh.loadRefTrain()
+    jh.load("herBERT/Data/Input/acl_merged_dataset.jsonl")
 
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
@@ -61,6 +62,6 @@ def run(argument: str, paper_id: str):
 
 if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
-    argument = "Due to NLPs ease and effectiveness, this paradigm has already been used to deploy large, fine-tuned models across a variety of real-world applications (Nayak (2019) ; Zhu (2019) ; Qadrud-Din (2019) inter alia)."
-    paper_id = "2020.wmt-1.91"
+    argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs. Niven and Kao (2019)"
+    paper_id = "2020.acl-main.398"
     run(argument, paper_id)
