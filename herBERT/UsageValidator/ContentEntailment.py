@@ -44,7 +44,8 @@ class ContentEntailment:
         pred_label = id2label.get(pred_idx, str(pred_idx))
 
         is_equivalent = entailment_prob >= threshold
-        return pred_label, entailment_prob, is_equivalent
+        return entailment_prob, is_equivalent
+        #return pred_label, entailment_prob, is_equivalent
 
 if __name__ == "__main__":
     premise = "We evaluate the proposed method on three benchmark datasets and observe consistent improvements over baseline models in terms of average F1 score. However, these gains are statistically significant only for the largest dataset, and performance on smaller datasets varies depending on the random seed. No improvements are observed when the model is evaluated without the auxiliary loss."

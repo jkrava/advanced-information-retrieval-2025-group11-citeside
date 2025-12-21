@@ -5,10 +5,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from typing import List, Optional
 from collections import deque
-
-class ScoringMode:
-    MULTIPLICATION = "multiplication"
-    MIN = "min"
+from herBERT.ReferenceTreeTools.ScoreCombiner import ScoreCombiner
 
 class ReferenceTreeBuilder:
     def __init__(self):
@@ -52,6 +49,9 @@ class ReferenceTreeBuilder:
             self._tree.add_edge(edge[0], edge[1], weight= -1.0)
         else:
             raise ValueError("Edge must be a tuple of (source_id: str, target_id: str, weight: float)")
+
+    def getReferences(self, node_id: str):
+        return list(self._tree.successors(node_id))
 
     def getWeight(self, source_id: str, target_id: str):
         if self._tree.has_edge(source_id, target_id):
@@ -231,7 +231,7 @@ class ReferenceTreeBuilder:
         return gb
 
 ### HELPERS ###
-    def buildCombCritIndex(self, mode: str = ScoringMode.MULTIPLICATION):
+    def buildCombCritIndex(self, mode: str = ScoreCombiner.MULTIPLICATION):
         #TODO: rethink this as it does not take chains of faulty parameters into account
         # nodes crit indexes are based on all its edges and edges are only based on the nodes and their edge in their own
         # however it does not take into account the updated edge index
@@ -261,27 +261,9 @@ class ReferenceTreeBuilder:
             edge_weight = float(data.get("weight"))
             attr = self._tree.nodes[v]
             node_weight = float(attr.get("critical"))
-            combined = self.combineCrits(node_weight, edge_weight, mode)
+            combined = ScoreCombiner.combineCrits(node_weight, edge_weight, mode)
             self._tree[u][v]['base_weight'] = edge_weight
             self._tree[u][v]['weight'] = combined
-
-    def combineCrits(self, node_weight: float, edge_weight: float, mode: str = ScoringMode.MULTIPLICATION):
-        if node_weight == -1:
-            #case that we have the root nodes who reference nothing anymore (would need a specific model to check them or manual setting)
-            return edge_weight
-        node_weight = 1.0 - node_weight
-        edge_weight = 1.0 - edge_weight
-        combined = 0.0
-        match mode:
-            case ScoringMode.MULTIPLICATION:
-                combined = node_weight * edge_weight
-                if combined < 0.001:
-                    combined = 0.001
-            case ScoringMode.MIN:
-                combined = min(node_weight, edge_weight)
-            case _:
-                raise ValueError(f"Unknown mode: {mode}")
-        return 1.0 - combined
 
     def buildCrawlTree(self, start_node: str, max_depth: int, reverse_depth: Optional[int] = None):
         if start_node not in self._tree:

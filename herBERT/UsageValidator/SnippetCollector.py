@@ -6,7 +6,7 @@ from typing import List, Dict
 nltk.download("punkt", quiet=True)
 nltk.download("punkt_tab", quiet=True)
 
-class ArgumentSentenceMatcher:
+class SnippetCollector:
     """
     Finds sentences in a text that most likely express
     a given argument using semantic similarity.
@@ -79,6 +79,7 @@ class ArgumentSentenceMatcher:
         scores = util.cos_sim(argument_embedding, chunk_embeddings)[0]
         ranked_indices = scores.argsort(descending=True)
 
+        '''
         results = []
         for idx in ranked_indices[:top_k]:
             score = scores[idx].item()
@@ -91,19 +92,29 @@ class ArgumentSentenceMatcher:
                     "start_index": c["start_index"],
                     "end_index": c["end_index"]
                 })
+        '''
+
+        results = []
+        for idx in ranked_indices[:top_k]:
+            score = scores[idx].item()
+            if score >= min_score:
+                c = chunks[idx]
+                results.append({
+                    "chunk": c["text"],
+                    "snippet_score": score
+                })
 
         return results
 
 
 if __name__ == "__main__":
-    extractor = ArgumentSentenceMatcher()
+    extractor = SnippetCollector()
     jh = JsonHandler()
     jh.loadRefTrain()
-    check_argument = "NLPs are easy to use."
     argument = "Due to NLPs ease and effectiveness, this paradigm has already been used to deploy large, fine-tuned models across a variety of real-world applications (Nayak (2019) ; Zhu (2019) ; Qadrud-Din (2019) inter alia)."
     paper_text = jh.getFullText("2020.wmt-1.91")
 
     matches = extractor.match_argument(paper_text, argument)
     for m in matches:
-        print(f"{m['score']:.3f} | {m['chunk']}")
+        print(f"{m['snippet_score']:.3f} | {m['chunk']}")
 

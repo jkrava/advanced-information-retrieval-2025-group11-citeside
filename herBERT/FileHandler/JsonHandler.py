@@ -30,6 +30,12 @@ class JsonHandler:
     def getOutgoingRefs(self, paper_id: str):
         return self.getHelper(paper_id, "outgoing_acl_citations")
 
+    def getAuthors(self, paper_id: str):
+        return self.getHelper(paper_id, "authors")
+
+    def getYear(self, paper_id: str):
+        return self.getHelper(paper_id, "year")
+
     def getHelper(self, paper_id: str, field: str):
         item = self._files.get(paper_id)
         if item:
