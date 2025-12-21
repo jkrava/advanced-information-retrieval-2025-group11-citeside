@@ -19,8 +19,8 @@ class UsageValidator:
             min_score=0.55
         )
 
-        #if not snippets: #TODO: make prober return
-            #return (None, None), -1.0
+        if not snippets:
+            return None
 
         #Validate Snippet Usage
         for s in snippets:
@@ -32,8 +32,6 @@ class UsageValidator:
 
         #Extract Links
         for s in snippets:
-            #TODO: remove next line
-            linked_ref = self.reference_linker.link_references(s["chunk"], paper_refs)
             if s["valid"]:
                 linked_ref = self.reference_linker.link_references(s["chunk"], paper_refs)
                 s["linked_ref"] = linked_ref

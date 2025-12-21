@@ -47,6 +47,8 @@ def run(argument: str, paper_id: str):
         visited.add(paper_id)
         searched_tree.addNode(paper_id)
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
+        if not uv_reply:
+            continue
         for reply in uv_reply:
             argument_reply = reply["argument"]
             paper_id_reply = reply["paper_id"]
