@@ -24,6 +24,7 @@ class JsonHandler:
     def getURL(self, paper_id: str):
         return self.getHelper(paper_id, "url")
 
+    #doesn't exist in new source json anymore
     def getIncomingRefs(self, paper_id: str):
         return self.getHelper(paper_id, "incoming_acl_citations")
 
@@ -42,8 +43,9 @@ class JsonHandler:
             return item.get(field)
         return None
 
+    #CAREFUL! new training data
     def loadRefTrain(self):
-        path = self.getInputPath() / "ReferenceTraining.json"
+        path = self.getInputPath() / "acl_merged_dataset.json"
         self.load(path)
 
     def getInputPath(self):
@@ -58,5 +60,13 @@ class JsonHandler:
                 first = f.read(1)
             f.seek(pos)
 
-            file = json.load(f)
+            if first == "[":
+                file = json.load(f)
+            else:
+                file =[]
+                for line in f:
+                    line = line.strip()
+                    if not line:
+                        continue
+                    file.append(json.loads(line))
         self._files = {item["paper_id"]: item for item in file}

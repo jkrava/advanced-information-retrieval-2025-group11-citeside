@@ -64,8 +64,8 @@ def run(argument: str, paper_id: str):
 
 if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
-    argument = "Due to NLPs ease and effectiveness, this paradigm has already been used to deploy large, fine-tuned models across a variety of real-world applications (Nayak (2019) ; Zhu (2019) ; Qadrud-Din (2019) inter alia)."
-    paper_id = "2020.wmt-1.91"
-    argument_with_refs = "Note, however, that the parsing problem for these frameworks is harder in the current shared task than in the ealier DELPH-IN MRS Bi-Lexical Dependencies The DM bi-lexical dependencies (Ivanova et al., 2012) originally derive from the underspecified logical forms computed by the English Resource Grammar (Flickinger et al., 2017; Copestake et al., 2005) ."
-    paper_id_with_refs = "K19-2001"
+    #argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs."
+    #paper_id = "2020.emnlp-main.213"
+    argument_with_refs = "Concretely, we set the supervision to be of cell selection if p a (op 0 ) ≥ S, where 0 < S < 1 is a threshold hyperparameter, and the scalar answer supervision otherwise. This follows hard EM (Min et al., 2019), as for spurious programs we pick the most probable one according to the current model." 
+    paper_id_with_refs = "N19-1423"
     run(argument_with_refs, paper_id_with_refs)
