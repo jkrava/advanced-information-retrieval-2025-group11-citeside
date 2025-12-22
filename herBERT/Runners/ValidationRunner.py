@@ -22,6 +22,7 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
+    
     jh.loadCovid()
 
     full_tree = ReferenceTreeBuilder()
