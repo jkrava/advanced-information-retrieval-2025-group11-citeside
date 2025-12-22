@@ -22,8 +22,7 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
-    #jh.loadRefTrain()
-    jh.load(r"C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT\InputDataConstruction\Datasets\Application Data\CovidDataset\CovidDataset.json")
+    jh.loadCovid()
 
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
@@ -35,6 +34,8 @@ def run(argument: str, paper_id: str):
             if ref in jh.getIds():
                 full_tree.addEdge(node, ref)
 
+    full_tree.plotTree()
+
     # Validate usages
     uv = UsageValidator()
     searched_tree = ReferenceTreeBuilder()
@@ -43,10 +44,11 @@ def run(argument: str, paper_id: str):
     visited = set()
     while search_queue:
         argument, paper_id, pre_paper_id = search_queue.popleft()
-        if paper_id in visited: #TODO: run the check anyways to set the edge weight to this paper_id
-            continue
-        visited.add(paper_id)
-        searched_tree.addNode(paper_id)
+        if paper_id not in visited:
+            visited.add(paper_id)
+            searched_tree.addNode(paper_id)
+            if pre_paper_id is not None:
+                searched_tree.addEdge(pre_paper_id, paper_id)
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
         if not uv_reply:
             continue
@@ -56,7 +58,6 @@ def run(argument: str, paper_id: str):
             crit_index = reply["crit_index"]
             search_queue.append((argument_reply, paper_id_reply, paper_id))
             if pre_paper_id is not None:
-                searched_tree.addEdge(pre_paper_id, paper_id)
                 searched_tree.changeWeightOfEdge(pre_paper_id, paper_id, crit_index)
 
     searched_tree.plotTree()

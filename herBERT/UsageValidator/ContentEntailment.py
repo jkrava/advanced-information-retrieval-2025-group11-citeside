@@ -19,7 +19,7 @@ class ContentEntailment:
         cls._model.eval()
 
     @classmethod
-    def validate(cls, premise: str, hypothesis: str, threshold: float = 0.75):
+    def validate(cls, hypothesis: str, premise: str, threshold: float = 0.75):
         cls._ensure_loaded()
 
         if (len(cls._tokenizer.encode(premise, hypothesis)) > 400):
