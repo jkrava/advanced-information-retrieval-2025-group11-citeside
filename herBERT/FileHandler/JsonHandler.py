@@ -49,6 +49,10 @@ class JsonHandler:
         path = self.getInputPath() / "acl_merged_dataset.json"
         self.load(path)
 
+    def loadCovid(self):
+        path = self.getInputPath() / "CovidDataset.json"
+        self.load(path)
+
     def getInputPath(self):
         return Path(__file__).resolve().parent.parent / "Data" / "Input"
 

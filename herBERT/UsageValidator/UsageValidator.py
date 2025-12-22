@@ -15,7 +15,7 @@ class UsageValidator:
         snippets = self.snippet_collector.match_argument(
             paper_text,
             argument,
-            top_k=1,
+            top_k=3,
             min_score=0.55
         )
 
