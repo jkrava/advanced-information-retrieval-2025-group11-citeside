@@ -25,11 +25,12 @@ class JsonHandler:
         return self.getHelper(paper_id, "url")
 
     #doesn't exist in new source json anymore
-    def getIncomingRefs(self, paper_id: str):
-        return self.getHelper(paper_id, "incoming_acl_citations")
+    #def getIncomingRefs(self, paper_id: str):
+    #    return self.getHelper(paper_id, "incoming_acl_citations")
 
+    #IMPORTANT: changed to references for universal use
     def getOutgoingRefs(self, paper_id: str):
-        return self.getHelper(paper_id, "outgoing_acl_citations")
+        return self.getHelper(paper_id, "references")
 
     def getAuthors(self, paper_id: str):
         return self.getHelper(paper_id, "authors")

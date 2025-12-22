@@ -23,7 +23,7 @@ def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
     #jh.loadRefTrain()
-    jh.load("herBERT/Data/Input/ReferenceTraining.json")
+    jh.load(r"C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT\InputDataConstruction\Datasets\Application Data\CovidDataset\CovidDataset.json")
 
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
@@ -66,6 +66,6 @@ if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
     #argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs."
     #paper_id = "2020.emnlp-main.213"
-    argument_with_refs = "There is a stereotypical bias of popular pretrained language models. Nangia et al. (2020)" 
-    paper_id_with_refs = "2021.acl-long.416"
+    argument_with_refs = "The COVID-19 has an incubation period between 5 to 14 days (Backer et al.,2020)" 
+    paper_id_with_refs = "0001"
     run(argument_with_refs, paper_id_with_refs)

@@ -1,15 +1,25 @@
-paper_id: "0001",
+
+##start papers
+paper_id: "0001"
 The COVID-19 has an incubation period of approximately 7-14 days depending
 upon the immunity and age of host animals, while most commonly around 5 days (Backer et al.,
 2020)
 
-paper_id: "1-s2.0-S0924857920300674-main.grobid"
+paper_id: "1-s2.0-S0924857920300674" 
 The current estimate of the mean incubation period for COVID-19 is 6.4 days, ranging from 2.1 days to 11.1 days (2.5th to 97.5th percentile) (Backer et al., 2020) , with potential asymptomatic transmission. 
 
-
-paper_id: R_df13013ee2b96fcb
+##middle paper
+paper_id: "R_df13013ee2b96fcb" (Backer et al., 2020)
  Our estimate of the mean incubation period is longer than the value of 5.2 days based on 10 cases (Li et al., 2020), 
  
-paper_id: R_df13013ee2b96fcb
+paper_id: "R_df13013ee2b96fcb" (Backer et al., 2020)
 and 4.8 days (range: 2-11) based on 16 travellers between Wuhan and Guangdong (Liu et al., 2020). 
+
+
+###endpapers
+paper_id: "R_3ae1d7794ad606cb" (Liu et al., 2020)
+The average incubation duration of 2019-nCoV infection was 4.8days. The average period from onset of symptoms to isolation of 2019-nCoV and SARS cases were 2.9 and 4.2 days, respectively.
+
+paper_id:"NEJMoa2001316" (Li et al., 2020)
+NCIP incubation period to be 5.2 days
 
