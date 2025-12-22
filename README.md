@@ -99,3 +99,5 @@ be taken as a fully fetched version but more as a proof of concept.
 
 
 
+## Restrictions
+inline citations only marked with superscript numbers e.g. "argument²" or "other argument³"

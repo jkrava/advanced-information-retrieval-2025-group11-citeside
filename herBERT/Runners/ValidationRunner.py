@@ -23,7 +23,7 @@ def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
     #jh.loadRefTrain()
-    jh.load("herBERT/Data/Input/acl_merged_dataset.jsonl")
+    jh.load("herBERT/Data/Input/ReferenceTraining.json")
 
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
@@ -66,6 +66,6 @@ if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
     #argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs."
     #paper_id = "2020.emnlp-main.213"
-    argument_with_refs = "Concretely, we set the supervision to be of cell selection if p a (op 0 ) ≥ S, where 0 < S < 1 is a threshold hyperparameter, and the scalar answer supervision otherwise. This follows hard EM (Min et al., 2019), as for spurious programs we pick the most probable one according to the current model." 
-    paper_id_with_refs = "N19-1423"
+    argument_with_refs = "There is a stereotypical bias of popular pretrained language models. Nangia et al. (2020)" 
+    paper_id_with_refs = "2021.acl-long.416"
     run(argument_with_refs, paper_id_with_refs)
