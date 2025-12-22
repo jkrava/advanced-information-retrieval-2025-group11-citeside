@@ -34,10 +34,8 @@ class JsonHandler:
 
     def getAuthors(self, paper_id: str):
         authors = self.getHelper(paper_id, "authors")
-        formated_authors = " and " .join(authors)
-        print(formated_authors)
-        return formated_authors
-
+        return " and " .join(authors)
+        
     def getYear(self, paper_id: str):
         return self.getHelper(paper_id, "year")
 

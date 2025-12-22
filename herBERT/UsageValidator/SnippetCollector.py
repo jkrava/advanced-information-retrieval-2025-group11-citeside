@@ -15,7 +15,7 @@ class SnippetCollector:
     def __init__(
         self,
         model_name: str = "sentence-transformers/all-mpnet-base-v2",
-        chunk_size: int = 3,
+        chunk_size: int = 1,
         stride: int | None = None
     ):
         self.model = SentenceTransformer(model_name)
