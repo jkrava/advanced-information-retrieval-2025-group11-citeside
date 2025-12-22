@@ -33,7 +33,8 @@ class JsonHandler:
         return self.getHelper(paper_id, "references")
 
     def getAuthors(self, paper_id: str):
-        return self.getHelper(paper_id, "authors")
+        authors = self.getHelper(paper_id, "authors")
+        return "and" .join(authors)
 
     def getYear(self, paper_id: str):
         return self.getHelper(paper_id, "year")
