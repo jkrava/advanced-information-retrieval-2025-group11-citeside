@@ -14,7 +14,13 @@ ipynb_checkpoints/
 *.zip
 *.gz
 *.parquet
-
+*.html
+# Data folders with experimental or large data
 LoadedPapers/
 s2orc/
 DataNotebooks/
+ThermopylenOutput/
+CovidOutput/
+CovidPDFs/
+Thermopylen/
+Pompei/

@@ -22,7 +22,8 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
-    jh.loadRefTrain()
+    #jh.loadRefTrain()
+    jh.load(r"C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT\InputDataConstruction\Datasets\Application Data\CovidDataset\CovidDataset.json")
 
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
@@ -42,10 +43,10 @@ def run(argument: str, paper_id: str):
     visited = set()
     while search_queue:
         argument, paper_id, pre_paper_id = search_queue.popleft()
-        if paper_id not in visited: #TODO: validate this
-            searched_tree.addNode(paper_id)
-            searched_tree.addEdge(pre_paper_id, paper_id)
-            visited.add(paper_id)
+        if paper_id in visited: #TODO: run the check anyways to set the edge weight to this paper_id
+            continue
+        visited.add(paper_id)
+        searched_tree.addNode(paper_id)
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
         if not uv_reply:
             continue
@@ -55,6 +56,7 @@ def run(argument: str, paper_id: str):
             crit_index = reply["crit_index"]
             search_queue.append((argument_reply, paper_id_reply, paper_id))
             if pre_paper_id is not None:
+                searched_tree.addEdge(pre_paper_id, paper_id)
                 searched_tree.changeWeightOfEdge(pre_paper_id, paper_id, crit_index)
 
     searched_tree.plotTree()
@@ -62,8 +64,8 @@ def run(argument: str, paper_id: str):
 
 if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
-    argument = "Due to NLPs ease and effectiveness, this paradigm has already been used to deploy large, fine-tuned models across a variety of real-world applications (Nayak (2019) ; Zhu (2019) ; Qadrud-Din (2019) inter alia)."
-    paper_id = "2020.wmt-1.91"
-    argument_with_refs = "Note, however, that the parsing problem for these frameworks is harder in the current shared task than in the ealier DELPH-IN MRS Bi-Lexical Dependencies The DM bi-lexical dependencies (Ivanova et al., 2012) originally derive from the underspecified logical forms computed by the English Resource Grammar (Flickinger et al., 2017; Copestake et al., 2005) ."
-    paper_id_with_refs = "K19-2001"
+    #argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs."
+    #paper_id = "2020.emnlp-main.213"
+    argument_with_refs = "The COVID-19 has an incubation period between 5 to 14 days (Backer et al.,2020)" 
+    paper_id_with_refs = "0001"
     run(argument_with_refs, paper_id_with_refs)
