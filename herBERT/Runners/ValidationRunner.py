@@ -42,10 +42,10 @@ def run(argument: str, paper_id: str):
     visited = set()
     while search_queue:
         argument, paper_id, pre_paper_id = search_queue.popleft()
-        if paper_id in visited: #TODO: run the check anyways to set the edge weight to this paper_id
-            continue
-        visited.add(paper_id)
-        searched_tree.addNode(paper_id)
+        if paper_id not in visited: #TODO: validate this
+            searched_tree.addNode(paper_id)
+            searched_tree.addEdge(pre_paper_id, paper_id)
+            visited.add(paper_id)
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
         if not uv_reply:
             continue
@@ -55,7 +55,6 @@ def run(argument: str, paper_id: str):
             crit_index = reply["crit_index"]
             search_queue.append((argument_reply, paper_id_reply, paper_id))
             if pre_paper_id is not None:
-                searched_tree.addEdge(pre_paper_id, paper_id)
                 searched_tree.changeWeightOfEdge(pre_paper_id, paper_id, crit_index)
 
     searched_tree.plotTree()
