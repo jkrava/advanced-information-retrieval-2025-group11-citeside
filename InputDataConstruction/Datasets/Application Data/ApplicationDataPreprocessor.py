@@ -269,7 +269,8 @@ def tei_to_outputs(tei_path: Path) -> tuple[dict, list[dict]]:
 
     title = pick_title(root)
     abstract = pick_abstract(root)
-    authors = pick_authors(root)
+    authors_list = pick_authors(root)
+    authors = " and ".join(authors_list)
     year = pick_year(root)
 
     refs, tei_key_to_refmeta = extract_references(root)
