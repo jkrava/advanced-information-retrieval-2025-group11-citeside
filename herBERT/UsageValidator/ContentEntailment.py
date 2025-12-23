@@ -7,7 +7,7 @@ tested model:
 model_name = "roberta-large-mnli" prob outputs ranged from 0.002 to 0.04
 model_name = "cross-encoder/nli-deberta-v3-xsmall" prob outputs ranged from 0.001 to 0.007
 model_name = "cross-encoder/nli-deberta-v3-base" prob outputs ranged from 0.0001 to 0.0013
-model_name = "deepset/deberta-v3-large-squad2" prob outputs ranged from 0.49 to 0.55 (bad)
+model_name = "deepset/deberta-v3-large-squad2" prob outputs ranged from 0.49 to 0.55
 model_name = "cross-encoder/nli-MiniLM2-L6-H768" prob outputs ranged from 0.001 to 0.019
 model_name = "cross-encoder/nli-deberta-v3-large" extreme small outputs
 model_name = "ynie/bart-large-snli_mnli_fever_anli_R1_R2_R3-nli" extreme small outputs
@@ -23,9 +23,10 @@ E_ID: E7 Label: neutral Entailment prob: 0.21247582137584686 Equivalent: False
 E_ID: E8 Label: neutral Entailment prob: 0.17947818338871002 Equivalent: False
 E_ID: E9 Label: neutral Entailment prob: 0.2224508672952652 Equivalent: False
 
+model_name = "deepset/deberta-v3-large-squad2"
 """
 class ContentEntailment:
-    _model_name = "tasksource/deberta-base-long-nli"
+    _model_name = "deepset/deberta-v3-large-squad2"
     _tokenizer = None
     _model = None
     _device = None
