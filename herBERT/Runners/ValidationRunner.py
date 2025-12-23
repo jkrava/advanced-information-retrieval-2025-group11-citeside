@@ -66,8 +66,7 @@ def run(argument: str, paper_id: str):
 
 if __name__ == "__main__":
     #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
-    #argument = "Since Bert based models can degenerate it is a practice to report the median of indepent runs."
-    #paper_id = "2020.emnlp-main.213"
-    argument_with_refs = "The COVID-19 has an incubation period of approximately 7-14 days depending upon the immunity and age of host animals, while most commonly around 5 days (Backer et al.,2020)" 
+    argument_with_refs = "COVID-19 has an incubation period between 5 and 14 days depending upon the immunity and age of host animals (Backer et al., 2020)" 
     paper_id_with_refs = "0001"
     run(argument_with_refs, paper_id_with_refs)
+

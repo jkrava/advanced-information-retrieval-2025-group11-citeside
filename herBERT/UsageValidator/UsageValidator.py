@@ -24,7 +24,10 @@ class UsageValidator:
 
         #Validate Snippet Usage
         for s in snippets:
-            entailment_prob, is_equivalent = self.content_entailment.validate(argument, s["chunk"], 0.75)
+            out = self.content_entailment.validate(argument, s["chunk"], threshold=0.75)
+            #entailment_prob, is_equivalent = self.content_entailment.validate(argument, s["chunk"], 0.75)
+            is_equivalent, entailment_prob, _ = out 
+            
             s["valid"] = is_equivalent
             s["entailment_prob"] = entailment_prob
             # TODO: check this method as this might be a weakness in the logic:
