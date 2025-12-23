@@ -33,11 +33,16 @@ class JsonHandler:
         return self.getHelper(paper_id, "references")
 
     def getAuthors(self, paper_id: str):
-        authors = self.getHelper(paper_id, "authors")
-        return " and " .join(authors)
+        return self.getHelper(paper_id, "authors")
         
     def getYear(self, paper_id: str):
         return self.getHelper(paper_id, "year")
+    
+    def getHypothesis(self, e_id: str):
+        return self.getHelper(e_id, "hypothesis")
+    
+    def getPremise(self, e_id: str):
+        return self.getHelper(e_id, "premise")
 
     def getHelper(self, paper_id: str, field: str):
         item = self._files.get(paper_id)
@@ -45,13 +50,16 @@ class JsonHandler:
             return item.get(field)
         return None
 
-    #CAREFUL! new training data
     def loadRefTrain(self):
         path = self.getInputPath() / "acl_merged_dataset.json"
         self.load(path)
 
     def loadCovid(self):
         path = self.getInputPath() / "CovidDataset.json"
+        self.load(path)
+
+    def loadEntailmentData(self):
+        path = self.getInputPath() / "EntailmentData.json"
         self.load(path)
 
     def getInputPath(self):
