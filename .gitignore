@@ -15,6 +15,7 @@ ipynb_checkpoints/
 *.gz
 *.parquet
 *.html
++.gguf
 # Data folders with experimental or large data
 LoadedPapers/
 s2orc/
