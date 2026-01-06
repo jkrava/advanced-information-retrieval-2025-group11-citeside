@@ -118,4 +118,10 @@ inline citations only marked with superscript numbers e.g. "argument²" or "othe
 {'premise': 'NCIP incubation period to be 5.2 days (Li et al., 2020).', 'argument': 'The incubation period of NCIP is estimated to be about 52 days.', 'label': 'CONTRADICTS', 'confidence': 0.9999999999945048, 'label_scores': {'SUPPORTS': np.float32(-370.14206), 'CONTRADICTS': np.float32(-344.02322), 'NOT_ENOUGH_INFORMATION': np.float32(-371.69647)}, 'stress_test': {'original_argument_label': 'CONTRADICTS', 'negated_argument_label': 'CONTRADICTS', 'logically_stable': True}}
 
 {'premise': 'NCIP incubation period to be 5.2 days (Li et al., 2020).', 'argument': 'The incubation period of NCIP is estimated to be two weeks.', 'label': 'CONTRADICTS', 'confidence': 0.9999999999133833, 'label_scores': {'SUPPORTS': np.float32(-341.3217), 'CONTRADICTS': np.float32(-318.10458), 'NOT_ENOUGH_INFORMATION': np.float32(-344.3433)}, 'stress_test': {'original_argument_label': 'CONTRADICTS', 'negated_argument_label': 'CONTRADICTS', 'logically_stable': True}}
-PS C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT>
+
+
+##Findings 06-01
+
+Prompt Engineering: 
+    use of definitive language for contradictions produces uncertaint (never -> UNKNOWN, seldom -> CONTRADICTION), give timeframe if time is important for argument or premise
+

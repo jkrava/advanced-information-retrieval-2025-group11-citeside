@@ -1,9 +1,63 @@
 
 [
   {
+    "paper_id" : "E1",
+    "premise" :  "The study provides empirical evidence to back reports on a familial cluster where five family members developed symptoms of COVID-19 7 to 14 days after exposure (Chan et al., 2020), and fits within the range for the incubation period of 7 to 14 days assumed by the WHO and of 8 to 12 days assumed by the ECDC (Anon, 2020).",
+    "hypothesis" : "COVID-19 has an incubation period of approximately 7-14 days.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E2",
+    "premise": "The COVID-19 has an incubation period of approximately 7–14 days depending upon the immunity and age of host animals, while most commonly around 5 days (Backer et al., 2020).",
+    "hypothesis": "COVID-19 typically has an incubation period of about 5 days, but it can range up to 14 days depending on host factors.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E3",
+    "premise": "The current estimate of the mean incubation period for COVID-19 is 6.4 days, ranging from 2.1 days to 11.1 days (2.5th to 97.5th percentile), with potential asymptomatic transmission (Backer et al., 2020).",
+    "hypothesis": "The mean incubation period of COVID-19 is approximately 6.4 days and may include asymptomatic transmission.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E4",
+    "premise": "Our estimate of the mean incubation period is longer than the value of 5.2 days based on 10 cases (Li et al., 2020) (Backer et al., 2020).",
+    "hypothesis": "The estimated mean incubation period of COVID-19 exceeds 5.2 days reported in earlier studies.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E5",
+    "premise": "The average incubation duration of 2019-nCoV infection was 4.8 days. The average period from onset of symptoms to isolation of 2019-nCoV and SARS cases were 2.9 and 4.2 days, respectively (Liu et al., 2020).",
+    "hypothesis": "The average incubation period of 2019-nCoV is approximately 4.8 days.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E6",
+    "premise": "NCIP incubation period to be 5.2 days (Li et al., 2020).",
+    "hypothesis": "The incubation period of NCIP is estimated to be about 5.2 days.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E7",
+    "premise": "We follow Niven and Kao (2019) and report the median for 5 independent runs, as BERT-based models can degenerate.",
+    "hypothesis": "Since Bert based models can degenerate it is a practice to report the median of indepent runs.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E8",
+    "premise": "Concretely, we set the supervision to be of cell selection if p a (op 0 ) ≥ S, where 0 < S < 1 is a threshold hyperparameter, and the scalar answer supervision otherwise. This follows hard EM (Min et al., 2019), as for spurious programs we pick the most probable one according to the current model.",
+    "hypothesis": "Hard EM commits to a models most probable program by switching supervision if the probability of a specific operation exceeds a certain threshold.",
+    "label": "True"
+  },
+  {
+    "paper_id" : "E9",
+    "premise": "In recent years, word embeddings (Mikolov et al., 2013; Pennington et al., 2014; Peters et al., 2018; Devlin et al., 2019) have emerged as a commonly used alternative to n-gram matching for capturing word semantics similarity.",
+    "hypothesis": "Word embeddings are commonly used for capturing word semantis similarity.",
+    "label": "True"
+  },
+  {
     "paper_id" : "E10",
     "premise": "In recent years, word embeddings (Mikolov et al., 2013; Pennington et al., 2014; Peters et al., 2018; Devlin et al., 2019) have emerged as a commonly used alternative to n-gram matching for capturing word semantics similarity.",
-    "hypothesis": "Currently Word embeddings are seldom used for capturing word semantics similarity.",
+    "hypothesis": "Word embeddings are not used for capturing word semantics similarity.",
     "label": "False"
   },
   {
@@ -12,4 +66,5 @@
     "hypothesis": "Word embeddings are never used for capturing word semantics similarity.",
     "label": "False"
   }
+  
 ]

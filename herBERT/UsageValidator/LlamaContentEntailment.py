@@ -54,6 +54,7 @@ class LlamaContentEntailment:
             Answer:
             """.strip()
 
+    #TODO: Discuss with Kohni!!! chatgpt says here could be a problem since we sum logprobs of Prompt + Label while the model solution is logP(label∣prompt)=logP(prompt+label)−logP(prompt)
     def _score_labels(self, prompt: str) -> Dict[str, float]:
         scores = {}
 
@@ -71,17 +72,22 @@ class LlamaContentEntailment:
         return scores
 
     def _select_label(self, scores: Dict[str, float]):
+        prob_threshold = 0.03
         max_log = max(scores.values())
         exp_scores = {
             k: math.exp(v - max_log) for k, v in scores.items()
         }
-        print(exp_scores)
         total = sum(exp_scores.values())
 
         probs = {k: v / total for k, v in exp_scores.items()}
-       
-        label = max(probs, key=probs.get)
 
+        label = max(probs, key=probs.get)
+        p = probs[label]
+        p2 = max(p for k, p in probs.items() if k != label)
+        print(f"Difference: p - p2 =  {p} - {p2} = {p - p2}")
+        if(p - p2) < prob_threshold:
+            label = "Could not determine: difference too small"
+       
         return label, probs[label]
 
     def _contradiction_stress_test(self, premise: str, argument: str) -> Dict:
