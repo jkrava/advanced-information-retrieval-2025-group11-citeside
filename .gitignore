@@ -6,6 +6,8 @@ __pycache__/
 *.pyd
 *.pkl
 *.log
+.venv
+.venv311
 ipynb_checkpoints/
 .jupyter/
 .vscode/
@@ -16,6 +18,8 @@ ipynb_checkpoints/
 *.parquet
 *.html
 +.gguf
+*.gguf
+
 # Data folders with experimental or large data
 LoadedPapers/
 s2orc/

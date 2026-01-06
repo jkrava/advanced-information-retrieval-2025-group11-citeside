@@ -5,11 +5,11 @@ from llama_cpp import Llama
 
 
 class LlamaContentEntailment:
-    LABELS = ["SUPPORTS", "CONTRADICTS", "NOT_ENOUGH_INFORMATION"]
+    LABELS = ["SUPPORTS", "CONTRADICTS", "UNKNOWN"]
 
     def __init__(self):
         self.llm = Llama(
-          model_path="./mistral-7b-instruct-v0.2.Q5_K_M.gguf",
+          model_path=r"C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT\mistral-7b-instruct-v0.2.Q5_K_M.gguf",
           n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
           n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
           n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
@@ -22,7 +22,7 @@ class LlamaContentEntailment:
         scores = self._score_labels(prompt)
         label, confidence = self._select_label(scores)
 
-        stress = self._contradiction_stress_test(premise, argument)
+        #stress = self._contradiction_stress_test(premise, argument)
 
         return {
             "premise": premise,
@@ -30,7 +30,7 @@ class LlamaContentEntailment:
             "label": label,
             "confidence": confidence,
             "label_scores": scores,
-            "stress_test": stress
+            #"stress_test": stress
         }
 
     def _build_prompt(self, premise: str, argument: str) -> str:
@@ -39,7 +39,7 @@ class LlamaContentEntailment:
             
             Determine whether the text SUPPORTS, CONTRADICTS,
             or does NOT provide enough information about the argument.
-            
+
             Argument:
             "{argument}"
             
@@ -49,7 +49,7 @@ class LlamaContentEntailment:
             Answer with exactly one of:
             SUPPORTS
             CONTRADICTS
-            NOT_ENOUGH_INFORMATION
+            UNKNOWN
             
             Answer:
             """.strip()
@@ -75,9 +75,11 @@ class LlamaContentEntailment:
         exp_scores = {
             k: math.exp(v - max_log) for k, v in scores.items()
         }
+        print(exp_scores)
         total = sum(exp_scores.values())
 
         probs = {k: v / total for k, v in exp_scores.items()}
+       
         label = max(probs, key=probs.get)
 
         return label, probs[label]
