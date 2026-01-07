@@ -55,6 +55,7 @@ def run():
             rtb_crawl.changeWeightOfEdge(edge[0], edge[1], random.random() ** RARENESS_EXP)
 
     print(rtb_crawl.getReferences("0"))
+    rtb_crawl.changeWeightOfEdge("0", "1", -0.5)
     rtb_crawl.plotTree()
 
     rtb_crawl.addNodeIndex("0", 0.9)

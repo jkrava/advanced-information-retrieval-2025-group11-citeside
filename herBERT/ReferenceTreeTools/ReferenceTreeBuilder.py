@@ -357,13 +357,13 @@ class ReferenceTreeBuilder:
         #  1 -> red (255,0,0)
         if w <= 0:
             t = (w + 1.0) / 1.0  # 0-1
-            r = self.interp(0, 0, t)
+            r = self.interp(0, 255, t)
             g = self.interp(0, 255, t)
-            b = self.interp(255, 0, t)
+            b = self.interp(255, 255, t)
         else:
             t = w / 1.0  # 0-1
-            r = self.interp(0, 255, t)
-            g = self.interp(255, 0, t)
+            r = self.interp(255, 0, t)
+            g = self.interp(0, 255, t)
             b = self.interp(0, 0, t)
         return r, g, b
 
