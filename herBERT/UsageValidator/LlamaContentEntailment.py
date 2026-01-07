@@ -113,7 +113,7 @@ class LlamaContentEntailment:
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData()
+    jh.loadEntailmentData("EntailmentDatacopy.json")
     e_ids = jh.getIds()
     results = []
 

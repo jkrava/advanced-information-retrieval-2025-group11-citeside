@@ -58,8 +58,11 @@ class JsonHandler:
         path = self.getInputPath() / "CovidDataset.json"
         self.load(path)
 
-    def loadEntailmentData(self):
-        path = self.getInputPath() / "EntailmentData.json"
+    def loadEntailmentData(self, path: str = None):
+        if path is None:
+            path = self.getInputPath() / "EntailmentData.json"
+        else:
+            path = self.getInputPath() / path
         self.load(path)
 
     def getInputPath(self):

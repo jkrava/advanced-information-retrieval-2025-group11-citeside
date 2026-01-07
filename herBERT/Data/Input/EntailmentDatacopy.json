@@ -1,5 +1,11 @@
 [
   {
+    "paper_id" : "E4",
+    "premise": "Our estimate of the mean incubation period is longer than the value of 5.2 days based on 10 cases (Li et al., 2020) (Backer et al., 2020).",
+    "hypothesis": "The mean incubation period of COVID-19 is 52 days.",
+    "label": "True"
+  },
+  {
     "paper_id" : "E10",
     "premise": "In recent years, word embeddings (Mikolov et al., 2013; Pennington et al., 2014; Peters et al., 2018; Devlin et al., 2019) have emerged as a commonly used alternative to n-gram matching for capturing word semantics similarity.",
     "hypothesis": "Word embeddings are seldom used for capturing word semantics similarity.",
