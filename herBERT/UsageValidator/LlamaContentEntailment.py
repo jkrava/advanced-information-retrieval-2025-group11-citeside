@@ -9,11 +9,12 @@ class LlamaContentEntailment:
 
     def __init__(self):
         self.llm = Llama(
-          model_path=r"C:\Users\User\Desktop\Julian\Uni\WS 25\AIR\herBERT\mistral-7b-instruct-v0.2.Q5_K_M.gguf",
+          model_path=r"herBERT\UsageValidator\mistral-7b-instruct-v0.2.Q5_K_M.gguf",
           n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
           n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
           n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
-          logits_all=True
+          logits_all=True,
+          verbose=False
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
@@ -36,39 +37,49 @@ class LlamaContentEntailment:
     def _build_prompt(self, premise: str, argument: str) -> str:
         return f"""
             You are a scientific reasoning system.
-            
-            Determine whether the text SUPPORTS, CONTRADICTS,
-            or does NOT provide enough information about the argument.
 
-            Argument:
+            Your task is to assess the relationship between a given TEXT and an ARGUMENT.
+
+            Definitions:
+            - SUPPORTS: The TEXT supports that the ARGUMENT is true.
+            - CONTRADICTS: The TEXT states or implies the opposite of the ARGUMENT, or makes the ARGUMENT unlikely or false.
+            - UNKNOWN: The TEXT provides no information that supports or contradicts the ARGUMENT.
+
+            ARGUMENT:
             "{argument}"
-            
-            Text:
+
+            TEXT:
             "{premise}"
-            
-            Answer with exactly one of:
+
+            Choose exactly one label from:
             SUPPORTS
             CONTRADICTS
             UNKNOWN
-            
+
             Answer:
             """.strip()
+    
+    def _calc_logprobs(self, text: str) -> float:
+        output = self.llm(
+            text,
+            max_tokens=0,
+            echo=True,
+            logprobs=True,
+            temperature=0.0
+        )
 
-    #TODO: Discuss with Kohni!!! chatgpt says here could be a problem since we sum logprobs of Prompt + Label while the model solution is logP(label∣prompt)=logP(prompt+label)−logP(prompt)
+        token_logprobs = output["choices"][0]["logprobs"]["token_logprobs"]
+        return sum(lp for lp in token_logprobs if lp is not None)
+
     def _score_labels(self, prompt: str) -> Dict[str, float]:
         scores = {}
-
+        prompt_prob = self._calc_logprobs(prompt)
         for label in self.LABELS:
-            output = self.llm(
-                prompt + " " + label,
-                max_tokens=0,
-                echo=True,
-                logprobs=True
-            )
-
-            token_logprobs = output["choices"][0]["logprobs"]["token_logprobs"]
-            scores[label] = sum(lp for lp in token_logprobs if lp is not None)
-
+            text = f"{prompt} {label}"
+            full_prob = self._calc_logprobs(text)
+            label_prob = full_prob - prompt_prob
+            scores[label] = label_prob
+ 
         return scores
 
     def _select_label(self, scores: Dict[str, float]):
@@ -108,12 +119,12 @@ class LlamaContentEntailment:
         scores = self._score_labels(self._build_prompt(premise, argument))
         label, _ = self._select_label(scores)
         return label
-
-
+    
+            
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData("EntailmentDatacopy.json")
+    jh.loadEntailmentData()
     e_ids = jh.getIds()
     results = []
 
