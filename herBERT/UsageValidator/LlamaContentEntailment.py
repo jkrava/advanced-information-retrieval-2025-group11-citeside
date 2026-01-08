@@ -17,7 +17,8 @@ class LlamaContentEntailment:
             n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
             n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
             n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
-            logits_all=True
+            logits_all=True,
+            verbose=False
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
@@ -126,14 +127,13 @@ class LlamaContentEntailment:
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData()
+    jh.loadEntailmentData("EntailmentDatacopy.json")
     e_ids = jh.getIds()
     results = []
 
     for e_id in e_ids:
         premise = jh.getPremise(e_id)
         hypothesis = jh.getHypothesis(e_id)
-
 
         out = lce.validate(premise, hypothesis)
         print(out)
