@@ -40,33 +40,39 @@ def run(argument: str, paper_id: str):
     # Validate usages
     uv = UsageValidator()
     searched_tree = ReferenceTreeBuilder()
+    searched_tree.addNode(paper_id)
     search_queue = deque()
-    search_queue.append((argument, paper_id, None))
+    search_queue.append((argument, paper_id))
     visited = set()
+    replys = []
     while search_queue:
-        argument, paper_id, pre_paper_id = search_queue.popleft()
-        if paper_id not in visited:
-            visited.add(paper_id)
-            searched_tree.addNode(paper_id)
-            if pre_paper_id is not None:
-                searched_tree.addEdge(pre_paper_id, paper_id)
+        argument, paper_id = search_queue.popleft()
+
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
         if not uv_reply:
             continue
         for reply in uv_reply:
+            reply["source_paper_id"] = paper_id
+            replys.append(reply)
             argument_reply = argument
             paper_id_reply = reply["paper_id"]
             crit_index = reply["crit_index"]
-            search_queue.append((argument_reply, paper_id_reply, paper_id))
-            if pre_paper_id is not None:
-                searched_tree.changeWeightOfEdge(pre_paper_id, paper_id, crit_index)
+            if paper_id_reply not in visited:
+                visited.add(paper_id_reply)
+                search_queue.append((argument_reply, paper_id_reply))
+            searched_tree.addNode(paper_id_reply)
+            searched_tree.addEdge(paper_id, paper_id_reply)
+            searched_tree.changeWeightOfEdge(paper_id, paper_id_reply, crit_index)
+
+    print("Found Snippets")
+    for reply in replys:
+        print(reply)
 
     searched_tree.plotTree()
 
 
 if __name__ == "__main__":
-    #TODO @Julian: set a good starting point here with nice argument which is traceable across multiple papers
-    argument_with_refs = "COVID-19 has an incubation period between 5 and 14 days depending upon the immunity and age of host animals (Backer et al., 2020)" 
+    argument_with_refs = "COVID-19 has an incubation period between 5 and 14 days."
     paper_id_with_refs = "0001"
     run(argument_with_refs, paper_id_with_refs)
 

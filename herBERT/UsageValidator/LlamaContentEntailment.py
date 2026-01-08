@@ -2,19 +2,22 @@ from herBERT.FileHandler.JsonHandler import JsonHandler
 import math
 from typing import Dict
 from llama_cpp import Llama
+from pathlib import Path
 
 
 class LlamaContentEntailment:
     LABELS = ["SUPPORTS", "CONTRADICTS", "UNKNOWN"]
 
     def __init__(self):
+        base_dir = Path(__file__).resolve().parent
+        model_path = base_dir / "mistral-7b-instruct-v0.2.Q5_K_M.gguf"
+
         self.llm = Llama(
-          model_path=r"herBERT\UsageValidator\mistral-7b-instruct-v0.2.Q5_K_M.gguf",
-          n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
-          n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
-          n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
-          logits_all=True,
-          verbose=False
+            model_path=str(model_path),
+            n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
+            n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
+            n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
+            logits_all=True
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
@@ -95,7 +98,6 @@ class LlamaContentEntailment:
         label = max(probs, key=probs.get)
         p = probs[label]
         p2 = max(p for k, p in probs.items() if k != label)
-        print(f"Difference: p - p2 =  {p} - {p2} = {p - p2}")
         if(p - p2) < prob_threshold:
             label = "Could not determine: difference too small"
        
