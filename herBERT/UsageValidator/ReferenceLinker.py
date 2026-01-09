@@ -1,11 +1,6 @@
 import re
-from typing import List, Dict, Union
 
 class ReferenceLinker:
-    def __init__(self):
-        #TODO: add something here if necessary
-        self.something = None
-
     def extract_surnames(self, ref):
         if not ref:
             return []
@@ -30,7 +25,7 @@ class ReferenceLinker:
         pattern = r'\b' + re.escape(author) + r'\b'
         return bool(re.search(pattern, snippet, re.IGNORECASE))
 
-    #TODO: this only works for singular names mentioned per snippet, maybe if there are multiple names we can somehow make multiple snippets out of it and feed all of them?
+    #TO-DO: this only works for singular names mentioned per snippet, maybe if there are multiple names we can somehow make multiple snippets out of it and feed all of them?
     def link_references(self, snippet, refs):
         for ref in refs:
             authors = self.extract_surnames(ref)

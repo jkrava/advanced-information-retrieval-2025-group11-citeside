@@ -7,11 +7,6 @@ nltk.download("punkt", quiet=True)
 nltk.download("punkt_tab", quiet=True)
 
 class SnippetCollector:
-    """
-    Finds sentences in a text that most likely express
-    a given argument using semantic similarity.
-    """
-
     def __init__(
         self,
         model_name: str = "sentence-transformers/all-mpnet-base-v2",
@@ -24,10 +19,6 @@ class SnippetCollector:
         self.stride = stride if stride is not None else max(1, self.chunk_size - 1)
 
     def _chunk_sentences(self, text: str) -> List[Dict]:
-        """
-        Tokenize into sentences and build overlapping chunks.
-        Returns a list of dicts: { 'text': chunk_text, 'sentences': [s1, s2, ...] }
-        """
         sents = nltk.sent_tokenize(text)
         if not sents:
             return []
@@ -54,10 +45,6 @@ class SnippetCollector:
         top_k: int = 5,
         min_score: float = 0.45
     ) -> List[Dict]:
-        """
-        Returns the top-k chunks most semantically similar to the given argument.
-        Each result contains the chunk text and the list of sentences inside it.
-        """
         chunks = self._chunk_sentences(text)
         if not chunks:
             return []

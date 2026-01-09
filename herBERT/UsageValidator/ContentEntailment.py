@@ -1,3 +1,5 @@
+from warnings import deprecated
+
 from herBERT.FileHandler.JsonHandler import JsonHandler
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
@@ -24,6 +26,7 @@ E_ID: E8 Label: neutral Entailment prob: 0.17947818338871002 Equivalent: False
 E_ID: E9 Label: neutral Entailment prob: 0.2224508672952652 Equivalent: False
 
 """
+@deprecated("Unused (only for legacy expiriments)")
 class ContentEntailment:
     _model_name = "roberta-large-mnli"
     _tokenizer = None
@@ -31,34 +34,32 @@ class ContentEntailment:
     _device = None
 
     @classmethod
-    def _ensure_loaded(cls):
-        if cls._model is not None:
+    def _ensure_loaded(self):
+        if self._model is not None:
             return
-        cls._device = "cuda" if torch.cuda.is_available() else "cpu"
-        cls._tokenizer = AutoTokenizer.from_pretrained(cls._model_name, use_fast=True)
-        cls._model = AutoModelForSequenceClassification.from_pretrained(cls._model_name)
-        cls._model.to(cls._device)
-        cls._model.eval()
+        self._device = "cuda" if torch.cuda.is_available() else "cpu"
+        self._tokenizer = AutoTokenizer.from_pretrained(self._model_name, use_fast=True)
+        self._model = AutoModelForSequenceClassification.from_pretrained(self._model_name)
+        self._model.to(self._device)
+        self._model.eval()
 
     @classmethod
-    #23.12. changed to 0.65
-    def validate(cls, hypothesis: str, premise: str, threshold: float = 0.65):
-        cls._ensure_loaded()
+    def validate(self, hypothesis: str, premise: str, threshold: float = 0.65):
+        self._ensure_loaded()
 
-        if (len(cls._tokenizer.encode(premise, hypothesis)) > 400):
+        if (len(self._tokenizer.encode(premise, hypothesis)) > 400):
             print("Warning: Input too long, truncating may affect results.")
 
-        inputs = cls._tokenizer(premise, hypothesis, return_tensors="pt", truncation=True, padding=True)
-        inputs = {k: v.to(cls._device) for k, v in inputs.items()}
+        inputs = self._tokenizer(premise, hypothesis, return_tensors="pt", truncation=True, padding=True)
+        inputs = {k: v.to(self._device) for k, v in inputs.items()}
 
         with torch.inference_mode():
-            outputs = cls._model(**inputs)
+            outputs = self._model(**inputs)
             logits = outputs.logits
             probs = F.softmax(logits, dim=-1)[0]
-        
-        
+
         n_labels = probs.shape[-1]
-        raw_id2label = getattr(cls._model.config, "id2label", None) or {}
+        raw_id2label = getattr(self._model.config, "id2label", None) or {}
         if raw_id2label:
             id2label = {int(k): v for k, v in raw_id2label.items()}
         else:
@@ -70,8 +71,6 @@ class ContentEntailment:
 
         pred_idx = int(torch.argmax(probs).cpu().item())
         pred_label = id2label.get(pred_idx, str(pred_idx))
-
-        #entail_idx = next((i for i, lbl in id2label.items() if "entail" in lbl.lower()), 2)
 
         entail_idx = None
         for i, label in id2label.items():
@@ -88,7 +87,6 @@ class ContentEntailment:
         else:
             entailment_prob = None
             is_equivalent = False
-        #return entailment_prob, is_equivalent
         return pred_label, entailment_prob, is_equivalent
 
 if __name__ == "__main__":
@@ -100,7 +98,6 @@ if __name__ == "__main__":
     for e_id in e_ids:
         premise = jh.getPremise(e_id)
         hypothesis = jh.getHypothesis(e_id)
-
 
         out = ContentEntailment.validate(premise, hypothesis, threshold=0.65)
         
@@ -114,8 +111,3 @@ if __name__ == "__main__":
 
     for e_id, label, prob, eq in results:
         print("E_ID:", e_id, "Label:", label, "Entailment prob:", prob, "Equivalent:", eq)
-
-    #premise = "The study provides empirical evidence to back reports on a familial cluster where five family members developed symptoms of COVID-19 7 to 14 days after exposure (Chan et al., 2020), and fits within the range for the incubation period of 7 to 14 days assumed by the WHO and of 8 to 12 days assumed by the ECDC (Anon, 2020)."
-    #hypothesis = "COVID-19 has an incubation period of approximately 7-14 days"
-    #label, prob, eq = ContentEntailment.validate(premise, hypothesis, threshold=0.65)
-    #print("Label:", label, "Entailment prob:", prob, "Equivalent:", eq)

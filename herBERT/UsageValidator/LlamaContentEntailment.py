@@ -14,18 +14,19 @@ class LlamaContentEntailment:
 
         self.llm = Llama(
             model_path=str(model_path),
-            n_ctx=32768,  # The max sequence length to use - note that longer sequence lengths require much more resources
-            n_threads=8,            # The number of CPU threads to use, tailor to your system and the resulting performance
-            n_gpu_layers=35,         # The number of layers to offload to GPU, if you have GPU acceleration available
+            n_ctx=32768,
+            n_threads=8,
+            n_gpu_layers=35,
             logits_all=True
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
-        prompt = self._build_prompt(premise, argument)
+        prompt = self.build_prompt(premise, argument)
 
-        scores = self._score_labels(prompt)
-        label, confidence = self._select_label(scores)
+        scores = self.score_labels(prompt)
+        label, confidence = self.select_label(scores)
 
+        #deactivated for performance reasons
         #stress = self._contradiction_stress_test(premise, argument)
 
         return {
@@ -37,7 +38,7 @@ class LlamaContentEntailment:
             #"stress_test": stress
         }
 
-    def _build_prompt(self, premise: str, argument: str) -> str:
+    def build_prompt(self, premise: str, argument: str) -> str:
         return f"""
             You are a scientific reasoning system.
             
@@ -58,8 +59,7 @@ class LlamaContentEntailment:
             Answer:
             """.strip()
 
-    #TODO: Discuss with Kohni!!! chatgpt says here could be a problem since we sum logprobs of Prompt + Label while the model solution is logP(label∣prompt)=logP(prompt+label)−logP(prompt)
-    def _score_labels(self, prompt: str) -> Dict[str, float]:
+    def score_labels(self, prompt: str) -> Dict[str, float]:
         scores = {}
 
         for label in self.LABELS:
@@ -76,7 +76,7 @@ class LlamaContentEntailment:
 
         return scores
 
-    def _select_label(self, scores: Dict[str, float]):
+    def select_label(self, scores: Dict[str, float]):
         prob_threshold = 0.03
         max_log = max(scores.values())
         exp_scores = {
@@ -94,11 +94,11 @@ class LlamaContentEntailment:
        
         return label, probs[label]
 
-    def _contradiction_stress_test(self, premise: str, argument: str) -> Dict:
+    def contradiction_stress_test(self, premise: str, argument: str) -> Dict:
         negated_argument = f"It is not true that {argument}"
 
-        original = self._quick_label(premise, argument)
-        negated = self._quick_label(premise, negated_argument)
+        original = self.quick_label(premise, argument)
+        negated = self.quick_label(premise, negated_argument)
 
         stable = not (original == "SUPPORTS" and negated == "SUPPORTS")
 
@@ -108,9 +108,9 @@ class LlamaContentEntailment:
             "logically_stable": stable
         }
 
-    def _quick_label(self, premise: str, argument: str) -> str:
-        scores = self._score_labels(self._build_prompt(premise, argument))
-        label, _ = self._select_label(scores)
+    def quick_label(self, premise: str, argument: str) -> str:
+        scores = self.score_labels(self.build_prompt(premise, argument))
+        label, _ = self.select_label(scores)
         return label
 
 

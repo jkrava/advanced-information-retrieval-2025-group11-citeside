@@ -1,4 +1,6 @@
 import json
+from warnings import deprecated
+
 import networkx as nx
 import numpy as np
 import matplotlib as mpl
@@ -74,7 +76,6 @@ class ReferenceTreeBuilder:
         return [n for n, deg in self._tree.in_degree if deg == 0]
 
 ### VISUALIZATION ###
-
     def printTree(self):
         reset = "\x1b[0m"
 
@@ -125,12 +126,11 @@ class ReferenceTreeBuilder:
 
     def plotTree(
             self,
-            node_size: int = 300, #TODO: make this dynamic
+            node_size: int = 300,
             seed: Optional[int] = 42):
 
         pos = nx.spring_layout(self._tree, seed=seed)
         pos = nx.circular_layout(self._tree, scale=2.0)
-        #TODO: add more layout options if needed in the future
 
         if (self._crawl_root != None):
             #"fdp"/"neato"/"sfdp"(faster version) seems to be the best, but "circo", "twopi", "dot" in this order should also be testet!
@@ -194,7 +194,7 @@ class ReferenceTreeBuilder:
         plt.show()
 
 ### IO ###
-
+    @deprecated("Unused (only for legacy expiriments)")
     def build(self):
         meta = {"crawl_root": self._crawl_root, "crawl_depth": self._crawl_depth, "reverse_depth": self._reverse_depth, "comb_indexed": self._comb_indexed}
         nodes = {n: dict(d) for n, d in self._tree.nodes(data=True)}
@@ -204,6 +204,7 @@ class ReferenceTreeBuilder:
         ]
         return {"meta": meta, "nodes": nodes, "edges": edges}
 
+    @deprecated("Unused (only for legacy expiriments)")
     def store(self, path: str):
         with open(path, "w", encoding="utf-8") as f:
             json.dump(self.build(), f, indent=2)
@@ -231,11 +232,8 @@ class ReferenceTreeBuilder:
         return gb
 
 ### HELPERS ###
+    @deprecated("Unused (only for legacy expiriments)")
     def buildCombCritIndex(self, mode: str = ScoreCombiner.MULTIPLICATION):
-        #TODO: rethink this as it does not take chains of faulty parameters into account
-        # nodes crit indexes are based on all its edges and edges are only based on the nodes and their edge in their own
-        # however it does not take into account the updated edge index
-        # --> this needs dynamic creation from roots upwards (could lead to butterfly effects)
         if self._comb_indexed:
             return
         for u, v, data in self.getEdges():
@@ -265,6 +263,7 @@ class ReferenceTreeBuilder:
             self._tree[u][v]['base_weight'] = edge_weight
             self._tree[u][v]['weight'] = combined
 
+    @deprecated("Unused (only for legacy expiriments)")
     def buildCrawlTree(self, start_node: str, max_depth: int, reverse_depth: Optional[int] = None):
         if start_node not in self._tree:
             raise ValueError(f"Start node {start_node} does not exist in the graph.")
@@ -318,6 +317,7 @@ class ReferenceTreeBuilder:
         nx.set_node_attributes(tree._tree, depths, name="depth")
         return tree
 
+    @deprecated("Unused (only for legacy expiriments)")
     def checkIfCircular(self, source_id: str, target_id: str):
         if source_id == target_id or nx.has_path(self._tree, target_id, source_id):
             return True
@@ -333,6 +333,7 @@ class ReferenceTreeBuilder:
         #this interpolates the gradient from one color to another
         return int(round(a + (b - a) * t))
 
+    @deprecated("Unused (only for legacy expiriments)")
     def rgbForCrawl(self, depth: int, w: int):
         w_h = float(w)/ float(abs(depth))
         # -1 -> blue (0,0,255)

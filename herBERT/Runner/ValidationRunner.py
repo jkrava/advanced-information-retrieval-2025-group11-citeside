@@ -18,7 +18,6 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 
     return refs
 
-#TODO: High Score is good, low score is bad!!!!!!
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
