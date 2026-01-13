@@ -1,7 +1,0 @@
-[
-  {
-    "paper_id": "E4",
-    "premise": "Our estimate of the mean incubation period is longer than the value of 5.2 days based on 10 cases (Li et al., 2020), and 4.8 days (range: 2-11) based on 16 travellers between Wuhan and Guangdong (Liu et al., 2020).",
-    "hypothesis": "COVID-19 has an incubation period between 5 and 14 days."
-  }
-]

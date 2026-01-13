@@ -15,7 +15,6 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
             "authors": data.getAuthors(s),
             "year": data.getYear(s)
         })
-
     return refs
 
 def printFindings(replys):
@@ -39,20 +38,19 @@ def printFindings(replys):
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
-    
-    jh.loadCovid()
-    #jh.loadRefTrain()
+    print("Loading dataset...")
+    jh.loadDataset(r"herBERT\Data\Input\PompeiDataset.json")
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
         full_tree.addNode(node)
 
+    print("Building Reference Tree...")
     for node in jh.getIds():
         outgoing_refs = jh.getOutgoingRefs(node)
         for ref in outgoing_refs:
             if ref in jh.getIds():
                 full_tree.addEdge(node, ref)
 
-    #full_tree.plotTree()
 
     # Validate usages
     uv = UsageValidator()
@@ -62,10 +60,10 @@ def run(argument: str, paper_id: str):
     search_queue.append((argument, paper_id))
     visited = set()
     replys = []
-
+    print("Starting validating...")
     while search_queue:
         argument, paper_id = search_queue.popleft()
-
+        print("Validating Paper:", {paper_id})
         uv_reply = uv.run(argument, jh.getFullText(paper_id), getSuccessorAuthorAndYear(full_tree, jh, paper_id))
         if not uv_reply:
             continue
@@ -95,7 +93,7 @@ def run(argument: str, paper_id: str):
 
 
 if __name__ == "__main__":
-    argument_with_refs = "COVID-19 has a mean incubation period between 5 and 14 days."
-    paper_id_with_refs = "0001"
+    argument_with_refs = "Multilingual sentence models can achieve better results with a transformer architecture"
+    paper_id_with_refs = "2020.acl-demos.12"
     run(argument_with_refs, paper_id_with_refs)
 

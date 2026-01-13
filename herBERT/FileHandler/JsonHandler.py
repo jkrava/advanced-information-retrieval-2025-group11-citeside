@@ -49,6 +49,15 @@ class JsonHandler:
         path = self.getInputPath() / "PompeiDataset.json"
         self.load(path)
 
+    def loadDataset(self, path: str = None):
+        if(path is None):
+            self.loadCovid()
+        else:
+            full_path = self.getInputPath() / path
+            if not Path(full_path).exists():
+                full_path = Path(path)
+            self.load(full_path)
+
     def loadCovid(self):
         path = self.getInputPath() / "CovidDataset.json"
         self.load(path)

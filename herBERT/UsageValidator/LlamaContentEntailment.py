@@ -41,23 +41,20 @@ class LlamaContentEntailment:
 
     def build_prompt(self, premise: str, argument: str) -> str:
         return f"""
-            You are a scientific reasoning system performing natural language inference.
-            Determine whether the ARGUMENT is supported or contradicted by the provided TEXT.
-            Use SUPPORTS when the ARGUMENT is supported by the TEXT.
-            Use CONTRADICTS when the ARGUMENT is contradicted by the TEXT.
+            You are a scientific natural language inference system.
+            Decide whether the ARGUMENT is supported or contradicted by the TEXT.
 
-            Rules that you MUST follow:
-            - Use SUPPORTS if the TEXT provides clear and direct evidence that the ARGUMENT is true.
+            Default to SUPPORTS or CONTRADICTS.
+            Use UNKNOWN only if the TEXT is completely unrelated to the ARGUMENT
+            or contains no information relevant to evaluating it.
 
-            - Use UNKNOWN ONLY if the TEXT is completely unrelated to the ARGUMENT, OR the TEXT lacks any information that could reasonably support or contradict the ARGUMENT.
-
-            - If the TEXT provides partial, indirect, or probabilistic evidence, you MUST still choose SUPPORTS or CONTRADICTS based on the strongest reasonable interpretation.
-
-            - If the TEXT provides statistical estimates (means, ranges, percentiles) that are consistent with the ARGUMENT’s claimed range, this counts as SUPPORTS.
-
-            - If the TEXT reports values or ranges that fall entirely within the range stated in the ARGUMENT, treat this as SUPPORTS.
-
-            UNKNOWN is only valid if no logical comparison is possible.
+            Important rules:
+            - Indirect, partial, or probabilistic evidence still counts.
+            - Statistical evidence (means, ranges, percentiles) that is consistent
+            with the ARGUMENT counts as SUPPORTS.
+            - If reported values or ranges fall mostly or substantially within
+            the ARGUMENT’s claimed range, this is SUPPORTS.
+            - Minor deviations outside the stated range do NOT count as contradiction.
 
             ARGUMENT:
             "{argument}"
