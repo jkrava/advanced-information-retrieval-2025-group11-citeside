@@ -181,7 +181,7 @@ class ReferenceTreeBuilder:
         sm.set_array(np.linspace(0.0, 1.0, 256))  # non-empty array for the colorbar
         cb = plt.colorbar(sm, ax=plt.gca(), orientation="horizontal", fraction=0.05, pad=0.04)
         cb.set_ticks([0.0, 0.5, 1.0])
-        cb.set_ticklabels(["0 (red) critical", "1 (green) non critical"])
+        cb.set_ticklabels(["0 (red) critical", "0,5", "1 (green) non critical"])
         cb.set_label("critical index")
 
         blue_color = self.rgbNorm(self.rgbForWeight(-1.0))
