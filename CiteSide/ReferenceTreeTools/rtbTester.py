@@ -1,7 +1,7 @@
 import os
 import random
 
-from herBERT.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
+from CiteSide.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
 
 NUMBER_NODES = 20
 EDGE_FREQUENCY = 1/4

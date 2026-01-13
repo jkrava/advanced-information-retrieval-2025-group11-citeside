@@ -2,8 +2,8 @@
 [
   {
     "paper_id" : "E1",
-    "premise" :  "The study provides empirical evidence to back reports on a familial cluster where five family members developed symptoms of COVID-19 7 to 14 days after exposure (Chan et al., 2020), and fits within the range for the incubation period of 7 to 14 days assumed by the WHO and of 8 to 12 days assumed by the ECDC (Anon, 2020).",
-    "hypothesis" : "COVID-19 has an incubation period of approximately 7-14 days.",
+    "premise" :  "Our estimate of the mean incubation period is longer than the value of 52 days based on 10 cases (Li et al., 2020), and 48 days based on 16 travellers between Wuhan and Guangdong (Liu et al., 2020).",
+    "hypothesis" : "COVID-19 has a mean incubation period between 4 and 14 days.",
     "label": "True"
   },
   {
@@ -66,5 +66,5 @@
     "hypothesis": "Word embeddings are never used for capturing word semantics similarity.",
     "label": "False"
   }
-  
+
 ]

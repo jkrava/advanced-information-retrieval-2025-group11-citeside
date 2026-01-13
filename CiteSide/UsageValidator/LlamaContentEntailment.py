@@ -1,4 +1,4 @@
-from herBERT.FileHandler.JsonHandler import JsonHandler
+from CiteSide.FileHandler.JsonHandler import JsonHandler
 import math
 from typing import Dict
 from llama_cpp import Llama
@@ -129,7 +129,7 @@ class LlamaContentEntailment:
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData("EntailmentDatacopy2.json")
+    jh.loadEntailmentData("EntailmentData.json")
     e_ids = jh.getIds()
     results = []
 

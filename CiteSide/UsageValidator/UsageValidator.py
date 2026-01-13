@@ -1,7 +1,7 @@
-from herBERT.UsageValidator.LlamaContentEntailment import LlamaContentEntailment
-from herBERT.UsageValidator.SnippetCollector import SnippetCollector
-from herBERT.UsageValidator.ReferenceLinker import ReferenceLinker
-from herBERT.ReferenceTreeTools.ScoreCombiner import ScoreCombiner
+from CiteSide.UsageValidator.LlamaContentEntailment import LlamaContentEntailment
+from CiteSide.UsageValidator.SnippetCollector import SnippetCollector
+from CiteSide.UsageValidator.ReferenceLinker import ReferenceLinker
+from CiteSide.ReferenceTreeTools.ScoreCombiner import ScoreCombiner
 
 class UsageValidator:
     def __init__(self):

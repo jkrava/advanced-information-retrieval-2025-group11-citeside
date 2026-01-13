@@ -1,6 +1,6 @@
 from warnings import deprecated
 
-from herBERT.FileHandler.JsonHandler import JsonHandler
+from CiteSide.FileHandler.JsonHandler import JsonHandler
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 import torch.nn.functional as F

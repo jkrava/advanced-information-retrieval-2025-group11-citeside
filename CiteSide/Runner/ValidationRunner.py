@@ -1,6 +1,6 @@
-from herBERT.FileHandler.JsonHandler import JsonHandler
-from herBERT.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
-from herBERT.UsageValidator.UsageValidator import UsageValidator
+from CiteSide.FileHandler.JsonHandler import JsonHandler
+from CiteSide.ReferenceTreeTools.ReferenceTreeBuilder import ReferenceTreeBuilder
+from CiteSide.UsageValidator.UsageValidator import UsageValidator
 from collections import deque
 
 def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, paper_id: str):
@@ -31,7 +31,7 @@ def printFindings(replys):
     samples = [(-1.0, " (blue) unknown index"), (0.0, " (red) critical"), (1.0, " (green) non critical")]
     legend_parts = []
     for val, label in samples:
-        r, g, b = rtb.rgbForCrawl(1, val)
+        r, g, b = rtb.rgbForWeight(1)
         block = bg_block(r, g, b)
         legend_parts.append(f"{block} {label}")
     print("  " + "   ".join(legend_parts))
@@ -106,7 +106,7 @@ def run(argument: str, paper_id: str):
 
 
 if __name__ == "__main__":
-    argument = "Covid 19 has a mean incubation period of 4 to 14 days."
+    argument = "COVID-19 has a mean incubation period between 4 and 14 days."
     paper_id = "0001"
     run(argument, paper_id)
 

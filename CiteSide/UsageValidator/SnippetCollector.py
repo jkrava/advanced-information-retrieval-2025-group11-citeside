@@ -1,4 +1,4 @@
-from herBERT.FileHandler.JsonHandler import JsonHandler
+from CiteSide.FileHandler.JsonHandler import JsonHandler
 from sentence_transformers import SentenceTransformer, util
 import nltk
 from typing import List, Dict

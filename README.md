@@ -41,17 +41,17 @@ pip install -r requirements.txt
 ### Running experiments
 From the project root execute the ValidationRunner. 
 ```bash
-python -m herBERT.Runner.ValidationRunner
+python -m CiteSide.Runner.ValidationRunner
 ```
 This will analyze the preconfigured argument and the starting paper for the corresponding dataset. The whole process will take a couple of minutes.
 
 ### Configure own experiments
 
-To change the Dataset add the location of your custom dataset to the `loadDataset(Path/to/custom/Dataset)` function in [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L55). (check [Dataset](#dataset) for the correct format of the data) 
+To change the Dataset add the location of your custom dataset to the `loadDataset(Path/to/custom/Dataset)` function in [ValidationRunner](/CiteSide/Runner/ValidationRunner.py#L55). (check [Dataset](#dataset) for the correct format of the data) 
 
-To run the experiment with a custom argument change the `argument = "My custom argument"` parameter in the main function of the [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L109)
+To run the experiment with a custom argument change the `argument = "My custom argument"` parameter in the main function of the [ValidationRunner](/CiteSide/Runner/ValidationRunner.py#L109)
 
-To change the starting paper adapt the `paper_id = "otherID"` parameter in the main function of the [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L110)
+To change the starting paper adapt the `paper_id = "otherID"` parameter in the main function of the [ValidationRunner](/CiteSide/Runner/ValidationRunner.py#L110)
 
 ## Dataset
 

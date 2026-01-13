@@ -1,0 +1,22 @@
+# Core scientific
+numpy>=1.23
+
+# Graph handling & visualization
+networkx>=3.0
+matplotlib>=3.7
+
+# NLP utilities
+nltk>=3.8
+sentence-transformers>=2.2.2
+transformers>=4.35
+torch>=2.0
+
+# Similarity / embeddings
+scikit-learn>=1.3
+
+# LLM inference (local)
+llama-cpp-python>=0.2.20 # your machine must have a C/C++ toolchain
+
+# PDF / XML preprocessing (InputDataConstruction)
+lxml>=4.9
+grobid-client>=0.8.0

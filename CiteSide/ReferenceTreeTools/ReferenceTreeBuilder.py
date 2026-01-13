@@ -6,7 +6,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from typing import List, Optional
 from collections import deque
-from herBERT.ReferenceTreeTools.ScoreCombiner import ScoreCombiner
+from CiteSide.ReferenceTreeTools.ScoreCombiner import ScoreCombiner
 
 class ReferenceTreeBuilder:
     def __init__(self):
