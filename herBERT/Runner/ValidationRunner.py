@@ -23,7 +23,7 @@ def run(argument: str, paper_id: str):
     jh = JsonHandler()
     
     jh.loadCovid()
-
+    #jh.loadRefTrain()
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
         full_tree.addNode(node)
@@ -62,6 +62,7 @@ def run(argument: str, paper_id: str):
             searched_tree.addNode(paper_id_reply)
             searched_tree.addEdge(paper_id, paper_id_reply)
             searched_tree.changeWeightOfEdge(paper_id, paper_id_reply, crit_index)
+    
 
     print("Found Snippets")
     for reply in replys:
@@ -71,7 +72,7 @@ def run(argument: str, paper_id: str):
 
 
 if __name__ == "__main__":
-    argument_with_refs = "COVID-19 has an incubation period between 5 and 14 days."
+    argument_with_refs = "COVID-19 has a mean incubation period between 5 and 14 days."
     paper_id_with_refs = "0001"
     run(argument_with_refs, paper_id_with_refs)
 

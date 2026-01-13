@@ -1,3 +1,8 @@
+#------------------------------------------------------------------------
+# THIS FILE WAS CREATED BY CHATGPT AND MANUALLY EDITED
+# OpenAI. (2025) ChatGPT 5.2. https://openai.com/chatgpt
+#------------------------------------------------------------------------
+
 """
 grobid_to_minjson.py
 
@@ -11,6 +16,10 @@ grobid_to_minjson.py
 
 Assumes GROBID server is running, e.g.
   docker run --rm --init -p 8070:8070 grobid/grobid:0.8.2-crf
+
+Call file as script (change paths to correct locations): 
+  python ApplicationDataPreprocessor.py --input InputFolderOfPDFs --output OutputFolderForJSON --processed-pdf-dir LocationForProcessedPDFs
+
 """
 
 from __future__ import annotations

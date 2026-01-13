@@ -36,6 +36,7 @@ class UsageValidator:
         for s in snippets:
             out = self.content_entailment.validate(argument, s["chunk"])
             s['valid'] = out['label']
+            print("argument:", argument, "output:", out)
             entailment_prob = out['confidence']
             combined_prob = out['confidence'] * s["snippet_score"]
             if out['label'] == "SUPPORTS":
@@ -44,8 +45,8 @@ class UsageValidator:
                 entailment_prob = 1.0 - out['confidence']
                 combined_prob = 1.0 - combined_prob
             elif out['label'] == "UNKNOWN":
-                entailment_prob = -1.0
-                combined_prob = entailment_prob * -1.0
+                entailment_prob = entailment_prob * -1.0
+                combined_prob = combined_prob * -1.0
 
             s["entailment_prob"] = entailment_prob
             s["overall_score"] = combined_prob

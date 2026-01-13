@@ -46,7 +46,7 @@ class JsonHandler:
         return None
 
     def loadRefTrain(self):
-        path = self.getInputPath() / "acl_merged_dataset.json"
+        path = self.getInputPath() / "PompeiDataset.json"
         self.load(path)
 
     def loadCovid(self):

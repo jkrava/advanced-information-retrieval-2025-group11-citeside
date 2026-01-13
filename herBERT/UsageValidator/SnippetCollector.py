@@ -97,9 +97,9 @@ class SnippetCollector:
 if __name__ == "__main__":
     extractor = SnippetCollector()
     jh = JsonHandler()
-    jh.loadRefTrain()
-    argument = "Due to NLPs ease and effectiveness, this paradigm has already been used to deploy large, fine-tuned models across a variety of real-world applications (Nayak (2019) ; Zhu (2019) ; Qadrud-Din (2019) inter alia)."
-    paper_text = jh.getFullText("2020.wmt-1.91")
+    jh.loadCovid()
+    argument = "Covid-19 came from dogs"
+    paper_text = jh.getFullText("0001")
 
     matches = extractor.match_argument(paper_text, argument)
     for m in matches:

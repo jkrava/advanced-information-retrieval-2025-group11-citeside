@@ -17,7 +17,8 @@ class LlamaContentEntailment:
             n_ctx=32768,
             n_threads=8,
             n_gpu_layers=35,
-            logits_all=True
+            logits_all=True,
+            verbose=False,
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
@@ -40,23 +41,37 @@ class LlamaContentEntailment:
 
     def build_prompt(self, premise: str, argument: str) -> str:
         return f"""
-            You are a scientific reasoning system.
-            
-            Determine whether the text SUPPORTS, CONTRADICTS,
-            or does NOT provide enough information about the argument.
+            You are a scientific reasoning system performing natural language inference.
+            Determine whether the ARGUMENT is supported or contradicted by the provided TEXT.
+            Use SUPPORTS when the ARGUMENT is supported by the TEXT.
+            Use CONTRADICTS when the ARGUMENT is contradicted by the TEXT.
 
-            Argument:
+            Rules that you MUST follow:
+            - Use SUPPORTS if the TEXT provides clear and direct evidence that the ARGUMENT is true.
+
+            - Use UNKNOWN ONLY if the TEXT is completely unrelated to the ARGUMENT, OR the TEXT lacks any information that could reasonably support or contradict the ARGUMENT.
+
+            - If the TEXT provides partial, indirect, or probabilistic evidence, you MUST still choose SUPPORTS or CONTRADICTS based on the strongest reasonable interpretation.
+
+            - If the TEXT provides statistical estimates (means, ranges, percentiles) that are consistent with the ARGUMENT’s claimed range, this counts as SUPPORTS.
+
+            - If the TEXT reports values or ranges that fall entirely within the range stated in the ARGUMENT, treat this as SUPPORTS.
+
+            UNKNOWN is only valid if no logical comparison is possible.
+
+            ARGUMENT:
             "{argument}"
-            
-            Text:
+
+            TEXT:
             "{premise}"
-            
+
             Answer with exactly one of:
             SUPPORTS
             CONTRADICTS
             UNKNOWN
-            
+
             Answer:
+
             """.strip()
 
     def score_labels(self, prompt: str) -> Dict[str, float]:
@@ -117,7 +132,7 @@ class LlamaContentEntailment:
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData("EntailmentDatacopy.json")
+    jh.loadEntailmentData("EntailmentDatacopy2.json")
     e_ids = jh.getIds()
     results = []
 
