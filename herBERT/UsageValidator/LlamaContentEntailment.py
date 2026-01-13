@@ -17,7 +17,8 @@ class LlamaContentEntailment:
             n_ctx=32768,
             n_threads=8,
             n_gpu_layers=35,
-            logits_all=True
+            logits_all=True,
+            #verbose=False,
         )
 
     def validate(self, premise: str, argument: str) -> Dict:

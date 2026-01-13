@@ -30,7 +30,7 @@ class UsageValidator:
             s["linked_ref"] = linked_ref
 
 
-        snippets = [s for s in snippets if s["linked_ref"] is not None]
+        #snippets = [s for s in snippets if s["linked_ref"] is not None]
 
         #Validate Snippet Usage
         for s in snippets:
@@ -44,19 +44,18 @@ class UsageValidator:
                 entailment_prob = 1.0 - out['confidence']
                 combined_prob = 1.0 - combined_prob
             elif out['label'] == "UNKNOWN":
-                entailment_prob = -1.0
-                combined_prob = entailment_prob * -1.0
+                entailment_prob = entailment_prob * -1.0
+                combined_prob = combined_prob * -1.0
 
             s["entailment_prob"] = entailment_prob
             s["overall_score"] = combined_prob
 
         reply = []
         for s in snippets:
-            if s["linked_ref"]:
-                reply.append({
-                    "argument": s["chunk"],
-                    "paper_id": s["linked_ref"],
-                    "crit_index": s["overall_score"]
+            reply.append({
+                "argument": s["chunk"],
+                "paper_id": s["linked_ref"],
+                "crit_index": s["overall_score"]
             })
 
         if print_logs:
