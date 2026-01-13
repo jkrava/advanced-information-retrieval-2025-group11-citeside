@@ -33,7 +33,7 @@ Run `requirements.txt`
 pip install -r requirements.txt
 ```
 
-[Download](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf) the necessary Llama Model (mistral-7b-instruct-v0.2.Q5_K_M) from [Huggingface](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf) and add the `.gguf` file to the [UsageValidator](herBERT\UsageValidator) folder. 
+[Download](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf) the necessary Llama Model (mistral-7b-instruct-v0.2.Q5_K_M) from [Huggingface](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf) and add the `.gguf` file to the [UsageValidator](CiteSide\UsageValidator) folder. 
 
 ### Running experiments
 From the project root execute the ValidationRunner. 
@@ -53,7 +53,7 @@ To change the starting paper adapt the `paper_id = "otherID"` parameter in the m
 ## Dataset
 
 The dataset used for the experiments is a custom dataset that was specifically designed for our proof-of-concept. It contains 12 publicly available scientific papers regarding the topic of COVID-19.
-It is located in the [Data\Input](herBERT\Data\Input\CovidDataset.json) folder.
+It is located in the [Data\Input](CiteSide\Data\Input) folder.
 
 The papers were downloaded as PDFs, processed with [GROBID](https://github.com/kermitt2/grobid-client-python) and parsed into a `json` file.
 
