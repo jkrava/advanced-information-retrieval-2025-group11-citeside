@@ -49,7 +49,7 @@ This will analyze the preconfigured argument and the starting paper for the corr
 
 To change the Dataset add the location of your custom dataset to the `loadDataset(Path/to/custom/Dataset)` function in [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L42). (check [Dataset](#dataset) for the correct format of the data) 
 
-To run the experiment with a custom argument change the the `argument_with_refs = "My custom argument"` parameter in the main function of the [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L96)
+To run the experiment with a custom argument change the `argument_with_refs = "My custom argument"` parameter in the main function of the [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L96)
 
 To change the starting paper adapt the `paper_id_with_refs = "otherID"` parameter in the main function of the [ValidationRunner](/herBERT/Runner/ValidationRunner.py#L97)
 
