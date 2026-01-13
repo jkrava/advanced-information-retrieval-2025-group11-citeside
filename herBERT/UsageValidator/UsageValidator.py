@@ -53,7 +53,7 @@ class UsageValidator:
         reply = []
         for s in snippets:
             reply.append({
-                "argument": s["chunk"],
+                "snippet": s["chunk"],
                 "paper_id": s["linked_ref"],
                 "crit_index": s["overall_score"]
             })

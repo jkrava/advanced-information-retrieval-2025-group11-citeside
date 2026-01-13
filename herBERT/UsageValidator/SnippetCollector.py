@@ -18,7 +18,7 @@ class SnippetCollector:
         # default stride creates overlap; set to 1 for strong overlap or equal to chunk_size for no overlap
         self.stride = stride if stride is not None else max(1, self.chunk_size - 1)
 
-    def _chunk_sentences(self, text: str) -> List[Dict]:
+    def chunk_sentences(self, text: str):
         sents = nltk.sent_tokenize(text)
         if not sents:
             return []
@@ -45,7 +45,7 @@ class SnippetCollector:
         top_k: int = 5,
         min_score: float = 0.45
     ) -> List[Dict]:
-        chunks = self._chunk_sentences(text)
+        chunks = self.chunk_sentences(text)
         if not chunks:
             return []
 

@@ -21,8 +21,21 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 def printFindings(replys):
     def fg_escape(r: int, g: int, b: int):
         return f"\x1b[38;2;{r};{g};{b}m"
+
+    def bg_block(r: int, g: int, b: int):
+        return f"\x1b[48;2;{r};{g};{b}m  {reset}"
+
     reset = "\x1b[0m"
     rtb = ReferenceTreeBuilder()
+
+    print("\nLegend (color = critical index):")
+    samples = [(-1.0, " (blue) unknown index"), (0.0, " (red) critical"), (1.0, " (green) non critical")]
+    legend_parts = []
+    for val, label in samples:
+        r, g, b = rtb.rgbForCrawl(1, val)
+        block = bg_block(r, g, b)
+        legend_parts.append(f"{block} {label}")
+    print("  " + "   ".join(legend_parts))
 
     current_source = None
     for reply in replys:
