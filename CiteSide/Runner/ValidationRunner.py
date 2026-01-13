@@ -31,7 +31,7 @@ def printFindings(replys):
     samples = [(-1.0, " (blue) unknown index"), (0.0, " (red) critical"), (1.0, " (green) non critical")]
     legend_parts = []
     for val, label in samples:
-        r, g, b = rtb.rgbForWeight(1)
+        r, g, b = rtb.rgbForWeight(val)
         block = bg_block(r, g, b)
         legend_parts.append(f"{block} {label}")
     print("  " + "   ".join(legend_parts))
