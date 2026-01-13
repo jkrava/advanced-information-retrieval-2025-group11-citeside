@@ -1,5 +1,4 @@
 import json
-from warnings import deprecated
 
 import networkx as nx
 import numpy as np
@@ -194,7 +193,7 @@ class ReferenceTreeBuilder:
         plt.show()
 
 ### IO ###
-    @deprecated("Unused (only for legacy expiriments)")
+
     def build(self):
         meta = {"crawl_root": self._crawl_root, "crawl_depth": self._crawl_depth, "reverse_depth": self._reverse_depth, "comb_indexed": self._comb_indexed}
         nodes = {n: dict(d) for n, d in self._tree.nodes(data=True)}
@@ -204,7 +203,7 @@ class ReferenceTreeBuilder:
         ]
         return {"meta": meta, "nodes": nodes, "edges": edges}
 
-    @deprecated("Unused (only for legacy expiriments)")
+
     def store(self, path: str):
         with open(path, "w", encoding="utf-8") as f:
             json.dump(self.build(), f, indent=2)
@@ -232,7 +231,7 @@ class ReferenceTreeBuilder:
         return gb
 
 ### HELPERS ###
-    @deprecated("Unused (only for legacy expiriments)")
+
     def buildCombCritIndex(self, mode: str = ScoreCombiner.MULTIPLICATION):
         if self._comb_indexed:
             return
@@ -263,7 +262,7 @@ class ReferenceTreeBuilder:
             self._tree[u][v]['base_weight'] = edge_weight
             self._tree[u][v]['weight'] = combined
 
-    @deprecated("Unused (only for legacy expiriments)")
+
     def buildCrawlTree(self, start_node: str, max_depth: int, reverse_depth: Optional[int] = None):
         if start_node not in self._tree:
             raise ValueError(f"Start node {start_node} does not exist in the graph.")
@@ -317,7 +316,7 @@ class ReferenceTreeBuilder:
         nx.set_node_attributes(tree._tree, depths, name="depth")
         return tree
 
-    @deprecated("Unused (only for legacy expiriments)")
+
     def checkIfCircular(self, source_id: str, target_id: str):
         if source_id == target_id or nx.has_path(self._tree, target_id, source_id):
             return True
@@ -333,7 +332,7 @@ class ReferenceTreeBuilder:
         #this interpolates the gradient from one color to another
         return int(round(a + (b - a) * t))
 
-    @deprecated("Unused (only for legacy expiriments)")
+
     def rgbForCrawl(self, depth: int, w: int):
         w_h = float(w)/ float(abs(depth))
         # -1 -> blue (0,0,255)

@@ -34,7 +34,6 @@ class ReferenceLinker:
                     return ref["paper_id"]
         return None
 
-
 if __name__ == "__main__":
     rl = ReferenceLinker()
     snippet = "The SDP graph banks were originally released through the Linguistic Data Consortium (as catalogue entry LDC 2016T10); they comprise four distinct bi-lexical semantic dependency frameworks, from which the MRP 2019 shared task selects two (a) DELPH-IN MRS Bi-Lexical Dependencies (DM) and (b) Prague Semantic Dependencies (PSD). 1 1 Note, however, that the parsing problem for these frameworks is harder in the current shared task than in the ealier DELPH-IN MRS Bi-Lexical Dependencies The DM bi-lexical dependencies (Ivanova et al., 2012) originally derive from the underspecified logical forms computed by the English Resource Grammar (Flickinger et al., 2017; Copestake et al., 2005) . These logical forms are not in and of themselves semantic graphs (in the sense of §2 above) and are often refered to as English Resource Semantics (ERS; Bender et al., 2015) ."

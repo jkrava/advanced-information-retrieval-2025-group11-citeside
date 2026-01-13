@@ -18,6 +18,24 @@ def getSuccessorAuthorAndYear(tree: ReferenceTreeBuilder, data: JsonHandler, pap
 
     return refs
 
+def printFindings(replys):
+    def fg_escape(r: int, g: int, b: int):
+        return f"\x1b[38;2;{r};{g};{b}m"
+    reset = "\x1b[0m"
+    rtb = ReferenceTreeBuilder()
+
+    current_source = None
+    for reply in replys:
+        source_paper_id = reply["source_paper_id"]
+        if source_paper_id != current_source:
+            current_source = source_paper_id
+            print(f"\nFound within Paper: {source_paper_id}")
+        weight = reply["crit_index"]
+        r, g, b = rtb.rgbForWeight(weight)
+        color = fg_escape(r, g, b)
+
+        print(f"{color}{reply}{reset}")
+
 def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
@@ -44,6 +62,7 @@ def run(argument: str, paper_id: str):
     search_queue.append((argument, paper_id))
     visited = set()
     replys = []
+
     while search_queue:
         argument, paper_id = search_queue.popleft()
 
@@ -53,6 +72,8 @@ def run(argument: str, paper_id: str):
         for reply in uv_reply:
             reply["source_paper_id"] = paper_id
             replys.append(reply)
+            if (not reply["paper_id"]):
+                continue
             argument_reply = argument
             paper_id_reply = reply["paper_id"]
             crit_index = reply["crit_index"]
@@ -67,6 +88,8 @@ def run(argument: str, paper_id: str):
     print("Found Snippets")
     for reply in replys:
         print(reply)
+
+    printFindings(replys)
 
     searched_tree.plotTree()
 

@@ -26,7 +26,7 @@ E_ID: E8 Label: neutral Entailment prob: 0.17947818338871002 Equivalent: False
 E_ID: E9 Label: neutral Entailment prob: 0.2224508672952652 Equivalent: False
 
 """
-@deprecated("Unused (only for legacy expiriments)")
+
 class ContentEntailment:
     _model_name = "roberta-large-mnli"
     _tokenizer = None
