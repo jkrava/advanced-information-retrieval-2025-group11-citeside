@@ -52,7 +52,7 @@ def run(argument: str, paper_id: str):
     # Loading the Data
     jh = JsonHandler()
     print("Loading dataset...")
-    jh.loadDataset(r"herBERT\Data\Input\PompeiDataset.json")
+    jh.loadDataset()
     full_tree = ReferenceTreeBuilder()
     for node in jh.getIds():
         full_tree.addNode(node)
@@ -106,7 +106,7 @@ def run(argument: str, paper_id: str):
 
 
 if __name__ == "__main__":
-    argument_with_refs = "Multilingual sentence models can achieve better results with a transformer architecture"
-    paper_id_with_refs = "2020.acl-demos.12"
-    run(argument_with_refs, paper_id_with_refs)
+    argument = "Covid 19 has a mean incubation period of 4 to 14 days."
+    paper_id = "0001"
+    run(argument, paper_id)
 
