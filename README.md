@@ -53,7 +53,7 @@ To change the starting paper adapt the `paper_id = "otherID"` parameter in the m
 ## Dataset
 
 The dataset used for the experiments is a custom dataset that was specifically designed for our proof-of-concept. It contains 12 publicly available scientific papers regarding the topic of COVID-19.
-It is located in the [Data\Input](CiteSide\Data\Input) folder.
+It is located in the [Data\Input](CiteSide/Data/Input) folder.
 
 The papers were downloaded as PDFs, processed with [GROBID](https://github.com/kermitt2/grobid-client-python) and parsed into a `json` file.
 
