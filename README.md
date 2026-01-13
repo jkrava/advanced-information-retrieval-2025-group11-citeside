@@ -9,13 +9,10 @@
 
 In this project we try to answer the following research question:
 
-> Can an automatically constructed, weighted citation
-graph provide meaningful information about how well sci-
-entific claims are supported, and help identify citation
-weaknesses or circular referencing patterns?
+> Can a weighted citation graph - which is constructed by analyzing if and how an argument is argued or critically engaged with - provide meaningful information about how well scientific claims are supported, and help identify citation weaknesses?
 
 We analyze whether citations with higher system-assigned criticality align
-with citation weaknesses identified by human annotators, and whether the resulting graph structure helps identify circular or weakly supported referencing patterns.
+with citation weaknesses identified by human annotators, and whether the resulting graph structure helps identify weakly supported referencing patterns.
 
 ## Project Structure & Experimental Setup
 
