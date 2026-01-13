@@ -18,7 +18,7 @@ class LlamaContentEntailment:
             n_threads=8,
             n_gpu_layers=35,
             logits_all=True,
-            #verbose=False,
+            verbose=False,
         )
 
     def validate(self, premise: str, argument: str) -> Dict:
@@ -41,23 +41,34 @@ class LlamaContentEntailment:
 
     def build_prompt(self, premise: str, argument: str) -> str:
         return f"""
-            You are a scientific reasoning system.
-            
-            Determine whether the text SUPPORTS, CONTRADICTS,
-            or does NOT provide enough information about the argument.
+            You are a scientific natural language inference system.
+            Decide whether the ARGUMENT is supported or contradicted by the TEXT.
 
-            Argument:
+            Default to SUPPORTS or CONTRADICTS.
+            Use UNKNOWN only if the TEXT is completely unrelated to the ARGUMENT
+            or contains no information relevant to evaluating it.
+
+            Important rules:
+            - Indirect, partial, or probabilistic evidence still counts.
+            - Statistical evidence (means, ranges, percentiles) that is consistent
+            with the ARGUMENT counts as SUPPORTS.
+            - If reported values or ranges fall mostly or substantially within
+            the ARGUMENT’s claimed range, this is SUPPORTS.
+            - Minor deviations outside the stated range do NOT count as contradiction.
+
+            ARGUMENT:
             "{argument}"
-            
-            Text:
+
+            TEXT:
             "{premise}"
-            
+
             Answer with exactly one of:
             SUPPORTS
             CONTRADICTS
             UNKNOWN
-            
+
             Answer:
+
             """.strip()
 
     def score_labels(self, prompt: str) -> Dict[str, float]:
@@ -118,7 +129,7 @@ class LlamaContentEntailment:
 if __name__ == "__main__":
     jh = JsonHandler()
     lce = LlamaContentEntailment()
-    jh.loadEntailmentData("EntailmentDatacopy.json")
+    jh.loadEntailmentData("EntailmentDatacopy2.json")
     e_ids = jh.getIds()
     results = []
 
